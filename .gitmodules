@@ -1,0 +1,3 @@
+[submodule "themes/theme"]
+	path = themes/theme
+	url = git@github.com:ihavethatonvinyl/theme
