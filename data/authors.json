@@ -1,6 +1,5 @@
-[
-  {
-    "id": "mcatalano",
-    "name": "Michele Catalano"
-  }
-]
+{
+	"mcatalano": {
+		"name": "Michele Catalano"
+	}
+}
