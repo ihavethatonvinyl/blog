@@ -1,3 +1,15 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
+theme = 'ihavethatonvinyl'
+
+[module]
+  [module.hugoVersion]
+    extended = false
+    min = "0.136.0"
+
+# Taxonomy terms
+[taxonomies]
+  q-and-a = "q-and-a"
+  conversation = "conversations"
+  essay = "essays"
