@@ -1,6 +1,6 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://ihavethatonvinyl.com'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'I Have That on Vinyl'
 theme = 'ihavethatonvinyl'
 
 [module]
