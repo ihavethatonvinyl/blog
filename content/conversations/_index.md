@@ -1,4 +1,4 @@
 +++
 title = "Conversations"
 +++
-Because &lquot;Interviews&rquot; sounds so damn formal, doesn't it?
+Because &laquo;Interviews&raquo; sounds so damn formal, doesn't it?

@@ -13,3 +13,8 @@ theme = 'ihavethatonvinyl'
   q-and-a = "q-and-a"
   conversation = "conversations"
   essay = "essays"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
