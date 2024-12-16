@@ -124,8 +124,10 @@ That’s a tough call as I own a LOT of music made by Avantgarde / outsider
 artists.  If I have someone over I want to scare away, Scott Walker’s *The
 Drift* or Jandek’s *Ready For The House* typically get the job done. 
 
+---
+
 Matthew Milligan has been a professional musician since 2006, best known for his
-work with **Wheatus** (“Teenage Dirtbag”), **Mike Doughty **(Soul Coughing),
+work with **Wheatus** (“Teenage Dirtbag”), **Mike Doughty** (Soul Coughing),
 **MC Frontalot** (Nerdcore Rising), and **MC Lars** (“Download This Song”).  In
 various roles and on multiple instruments he has performed alongside Vernon Reid
 (Living Colour), Dan Wilson (Semisonic), Billy Martin (Medeski Martin & Wood),
