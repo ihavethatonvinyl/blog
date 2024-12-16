@@ -1,0 +1,6 @@
+<h2>Recent Posts</h2>
+{{ range (.Site.RegularPages.ByPublishDate.Reverse.Limit 10) }}
+<div>
+  <h3><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h3>
+</div>
+{{ end }}

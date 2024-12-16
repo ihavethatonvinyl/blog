@@ -1,0 +1,17 @@
+{{ define "main" }}
+<div id="liner-notes">{{ partial "liner-notes.html" . }}</div>
+<div id="featured">
+  {{ $collection := where .Site.RegularPages.ByPublishDate.Reverse "Params.feature" "eq" "true" }}
+  {{ if gt (len $collection) 0 }}
+    {{ $page := index $collection 0 }}
+    {{ with $page }}
+      {{ $type := .Data.Terms.First }}
+      <h2>Featured {{ $type | title }}: {{ .Title | title }}</h2>
+      {{ .Content }}
+    {{ end }}
+  {{ else }}
+    <h2>No featured articles at the moment. Check back soon!</h2>
+  {{ end }}
+</div>
+<div id="recents">{{ partial "recent.html" . }}</div>
+{{ end }}

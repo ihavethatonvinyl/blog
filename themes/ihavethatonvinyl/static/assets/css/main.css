@@ -1,0 +1,62 @@
+body {
+  color: #222;
+  line-height: 1.5;
+  margin: 1rem;
+  max-width: 768px;
+  font-family: "Source Sans 3", Arial, Helvetica, sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+}
+
+header,
+footer {
+  font-family: "American Typewriter", monospace;
+  width: 100vw;
+  text-align: center;
+}
+
+header {
+  border-bottom: 1px solid #222;
+  margin-bottom: 1rem;
+}
+
+footer {
+  border-top: 1px solid #222;
+  margin-top: 1rem;
+}
+
+a {
+  color: navy;
+  text-decoration: none;
+}
+
+h1 {
+  text-align: center;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "American Typewriter", monospace;
+  font-weight: normal;
+}
+
+main {
+  width: 100vw;
+  padding: 1vh 1vw;
+}
+
+
+#liner-notes, #recents {
+  display: inline-block;
+  width: 24vw;
+}
+
+#featured {
+  display: inline-block;
+  width: 48vw;
+  padding: 0 1vw;
+}

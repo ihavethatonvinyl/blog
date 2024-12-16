@@ -1,0 +1,11 @@
+<h2>Liner Notes</h2>
+{{ $collection := where .Site.RegularPages.ByPublishDate.Reverse "Params.author.id" "eq" "mcatalano" }}
+{{ $pages := $collection.Limit 10 }}
+<div>
+{{ range $pages }}
+  <h3><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h3>
+{{ end }}
+{{ if gt (len $collection) 10 }}
+<h3><em><a href="/liner-notes">More Liner Notes...</a></em></h3>
+{{ end }}
+</div>

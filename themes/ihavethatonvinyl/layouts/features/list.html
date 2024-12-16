@@ -1,0 +1,10 @@
+{{ define "main" }}
+<div>
+<h2>Features</h2>
+<div>
+{{ range where .Site.RegularPages.ByPublishDate.Reverse "Params.feature" "eq" "true" }}
+  <h3><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h3>
+{{ end }}
+</div>
+</div>
+{{ end }}
