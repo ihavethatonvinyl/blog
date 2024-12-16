@@ -10,5 +10,9 @@
 	"staff": {
 		"id": "staff",
 		"name": "I Have That on Vinyl"
-	}
+	},
+  "npatrin": {
+    "id": "npatrin",
+    "name": "Nate Patrin"
+  }
 }
