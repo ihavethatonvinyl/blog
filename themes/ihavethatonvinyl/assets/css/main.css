@@ -30,6 +30,10 @@ a {
   text-decoration: none;
 }
 
+a:hover {
+  text-decoration: underline;
+}
+
 h1 {
   text-align: center;
 }
@@ -61,4 +65,9 @@ main {
   vertical-align: top;
   width: 48vw;
   padding: 0 1vw;
+}
+
+#featured p>img {
+  height: 100%;
+  width: 100%;
 }

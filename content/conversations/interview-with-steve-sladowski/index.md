@@ -2,12 +2,13 @@
 title = 'Interview with Steve Sladowski'
 slug = 'interview-with-steve-sladowski'
 draft = true
+date = '2024-12-16T13:46:55Z'
 
 [params]
+  feature = 'true'
   [params.author]
-    ID = 'staff'
-    Name = 'I Have That on Vinyl'
-
+    id = 'staff'
+    name = 'I Have That on Vinyl'
 +++
 
 ### Would you like to introduce yourself?
@@ -77,7 +78,7 @@ good one.
 ### Do you have a treasured album, one that means the world to you?
 
 Yeah. I mean, I've got a few. Let me see if I can pull them out here. So I do
-have an original pressing of *Sticky Fingers *with the zipper. I bought this in
+have an original pressing of *Sticky Fingers* with the zipper. I bought this in
 New York City the first time I was there. There's still a sticker you can see
 “VG” plus originally was $20.20 US. 
 
