@@ -8,10 +8,7 @@ draft = true
     ID = 'mcatalano'
     Name = 'Michele Catalano'
 +++
-# WALK OUT TO WINTER: falling in love with - and to - aztec camera's high
-land, hard rain
-![my original 1983 copy](./unnamed.jpg)
-my original 1983 copy
+![my original 1983 copy](./unnamed.jpg "my original 1983 copy")
 
 It's snowing; thick, large flakes coming down at the rate of two inches an hour.
 Work is closed and I don't have to go anywhere until Wednesday afternoon, so I'm
