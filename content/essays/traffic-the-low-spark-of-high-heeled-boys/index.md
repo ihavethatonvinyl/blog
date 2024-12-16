@@ -12,8 +12,6 @@ date = '2024-12-16T14:25:46-0500'
     name = 'Nate Patrin'
 
 +++
-## Traffic, *The Low Spark of High Heeled Boys*
-
 *by Nate Patrin*
 
 ![img-1734377146768117000.jpg](./img-1734377146768117000.jpg)
@@ -104,7 +102,7 @@ Winwood's early radio hits -- "Dear Mr. Fantasy" and Spencer Davis Group's
 "Gimme Some Lovin'" -- into roiling jam sessions conversant with
 post-psychedelia's increasing enthusiasm for soul-jazz and Latin rock.
 
-{{ <youtube id="E2ubpNmSTAU" loading="lazy"> }}
+{{< youtube id="E2ubpNmSTAU" loading="lazy" >}}
 
 And it's that mode that makes *Low Spark* so fascinating to me. Granted, I enjoy
 all that "why punk had to happen" music from the early '70s -- self-indulgent
@@ -143,7 +141,7 @@ provenance -- "the skirt that you're wearing is way past your knees" is the sole
 detail shared.) Pretty solid stuff, a couple of strong jams and nothing that'd
 make me reposition the needle.
 
-{{ <youtube id="vDGorIWYz-A" loading="lazy"> }}
+{{< youtube id="vDGorIWYz-A" loading="lazy" >}}
 
 Yet nothing hit me quite like the title cut did. In immersing myself in this odd
 corner of a vividly rendered yet long-dated aesthetic of an older and
@@ -208,7 +206,7 @@ Fleetwood Mac, and Joni Mitchell earned. Still, you can still hear their traces
 if you search carefully enough. Sometimes you just have to let your perspective
 play tricks on you.
 
-{{ <youtube id="e00uA4gUABU" loading="lazy"> }}
+{{< youtube id="e00uA4gUABU" loading="lazy" >}}
 
 ---
 

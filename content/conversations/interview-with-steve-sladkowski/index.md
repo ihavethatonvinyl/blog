@@ -1,8 +1,17 @@
 +++
-title = 'Interview with Steve Sladowski'
-slug = 'interview-with-steve-sladowski'
+title = 'Interview with Steve Sladkowski'
+slug = 'interview-with-steve-sladkowski'
 draft = true
 date = '2024-12-16T13:46:55Z'
+
+summary = """
+![Guitarist Steve Sladkowski](/conversations/interview-with-steve-sladkowski/portrait.png "A Portrait of the Artist as a Young Man")
+
+...I was in Brighton in the UK, and there was a 100 pound original pressing of 
+*What’s the Story, Morning Glory* by Oasis. And at the time, I just couldn't justify 
+that expense, and so I passed on it. And I still think about it to this day. I just 
+paid way more than that for Oasis tickets.
+"""
 
 [params]
   feature = 'true'
