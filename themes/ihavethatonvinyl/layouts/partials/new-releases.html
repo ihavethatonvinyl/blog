@@ -7,11 +7,11 @@
 
 {{ with $essay }}
 <div>
-  <h3><a href="{{ .RelPermalink }}">FEATURED ESSAY: {{ .LinkTitle | upper }}</a></h3>
+  <h3><a href="{{ .RelPermalink }}">Featured Essay: {{ .LinkTitle }}</a></h3>
 </div>
 {{ end }}
 {{ with $qa }}
 <div>
-  <h3><a href="{{ .RelPermalink }}">{{ .LinkTitle | upper }}</a></h3>
+  <h3><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h3>
 </div>
 {{ end }}

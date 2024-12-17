@@ -14,7 +14,7 @@ date = '2024-12-16T20:19:27-0500'
 +++
 Welcome to the inaugural edition of I Have That on Vinyl.
 
-
+![A portrait of the artist as a young woman](./image1.png "A portrait of the artist as a young woman")
 
 The greatest Christmas of my life happened in 1974. I was eleven years old and
 the euphoria I felt upon receiving my very own turntable was something that
