@@ -1,24 +1,23 @@
 +++
-title = 'Interview with Steve Sladkowski'
-slug = 'interview-with-steve-sladkowski'
+title = "Pup's Steve Sladkowski"
+slug = 'pups-steve-sladkowski'
 draft = true
 date = '2024-12-16T13:46:55Z'
 
-summary = """
-![Guitarist Steve Sladkowski](/conversations/interview-with-steve-sladkowski/portrait.png "A Portrait of the Artist as a Young Man")
-
-...I was in Brighton in the UK, and there was a 100 pound original pressing of 
-*What’s the Story, Morning Glory* by Oasis. And at the time, I just couldn't justify 
-that expense, and so I passed on it. And I still think about it to this day. I just 
-paid way more than that for Oasis tickets.
-"""
 
 [params]
   feature = 'true'
+  [params.featuredImage]
+    url = '/conversations/pups-steve-sladkowski/portrait.png'
+    alt = 'Guitarist Steve Sladkowski'
   [params.author]
     id = 'staff'
     name = 'I Have That on Vinyl'
 +++
+
+Steve talks to us about his record collection and about going record shopping while on tour
+
+<!--more-->
 
 ### Would you like to introduce yourself?
 

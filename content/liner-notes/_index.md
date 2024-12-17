@@ -2,4 +2,4 @@
 title = "Liner Notes"
 type = "liner-notes"
 +++
-# Words from our shop-keeper
+# Words from our Editor and Owner

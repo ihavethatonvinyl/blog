@@ -1,0 +1,17 @@
+<h2>NEW RELEASES</h2>
+{{ $essays := where .Site.RegularPages "Type" "essays" }}
+{{ $qas := where .Site.RegularPages "Type" "q-and-a" }}
+
+{{ $essay := index $essays 0 }}
+{{ $qa := index $qas 0 }}
+
+{{ with $essay }}
+<div>
+  <h3><a href="{{ .RelPermalink }}">FEATURED ESSAY: {{ .LinkTitle | upper }}</a></h3>
+</div>
+{{ end }}
+{{ with $qa }}
+<div>
+  <h3><a href="{{ .RelPermalink }}">{{ .LinkTitle | upper }}</a></h3>
+</div>
+{{ end }}

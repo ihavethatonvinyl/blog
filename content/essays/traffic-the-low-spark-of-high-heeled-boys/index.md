@@ -1,18 +1,17 @@
 +++
-title = 'Traffic, The Low Spark of High Heeled Boys'
+title = "Nate Patrin on Traffic's \"The Low Spark of High Heeled Boys\""
 slug = 'traffic-the-low-spark-of-high-heeled-boys'
 draft = true
 date = '2024-12-16T14:25:46-0500'
 
 [params]
-  featured = 'false'
+  featured = 'true'
 
   [params.author]
     id = 'npatrin'
     name = 'Nate Patrin'
 
 +++
-*by Nate Patrin*
 
 ![img-1734377146768117000.jpg](./img-1734377146768117000.jpg)
 One of the things I miss the most about my early years of crate digging was the

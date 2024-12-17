@@ -3,9 +3,9 @@ body {
   line-height: 1.5;
   margin: 1rem;
   max-width: 768px;
-  font-family: "Source Sans 3", Arial, Helvetica, sans-serif;
+  font-family: "Montserrat", Arial, Helvetica, sans-serif;
   font-size: 16px;
-  font-weight: 400;
+  font-weight: 500;
 }
 
 header,
@@ -54,10 +54,10 @@ main {
 }
 
 
-#liner-notes, #recents {
+#liner-notes, #newreleases {
   display: inline-block;
   vertical-align: top;
-  width: 24vw;
+  width: 22vw;
 }
 
 #featured {
@@ -70,4 +70,24 @@ main {
 #featured p>img {
   height: 100%;
   width: 100%;
+}
+
+header > img {
+  width: 60vw;
+  height: auto;
+}
+
+div.featuredImage {
+  width: 100%;
+  text-align: center;
+}
+
+div.featuredImage>img {
+  width: 40%;
+  height: auto;
+  text-align: center;
+}
+
+.featureSummary {
+  font-size: 18px;
 }

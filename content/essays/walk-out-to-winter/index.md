@@ -1,5 +1,5 @@
 +++
-title = "WALK OUT TO WINTER: falling in love with - and to - aztec camera's high land, hard rain"
+title = "WALK OUT TO WINTER: falling in love with—and to—aztec camera's high land, hard rain"
 slug = 'walk-out-to-winter'
 draft = true
 

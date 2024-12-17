@@ -1,18 +1,22 @@
 {{ define "main" }}
 <div id="liner-notes">{{ partial "liner-notes.html" . }}</div>
 <div id="featured">
-  {{ $collection := where .Site.RegularPages.ByPublishDate.Reverse "Params.feature" "eq" "true" }}
+  {{ $collection := where .Site.RegularPages "Type" "conversations" }}
   {{ if gt (len $collection) 0 }}
     {{ $page := index $collection 0 }}
     {{ with $page }}
-      {{ $type := .Data.Terms.First }}
-      <h2>Featured {{ $type | title }}: {{ .Title | title }}</h2>
-      {{ .Summary }}
+      <h2>FEATURED INTERVIEW: {{ .Title | upper }}</h2>
+      {{ if .Params.featuredImage.url }}
+      <div class="featuredImage">
+      <img src="{{ $page.Params.featuredImage.url }}" alt='{{ default "Featured Image" $page.Params.featuredImage.alt }}' />
+      </div>
+      {{ end }}
+      <div class="featureSummary">{{ .Summary }}</div>
       <h4><em><a href="{{ .RelPermalink }}">Read More...</a></em></h3>
     {{ end }}
   {{ else }}
-    <h2>No featured articles at the moment. Check back soon!</h2>
+    <h2>No featured interviews at the moment. Check back soon!</h2>
   {{ end }}
 </div>
-<div id="recents">{{ partial "recent.html" . }}</div>
+<div id="newreleases">{{ partial "new-releases.html" . }}</div>
 {{ end }}

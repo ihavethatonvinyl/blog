@@ -1,5 +1,5 @@
 +++
-title = "Today's Q&A Remix is with Matthew Millgan from Wheatus"
+title = "Q&A Remix with Matthew Millgan from Wheatus"
 slug = 'matthew-millgan-remix'
 draft = true
 date = '2024-12-16T14:06:00-0500'
@@ -25,7 +25,7 @@ store carrying it and agonizing over my decision for maybe an hour until I
 decided I had to have it.  Walked up to the counter to pay, and the clerk told
 me they were having a special sale on used vinyl this weekend and it was 50% off
 the sticker price.  That may have been the happiest I’ve ever left a record
-shop. 
+shop.
 
 ### What’s the first area you head for in a record store?
 
@@ -40,7 +40,7 @@ that.
 I have a Mobile Fidelity Sound Lab test pressing of *Dark Side of the Moon* that
 I’m quite proud of. Or an original mono promo copy of *Introducing The Sonics.*
 Oh, or an original UK pressing of *Revolver* with the alternate withdrawn mix of
-"Tomorrow Never Knows."  Don’t make me pick just one. 
+"Tomorrow Never Knows."  Don’t make me pick just one.
 
 ### What one record in your collection would you be most eager to share with new friends?
 
@@ -67,8 +67,8 @@ Mago*.
 
 ### What is your greatest “score;” could be on value or just rarity or something you were looking for the longest?
 
-I spent years searching for an original pressing of Funkadelic’s *Maggot Brain*
-- one of the greatest albums of all time as far as I’m concerned.  Finally found
+I spent years searching for an original pressing of Funkadelic’s *Maggot Brain* -
+one of the greatest albums of all time as far as I’m concerned.  Finally found
 it at a record shop in Cleveland a little while back - and for a very fair price
 no less.  I’ve never grabbed an LP quicker!
 
