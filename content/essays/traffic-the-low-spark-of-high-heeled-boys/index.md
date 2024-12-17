@@ -1,7 +1,7 @@
 +++
 title = "Nate Patrin on Traffic's \"The Low Spark of High Heeled Boys\""
 slug = 'traffic-the-low-spark-of-high-heeled-boys'
-draft = true
+draft = false
 date = '2024-12-16T14:25:46-0500'
 
 [params]

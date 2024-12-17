@@ -1,7 +1,7 @@
 +++
 title = 'Letter From the Editor'
 slug = 'letter-from-the-editor'
-draft = true
+draft = false
 date = '2024-12-16T20:19:27-0500'
 
 [params]
