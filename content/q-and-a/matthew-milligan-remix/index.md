@@ -1,6 +1,6 @@
 +++
-title = "Q&A Remix with Matthew Millgan from Wheatus"
-slug = 'matthew-millgan-remix'
+title = "Q&A Remix with Matthew Milligan from Wheatus"
+slug = 'matthew-milligan-remix'
 draft = false
 date = '2024-12-16T14:06:00-0500'
 
@@ -12,8 +12,6 @@ date = '2024-12-16T14:06:00-0500'
     name = 'I Have That on Vinyl'
 
 +++
-Today's Q&A Remix is with Matthew Millgan from Wheatus
-
 ![img-1734375961641126000.png](./img-1734375961641126000.png)
 
 ### What is your most memorable vinyl buying experience?

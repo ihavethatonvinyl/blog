@@ -12,7 +12,7 @@ date = '2024-12-16T20:19:27-0500'
     name = 'Michele Catalano'
 
 +++
-Welcome to the inaugural edition of I Have That on Vinyl.
+Welcome to the inaugural edition of *I Have That on Vinyl*.
 
 ![A portrait of the artist as a young woman](./image1.png "A portrait of the artist as a young woman")
 
@@ -41,7 +41,7 @@ records for myself. I wanted to have my own collection. Alas, I was 12 and still
 dependent on others for my albums, so I satisfied myself by taking some of my
 parents’ records into my room. I listened to the Beatles and I listened to
 *Jesus Christ Superstar*, and I listened to Elvis. It’s what was available to me
-and I learned to love them all. 
+and I learned to love them all.
 
 I turned elsewhere for more music. My cousin Michael, who taught me how to
 handle records (with reverence) and whose careful explanation of The Who’s
@@ -55,16 +55,16 @@ listen to, I never looked back.
 
 I collected records through high school, though my collecting was limited by my
 budget. I waited in line for the release of some records; *Van Halen II* and *In
-Through the Out Door *at the record store in Broadway Mall come to mind. In 1983
+Through the Out Door* at the record store in Broadway Mall come to mind. In 1983
 I got a job at Record World at the busiest mall on Long Island. We got bonuses
 every month and those bonuses came in the form of records. I was consistently
 awarded the highest number of records you could get and so between that and my
-cherry picking records when they came in, the amount of albums I owned soared. 
+cherry picking records when they came in, the amount of albums I owned soared.
 
 Eventually - after my marriage, kids, divorce - I parted ways with a good
 portion of my albums due to lack of both space and money. Selling off my
 collection afforded me both things. I kept some sentimental records, but most of
-them went the way of my marriage. 
+them went the way of my marriage.
 
 In 2019, my record collection consisted of those old sentimental albums, and
 some I added from artists I loved whom I wanted to support. My then husband had
@@ -96,12 +96,11 @@ submissions and/or pitches for the site. I let everyone know I could not pay at
 this time and the submissions kept coming. I’m at 300 pitches, over 100 essays
 already written, Q&As done, and dozens of interviews, some with your favorite
 musicians. It has been an honor to listen to and read people’s vinyl journeys.
-And now I get to share them with you. 
+And now I get to share them with you.
 
 I am fascinated with how people collect, what they collect, how they view their
 collections. I want to know about the white wales and special albums. I want to
 see the hidden gems. I want to hear about the hunt. And now I am doing all that.
 Pretty neat.
 
-I hope you enjoy I Have That On Vinyl as much as I enjoy bringing it to you. 
-
+I hope you enjoy I Have That On Vinyl as much as I enjoy bringing it to you.

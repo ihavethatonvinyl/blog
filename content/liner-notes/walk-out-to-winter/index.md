@@ -1,5 +1,5 @@
 +++
-title = "WALK OUT TO WINTER: falling in love with—and to—aztec camera's high land, hard rain"
+title = "WALK OUT TO WINTER: falling in love with—and to—Aztec Camera's High Land, Hard Rain"
 slug = 'walk-out-to-winter'
 draft = false
 
@@ -8,6 +8,9 @@ draft = false
     ID = 'mcatalano'
     Name = 'Michele Catalano'
 +++
+
+*by editor Michele Catalano*
+
 ![my original 1983 copy](./unnamed.jpg "my original 1983 copy")
 
 It's snowing; thick, large flakes coming down at the rate of two inches an hour.

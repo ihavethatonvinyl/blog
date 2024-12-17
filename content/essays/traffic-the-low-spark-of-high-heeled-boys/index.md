@@ -18,7 +18,7 @@ One of the things I miss the most about my early years of crate digging was the
 thrilling feeling of displacement I felt every time I stumbled across an
 unfamiliar old secondhand LP with an unconventional sleeve. I'm not just talking
 about the artwork, but the very structure: the elaborate fold-out explosions of
-Isaac Hayes' audaciously messianic *Black Moses*or Hawkwind's psych-modernist
+Isaac Hayes' audaciously messianic *Black Moses* or Hawkwind's psych-modernist
 Barney Bubbles concoction *X In Search of Space*; the die-cut oddities like the
 octagonal Rolling Stones comp *Through the Past, Darkly (Big Hits Vol. 2)*or
 Cheech & Chong's secobarbital-shaped *Sleeping Beauty*; and in its most
@@ -91,8 +91,8 @@ tragedies.
 Itinerant guitarist Dave Mason had been a sporadic enough member of the group
 that they could technically be considered a trio-plus-one for their '60s
 come-up, but they sprawled out a bit after a decade-straddling cycle of
-disbanding and reforming. Winwood conceived of 1970's *John Barleycorn Must Die
-*as a solo record that became a Traffic reunion once he realized Wood and
+disbanding and reforming. Winwood conceived of 1970's *John Barleycorn Must Die*
+as a solo record that became a Traffic reunion once he realized Wood and
 Capaldi still made good collaborators. Then he brought on Grech, and recruited
 Gordon and Rebop to make up for Capaldi's reduced role in the band as he dealt
 with the sudden death of his infant son to SIDS. This lineup cut a live album,
