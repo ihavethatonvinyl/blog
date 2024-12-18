@@ -96,7 +96,7 @@ Winwood's early radio hits -- "Dear Mr. Fantasy" and Spencer Davis Group's
 "Gimme Some Lovin'" -- into roiling jam sessions conversant with
 post-psychedelia's increasing enthusiasm for soul-jazz and Latin rock.
 
-{{< youtube "E2ubpNmSTAU" >}}
+{{< youtube E2ubpNmSTAU >}}
 
 And it's that mode that makes *Low Spark* so fascinating to me. Granted, I enjoy
 all that "why punk had to happen" music from the early '70s -- self-indulgent
@@ -135,7 +135,7 @@ provenance -- "the skirt that you're wearing is way past your knees" is the sole
 detail shared.) Pretty solid stuff, a couple of strong jams and nothing that'd
 make me reposition the needle.
 
-{{< youtube "vDGorIWYz-A" >}}
+{{< youtube vDGorIWYz-A >}}
 
 Yet nothing hit me quite like the title cut did. In immersing myself in this odd
 corner of a vividly rendered yet long-dated aesthetic of an older and
@@ -200,7 +200,7 @@ Fleetwood Mac, and Joni Mitchell earned. Still, you can still hear their traces
 if you search carefully enough. Sometimes you just have to let your perspective
 play tricks on you.
 
-{{< youtube "e00uA4gUABU" >}}
+{{< youtube e00uA4gUABU >}}
 
 - - -
 
