@@ -1,0 +1,24 @@
+on:
+  workflow_dispatch:
+    inputs:
+      target-environment:
+        type: choice
+        description: Are you posting to staging or the live site?
+        options:
+          - staging
+          - live
+      include-drafts:
+        type: boolean
+        description: "Include Drafts?"
+      
+jobs:
+  build-site:
+    runs-on: [ihavethatonvinyl-runners]
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Build inputs
+        id: build-inputs
+        target-environment:
+        run: |
+

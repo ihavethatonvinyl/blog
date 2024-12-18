@@ -1,0 +1,66 @@
+name: "Build Hugo Site"
+description: "Build a Hugo Site with or without drafts enabled into a CNB and optionally push"
+
+inputs:
+  base-url:
+    description: The URL
+    default: "https://ihavethatonvinyl.com"
+    required: true
+  include-drafts:
+    description: If 'true' (default 'false'), include draft posts when rendering the hugo site
+    default: 'false'
+  image-name:
+    description: The name of the OCI image that will be created by the pack CLI (with tag, if necessary)
+    required: true
+  push-to-registry:
+    description: If 'true' (and credentials are set), push the image to the registry after creating
+    default: 'true'
+  registry-hostname:
+    description: The hostname hosting the registry
+  registry-username:
+    description: The registry username
+  registry-password:
+    description: The registry password
+    default: ${{ secrets.REGISTRY_PASSWORD }}
+
+runs:
+  using: composite
+  steps:
+    - name: Setup Hugo
+      uses: peaceiris/actions-hugo@v3
+      with:
+        hugo-version: '0.139.0'
+        extended: true
+    - name: Run Hugo Build
+      env:
+        BASE_URL: ${{ inputs.base-url }}
+        INCLUDE_DRAFTS: ${{ inputs.include-drafts }}
+      shell: bash
+      run: |
+        drafts=""
+        if [[ "${INCLUDE_DRAFTS}" == "true" ]]; then
+          drafts="--buildDrafts"
+        fi
+        hugo build --minify --baseURL "${BASE_URL}" ${drafts} --destination .image/public
+    - name: Install Pack CLI
+      uses: buildpacks/github-actions/setup-pack@v5.0.0
+    - name: Build Image
+      shell: bash
+      working-directory: .image
+      env:
+        IMAGE_NAME: ${{ inputs.image-name }}
+      run: |
+        pack build ${IMAGE_NAME} --buildpack paketo-buildpacks/nginx
+    - name: Log in to registry
+      uses: docker/login-action@v3
+      if: inputs.registry-username != '' && inputs.registry-password != ''
+      with:
+        registry: ${{ inputs.registry-hostname }}
+        username: ${{ inputs.registry-username }}
+        password: ${{ inputs.registry-password }}
+    - name: Push image
+      shell: bash
+      if: inputs.push-to-registry == 'true'
+      env:
+        IMAGE_NAME: ${{ inputs.image-name }}
+      run: docker push ${IMAGE_NAME}
