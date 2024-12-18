@@ -30,7 +30,7 @@ jobs:
           echo "BASE_URL=${base_url}" >> ${GITHUB_OUTPUT}
           echo "IMAGE_NAME=registry.lab.verysmart.house/images/ihavethatonvinyl:latest-${TARGET_ENV?:-staging}" >> ${GITHUB_OUTPUT}
       - name: Build Hugo Site
-        uses: .github/actions/build-hugo-image/action.yml
+        uses: ./.github/actions/build-hugo-image/
         with:
           base-url: ${{ steps.build-inputs.outputs.BASE_URL }}
           include-drafts: "${{ github.event.inputs.include-drafts }}"
