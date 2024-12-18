@@ -21,7 +21,6 @@ inputs:
     description: The registry username
   registry-password:
     description: The registry password
-    default: ${{ secrets.REGISTRY_PASSWORD }}
 
 runs:
   using: composite
