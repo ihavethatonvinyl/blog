@@ -10,9 +10,6 @@ theme = 'ihavethatonvinyl'
 
 # Taxonomy terms
 [taxonomies]
-  q-and-a = "q-and-a"
-  conversation = "conversations"
-  essay = "essays"
 
 [markup]
   [markup.goldmark]

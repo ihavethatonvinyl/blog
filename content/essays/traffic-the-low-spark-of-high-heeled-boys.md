@@ -6,14 +6,10 @@ date = '2024-12-16T14:25:46-0500'
 
 [params]
   featured = 'true'
-
-  [params.author]
-    id = 'npatrin'
-    name = 'Nate Patrin'
-
+  author = 'Nate Patrin'
 +++
 
-![img-1734377146768117000.jpg](./img-1734377146768117000.jpg)
+![img-1734377146768117000.jpg](/images/upload/img-1734377146768117000.jpg)
 One of the things I miss the most about my early years of crate digging was the
 thrilling feeling of displacement I felt every time I stumbled across an
 unfamiliar old secondhand LP with an unconventional sleeve. I'm not just talking
@@ -23,7 +19,7 @@ Barney Bubbles concoction *X In Search of Space*; the die-cut oddities like the
 octagonal Rolling Stones comp *Through the Past, Darkly (Big Hits Vol. 2)*or
 Cheech & Chong's secobarbital-shaped *Sleeping Beauty*; and in its most
 elaborate form, the futurist sci-fi puzzle box of Gil Mellé's beautifully
-unnerving experimental synthesized score to *The Andromeda Strain*. 
+unnerving experimental synthesized score to *The Andromeda Strain*.
 
 And yet it's one of the simpler examples that’s stuck with me the most – a
 design now inseparable from my relationship to the music it houses. The sleeve
@@ -35,7 +31,7 @@ disorienting way. Maybe the best gag in this design is that the artist/title
 script up top, rendered in a skinny echt-'70s mod font, is also outlined in a
 three-dimensional space that runs perpendicular to the cubic illusion yet seems
 to sit at an opposite angle to it, retreating into a background that appears
-askew from the orientation of the rest of the composition. 
+askew from the orientation of the rest of the composition.
 
 The period-popular stylization of Airbrush Surrealism is in full effect here,
 too; there's a vivid contrast between the hazy, naturalistic cloud wisps in the
@@ -63,7 +59,7 @@ self-titled is in the collection, too. And every reggae fan either owns or is
 negligent in not owning a host of legendary records Wright also designed and
 illustrated the sleeves for: Bob Marley & the Wailers' *Natty Dread*, Max Romeo
 & the Upsetters' *War in a Babylon*, Lee Perry's *Super Ape*, Junior Murvin's
-*Police and Thieves*, and Third World's* 96° In The Shade* rank among the most
+*Police and Thieves*, and Third World's *96° In The Shade* rank among the most
 notable. Throw in some choice odds and ends from other genres and scenes -- the
 Meters' classic-singles comp *Cissy Strut*, MPB great Jorge Ben's joyous
 samba-disco *Tropical*, John Martyn's artfully zooted dub fugue *One World*,
@@ -71,7 +67,7 @@ Suicide's synthrock panic attack *Suicide: Alan Vega - Martin Rev* -- and you've
 got a combination of visual ingenuity and discographic excellence that stands up
 next to contemporaries like Hipgnosis, Shusei Nagaoka, and even John Berg.
 
-![img-1734377146869591000.jpg](./img-1734377146869591000.jpg)
+![img-1734377146869591000.jpg](/images/upload/img-1734377146869591000.jpg)
 But the question remains: what does an album in a sleeve like this *sound* like,
 and what kind of band would concoct it? Flip the LP over and the photo on the
 back and you'll see an incarnation of Traffic that was drastically shaken up
@@ -86,7 +82,7 @@ followed Winwood from the burned-out husk of stalled-out supergroup Blind Faith,
 and session drummer Jim Gordon, who was in the midst of appearing on about 50
 different rock records worth owning between the mid-'60s and late-'70s before
 committing one of music's most troubling "separate the artist from the art"
-tragedies. 
+tragedies.
 
 Itinerant guitarist Dave Mason had been a sporadic enough member of the group
 that they could technically be considered a trio-plus-one for their '60s
@@ -174,7 +170,7 @@ as an early contrast to a bummer sellout arc that would later betray its own
 message, the lyrics provide this other aspect to the song's duality -- a balance
 between cynicism and hope -- that informs its odd blend of abstraction and
 to-the-point simplicity. *And you just can't escape from the sound* is the
-threat, *don't worry too much, it'll happen to you *the serene acceptance. The
+threat, *don't worry too much, it'll happen to you* the serene acceptance. The
 chorus sets a "you" (or the singer himself) up for a fall -- yet another victim
 of a capital-over-art business model that screws over musicians while "the man
 in the suit has just bought a new car / From the profit he's made on your
@@ -192,13 +188,13 @@ be.
 Sadly, it feels like the returns diminished, at least when I set out trying to
 find out where they went from here. Traffic cast off Grech and Gordon, had a
 stint where a few alumni of the Swampers bolstered their ranks, and released a
-few albums that reiterated the *Low Spark *sound to increasingly ambivalent
-effect. (*Shoot Out at the Fantasy Factory *even kept the same die cut cube
+few albums that reiterated the *Low Spark* sound to increasingly ambivalent
+effect. (*Shoot Out at the Fantasy Factory* even kept the same die cut cube
 concept for their Wright-illustrated cover, but that just made it look like a
 water-treading sequel.) Winwood battled the life-threatening abdominal condition
 peritonitis, Wood fought with substance abuse and depression, and the group
 broke up after a frustrated, ulcer-wracked Winwood walked off mid-concert during
-an October '74 show in Chicago. For the most part, even though *Low Spark *was a
+an October '74 show in Chicago. For the most part, even though *Low Spark* was a
 pretty decent-sized hit in the States, they seem to have failed to make the
 influential cross-generational music-head leap that peers like Steely Dan,
 Fleetwood Mac, and Joni Mitchell earned. Still, you can still hear their traces

@@ -2,16 +2,9 @@
 title = "WALK OUT TO WINTER: falling in love with—and to—Aztec Camera's High Land, Hard Rain"
 slug = 'walk-out-to-winter'
 draft = false
-
-[params]
-  [params.author]
-    ID = 'mcatalano'
-    Name = 'Michele Catalano'
 +++
 
-*by editor Michele Catalano*
-
-![my original 1983 copy](./unnamed.jpg "my original 1983 copy")
+![my original 1983 copy](/images/upload/unnamed.jpg "my original 1983 copy")
 
 It's snowing; thick, large flakes coming down at the rate of two inches an hour.
 Work is closed and I don't have to go anywhere until Wednesday afternoon, so I'm
@@ -92,7 +85,7 @@ says. "Get well present." My heart is pounding, my hands are sweating, my throat
 has gone dry. I still have laryngitis and I try to eke out a thank you. He
 smiles at me and I melt a little. I look at the album and recognize the cover
 from the store. It had been on the wall for a while but I never gave it a
-listen. It's Aztec Camera's *High Land, Hard Rain. *"I don't know if you've
+listen. It's Aztec Camera's *High Land, Hard Rain.* "I don't know if you've
 heard this before, but it's a favorite of mine and I think you'd really like
 it." I smile back at him. "Thanks," I whisper, and I hope he can hear the
 gratitude in it.
@@ -100,7 +93,7 @@ gratitude in it.
 It is later that afternoon. The snow has been coming down since this morning and
 a bluish hue is cast across the lawns of Long Island as the sun starts to make
 its exit. I have decided this is a good time to listen to my new album. My get
-well *gift. *I swoon a little thinking about it. He came out in the snow to give
+well *gift.* I swoon a little thinking about it. He came out in the snow to give
 this to me. Was it just kindness or something else? I drop the needle on
 "Oblivious" and I'm delighted to recognize the song. I sit back on my bed,
 headphones on, and let the album take over. My life will never be the same.
@@ -135,4 +128,3 @@ I say it out loud then, for the first time, *this is my all time favorite
 album*.
 
 I think I knew it all along.
-

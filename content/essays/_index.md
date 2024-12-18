@@ -1,4 +1,4 @@
 +++
 title = "Essays"
 +++
-Words from our favorite people.
+## Words from our favorite people
