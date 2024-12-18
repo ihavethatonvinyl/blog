@@ -19,6 +19,21 @@ jobs:
         uses: actions/checkout@v4
       - name: Build inputs
         id: build-inputs
-        target-environment:
+        env:
+          TARGET_ENV: ${{ github.event.inputs.target-environment }}
         run: |
+          base_url="https://vinyl-staging.michelecatalano.me"
+          if [[ "${TARGET_ENV}" == "live" ]]; then
+            base_url="https://ihavethatonvinyl.com"
+          fi
 
+          echo "BASE_URL=${base_url}" >> ${GITHUB_OUTPUT}
+          echo "IMAGE_NAME=registry.lab.verysmart.house/images/ihavethatonvinyl:latest-${TARGET_ENV?:-staging}" >> ${GITHUB_OUTPUT}
+      - name: Build Hugo Site
+        uses: .github/actions/build-hugo-image
+        with:
+          base-url: ${{ steps.build-inputs.outputs.BASE_URL }}
+          include-drafts: "${{ github.event.inputs.include-drafts }}"
+          image-name: ${{ steps.build-inputs.outputs.IMAGE_NAME }}
+          registry-hostname: registry.lab.verysmart.house
+          registry-username: "robot$images+gha"
