@@ -1,15 +1,16 @@
-+++
-title = "Pup's Steve Sladkowski"
-slug = 'pups-steve-sladkowski'
-draft = false
-date = '2024-12-16T13:46:55Z'
-
-[params]
-  feature = 'true'
-  image = '/images/upload/portrait.png'
-  imageAlt = 'Guitarist Steve Sladkowski'
-  imageCap = 'Guitarist Steve Sladkowki'
-+++
+---
+title: Pup's Steve Sladkowski
+slug: pups-steve-sladkowski
+date: 2024-12-16T13:46:55Z
+imageCap: test
+draft: false
+params:
+  feature: "true"
+  image: /images/upload/portrait.png
+  imageAlt: Guitarist Steve Sladkowski
+  imageCap: Guitarist Steve Sladkowki
+imageAlt: test
+---
 
 Steve talks to us about his record collection and about going record shopping while on tour
 
