@@ -8,7 +8,6 @@ params:
   author: Nate Patrin
 author: Nate Patrin
 ---
-
 ![img-1734377146768117000.jpg](/images/upload/img-1734377146768117000.jpg)
 One of the things I miss the most about my early years of crate digging was the
 thrilling feeling of displacement I felt every time I stumbled across an
@@ -97,7 +96,7 @@ Winwood's early radio hits -- "Dear Mr. Fantasy" and Spencer Davis Group's
 "Gimme Some Lovin'" -- into roiling jam sessions conversant with
 post-psychedelia's increasing enthusiasm for soul-jazz and Latin rock.
 
-{{< youtube id="E2ubpNmSTAU" loading="lazy" >}}
+{{< youtube "E2ubpNmSTAU" >}}
 
 And it's that mode that makes *Low Spark* so fascinating to me. Granted, I enjoy
 all that "why punk had to happen" music from the early '70s -- self-indulgent
@@ -136,7 +135,7 @@ provenance -- "the skirt that you're wearing is way past your knees" is the sole
 detail shared.) Pretty solid stuff, a couple of strong jams and nothing that'd
 make me reposition the needle.
 
-{{< youtube id="vDGorIWYz-A" loading="lazy" >}}
+{{< youtube "vDGorIWYz-A" >}}
 
 Yet nothing hit me quite like the title cut did. In immersing myself in this odd
 corner of a vividly rendered yet long-dated aesthetic of an older and
@@ -201,9 +200,9 @@ Fleetwood Mac, and Joni Mitchell earned. Still, you can still hear their traces
 if you search carefully enough. Sometimes you just have to let your perspective
 play tricks on you.
 
-{{< youtube id="e00uA4gUABU" loading="lazy" >}}
+{{< youtube "e00uA4gUABU" >}}
 
----
+- - -
 
 Nate Patrin is a native of St. Paul, Minnesota, who has been writing about music
 and its role in culture for over two decades. His work has previously appeared in sites and publications including
