@@ -1,18 +1,12 @@
 ---
 draft: false
-params:
-  feature: "true"
-  image: /images/upload/portrait.png
-  imageAlt: Guitarist Steve Sladkowski
-  imageCap: Guitarist Steve Sladkowki
+
 slug: pups-steve-sladkowski
-imageAlt: test
 date: 2024-12-16T13:46:55.000Z
-params.image: /images/upload/portrait.png
-params.imageAlt: Pup's Steve Sladkowski
-imageCap: test
+featuredImage: /images/upload/portrait.png
+featuredImageAlt: Pup's Steve Sladkowski
+featuredImageCap: Pup's Steve Sladkowski
 title: Pup's Steve Sladkowski
-params.imageCap: Pup's Steve Sladkowski
 ---
 
 Steve talks to us about his record collection and about going record shopping while on tour

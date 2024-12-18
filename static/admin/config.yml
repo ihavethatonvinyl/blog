@@ -24,9 +24,6 @@ collections:
     fields: # The fields for each document, usually in front matter
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Date", name: "date", widget: "datetime"}
-      - {label: "Image", name: "image", widget: "image", required: false}
-      - {label: "Image alt text", name: "imageAlt", widget: "string", required: false}
-      - {label: "Image caption", name: "imageCap", widget: "string", requred: false}
       - {label: "Draft", name: "draft", widget: "boolean", default: true}
       - {label: "Body", name: "body", widget: "markdown"}
   - name: "liner-notes" 
@@ -37,9 +34,6 @@ collections:
     fields: # The fields for each document, usually in front matter
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Date", name: "date", widget: "datetime"}
-      - {label: "Image", name: "image", widget: "image", required: false}
-      - {label: "Image alt text", name: "imageAlt", widget: "string", required: false}
-      - {label: "Image caption", name: "imageCap", widget: "string", requred: false}
       - {label: "Draft", name: "draft", widget: "boolean", default: true}
       - {label: "Body", name: "body", widget: "markdown"}
   - name: "q-and-a" 
@@ -50,9 +44,6 @@ collections:
     fields: # The fields for each document, usually in front matter
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Date", name: "date", widget: "datetime"}
-      - {label: "Image", name: "image", widget: "image", required: false}
-      - {label: "Image alt text", name: "imageAlt", widget: "string", required: false}
-      - {label: "Image caption", name: "imageCap", widget: "string", requred: false}
       - {label: "Draft", name: "draft", widget: "boolean", default: true}
       - {label: "Body", name: "body", widget: "markdown"}
   - name: "essays" 
@@ -64,9 +55,6 @@ collections:
     fields: # The fields for each document, usually in front matter
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Date", name: "date", widget: "datetime"}
-      - {label: "Image", name: "image", widget: "image", required: false}
-      - {label: "Image alt text", name: "imageAlt", widget: "string", required: false}
-      - {label: "Image caption", name: "imageCap", widget: "string", requred: false}
       - {label: "Draft", name: "draft", widget: "boolean", default: true}
-      - {label: "Body", name: "body", widget: "markdown"}
       - {label: "Author", name: "author", widget: "string"}
+      - {label: "Body", name: "body", widget: "markdown"}
