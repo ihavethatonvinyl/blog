@@ -49,7 +49,7 @@ runs:
       env:
         IMAGE_NAME: ${{ inputs.image-name }}
       run: |
-        pack build ${IMAGE_NAME} --buildpack paketo-buildpacks/nginx
+        pack build ${IMAGE_NAME} --buildpack paketo-buildpacks/nginx --builder paketobuildpacks/builder-jammy-base
     - name: Log in to registry
       uses: docker/login-action@v3
       if: inputs.registry-username != '' && inputs.registry-password != ''
