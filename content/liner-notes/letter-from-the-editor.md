@@ -1,9 +1,9 @@
-+++
-title = 'Letter From the Editor'
-slug = 'letter-from-the-editor'
-draft = false
-date = '2024-12-16T20:19:27-0500'
-+++
+---
+title: Letter From the Editor
+slug: letter-from-the-editor
+date: 2024-12-18T21:10:00.000Z
+draft: false
+---
 Welcome to the inaugural edition of *I Have That on Vinyl*.
 
 ![A portrait of the artist as a young woman](/images/upload/image1.png "A portrait of the artist as a young woman")
