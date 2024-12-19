@@ -3,18 +3,10 @@ title = 'Letter From the Editor'
 slug = 'letter-from-the-editor'
 draft = false
 date = '2024-12-16T20:19:27-0500'
-
-[params]
-  featured = 'false'
-
-  [params.author]
-    id = 'mcatalano'
-    name = 'Michele Catalano'
-
 +++
 Welcome to the inaugural edition of *I Have That on Vinyl*.
 
-![A portrait of the artist as a young woman](./image1.png "A portrait of the artist as a young woman")
+![A portrait of the artist as a young woman](/images/upload/image1.png "A portrait of the artist as a young woman")
 
 The greatest Christmas of my life happened in 1974. I was eleven years old and
 the euphoria I felt upon receiving my very own turntable was something that
@@ -88,7 +80,7 @@ retirement, I upgraded my turntable and speakers, and also bought a Bose CD
 player because I had started to collect those as well.
 
 I’m happy with what I have now. I listen to records every day. Music and talking
-about music and spreading music around are the things that drive me every day. 
+about music and spreading music around are the things that drive me every day.
 
 To get to tell the musical stories of so many people on this site is thrilling
 to me. A week after I announced my idea for the I Have That On Vinyl, I had 177

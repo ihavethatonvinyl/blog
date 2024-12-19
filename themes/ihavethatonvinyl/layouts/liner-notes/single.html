@@ -1,8 +1,8 @@
 {{ define "main" }}
 <div id="liner-notes">{{ partial "liner-notes.html" . }}</div>
 <div id="featured">
-  <h2>Featured Essay: {{ .Title  }}</h2>
-  <h5><em>by {{ .Params.author }}</em></h5>
+  <h2>{{ .Title  }}</h2>
+  <h5><em>by editor Michele Catalano</em></h5>
   {{ .Content }}
 </div>
 <div id="newreleases">{{ partial "new-releases.html" . }}</div>

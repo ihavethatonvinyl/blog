@@ -6,9 +6,9 @@
     {{ $page := index $collection 0 }}
     {{ with $page }}
       <h2>FEATURED INTERVIEW: {{ .Title | upper }}</h2>
-      {{ if .Params.featuredImage.url }}
+      {{ if .Params.featuredImage }}
       <div class="featuredImage">
-      <img src="{{ $page.Params.featuredImage.url }}" alt='{{ default "Featured Image" $page.Params.featuredImage.alt }}' />
+      <img src="{{ .Params.featuredImage }}" alt='{{ default "Featured Image" .Params.featuredImageAlt }}' title='{{ default "Featured Image" .Params.featuredImageCap }}' />
       </div>
       {{ end }}
       <div class="featureSummary">{{ .Summary }}</div>

@@ -1,18 +1,10 @@
-+++
-title = "Q&A Remix with Matthew Milligan from Wheatus"
-slug = 'matthew-milligan-remix'
-draft = false
-date = '2024-12-16T14:06:00-0500'
-
-[params]
-  featured = 'false'
-
-  [params.author]
-    id = 'staff'
-    name = 'I Have That on Vinyl'
-
-+++
-![img-1734375961641126000.png](./img-1734375961641126000.png)
+---
+title: Q&A Remix with Matthew Milligan from Wheatus
+slug: matthew-milligan-remix
+date: 2024-12-16T14:06:00-0500
+draft: false
+---
+![Matthew Milligan from Wheatus](/images/upload/img-1734375961641126000.png "Matthew Milligan from Wheatus")
 
 ### What is your most memorable vinyl buying experience?
 
@@ -106,7 +98,7 @@ The Knack, Joe Jackson, The Cars, Nick Lowe, Raspberries, Shoes, Big Star, Cheap
 Trick, Sorrows, Dwight Twilley, The Records, The dB’s, The Plimsouls, Speedies,
 The Replacements, The Flamin’ Groovies… how are they all so good?!
 
-### Tell us a little about your favorite record store.
+### Tell us a little about your favorite record store
 
 This is of course highly biased but I used to manage a record shop in Brooklyn
 called “Permanent Records” that closed a few years back, but we all worked
@@ -120,9 +112,9 @@ I almost never walk out of there without something amazing in hand.
 
 That’s a tough call as I own a LOT of music made by Avantgarde / outsider
 artists.  If I have someone over I want to scare away, Scott Walker’s *The
-Drift* or Jandek’s *Ready For The House* typically get the job done. 
+Drift* or Jandek’s *Ready For The House* typically get the job done.
 
----
+- - -
 
 Matthew Milligan has been a professional musician since 2006, best known for his
 work with **Wheatus** (“Teenage Dirtbag”), **Mike Doughty** (Soul Coughing),
