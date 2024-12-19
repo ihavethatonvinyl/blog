@@ -1,3 +1,4 @@
 .hugo_build.lock
 public/
 *.fiber.gz
+.DS_Store
