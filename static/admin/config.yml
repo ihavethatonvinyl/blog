@@ -1,7 +1,7 @@
 backend:
   name: github
   repo: ihavethatonvinyl/blog
-  branch: next
+  branch: main
   cms_label_prefix: cms/
   commit_messages:
     create: Create {{collection}} "{{slug}}"
