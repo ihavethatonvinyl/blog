@@ -3,6 +3,7 @@ backend:
   repo: ihavethatonvinyl/blog
   branch: main
   cms_label_prefix: cms/
+  site_id: demo.decapcms.org
   commit_messages:
     create: Create {{collection}} "{{slug}}"
     update: Update {{collection}} "{{slug}}"
