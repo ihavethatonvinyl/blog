@@ -1,6 +1,6 @@
 <h2>LINER NOTES</h2>
 {{ $collection := where .Site.RegularPages "Type" "liner-notes" }}
-{{ $pages := $collection.Limit 2 }}
+{{ $pages := $collection.Limit 5 }}
 <div>
 {{ range $pages }}
   <h3><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h3>

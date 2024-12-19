@@ -3,6 +3,24 @@ title: Q&A Remix with Matthew Milligan from Wheatus
 slug: matthew-milligan-remix
 date: 2024-12-16T14:06:00-0500
 draft: false
+summary: >-
+  Matthew Milligan has been a professional musician since 2006, best known for his
+  work with **Wheatus** (“Teenage Dirtbag”), **Mike Doughty** (Soul Coughing),
+  **MC Frontalot** (Nerdcore Rising), and **MC Lars** (“Download This Song”).  In
+  various roles and on multiple instruments he has performed alongside Vernon Reid
+  (Living Colour), Dan Wilson (Semisonic), Billy Martin (Medeski Martin & Wood),
+  Wayne Kramer (MC5), Money Mark (Beastie Boys), Marc Ribot (Tom Waits), Josh
+  Devine & Sandy Beales (One Direction), Bowling For Soup, Corn Mo, “Weird Al”
+  Yankovic, Jean Grae, Mega Ran, Schaffer The Darklord & more.  He is a writer /
+  producer / founding member of NYC based groups **Fashion Bird Danger Danger** &
+  **Grim All Day**, as well as long distance electronic collaboration **Maeges**.
+  He hosts the “**Weird Al-Gorithm**” podcast on the Geekscape Network, and was
+  invited to moderate a "Weird Al" themed panel at the **2024 San Diego Comic
+  Con.** On the technical side, he worked as an engineer on“**Gilbert Gottfried’s
+  Amazing Colossal Podcast**” from 2020 until Gilbert's passing in 2022, and he
+  mixed the Wheatus live album **M (Live in America)**, first released in 2020.
+  He worked at / managed the beloved vinyl record shop **Permanent Records** in
+  Brooklyn, NY from 2009 until its closing in 2017.
 ---
 ![Matthew Milligan from Wheatus](/images/upload/img-1734375961641126000.png "Matthew Milligan from Wheatus")
 
