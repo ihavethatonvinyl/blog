@@ -3,6 +3,6 @@
 {{ $pages := $collection.Limit 2 }}
 <div>
 {{ range $pages }}
-  <h3><a href="{{ .RelPermalink }}/index.html">{{ .LinkTitle }}</a></h3>
+  <h3><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h3>
 {{ end }}
 </div>
