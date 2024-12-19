@@ -6,7 +6,7 @@ draft: true
 *\[Q&A publishes twice a week and is a set of pre written questions sent to interested people. Josaleigh and i did this over Zoom instead of email, and it was a delight. Please check out Josaleigh’s 2023 record “In the Garden, By the Weeds,” one of my favorite recent records]*
 
 
-![Josaleigh Pollett](/images/upload/image1.png "Josaleigh Pollett with Joni Mitchell's \\\"Miles of Aisles\\\"")
+![Josaleigh Pollett](/images/upload/image1-jp.png "Josaleigh Pollett with Joni Mitchell's \\\"Miles of Aisles\\\"")
 
 
 ### Tell us how you came to love and collect vinyl
