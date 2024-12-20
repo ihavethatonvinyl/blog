@@ -1,7 +1,7 @@
 ---
 title: Chris Walla
 date: 2024-12-19T20:32:00.000Z
-draft: true
+draft: false
 featuredImage: /images/upload/chriswalla.jpg
 featuredImageAlt: Chris Walla
 featuredImageCap: Chris Walla
