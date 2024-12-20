@@ -72,6 +72,10 @@ main {
   width: 100%;
 }
 
+#featured>h2:first {
+  text-align: center;
+}
+
 header > a > img {
   width: 60vw;
   height: auto;
