@@ -3,6 +3,8 @@ languageCode = 'en-us'
 title = 'I Have That on Vinyl'
 theme = 'ihavethatonvinyl'
 
+enableRobotsTXT = true
+
 [module]
   [module.hugoVersion]
     extended = false
