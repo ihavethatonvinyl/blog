@@ -72,7 +72,7 @@ main {
   width: 100%;
 }
 
-#featured>h2:first {
+#featured>h2 {
   text-align: center;
 }
 

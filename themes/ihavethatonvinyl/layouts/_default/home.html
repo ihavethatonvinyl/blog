@@ -5,7 +5,7 @@
   {{ if gt (len $collection) 0 }}
     {{ $page := index $collection 0 }}
     {{ with $page }}
-      <h2>FEATURED INTERVIEW: {{ .Title | upper }}</h2>
+      <h2>FEATURED CONVERSATION: {{ .Title | upper }}</h2>
       {{ if .Params.featuredImage }}
       <div class="featuredImage">
       <img src="{{ .Params.featuredImage }}" alt='{{ default "Featured Image" .Params.featuredImageAlt }}' title='{{ default "Featured Image" .Params.featuredImageCap }}' />
