@@ -6,6 +6,10 @@ featuredImage: /images/upload/chriswalla.jpg
 featuredImageAlt: Chris Walla
 featuredImageCap: Chris Walla
 ---
+*"It's like, I don't want to listen to Death Cab For Cutie. Please stop recommending it to me. I don't want to listen to the Postal Service. Please stop recommending it to me. And you know, I love all of that music. I loved working on those records and I love those guys, you know, they're great. But when it was that raw and that new, it was just like, can’t do it."*
+
+<!--more-->
+
 *I talked to Chris Walla - accomplished producer, guitarist, and record collector - about buying records, listening to music with his young son, and streaming.*
 
 ### So tell me a little about yourself and your collection.
@@ -40,26 +44,28 @@ So I grew up with this pretty ragtag stack of 45s that were mostly not hit recor
 
 It's really fun. We just made a decision at some point that we just, you know, we just want him to just feel like he has some agency and some ownership and…he can just be a part of the house and, do things and make decisions about stuff and and the thing is, it's like, I tend to get trapped in listening patterns where I'll reach for the same thing kind of over and over. And I think that's pretty common. And having our son upend that completely and just reach for records that are, you know, things that I actually haven't pulled out in a lot of years, or things that, actually, I kind of decided that maybe I don't really enjoy that much or there's just stuff you buy or pick up along the way that just, it doesn't really make the cut. Like, you listen to it a few times, and then it kind of goes back on the shelf he's really pulled out. A bunch of those are, there's a handful of things in the letter E, which is at eye-level for him. So there's a bunch of E records that he grabs for. Much to my dismay, he's gotten really into Juan Garcia Esquival and that stuff is… they're kind of amazing records, but they're just so campy. And I kind of it's always a little heartbreaking when he pulls out one of the Esquival records, and he likes one of them because it's clear blue vinyl, and he's just very into it. and so we put it on, and I just, kind of suffer through it. I roll my eyes through the whole thing. But, you know, we put it on, it's fine. He's having a good time. 
 
-And you're making memories for him.
+### And you're making memories for him.
 
 So yeah, exactly. He's really fallen in love with it. The Ex Hex record, the first Ex Hex record from 2013? I guess it was like 2013 or 14 (ed note, it was 2014) Um, yeah. And that was a record that I bought because I just love Mary Timony, kind of everything she does, I'm pretty on board with it and so we bought the record and I enjoyed it, but it didn't stay on the turntable. We played it five or six or eight times or something, and then it kind of got filed away. And it's come out a couple times here and there over the years, but \[my son] loves that record. He's so into it. And I've kind of fallen back in love with it too, especially since it's really fun to listen to, and next to Mary's record from this year (Untame the TIger), which is so good. It's so excellent, so highly recommended. So records are just a part of the thing at the house, and the way we develop records or relationships with records, with a kid around, there's just so many ways. Like for a while there was only one record that he would fall asleep to, and it was Tender Buttons by Broadcast. It was just the sound of us trying to get him to sleep for almost a year, it was the only record that we could put on that he would like.
 
-My son would fall asleep to Offspring’s Smash. He’d ask for “keep them separated” and then I'd have to put that on, and he'd sing it, and he'd go to bed. 
+### My son would fall asleep to Offspring’s Smash. He’d ask for “keep them separated” and then I'd have to put that on, and he'd sing it, and he'd go to bed. 
 
 So good, yeah. I mean, these days our dude is really into, I mean, (Jeff Rosenstock’s) Hell Mode  is one of the records that he pulls out…really falls asleep too, which is pretty...yeah. but he's out by the time we get to “Future is Dumb,” which is just...God bless you. 
 
-You mentioned that you don’t really stream at all.
+### You mentioned that you don’t really stream at all.
 
 Almost none.
 
-Was this a conscious decision you made, not to stream?
+### Was this a conscious decision you made, not to stream?
 
 Not exactly (laughs). Let me explain to you why I don't why ever get into streaming. It has everything to do with having been in a band that the algorithm wanted to recommend to me all the time. By the time I left Death Cab For Cutie, it was like 2014. It was about 10 years ago. And it was right when Spotify was really ascendant and, and I was already starting to get kind of burned out on the iTunes thing at that point. But the algorithms were also really pretty primitive at that point. And there were a lot of downvote options, right? And the process of leaving my band was very sad. It was very difficult. It was really tough and a lot of mixed feelings, like just some real grief and real anger, just a lot of things. I mean the difference with a breakup like that is that there was, in streaming terms, if I wanted to engage with music on the platform that, increasingly, everybody else in the world was using, I sort of was gonna have to take that. I was just gonna have to deal with that head on, and I was not ready for it. I couldn't do it and I didn't have enough control or agency over my experience with the platform to be able to essentially blacklist my own band.
 
 It's like, I don't want to listen to Death Cab For Cutie. Please stop recommending it to me. I don't want to listen to the Postal Service. Please stop recommending it to me. And you know, I love all of that music. I loved working on those records and I love those guys, you know, they're great. But when it was that raw and that new, it was just like, can’t do it.
 
-You didn’t want that jumping out at you all the time.
+### You didn’t want that jumping out at you all the time.
 
 Yeah, so that's, that's why I never really bought into the streaming thing. It's kind of petty I mean, I know I'm not literally the only person who's had this experience, but it's the most common reason to not be into streaming, I'm not opposed to streaming. Conceptually, I think that Spotify kind of sucks, but I really do believe that there's a good way to do it, but yeah that's why I'm not a streaming guy.
 
-Chris Walla is a musician, record producer, recording engineer, songwriter, and studio owner, perhaps best known as a founding member of [Death Cab for Cutie](https://deathcabforcutie.com/), the band he was in for 17 years. Chris recorded and produced the first seven DCfC albums and mixed the first six. He has also made records with [Tegan and Sara](https://teganandsara.com/), [The Decemberists](https://www.decemberists.com/), [Lo Moon](https://lomoonofficial.com/), [Gord Downie](https://www.gorddownie.com/), [Nada Surf](https://www.nadasurf.com/), [The Thermals](https://www.thethermals.com/), [S](https://www.hardlyart.com/artists/s), [William Fitzsimmons](https://williamfitzsimmons.com/), [Someone Still Loves You Boris Yeltsin](https://sslyby.com/), [Your Heart Breaks](https://yourheartbreaks.bandcamp.com/), [Telekinesis](https://telekinesismusic.com/), [Foxing](https://foxingtheband.com/), [Ratboys](https://www.ratboysband.com/), and many others. In the studio he is happiest capturing the sound of a live band, managing a mess of tape loops, or tying sequencers and drum machines together. He really, really loves coffee.
+\--- 
+
+*Chris Walla is a musician, record producer, recording engineer, songwriter, and studio owner, perhaps best known as a founding member of [Death Cab for Cutie](https://deathcabforcutie.com/), the band he was in for 17 years. Chris recorded and produced the first seven DCfC albums and mixed the first six. He has also made records with [Tegan and Sara](https://teganandsara.com/), [The Decemberists](https://www.decemberists.com/), [Lo Moon](https://lomoonofficial.com/), [Gord Downie](https://www.gorddownie.com/), [Nada Surf](https://www.nadasurf.com/), [The Thermals](https://www.thethermals.com/), [S](https://www.hardlyart.com/artists/s), [William Fitzsimmons](https://williamfitzsimmons.com/), [Someone Still Loves You Boris Yeltsin](https://sslyby.com/), [Your Heart Breaks](https://yourheartbreaks.bandcamp.com/), [Telekinesis](https://telekinesismusic.com/), [Foxing](https://foxingtheband.com/), [Ratboys](https://www.ratboysband.com/), and many others. In the studio he is happiest capturing the sound of a live band, managing a mess of tape loops, or tying sequencers and drum machines together. He really, really loves coffee.*
