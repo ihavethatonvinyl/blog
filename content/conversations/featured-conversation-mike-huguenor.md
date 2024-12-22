@@ -1,7 +1,7 @@
 ---
 title: Mike Huguenor
 date: 2024-12-21T16:58:00.000Z
-draft: true
+draft: false
 featuredImage: /images/upload/mikeh-2cropped.0752am.jpg
 featuredImageAlt: "photo credit: 0752am"
 ---
