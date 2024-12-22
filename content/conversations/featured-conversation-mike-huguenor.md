@@ -5,7 +5,7 @@ draft: true
 featuredImage: /images/upload/mikeh-2cropped.0752am.jpg
 featuredImageAlt: "photo credit: 0752am"
 ---
-*"For a while, for many years of my life, I only knew* There’s Nothing Wrong with Love*.  Because I was like, well, this record is amazing. I'm satisfied, and I'm going to listen to this for a long time, basically. And I did, and then it was only after a few years or so, I was like, okay, let's, let's add another into this. Because now I want more, and there's more I can listen to, kind of and so it's like allowing yourself a chance to continue to find stuff by someone you really love."*
+"For a while, for many years of my life, I only knew *There’s Nothing Wrong with Love*.  Because I was like, well, this record is amazing. I'm satisfied, and I'm going to listen to this for a long time, basically. And I did, and then it was only after a few years or so, I was like, okay, let's, let's add another into this. Because now I want more, and there's more I can listen to, kind of and so it's like allowing yourself a chance to continue to find stuff by someone you really love."
 
 <!--more-->
 
