@@ -1,7 +1,7 @@
 ---
 title: "In Defense of Sad Records: My Trip Down the Narrow Stairs"
 date: 2024-12-21T18:09:00.000Z
-draft: true
+draft: false
 author: Noah Goob
 ---
 

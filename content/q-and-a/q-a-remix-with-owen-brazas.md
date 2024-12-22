@@ -1,7 +1,8 @@
 ---
 title: Q&A Remix With Owen Brazas
 date: 2024-12-21T18:19:00.000Z
-draft: true
+draft: false
+summary: "Ever since Owen's parents taught him how to flip a record as a child he has been hooked on vinyl. Never one to get into arguments about format; of what sounds the best, he just liked the way records sounded and the ritual of playing them. A Chicagoland native, Owen was lucky to have so many great record stores to visit and discover all sorts of cool sounds. Owen has been playing in bands since the 90s and is currently the guitar player of noisy rock band Weaklung, you can find him a few times a week browsing the bins at Reckless in The Loop on his lunch break."
 ---
 ![](/images/upload/screenshot-2024-12-21-at-6.18.17 pm.png)
 
