@@ -56,6 +56,6 @@ jobs:
           fi
 
           helm upgrade --install \
-            ihavethatonvinyl${suffix} chart/ihotv --namespace ihtov${suffix} \
+            ihavethatonvinyl${suffix} chart/ihtov --namespace ihtov${suffix} \
             -f chart/ihtov/values${suffix}.yaml --set image.tag=${IMAGE_TAG}
             
