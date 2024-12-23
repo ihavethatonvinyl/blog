@@ -26,7 +26,7 @@ jobs:
           fi
 
           echo "BASE_URL=${base_url}" >> ${GITHUB_OUTPUT}
-          echo "IMAGE_NAME=registry.lab.verysmart.house/images/ihavethatonvinyl >> ${GITHUB_OUTPUT}
+          echo "IMAGE_NAME=registry.lab.verysmart.house/images/ihavethatonvinyl" >> ${GITHUB_OUTPUT}
           echo "IMAGE_TAG=${TARGET_ENV}-${GITHUB_SHA:0:7}" >> ${GITHUB_OUTPUT}
       - name: Build Hugo Site
         uses: ./actions/build-hugo-image/
