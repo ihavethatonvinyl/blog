@@ -6,11 +6,11 @@ inputs:
     description: The URL
     default: "https://ihavethatonvinyl.com"
     required: true
-  include-drafts:
-    description: If 'true' (default 'false'), include draft posts when rendering the hugo site
-    default: 'false'
   image-name:
-    description: The name of the OCI image that will be created by the pack CLI (with tag, if necessary)
+    description: The name of the OCI image that will be created by the pack CLI 
+    required: true
+  image-tag:
+    description: The image tag
     required: true
   push-to-registry:
     description: If 'true' (and credentials are set), push the image to the registry after creating
@@ -33,11 +33,11 @@ runs:
     - name: Run Hugo Build
       env:
         BASE_URL: ${{ inputs.base-url }}
-        INCLUDE_DRAFTS: ${{ inputs.include-drafts }}
+        IMAGE_TAG: ${{ inputs.image-tag }}
       shell: bash
       run: |
         drafts=""
-        if [[ "${INCLUDE_DRAFTS}" == "true" ]]; then
+        if [[ ${IMAGE_TAG} =~ staging* ]]; then
           drafts="--buildDrafts"
         fi
         hugo build --minify --baseURL "${BASE_URL}" ${drafts} --destination .image/public
@@ -48,8 +48,9 @@ runs:
       working-directory: .image
       env:
         IMAGE_NAME: ${{ inputs.image-name }}
+        IMAGE_TAG: ${{ inputs.image-tag }}
       run: |
-        pack build ${IMAGE_NAME} --buildpack paketo-buildpacks/nginx --builder paketobuildpacks/builder-jammy-base
+        pack build ${IMAGE_NAME}:${IMAGE_TAG} --buildpack paketo-buildpacks/nginx --builder paketobuildpacks/builder-jammy-base
     - name: Log in to registry
       uses: docker/login-action@v3
       if: inputs.registry-username != '' && inputs.registry-password != ''
@@ -62,4 +63,5 @@ runs:
       if: inputs.push-to-registry == 'true'
       env:
         IMAGE_NAME: ${{ inputs.image-name }}
-      run: docker push ${IMAGE_NAME}
+        IMAGE_TAG: ${{ inputs.image-tag }}
+      run: docker push ${IMAGE_NAME}:${IMAGE_TAG}
