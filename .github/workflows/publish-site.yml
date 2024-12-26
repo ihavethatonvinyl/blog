@@ -2,7 +2,7 @@ name: Publish Blog (staging and live)
 
 on:
   schedule:
-    - cron: "55 0-4,23 * * *"
+    - cron: "55 * * * *"
   workflow_dispatch: {}
       
 jobs:
