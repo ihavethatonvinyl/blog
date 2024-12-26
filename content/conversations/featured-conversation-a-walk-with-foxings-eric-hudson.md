@@ -4,13 +4,9 @@ date: 2024-12-25T19:37:00.000Z
 draft: false
 featuredImage: /images/upload/eric.png
 ---
-
-
 I think it's okay to hate something but I think what's important is to remain curious about things that you don't like and things that you hate, mainly because I think when you just I think that you're missing out on an opportunity to understand or learn something about yourself, or learn something about something you don't understand. 
 
-
-
-<!—more—> 
+<!--more--> 
 
 **Would you like to introduce yourself?**
 
@@ -44,14 +40,8 @@ Yeah. I’m very rarely looking in the way that I think most people do, which is
 
 ![](/images/upload/screenshot-2024-12-25-at-7.38.09 pm.png)
 
-
-
-
-
 And just hearing that record, I was like, whoa. I was not expecting this. Obviously, I'm familiar with all this classical stuff, and it's cool that he took early synthesizers and decided to kind of experiment with it, but then it made me go down this rabbit hole of him and his career, and other stuff that he did, and he was this very, relatively small artist who made all of these weird electronic records in the 70s and early 80s and then it got me interested in other artists. He was associated with the movement in Japan at the time of other experimental ambient artists and then that eventually led me to French electronic music of the 70s and 80s, so it was just kind of a gateway into something that you otherwise wouldn’t know, as long as you remain curious about it. It can be a gateway into so many things you've never heard or experienced before at the very least, even if it's not something you're going to listen to every day, it's still something that's like, well, this is a very interesting moment in music that I otherwise would know nothing about.
 
  I think people sometimes maybe get caught up too much in it. This sounds stupid, maybe, but I think people sometimes get caught up too much thinking of something that’s art with, well, how much do I like this? And based on how much I like it, I'm like, you know, that's how curious I'm going to be about it. You know what I mean? And I think that it's certainly okay to not like something. It's actually, I think it's okay to hate something but I think what's important is to remain curious about things that you don't like and things that you hate, mainly because I think that you're missing out on an opportunity to understand or learn something about yourself, or learn something about something you don't understand. That could be really important, and I think it also helps you learn more about the things you do understand. I wish more people would do that.
-
-
 
 *Eric Hudson is a guitarist and producer for the band Foxing, as well as a producer for other artists. Foxing's latest album is available for purchase [here](https://foxingtheband.bandcamp.com/album/foxing)*
