@@ -4,9 +4,7 @@ date: 2024-12-25T19:37:00.000Z
 draft: false
 featuredImage: /images/upload/eric.png
 ---
-I think it's okay to hate something but I think what's important is to remain curious about things that you don't like and things that you hate, mainly because I think when you just I think that you're missing out on an opportunity to understand or learn something about yourself, or learn something about something you don't understand. 
 
-<!--more--> 
 
 **Would you like to introduce yourself?**
 
