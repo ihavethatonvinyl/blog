@@ -1,5 +1,5 @@
 ---
-title: "Featured Conversation: A Walk With Foxing's Eric Hudson"
+title: " A Walk With Foxing's Eric Hudson"
 date: 2024-12-25T19:37:00.000Z
 draft: false
 featuredImage: /images/upload/eric.png
