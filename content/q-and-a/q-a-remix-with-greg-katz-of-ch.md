@@ -1,5 +1,5 @@
 ---
-title: Q&A Remix With Greg Katz of CH
+title: Q&A Remix With Greg Katz of Cheekface
 date: 2024-12-25T21:17:00.000Z
 draft: false
 ---
