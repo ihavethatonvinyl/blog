@@ -1,8 +1,0 @@
-{{ define "main" }}
-<h2>Liner Notes</h2>
-<div>
-{{ range where .Site.RegularPages.ByPublishDate.Reverse "Params.author.id" "eq" "mcatalano" }}
-  <h3><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h3>
-{{ end }}
-</div>
-{{ end }}
