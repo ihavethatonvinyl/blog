@@ -49,14 +49,37 @@ main {
   padding: 1vh 1vw;
 }
 
+@media only screen and (max-width: 1200px) {
+  #liner-notes,
+  #recents {
+    display: none;
+  }
 
-#liner-notes, #recents {
-  display: inline-block;
-  width: 24vw;
+  #featured {
+    display: inline-block;
+    width: 90vw;
+    padding: 0 5vw;
+  }
+
+  header > nav {
+    display: inline-block;
+  }
 }
 
-#featured {
-  display: inline-block;
-  width: 48vw;
-  padding: 0 1vw;
+@media screen and (min-width: 1200px) {
+  #liner-notes,
+  #recents {
+    display: inline-block;
+    width: 24vw;
+  }
+
+  #featured {
+    display: inline-block;
+    width: 48vw;
+    padding: 0 1vw;
+  }
+
+  header > nav {
+    display: none;
+  }
 }

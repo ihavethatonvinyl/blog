@@ -1,9 +1,19 @@
 baseURL = 'https://ihavethatonvinyl.com'
 languageCode = 'en-us'
-title = 'I Have That on Vinyl'
 theme = 'ihavethatonvinyl'
+title = 'I Have That on Vinyl'
 
 enableRobotsTXT = true
+
+[outputs]
+  home = ['html', 'rss']
+  section = ['html', 'rss']
+  taxonomy = ['html', 'rss']
+  term = ['html', 'rss']
+
+[services]
+  [services.googleAnalytics]
+    id = 'G-BBP1Q2MPB5'
 
 [module]
   [module.hugoVersion]
