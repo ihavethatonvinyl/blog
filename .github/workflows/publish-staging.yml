@@ -8,17 +8,13 @@ on:
 jobs:
   build-site:
     runs-on: [ihavethatonvinyl-runners]
-    strategy:
-      fail-fast: true
-      matrix:
-        environment: [live, staging]
     steps:
       - name: Checkout
         uses: actions/checkout@v4
       - name: Build inputs
         id: build-inputs
         env:
-          TARGET_ENV: ${{ matrix.environment }}
+          TARGET_ENV: staging
         run: |
           base_url="https://staging.ihavethatonvinyl.com"
           if [[ "${TARGET_ENV}" == "live" ]]; then
