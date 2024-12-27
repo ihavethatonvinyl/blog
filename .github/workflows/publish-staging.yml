@@ -1,4 +1,4 @@
-name: Publish Blog (staging and live)
+name: Manually Publish Blog (staging)
 
 on:
   schedule:
