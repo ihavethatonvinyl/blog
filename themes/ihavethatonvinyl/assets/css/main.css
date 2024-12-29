@@ -119,7 +119,7 @@ div.featuredImage>img {
 
 @media only screen and (max-width: 1200px) {
   #liner-notes,
-  #recents {
+  #newreleases {
     display: none;
   }
 
@@ -147,6 +147,7 @@ div.featuredImage>img {
 
   div.column-header>img {
     width: 80%;
+    max-width: 280px;
     height: auto;
   }
   
