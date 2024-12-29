@@ -2,7 +2,7 @@
 title: "Their Band Saved My Life: Double Nickles on the Dime, Mental Health, and
   My Punk Rock Salvation"
 date: 2024-12-28T15:05:00.000Z
-draft: true
+draft: false
 author: Ryan J. Novak
 ---
 ![](/images/upload/img_5918-1-.jpeg)
