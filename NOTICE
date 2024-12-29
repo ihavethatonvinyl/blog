@@ -1,0 +1,9 @@
+# Licensing
+
+All markdown (`.md`) files and other files representing content (excluding images in the
+`static/images` directory)on [ihavethatonvinyl.com](https://ihavethatonvinyl.com) are
+Copyright &copy; 2024 Michele Catalano. No license to copy or otherwise use this content is
+offered unless otherwise required by law.
+
+All other source files are Copyright &copy; 2024 Michele Catalano and Josh Ghiloni, and are
+offered under the Apache 2 license, seen in the [LICENSE](./LICENSE) file.
