@@ -1,8 +1,14 @@
-<h2>LINER NOTES</h2>
-{{ $collection := where .Site.RegularPages "Type" "liner-notes" }}
+<div class="column-header"><img src="/images/linernotes.png" /></div>
+{{ $collection := where .Site.RegularPages "Type" "liner-notes" }} 
 {{ $pages := $collection.Limit 5 }}
 <div>
-{{ range $pages }}
-  <h3><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h3>
-{{ end }}
+  {{ range $pages }}
+  <div class="entry">
+    <h3><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h3>
+    <h5><em>Published on {{ .Date.Format "Jan 2, 2006" }}</em></h5>
+  </div>
+  {{ end }}
+  <h4>
+    <em><a href="/liner-notes/">More Liner Notes&hellip;</a></em>
+  </h4>
 </div>

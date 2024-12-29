@@ -1,8 +1,17 @@
 {{ define "main" }}
 <div id="liner-notes">{{ partial "liner-notes.html" . }}</div>
 <div id="featured">
-  <h2>Featured Conversation: {{ .Title  }}</h2>
-  {{ .Content }}
+  <h2>Featured Conversation: {{ .Title }}</h2>
+  <h5><em>Published on {{ .Date.Format "Jan 2, 2006" }}</em></h5>
+  {{- if .Params.featuredImage }}
+  <div class="featuredImage">
+    <img
+      src="{{ .Params.featuredImage }}"
+      alt="{{ .Params.featuredImageAlt }}"
+      title="{{ .Params.featuredImageCap }}"
+    />
+  </div>
+  {{- end }} {{ .Content }}
 </div>
 <div id="newreleases">{{ partial "new-releases.html" . }}</div>
 {{ end }}

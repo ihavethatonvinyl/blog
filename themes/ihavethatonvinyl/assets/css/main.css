@@ -96,6 +96,27 @@ div.featuredImage>img {
   font-size: 18px;
 }
 
+#list-page {
+  display: block;
+  width: 90vw;
+  padding: 0 5vw;
+}
+
+#list-page img {
+  width: 50%;
+  height: auto;
+}
+
+.entry>h3 {
+  padding-bottom: 0;
+  margin-bottom: 0;
+}
+
+.entry>h5 {
+  padding-top: 0;
+  margin-top: 0;
+}
+
 @media only screen and (max-width: 1200px) {
   #liner-notes,
   #recents {
@@ -118,6 +139,15 @@ div.featuredImage>img {
     display: inline-block;
     vertical-align: top;
     width: 22vw;
+  }
+
+  div.column-header {
+    text-align: center;
+  }
+
+  div.column-header>img {
+    width: 80%;
+    height: auto;
   }
   
   #featured {
