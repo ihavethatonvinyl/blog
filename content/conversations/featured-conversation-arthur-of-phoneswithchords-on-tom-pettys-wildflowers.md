@@ -4,6 +4,10 @@ date: 2024-12-28T14:57:00.000Z
 draft: false
 featuredImage: /images/upload/image1-1-.jpeg
 ---
+*My kids are in high school now, and being able to play specifically that song, “Wildflowers,” I played it for them and they really liked it. And then one of my one of my daughters drew some like wildflowers. She framed it, and it says, you belong among the wildflowers. And she made these little drawings of flowers, sketched them and gave it to me, and so I’ve got it up on the wall. So, yeah, there’s a lot of connections.*
+
+*<--more-->*
+
 ### So would you like to introduce yourself first?
 
 I’m Arthur from phoneswithchords.
