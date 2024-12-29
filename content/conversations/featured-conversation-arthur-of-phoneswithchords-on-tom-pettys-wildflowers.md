@@ -1,6 +1,5 @@
 ---
-title: "Featured Conversation: Arthur of phoneswithchords on Tom Petty's
-  \"Wildflowers\""
+title: " Arthur of phoneswithchords on Tom Petty's \"Wildflowers\""
 date: 2024-12-28T14:57:00.000Z
 draft: true
 featuredImage: /images/upload/image1-1-.jpeg
