@@ -1,14 +1,14 @@
 ---
 title: " Arthur of phoneswithchords on Tom Petty's \"Wildflowers\""
 date: 2024-12-28T14:57:00.000Z
-draft: true
+draft: false
 featuredImage: /images/upload/image1-1-.jpeg
 ---
 ### So would you like to introduce yourself first?
 
 I’m Arthur from phoneswithchords.
 
-Hi, Arthur. Today we’re going to talk about your connection with the Tom Petty album *Wildflowers*.
+### Hi, Arthur. Today we’re going to talk about your connection with the Tom Petty album *Wildflowers*.
 
 So yeah, it was an important record for me in high school, freshman year of high school. I think that may have been my first at the time, it was on CD, but first, like, a record that I purchased with my own money. I wasn't really big into music until I got into high school, which is weird. I was into sports and stuff, so it wasn't really my thing. 
 
@@ -32,7 +32,7 @@ My kids are in high school now, and being able to play specifically that song, �
 
 ![](/images/upload/image0-1-.jpeg)
 
-Tell me a little bit about the box set. What came in it? Because I know there were different variants.
+### Tell me a little bit about the box set. What came in it? Because I know there were different variants.
 
 So watching the documentary, I didn't realize in high school that they originally thought they were doing a double album. The album was already long but they thought they were going to do it originally with Rick Rubin, they thought they were going to do this double album, and then they were like, no this is too much. I think there were 30 plus songs or so recorded. And so they just decided to basically release it all. So there's demos on there, and then there's completely unreleased stuff. And then like I said before, for the artwork, they went through all the songs and did specific artwork for just like a single lyric. So there's “Good to be King,” there's a specific piece of art just for that. And there's also a booklet. It's really neat how they did it.
 
@@ -43,8 +43,6 @@ I think they were very much a part of the process. It feels very personal, it fe
 ### Are there particular songs from this album that you really connect with, besides “Wildflowers”
 
 That’s a good question. There's ones that before, maybe in high school, I was just kind of like, this is corny. But now I love those, like “Honey Bee”  , which is such a straight, bar band rocker of a song. And I think maybe I was like, oh I don't know if I like this. But it's so good. I was more of a, go to hits on that record, you know, like “You Wreck Me” and “You Don’t Know How It Feels” and those songs and “Wildflowers” I would just kind of listen to those often. But listening to the whole box set when I got it really brought me back to it. 
-
-
 
 *phoneswithchords exists somewhere in the vast chasm between a run-down Tascam 4-track tape machine and the expansive sonic soundscapes crafted by studio alchemists in the late 60s and early 70s. Over the past few years, phones has been quietly assembling a back catalog of gorgeous, introspective indie rock that fundamentally resists definition. These self-recorded artifacts represent a life lived, dreams dreamed, and a constant effort to find a balance between creativity and function.*
 
