@@ -1,7 +1,7 @@
 ---
 title: Q&A Remix With Drew Beringer
 date: 2024-12-28T16:09:00.000Z
-draft: true
+draft: false
 ---
 ![](/images/upload/img_0337.jpg)
 
