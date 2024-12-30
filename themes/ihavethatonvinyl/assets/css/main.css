@@ -146,8 +146,7 @@ div.featuredImage>img {
   }
 
   div.column-header>img {
-    width: 80%;
-    max-width: 280px;
+    max-width: 175px;
     height: auto;
   }
   
