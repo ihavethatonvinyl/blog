@@ -1,7 +1,7 @@
 ---
 title: "Q&A Remix With Miranda Reinert "
 date: 2025-01-01T01:27:00.000Z
-draft: true
+draft: false
 ---
 *Today we welcome Miranda Reinert, who is a writer and podcaster based in Chicago, Illinois. She graciously answered a dozen questions. Let’s dive in.*
 
