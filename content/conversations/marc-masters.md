@@ -1,7 +1,7 @@
 ---
 title: Marc Masters
 date: 2024-12-31T15:59:00.000Z
-draft: true
+draft: false
 featuredImage: /images/upload/books.jpg
 ---
 ### Do you want to start by just introducing yourself and talking a little bit about your collection?
