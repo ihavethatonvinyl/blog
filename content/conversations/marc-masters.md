@@ -6,7 +6,7 @@ featuredImage: /images/upload/books.jpg
 ---
 *I ordered one from them once and I opened it up in the post office, and all this dirt just came flooding out because it was packaged in a plastic sleeve with just dirt and hair, and it smelled really bad. Every record of theirs was this kind of weird, handmade thing, and I have them all.*
 
-<--more-->
+<!--more-->
 
 ### Do you want to start by just introducing yourself and talking a little bit about your collection?
 
