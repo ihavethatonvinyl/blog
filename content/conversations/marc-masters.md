@@ -4,6 +4,10 @@ date: 2024-12-31T15:59:00.000Z
 draft: false
 featuredImage: /images/upload/books.jpg
 ---
+*I ordered one from them once and I opened it up in the post office, and all this dirt just came flooding out because it was packaged in a plastic sleeve with just dirt and hair, and it smelled really bad. Every record of theirs was this kind of weird, handmade thing, and I have them all.*
+
+<--more-->
+
 ### Do you want to start by just introducing yourself and talking a little bit about your collection?
 
 So I'm Marc Masters. I'm a music writer. I write about music as one of my kind of jobs/hobbies. I have a lot of records that I've been collecting since I was a kid. I was born in 1968 so I started collecting records probably in middle school, high school. And you know, I've gone - as most people who have collected records  - for a long time, I've gone in and out of having some I have from the first day I started collecting and some that I’ve gotten since.
@@ -25,7 +29,6 @@ Yeah, you know, it's funny. I've never had a big major score in a record store, 
 My parents liked music enough that they had records around and I just thought those were interesting. And I listened to music on the radio, and it was cool that you could also play it at home. There wasn't a single person, I mean, when I started getting into music, who turned me onto everything, but my parents at least inspired me. We had music around and we played it on turntables, before I even knew what it was. So that was mostly it. And then just kind of parallel friends in high school and middle school who were also getting into records at the same time. I never really met that kind of Guru person who was like, these are all the things you need to listen to. But in a way, I kind of like that. I had a group of like five or six friends who we were all getting into similar stuff at the same time. And so one of us would get a U2 album that no one had heard. And then I do remember that one of us got a Captain Beefheart album and we all kind of flipped out about that. 
 
 ### Do you remember the first records you bought?
-
 
 I do remember. In fifth grade, my parents started letting me buy singles. This was still long ago enough that you could get singles at a drugstore. For my first purchase I got an Electric Light Orchestra single, because it was on purple vinyl. That was the little bonus, even though there were a bunch of them there that I wanted to get from different bands. But that one not only was a song I liked, but it was on purple vinyl. So I thought that was pretty cool.
 
@@ -62,7 +65,5 @@ Yeah, exactly. But in the past like decade or so, when the kind of people coming
 ### You have any projects going on you want to talk about?
 
 Yeah, I have a podcast about music books. It's just called The Music Book Podcast where I interview authors of different music books about how they went about writing these books. I do that every two weeks with one author, one book. And then I have another podcast with a friend of mine back from DC. It's called The Spindle, and that one also comes out every two weeks, with an episode about a different seven inch record, mostly seven inches from the 80s and 90s, but some a little earlier, some little later, where we just kind use it as a launching point to explore different artists and how seven inch records factor in their histories.
-
-
 
 Marc Masters is the author of *No Wave* (2008) and *High Bias: The Distorted History of the Cassette Tape* (2023). He has written for Pitchfork, The Wire, Bandcamp Daily, The Washington Post, NPR and others. He hosts the Music Book Podcast and co-hosts (with John Howard) The Spindle, a podcast about 7-inch records, via Wastoids.com.
