@@ -1,7 +1,7 @@
 ---
 title: Everything in its Right Place
 date: 2024-12-31T17:08:00.000Z
-draft: true
+draft: false
 author: "Greg Gaines "
 ---
 ![](/images/upload/img_7079.jpeg)
