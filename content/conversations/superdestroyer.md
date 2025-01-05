@@ -4,6 +4,10 @@ date: 2025-01-05T02:35:00.000Z
 draft: false
 featuredImage: /images/upload/superdestroyer-ihtov.jpg
 ---
+*You know, a lot of those are really beat up that I find though, I actually don't buy them very often because they're in bad condition. I bought a copy of Black Flag Damaged. Yeah, it sounds like shit. I would expect nothing less from a bunch of punks who probably played that vinyl to death.* 
+
+*<!--more>*
+
 ### Would you like to introduce yourself, tell us a little bit about your projects you have going on?
 
 Hi, my name is John. I recorded a new record this year. I put out a lot of new music in general, but I put out a new record recently called *[Nelson Comes to Visit](https://superdestroyer.bandcamp.com/album/nelson-comes-to-visit)* which I made with my friend Nelson. For about 20 years I had an affinity for independent music for a long time, and so my friend and I started labeling, we started investing in stuff, and that really got me thrown into this music thing a whole lot more, collecting tapes and all that kind of stuff. So it's a feedback loop here, but I would say that's probably the most important thing to know about me is this project.
@@ -14,7 +18,7 @@ So I grew up in an era where you still bought CDs from the store well into high 
 
 ### Great answer. So what’s the first area you head to in a record store?
 
- Well, now my record store would be more like Bandcamp, probably, and DIY bands on Twitter. Unfortunately, with physical copies, I don't buy a lot of stuff from bigger artists. But the answer would always have been the punk section generally. I always would start there; punk, hardcore. You know, alternative rock depends on how niche they go. I know the vinyl stores around Columbus, they can get pretty granular, which is cool. I like to look at the old 80s punk vinyls a lot because, like that sound is cool on vinyl, and they have cool art, and it feels just so retro. You know, a lot of those are really beat up that I find though, I actually don't buy them very often because they're in bad condition. I bought a copy of Black Flag Damaged. Yeah, it sounds like shit. I would expect nothing less from a bunch of punks who probably played that vinyl to death. So I’d start at the punk section and go from there. You know, punk is kind of a broad term at record stores also, but that's how you usually can start to find like, emo, hardcore, some of the other alternative stuff.
+ Well, now my record store would be more like Bandcamp, probably, and DIY bands on Twitter. Unfortunately, with physical copies, I don't buy a lot of stuff from bigger artists. But the answer would always have been the punk section generally. I always would start there; punk, hardcore. You know, alternative rock depends on how niche they go. I know the vinyl stores around Columbus, they can get pretty granular, which is cool. I like to look at the old 80s punk vinyls a lot because, like that sound is cool on vinyl, and they have cool art, and it feels just so retro. You know, a lot of those are really beat up that I find though, I actually don't buy them very often because they're in bad condition. I bought a copy of Black Flag *Damaged*. Yeah, it sounds like shit. I would expect nothing less from a bunch of punks who probably played that vinyl to death. So I’d start at the punk section and go from there. You know, punk is kind of a broad term at record stores also, but that's how you usually can start to find like, emo, hardcore, some of the other alternative stuff.
 
 ### What’s your most treasured record? 
 
