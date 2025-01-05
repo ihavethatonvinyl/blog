@@ -1,7 +1,7 @@
 ---
 title: "Poetry, Lyricism, and David Berman: a Mourner's Chronicle"
 date: 2025-01-05T05:30:00.000Z
-draft: true
+draft: false
 ---
 ![](/images/upload/img_6179.jpg)
 
