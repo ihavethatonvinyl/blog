@@ -1,7 +1,7 @@
 ---
 title: Q&A Remix With Jack Probst
 date: 2025-01-04T18:46:00.000Z
-draft: true
+draft: false
 ---
 *Today we welcome culture writer Jack Probst*
 
