@@ -1,6 +1,6 @@
 ---
 title: The Mystical Dice of Random Musical Destiny
-date: 2025-01-05T14:57:00.000Z
+date: 2025-01-05T02:57:00.000Z
 draft: false
 author: Rich Wilhelm
 ---
