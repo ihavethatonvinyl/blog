@@ -6,7 +6,7 @@ featuredImage: /images/upload/superdestroyer-ihtov.jpg
 ---
 *You know, a lot of those are really beat up that I find though, I actually don't buy them very often because they're in bad condition. I bought a copy of Black Flag Damaged. Yeah, it sounds like shit. I would expect nothing less from a bunch of punks who probably played that vinyl to death.* 
 
-*<!--more>*
+*<!--more-->*
 
 ### Would you like to introduce yourself, tell us a little bit about your projects you have going on?
 
