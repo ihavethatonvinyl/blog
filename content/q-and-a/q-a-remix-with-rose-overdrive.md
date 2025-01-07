@@ -1,8 +1,10 @@
 ---
 title: Q&A Remix with Rose Overdrive
 date: 2025-01-07T10:21:00.000Z
-draft: true
+draft: false
 ---
+![](/images/upload/ubu.png)
+
 ### What’s the most treasured album in your collection and why?
 
 Just going off of how much I listen to it, I think it must be Pere Ubu’s *Les Haricots Sont Pas Salé 1987-1991* box set. I love pretty much every era of Pere Ubu, but there’s something about listening to this one–their brief stint on a major label, where they genuinely did try to make pop albums–that feels very rewarding in record format. The three proper albums in it–*The Tenement Year*, *Cloudland*, and *Worlds in Collision*, are all distinct versions of pop music, but they’re all Pere Ubu, too. These records were reworked and resequenced to fit on vinyl, and I imagine people who heard the original versions of these albums might take issue with that, but they’re the versions I know the best and they’re right to me.
