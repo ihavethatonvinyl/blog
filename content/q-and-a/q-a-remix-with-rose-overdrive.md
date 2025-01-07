@@ -1,5 +1,5 @@
 ---
-title: Q&A Remix with Rose Overdrive
+title: Q&A Remix with Rosy Overdrive
 date: 2025-01-07T10:21:00.000Z
 draft: false
 ---
