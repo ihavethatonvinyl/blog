@@ -1,7 +1,7 @@
 ---
-title: Q&A Remix With Miranda Reinert
+title: "Q&A Remix With Rosy Overdrive "
 date: 2025-01-07T04:48:00.000Z
-draft: true
+draft: false
 ---
 ![](/images/upload/screenshot-2025-01-07-at-4.49.48 am.png)
 
@@ -27,9 +27,6 @@ I went to a John Vanderslice living room show in… 2018? John Vanderslice livin
 
 ### What’s the weirdest record you own?
 
-
 I don’t really have a good answer for this, but I like this question so I’m going to try to find an answer for it anyway. Let’s see…eh, how about *Yup* by Divorce Cop, that’s pretty weird. Brock Ginther (who’s been in a bunch of Maine-based bands) sent it to me with an album from his other band, Midwestern Medicine. The Midwestern Medicine is great melodic indie rock for fans of Grandaddy and Built to Spill and whatnot, but Divorce Cop is much more…primal. Lo-fi, noisy basement bashing. Thirty-five songs in forty-two minutes kind of deal. Highly recommended if you like the sound of cymbals crashing. 
-
-
 
 *"Rosy Overdrive is a mostly-one-person-run pseudonymous music blog that updates a few times a week and specializes in new music from smaller indie rock groups. You will find something you like there. ([rosyoverdrive.com](https://rosyoverdrive.com/), @rosyoverdrive on the socials)"*
