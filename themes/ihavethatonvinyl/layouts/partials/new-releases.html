@@ -1,17 +1,32 @@
 <div class="column-header"><img src="/images/newreleases.png" /></div>
-{{ $essays := where .Site.RegularPages "Type" "essays" }}
-{{ $qas := where .Site.RegularPages "Type" "q-and-a" }}
+{{ $essays := where .Site.RegularPages "Type" "essays" | first 5 }}
+{{ $qas := where .Site.RegularPages "Type" "q-and-a" | first 5 }}
 
-{{ $essay := index $essays 0 }}
-{{ $qa := index $qas 0 }}
+{{/* get the first of each */}}
+{{ $latestEssay := index $essays 0 }}
+{{ $latestQA := index $qas 0 }}
 
-{{ with $essay }}
+{{/* get the remainder of each */}}
+{{ $otherEssays := after 1 $essays }}
+{{ $otherQAs := after 1 $qas }}
+
+{{/* get the next 3 total by merging the two lists, sorting them by their date, then getting the first 3 */}}
+{{ $others := union $otherEssays $otherQAs }}
+{{ $others = sort $others "Date" "desc" | first 3 }}
+
+{{ with $latestEssay }}
 <div class="entry">
   <h3><a href="{{ .RelPermalink }}">Featured Essay: {{ .LinkTitle }}</a></h3>
   <h5><em>Published on {{ .Date.Format "Jan 2, 2006" }}</em></h5>
 </div>
 {{ end }}
-{{ with $qa }}
+{{ with $latestQA }}
+<div class="entry">
+  <h3><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h3>
+  <h5><em>Published on {{ .Date.Format "Jan 2, 2006" }}</em></h5>
+</div>
+{{ end }}
+{{ range $others }}
 <div class="entry">
   <h3><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h3>
   <h5><em>Published on {{ .Date.Format "Jan 2, 2006" }}</em></h5>
