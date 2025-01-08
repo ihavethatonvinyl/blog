@@ -4,6 +4,10 @@ date: 2025-01-07T03:15:00.000Z
 draft: false
 featuredImage: /images/upload/pacing_artist_photo_2.jpeg
 ---
+Today we are talking to Katie McTigue of Pacing about putting out her Real Poetry album on vinyl 
+
+<!--more-->
+
 ### Would you like to introduce yourself?
 
 So I'm Katie McTigue. Pacing is mostly me a solo bedroom pop project that I started in like 2020 and it's evolved, as those tend to do, where now my husband, Ben Kroc, has been more involved, which is awesome. He's like, a real musician. I'm like a fraud, you know, it's kind of just a coincidence that I'm doing music., I have stuff to say, and I would definitely be making some kind of art, right? It's just kind of like a coincidence that it's in the form of music. But Ben is a musician, and now we have a drummer, Joe Sherman, so that's been the local band. We play in San Jose and San Francisco, around here a good bit. That's just been the past year. So I started putting out the first record, or first full length. It was basically all me just figuring out how to make music on my laptop. And then the second one, *Real Poetry* ended up being more folky, because we were moving across the country, and I just had a ukulele. For whatever reason, it ended up kind of back to my roots, because I'm from Florida, and I grew up on bluegrass and folk music, like Stephen Foster. There’s a Folk Festival I would go to every year, and then I kind of branded it as anti folk, which is kind of like Kimya Dawson, the big influence, Sidney Gish, Paul Baribeau. I kind of realized I was kind of picking up like what they had been doing, so now I'm calling it an anti folk project.
