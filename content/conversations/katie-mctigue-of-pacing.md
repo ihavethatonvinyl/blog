@@ -1,7 +1,7 @@
 ---
 title: Katie McTigue of Pacing
 date: 2025-01-07T03:15:00.000Z
-draft: true
+draft: false
 featuredImage: /images/upload/pacing_artist_photo_2.jpeg
 ---
 ### Would you like to introduce yourself?
@@ -26,7 +26,7 @@ Well my buddy Mike Park of[ Asian Man Records](https://asianmanrecords.com/) is 
 
 For the party, Mike ordered 40 test presses for the record because we weren't gonna have the vinyl in time for the show. We were still waiting on the actual records after we got the test presses, you know? So I screen printed the test press jackets and made the jackets myself. So I'm kind of,continuing my DIY roots of making CDs and stuff. 
 
-
+![](/images/upload/img_8171.jpg)
 
 ### Do you feel like it's necessary at this point to put something out on vinyl as well as CD because there is a resurgent interest in vinyl?
 
@@ -38,8 +38,14 @@ I think it's a really wonderful format to interact with. My husband has a huge r
 
 I think we'll do vinyl on Asian Man again, which will be really cool. Yeah. But I do like  CDs too. And I kind of want to keep doing like, my little DIY CDs, you know, in addition.
 
+
+
+*Pacing is the songwriting and recording project of Katie McTigue (she/her). Various Small Flames [wrote](https://varioussmallflames.co.uk/2023/06/15/pacing-bite-me/) that she “follows in the playful, tongue-in-cheek tradition of the likes of Kimya Dawson, yet always nudges the ideas further to be more than mere twee humour or sardonic fun.” Fans and new listeners alike often remark that her anxious, confessional lyrics are "a little too relatable."*
+
+
+*In October 2023, Pacing released her first full-length album Real poetry is always about plants and birds and trees and the animals and milk and honey breathing in the pink but real life is behind a screen. It was named [Best Folk Music](https://daily.bandcamp.com/best-folk/the-best-folk-music-on-bandcamp-october-2023) by Bandcamp, and cemented Pacing as a leader in a new wave of anti-folk music reminiscent of the early 2000s New York scene; one born in an era that is distinctly Very Online.
+Pacing is based in San Jose, CA and plays shows around the Bay Area as a trio with Ben Krock on guitars and Joe Sherman on drums.*
+
 ![](/images/upload/screenshot-2024-08-30-at-3.48.25 pm.png)
-
-
 
 {{< youtube 4BdeQtsqdfs >}}
