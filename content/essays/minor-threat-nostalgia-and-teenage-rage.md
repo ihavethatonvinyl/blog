@@ -1,6 +1,6 @@
 ---
 title: Minor Threat, Nostalgia, and Teenage Rage
-date: 2025-01-07T04:27:00.000Z
+date: 2025-01-08T04:30:00.000Z
 draft: false
 author: Lang Huck
 ---
