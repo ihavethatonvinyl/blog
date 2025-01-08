@@ -4,7 +4,7 @@ date: 2025-01-07T03:15:00.000Z
 draft: false
 featuredImage: /images/upload/pacing_artist_photo_2.jpeg
 ---
-Today we are talking to Katie McTigue of Pacing about putting out her Real Poetry album on vinyl 
+*Today we are talking to Katie McTigue of Pacing about putting out her Real Poetry album on vinyl* 
 
 <!--more-->
 
@@ -42,10 +42,7 @@ I think it's a really wonderful format to interact with. My husband has a huge r
 
 I think we'll do vinyl on Asian Man again, which will be really cool. Yeah. But I do like  CDs too. And I kind of want to keep doing like, my little DIY CDs, you know, in addition.
 
-
-
 *Pacing is the songwriting and recording project of Katie McTigue (she/her). Various Small Flames [wrote](https://varioussmallflames.co.uk/2023/06/15/pacing-bite-me/) that she “follows in the playful, tongue-in-cheek tradition of the likes of Kimya Dawson, yet always nudges the ideas further to be more than mere twee humour or sardonic fun.” Fans and new listeners alike often remark that her anxious, confessional lyrics are "a little too relatable."*
-
 
 *In October 2023, Pacing released her first full-length album Real poetry is always about plants and birds and trees and the animals and milk and honey breathing in the pink but real life is behind a screen. It was named [Best Folk Music](https://daily.bandcamp.com/best-folk/the-best-folk-music-on-bandcamp-october-2023) by Bandcamp, and cemented Pacing as a leader in a new wave of anti-folk music reminiscent of the early 2000s New York scene; one born in an era that is distinctly Very Online.
 Pacing is based in San Jose, CA and plays shows around the Bay Area as a trio with Ben Krock on guitars and Joe Sherman on drums.*
