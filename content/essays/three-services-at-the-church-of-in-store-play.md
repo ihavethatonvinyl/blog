@@ -1,7 +1,7 @@
 ---
 title: Three Services at the Church of In-store Play
-date: 2025-01-11T18:16:00.000Z
-draft: true
+date: 2025-01-12T03:10:00.000Z
+draft: false
 author: D. Mayo-Wells
 ---
 
