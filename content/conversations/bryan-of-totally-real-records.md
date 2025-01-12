@@ -1,9 +1,11 @@
 ---
 title: Bryan of Totally Real Records
-date: 2025-01-11T17:15:00.000Z
-draft: true
+date: 2025-01-12T03:08:00.000Z
+draft: false
 featuredImage: /images/upload/bryan.png
 ---
+##### <!--more--> *Bryan joins us to talk a little about his record label, a little about working in a record store and a lot about a 1962 record he became fascinated with*
+
 ### So would you like to start off by telling me a little bit about yourself and your record label?
 
 So as you know, I've done music stuff in various ways for a long time, but I guess most recently, and what now a lot of people know of is Totally Real Records, which got started right as the pandemic was hitting, kind of just by coincidence. But then I sort of liked that the label became where I put my music energy, instead of playing in a band. So, yeah, that's what I've been doing for the past few years. Kind of started out sort of a place where I could help out friends with music stuff, which I'd always done as a booker, as a musician, as someone who can help design artwork and get stuff made, and all the things that bands usually need, stuff I'd always kind of done. And it was at that point where I was like, okay, I need to make sense of how and why I do this, rather than just saying yes to everybody. So I was like, I will still help you if I can, but it has to be through the record label because I would get emails from friends and people I didn't really know, but I would still just be like, Yeah, sure. I can help. 
@@ -36,13 +38,11 @@ I mean, I had the general sense of what the song was about, but when I heard it 
 
 It was 1963, I might be off by a little bit *(ed. note: 1962)*. But then I was looking into it and I never had looked into it before. But, you know, it's probably a record I've thought about more than any others, right? So I looked it up and it's kind of a rewrite of a song that was recorded in 1930 by a Trinidadian artist. And then I went back and I heard that one - Roaring Lion was the original artist -  and that one's even more intense. But, you know, also it was the 1930s, so in terms of political correctness and everything I wouldn't expect either of these to stand up. But the fact of it is, the music just sounds really good to me, even a little tinny and almost like low body sounding.
 
-### That's the way everything sounded then. Everything sounded tinny. It sounded like it was coming out of an AM radio.
-
 So the really funny thing is, I don't even know if I ever listened to the B side of it before, I would just listen to this song. So I did that earlier today, and it's fine, but it's not good. It's not as good. 
 
 It's not too deep of a thing, but it was more just about these funny associations that you get with music and places. I have records that I don't really enjoy all that much, but they remind me of a certain time or place, and I keep them because I don't want to lose that connection. 
 
-bio
+*Bryan B is the human behind Totally Real Records, a DIY record label based on Long Island, NY.*
 
 {{< youtube fxUY-99TPRY >}}
 
