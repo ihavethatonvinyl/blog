@@ -17,17 +17,17 @@ But there’s an exception to this rule of solitude. In-store play links shopper
 
 Snooty record store clerks are legend, not without some basis in reality. Sometimes in-store play is a challenge: are you cool enough to recognize this? Will this abrasive, or offensive, music drive you out, uncool person? But at its best, in-store play is a chance to make converts. Listen, have you heard this? It’s so good, you gotta hear this. I’ve found many of my favorite albums and artists this way. Here are three that still stand out.
 
-##### I. Throwing Muses, *Throwing Muses*
+#### I. Throwing Muses, *Throwing Muses*
 
-##### 1986, University of Maryland College Park Record Co-op, College Park, MD
+#### 1986, University of Maryland College Park Record Co-op, College Park, MD
 
 The co-op was a tiny place tucked in a corner of the basement of the student union. Glenn Griffith, now of the long-running blog [apessimistisneverdisappointed.com](http://apessimistisneverdisappointed.com/), was its indie buyer from 1988 until it closed in 1990, and helped confirm my memory: it really was barely bigger than a living room, just 3 or or 4 short rows of bins. Glenn says that Madonna and the “Cocktail” soundtrack paid the bills, but the end caps were always devoted to staff picks, not big sellers: Dead Milkmen, Game Theory, The Connells – and Throwing Muses.
 
 Back then, I was working part time in an office on campus, and for a couple years, every payday I’d trek across a few acres of parking lots to change a little too much of my take-home into fresh music. Looking back, it’s a bit odd to me that I wasn’t caught immediately when “Call me,” the opening on Throwing Muses’ self-titled release, was queued up. But “Hate My Way,” with its staccato opening and Kristin Hersh’s confrontational “I could be a smack freak/And hate society,” immediately commanded my attention, and held it through the first, deceptively calm and gentle first verse. It was Hersh’s abrupt, vibrato-laden scream preceding “but so does my kitchen” that made the sale, though. After that I wandered aimlessly around the place all the way through the first side before I bought the record. Pretty sure I was late back to work; pretty sure I didn’t care.
 
-##### II. Liz Phair, *Exile in Guyville*
+#### II. Liz Phair, *Exile in Guyville*
 
-##### 1993, Third Street Jazz and Rock, Philadelphia, PA
+#### 1993, Third Street Jazz and Rock, Philadelphia, PA
 
 [Third Street](www.vinylworld.org/record-shop/third-street-jazz-and-rock/) was founded by Jerry Gordon, later of [Evidence Music](https://en.wikipedia.org/wiki/Evidence_Music). It endured from 1972 to 1998, and eventually inspired the “[all things jazz](3rdstreetjazz.com.)” website.[](http://3rdstreetjazz.com/) It was massive, maybe the closest analogue on the east coast to San Francisco’s Amoeba Records, and had a similar vibe of having records that simply didn’t seem to exist anywhere else. (I remember seeing a bevy of pricey imports from goth-metallers Fields of the Nephilim, that I’ve never seen since, and that aren’t listed by Discogs or AllMusic. Memory is weird.)
 
@@ -37,9 +37,9 @@ In 1993, after a road trip to hang with a high school bestie (and record-buying 
 
 ![](/images/upload/gs.jpg)
 
-##### III. Giant Sand, *Ramp* 
+#### III. Giant Sand, *Ramp* 
 
-##### 1995, Phantasmagoria, Wheaton, MD
+#### 1995, Phantasmagoria, Wheaton, MD
 
 [Phantasmagoria](www.washingtonpost.com/archive/lifestyle/1996/07/26/its-a-record-store-its-a-nightclub-its-phantasmagoria/2371e9b2-692a-40d5-a4f8-2d21502e342/) had weird mid-life shift; after a decade in a big below-ground level space, in 1996, owner Bobby Rencher moved it a few blocks into the space occupied by the former roots-rock club Tornado Alley and retooled it as a rock club with an attached record store (meanwhile Tornado Alley’s owner Marc Gretschel opened a new club in the more upscale DC suburb Bethesda). The hybrid venue/store endured until 2001.
 
