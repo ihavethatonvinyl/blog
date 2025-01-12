@@ -4,7 +4,7 @@ date: 2025-01-12T03:08:00.000Z
 draft: false
 featuredImage: /images/upload/bryan.png
 ---
-##### <!--more--> *Bryan joins us to talk a little about his record label, a little about working in a record store and a lot about a 1962 record he became fascinated with*
+<!--more--> *Bryan joins us to talk a little about his record label, a little about working in a record store and a lot about a 1962 record he became fascinated with*
 
 ### So would you like to start off by telling me a little bit about yourself and your record label?
 
