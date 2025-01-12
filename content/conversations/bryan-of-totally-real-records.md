@@ -4,7 +4,7 @@ date: 2025-01-12T03:08:00.000Z
 draft: false
 featuredImage: /images/upload/bryan.png
 ---
-<!--more--> *Bryan joins us to talk a little about his record label, a little about working in a record store and a lot about a 1962 record he became fascinated with*
+ \*Bryan joins us to talk a little about his record label, a little about working in a record store and a lot about a 1962 record he became fascinated with\* <!--more-->
 
 ### So would you like to start off by telling me a little bit about yourself and your record label?
 
@@ -23,8 +23,6 @@ As I mentioned, I've had a lot of jobs and hobbies and ways I've spent my time o
 So you know, that was part of the fun of it. You’re not working at a record shop to make money, to make a lot of money. You're working there because you love music, you want to be around it, yeah, maybe it has something to do with figuring out your identity or whatever. I listened to a lot of random music, a lot of stuff I hadn't heard of before. I'd say at that point, I was very interested in music. I played in bands. Knew a lot about certain music, but I didn't know much about a lot of music. You know what I mean, my focus and my knowledge was kind of narrow. So a great thing for me working there was just exposure to a lot of stuff, mostly because it randomly came into the shop in a milk crate. So every once in a while I'd hear something, and it kind of got stuck in my head, like songs do, and we put it on again and again, and one day -  I don't remember the circumstances. I don't even remember if it was on a greatest hits collection, or if it was a seven inch, or what, but this one song, when I put the record on, was playing, and I was like, I love this, this is the most perfect sounding song I've ever heard. I couldn't, I couldn't really make out the lyrics from what I recall. It was actually a very bad, scratched up copy, and but the sound of the music, it just struck me and like lodged itself in my brain, so that every time I went to work there, I'd see if that record was still in the used bins, and put it on, and put the song on, and that's kind of how it weaseled its way into my brain. Now, uh, a caveat about the song. I'm not advocating for the content of the song. It's lyrically not the best.
 
  Seems the general take on it was definitely split. The song is, *If You Wanna be Happy* by Jimmy Soul, and it's one of those things when I heard it, and I don't think I'd heard it before, I know it's been in some movies and stuff, but I wasn't familiar with it when I first heard it in the shop, but just hearing it, the sound just grabbed me, and I just had to hear it every day when I was in the record shop, and I probably played it over and over and annoyed the hell out of a lot of customers, so that it just became a fixation. I didn't, I didn't buy the record from the shop, though. I didn't take it home, but it was just there. It's just one of those things that lived in the shop. And there were other records that were in regular rotation, but I didn't get it at the same point. I was also playing it as I was walking to shows around Brooklyn, and there was a place in Williamsburg called Sound Fix. It was a record shop, and it was  a coffee shop. I think the coffee shop was just called Fix, or maybe the whole thing was Sound Fix. But it was like a coffee shop bar, because what's not a coffee shop bar and record shop in 2006?
-
-
 
 ![](/images/upload/jimmysoul.jpeg)
 
