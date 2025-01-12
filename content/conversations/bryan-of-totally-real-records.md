@@ -4,7 +4,11 @@ date: 2025-01-12T03:08:00.000Z
 draft: false
 featuredImage: /images/upload/bryan.png
 ---
- \*Bryan joins us to talk a little about his record label, a little about working in a record store and a lot about a 1962 record he became fascinated with\* <!--more-->
+ *Bryan joins us to talk a little about his record label, a little about working in a record store and a lot about a 1962 record he became fascinated with*
+
+
+
+*"I don't even remember if it was on a greatest hits collection, or if it was a seven inch, or what, but this one song, when I put the record on, was playing, and I was like, I love this, this is the most perfect sounding song I've ever heard."* <!--more-->
 
 ### So would you like to start off by telling me a little bit about yourself and your record label?
 
