@@ -1,7 +1,7 @@
 ---
 title: Growing Up With the Beatles
-date: 2025-01-13T06:46:00.000Z
-draft: true
+date: 2025-01-13T07:14:00.000Z
+draft: false
 ---
 ![](/images/upload/img_8192.jpg)
 
