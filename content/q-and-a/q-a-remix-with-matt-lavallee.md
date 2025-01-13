@@ -1,7 +1,7 @@
 ---
 title: Q&A Remix With Matt Lavallee
-date: 2025-01-12T18:40:00.000Z
-draft: true
+date: 2025-01-13T02:26:00.000Z
+draft: false
 ---
 ![](/images/upload/screenshot-2025-01-12-at-3.02.21 pm.png)
 
@@ -47,6 +47,8 @@ Fast-forward a couple decades and I found myself on a work trip to Lisbon, where
 
 Of course, I have a whole section of these. Visitors found my way to my bedroom in my first apartment by following the trail of eighteen (18) identical copies of *Whipped Cream & Other Delights* tacked to the wall. I once picked up off the sidewalk a sleeve of Sniff 'n' the Tears' Fickle Heart that didn't even have a record in it, just to hang it up beside *How Much, How Much I Love You* by Love and Kisses. How could I live without the disinterested face of the model on Dave Stephens' *Organ Fascination,* or Barbara Law's shockingly horny pose on the back cover of *Take All Of Me?* You think I'm buying Barbi Benton LPs because they'll appreciate?
 
+![](/images/upload/fb.jpg)
+
 ### What’s the weirdest record you own?
 
 I inherited a 7" from my mom of James Dean chatting with some pals and playing the congas, which is pretty unusual. "Football Rap" b/w "Funked On Fight Songs" by DJ Rappinstein is the only record I own that's shaped like a football. As far as off-putting content it's hard to top Uri Geller's self-titled debut, which sounds both musically and lyrically like Pat Robertson got into the strong acid ("Oh God, you're so big, and strong...")
@@ -54,7 +56,5 @@ I inherited a 7" from my mom of James Dean chatting with some pals and playing t
 ### What is/are your white whale records?
 
 If you've got a spare copy of "Ha Po Zamani" by Charlotte Dada with her cover of "Don't Let Me Down" on the B-side, I will absolutely be your best friend forever. Same goes for "Cryin' Inside" by the Heart Beats (issued by their own The Heart Beat Record Company), or a nice copy of "Pumping The Water" b/w "Red Lady" by Phil Cordell, or "Sugar Stroll" by Santo & Johnny, or…
-
-
 
 *Matt Lavallee lives in beautiful Somerville, Massachusetts, where he occasionally can be convinced to jockey discs. He’s a former co-host of the [Cool Kids Club](https://c00lkidsclub.tumblr.com/page/14) radio program, plays the bass guitar in [Pledge Pins](https://pledgepins.bandcamp.com/album/we-dont-mind-dancin), and (you guessed it) makes [minimal ambient electronic music](https://surreptitiousmusic.bandcamp.com/), too. He can be found at bluesky as @strangebuttrue*
