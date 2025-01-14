@@ -1,8 +1,8 @@
 ---
 title: "I Just Want to Sell Out My Funeral: How The Wonder Years Changed Pop
   Punk Forever"
-date: 2025-01-13T19:43:00.000Z
-draft: true
+date: 2025-01-14T02:46:00.000Z
+draft: false
 author: Ryan Curtiss
 ---
 
