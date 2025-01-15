@@ -1,7 +1,7 @@
 ---
 title: "Q&A Remix With Mike Rastiello "
-date: 2025-01-14T17:01:00.000Z
-draft: true
+date: 2025-01-15T04:35:00.000Z
+draft: false
 ---
 ![](/images/upload/img_3007-1-.jpg)
 
