@@ -1,0 +1,26 @@
+---
+title: The Trick to Getting Into Trick of the Tail and Genesis
+date: 2025-01-16T10:47:00.000Z
+draft: false
+---
+
+
+![](/images/upload/img_3923.jpg)
+
+*The Squonk is of a very retiring disposition and due to its ugliness, weeps constantly. It is easy prey for hunters who simply follow a tear-stained trail. When cornered it will dissolve itself into tears. True or False?*
+
+I first learned these words in late 1976, months after *Trick of the Tail* was released. I memorize them because Kevin’s older brother Sean told us to, and I wanted to impress Sean more than anything.                                                                                                                                                                                                                                                                               
+
+I met Kevin as a high school freshman; I had just left the public school system for a private, Catholic high school and I had no friends. Everyone else came in with a ready made clique. I knew no one. Kevin - who was kind-hearted to a fault, befriended me. Not only did he take me into his inner circle, but he helped me fit in by teaching me about prog music, which this circle was obsessed with. I willingly went along because I wanted friends, and because the music Kevin was introducing me to was something new and wild to me. I wanted to know everything about it. I was a Zeppelin girl at the time, also dabbling a little in the Grateful Dead (I would become a full fledged deadhead the next year). Prog rock was so out of my realm that I could only be intrigued by it. Soon, that intrigue turned to obsession thanks to Sean.
+
+Sean was three years older than us. He was hot in an aloof way and cool in ways I only dreamed of. And he was always nice to us, his little brother’s friends. When he saw a few of us had interest in some of the music he listened to, he took it as an opportunity to school us in all things Genesis and prog rock. 
+
+Rather than start at the beginning, Sean introduced us to *Trick of the Tail,* the seventh studio album by Genesis, which had just come out in February. It was the first album they made after Peter Gabriel left the band and Phil Collins took over as drummer. I didn’t know much about either musician - Gabriel wouldn’t release his stellar solo debut until the next year - but I listened intently as Sean told us about their careers up until that point. Kevin of course knew most of this already, but I was an eager student and Sean lectured on behalf of me. If there was such things as Ted Talks back then, Sean would have been a master.
+
+I can’t say I loved *Trick of the Tail* from the first needle drop, but I was *interested* in it. It was compelling. It was different. I read along with the lyric sheet, asking Sean pertinent questions, taking everything in. Kevin was ahead of me in listens and took to his drums in the corner of the room trying to match beats. Then Sean made me an offer I couldn’t refuse: weed and headphones. I accepted both and he put the needle back on “Dance on a Volcano” and I listened again. It was one of the best musical experiences I ever had, and *Trick of the Tail* became one of my favorite albums.
+
+I ventured out into other Genesis albums after that, becoming especially enamored of “Supper’s Ready” on *Foxtrot*. I loved how avant garde they were, how they were worlds away from what I was currently listening to. How did I not know of this music? Why was I bothering with Led Zeppelin and their hobbits when Genesis and their mythical stories and deep lyrics and bombastic musical adventures were right there? It had gone beyond impressing Kevin and Sean; I liked Genesis well enough without that. That fateful day spent in Kevin’s room listening to music changed the way I would listen to music forever. It changed my perception of what was out there. I went on to listen to Emerson, Lake, & Palmer, and fell in love with Yes. I followed Gabriel’s solo career, and I finally got to see Genesis live in 1978 at Madison Square Garden, where Gabriel showed up at the end to play drums on “I Know What I Like.” I was glad to know the lore enough to know what I was seeing was very special. 
+
+*Trick of the Tail* and Genesis didn’t become favorites just because of the musicianship, the lyrics, the overall feel of the album. They became a loved album because of the way I discovered them, the circumstances surrounding my first listen. Sean - a high school senior! - took such care to lead us into a music genre we weren’t familiar with, and did it with a passionate knowledge that bordered on reverence. I took that reverence to heart; I appreciated what Sean brought into my life and treated the music in accordance with its perceived importance. I learned about Banks and Rutherford and Hackett in addition to Collins. I borrowed other Genesis albums from Kevin and Sean. I listened intently. And when Sean gave me homework to memorize that paragraph about the creature in “Squonk,” I went home and did just that.
+
+It is a testament to Sean’s perseverance that I still to this day remember every sad, tearful word, and that every time I break out *Trick of the Tail* I think of him.
