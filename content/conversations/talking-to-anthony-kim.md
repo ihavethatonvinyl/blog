@@ -3,6 +3,7 @@ title: "Talking to Anthony Kim "
 date: 2025-01-16T03:08:00.000Z
 draft: false
 featuredImage: /images/upload/ak.jpg
+featuredImageCap: talking about Beatles and Dylan, Amoeba Records, and more
 ---
  *It's really emotionally affecting for me in particular. It makes me think a lot about mortality. It makes me think a lot about the way that our memories work. It's because the way it was recorded, where, basically he was destroying the tapes as he was looping them. It sort of makes me think about the way that our memories sort of crack and fade over time...*
 
