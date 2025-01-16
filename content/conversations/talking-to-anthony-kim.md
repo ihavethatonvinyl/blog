@@ -1,10 +1,10 @@
 ---
 title: "Talking to Anthony Kim "
-date: 2025-01-15T20:48:00.000Z
+date: 2025-01-15T23:09:00.000Z
 draft: true
+featuredImage: /images/upload/anthony.jpg
 ---
 ### So tell us a little about yourself.
-
 
  I'm Anthony Kim, I'm AK Lingus on blue sky. I am an attorney in Southern California. I live in the Inland Empire, which is Riverside and San Bernardino counties, more or less. It's about 45 miles east of Los Angeles.  I wrote and self published a book a couple of months ago called The Secret Chord, which is available at link in bio, as they say. And yeah, that's pretty much me. I've been collecting records now since 2012, over a decade.
 
@@ -18,74 +18,42 @@ So what made me pick it up again was my best friend from high school, Mark. So M
 
 ### Do you have a white whale record?
 
-m, I actually have two of them. I'm fairly certain I'm never going to be able to land them, but they are the two words, like, if I get them, I'm pretty much done. So the first one is a test pressing of since I left you the the avalanches album. It was originally just called the album, and the original version that the avalanche put together had a ton of extra samples that there was just no Chancers they were going to clear. I believe one of the songs had a sample of dialog from Midnight Run the movie with the near Charles Grodin. There were a couple other samples that they ended up having to excise. There was an entire song that they ended up cutting. I forgot what it's called. It's like with my baby or something like that, but, but, yeah, so the the original version of the album was pressed to wax, and then they had to strip out a number of those samples and then put out the version that everybody knows today. Interestingly enough, there are a couple different versions of the album on vinyl, like the US version, they actually had to re record a couple of the songs because they lost even more of the rights to the sample. So like frontier psychiatrist, they had to re record the vocal samples, which makes it sound a lot different and a lot worse. But yeah, I'm lucky to have a UK version that has all the original samples. So that's one of the my white whales, the test pressing for that album. And the other one is also a test pressing. It's the test pressing for the original blood on the tracks. You know that the for record store data, they actually put out a version of the test pressing, which I have here real quick. 
+I actually have two of them. I'm fairly certain I'm never going to be able to land them, but they are the two records, if I get them, I'm pretty much done. So the first one is a test pressing of *Since I Left You,* the Avalanches album. It was originally just called *The Album*, and the original version that the Avalanches put together had a ton of extra samples that there was just no chance they were going to clear. I believe one of the songs had a sample of dialog from "Midnight Run," the movie with Charles Grodin. There were a couple other samples that they ended up having to excise. There was an entire song that they ended up cutting. -o the the original version of the album was pressed to wax, and then they had to strip out a number of those samples and then put out the version that everybody knows today. Interestingly enough, there are a couple different versions of the album on vinyl, like the US version, they actually had to re-record a couple of the songs because they lost even more of the rights to the sample. So like *Frontier Psychiatrist*, they had to re-record the vocal samples, which makes it sound a lot different and a lot worse. I'm lucky to have a UK version that has all the original samples. So that's one of the my white whales, the test pressing for that album. And the other one is also a test pressing. It's for the original *Blood on the Tracks*. You know that for Record Store Day, they actually put out a version of the test pressing, which I have, the record store version of the *Blood on the Tracks* test press. Yeah,it's fantastic. I've come to the opinion over the years that  the original version that was  recorded in New York, is the superior one. It's not as commercial, it's a lot more downbeat. It's almost entirely acoustic. It's just him and his guitar, and then one of the band members of Deliverance who he recorded with in Minnesota, I get that mixed up, but it was just him and a bass player, basically in New York that recorded all of these songs. And the original test pressing in Amoeba records in LA used to have a copy of it for something like 10 or $20,000 or something. And obviously that's something I can never afford. But if I ever, you know, win the lottery or something like that...
 
-Yeah, so that's the record store version of the blend of tracks. Test press. Very cool. Yeah, it's, it's, it's fantastic. I'm I've come to the opinion over the years that the the original version that were was all recorded in New York, is the superior one. It's not as commercial, like, it's a lot more downbeat. It's almost entirely acoustic. Like, it's just him and his guitar, and then one of the band members of deliverance who he recorded with in Where did he record with deliverance? In Minnesota, I get that mixed up, but it was just him and a bass player, basically in New York that recorded all of these songs. And, um, the original test pressing um amigo records in LA used to have a copy of it for something like 10 or $20,000 or something. Oh, wow. That Yeah. And, um, and obviously that's something I can never afford. But if I ever, you know, win the lottery or something like that, 
+### What record do you own now that you consider your greatest acquisition?
 
-What record do you own now that you consider your greatest acquisition?
+So it wasn't so much a score as it was a gift. But it's a really nice story. I posted on a mission board for the band Phish for many years, and I made a couple of good friends on there. And one day, one of my friends said, I have a surprise for you. Message me your address and I will send it to you. I can tell you what it is if you really want, but I prefer that you be surprised. So I gave him my address, and about two weeks later,[*Disintegration Loops*] came in the mail.
 
-So it wasn't so much a score as it was a gift. But it's, it's, it's got, it's a, it's a really, really nice story. So, oh sorry, hold on, just one second, Buster. Buster got it. I piece of my phone case came off and he had this. So, okay, so I, I posted on a on a mission board for the band Phish for many years, and I made a couple of good friends on there. And
+![](/images/upload/image1-2-.jpeg)
 
-one day, one of my friends
+So I love this album. It's really emotionally affecting for me in particular. It makes me think a lot about mortality. It makes me think a lot about the way that our memories work. It's because the way it was recorded, where, basically he was destroying the tapes as he was looping them. It sort of makes me think about the way that our memories sort of crack and fade over time and become harder and harder to fully grasp, you know, just sort of like yellowing newsprints. And I wrote a little miniature essay about that on the (Phish) website. It was after one of my friends had passed away, and I guess he remembered it, and he remembered that I really liked this. So one of his friends was moving and had this box set, and was going to just throw it out, not even sell it, which you can sell it for quite a bit of money, but he was just getting rid of it. And he was like, No, I know somebody that could use it. So he just sent it to me for no money, just as a gift. And it's a sort of gift you can't really repay.
 
-said, I have a surprise for you.
+### That’s a great story.
 
-Message me your address and I will
+t makes me so happy thinking about it every time I take a look at this thing, and I have actually gone through it once. It's the sort of thing where you have to take it in chunks, because it is such a harrowing listening experience and it's so long, but I have listened to it all the way through, and there's a there's a live performance on CD that was done on the 10th anniversary of 9/11 which is also really, really cool.
 
-send it to you. I can tell you what it is if you really want, but I prefer that you have. Be surprised. So I gave him my address, and about two weeks later,
+### Tell me about your favorite record store.
 
-\[Disintigration Loops] came in the mail
+It's Amoeba Records I would say probably go there two or three times a month. There are other places in LA that I like a lot. I'm lucky also to have a pretty good record store in in the Inland Empire. It's called Rhino Records, like the label, but it's not affiliated with the label. It's located in Claremont, or it used to be located in Claremont. It's now located in Montclair, which is about 20 minutes away from me, but Amoeba is my favorite, for sure. I do kind of miss the old location.  Did you ever go to Amoeba Records the old location in Los Angeles?
 
-So I love this album. It's
+### I believe so, because I was there in 2010
 
-it's really emotionally affecting for me in particular. It it makes me think a lot about mortality. It makes me think a lot about, you know, the way that our memories work. It because it's the way, you know, the way that it was recorded, where, basically he was destroying the tapes as he was looping them. It sort of makes me think about, you know, the way that our memories sort of crack and fade over time and become harder and Carter to fully grasp, you know, just sort of like yellowing newsprints. And I wrote a little miniature essay about that on the website. It was after one of my friends had passed away, and I guess he remembered it, and he remembered that I really liked this. So one of his friends was moving and had this box set, and was going to just throw it out, not even sell it, which you can sell it for quite a bit of money, but just get rid of it. And he was like, No, I know somebody that uses so he just sent it to me for no money, just as a gift. And it's a sort of gift you can't really repay.
+So that would be the one where, the one that, was actually two stories. The location that it's in now, is still very, very big, it still stuns tourists, But the original, it really was like, going to Sears or Woolworths or something like that. But for records, it was just ridiculous. I can still remember, I still got in my mind's eye, where everything was, where the CD racks were, where the vinyl racks were. There was a glass case that had only rare 78s in it.
 
-That’s a great story
+![](/images/upload/image0-2-.jpeg)
 
-t makes me so happy thinking about it every time I take a look at this thing, and I have actually gone through it once. It's, it's, you know, it's the sort of thing where you have to take it in chunks, because it is such a harrowing listening experience and it's so long, but I have listened to it all the way through, and there's a there's a live performance on CD for the that was done on the 10th anniversary of 911 which is also really, really cool.
+### Do yo have a favorite live record?
 
-Tell me about your favorite record store.
+If we were talking about CDs it would probably be one of, like 300 Grateful Dead shows. Talking strictly vinyl, I would probably have To say (The Who's) *Live at Leeds.* The original version is perfect in its own way, like it's just like this beautifully curated slice of hard rock that I really love, and I like the crackling noises as well. I do have the the three LP version, that's the complete show that they were able to actually split up so that it's in chronological order. The CD version that came out in 2002 or whatever it was, they had to split it up so that all of *Tommy* was on one CD, and then all the other songs were on the other CD. But the way that the concert actually went, they played nine songs, and then all of *Tommy*, and then a couple more songs. So  the original *Live at Leeds* would probably be my favorite. There's a label called [Real Gone Music ](https://realgonemusic.com/)that's  pressing all of the original Dick's Picks, Grateful Dead Live series and I actually do have a couple of them. They're working with the Dead organization, so that they're they're able to have access to the actual original tapes, like early versions of the of the Dick's Picks on vinyl were were cut with digital transfers. But the ones that they're doing now are actually from the original analog tapes, and when they get to volume four, which is the the February 13 and 14, 1970 shows from the Fillmore east, that will probably take over as my favorite live album on vinyl.
 
-It's a media records I would say probably go there two or three times a month. There are other places in LA that I like a lot. I'm lucky also to have a pretty good record store in in the Inland Empire. It's called Rhino Records, like the label, but it's not affiliated with the label. It's located in Claremont, or it used to be located in Claremont. It's now located in Montclair, which is about 20 minutes away from me, but amoeba is my favorite, for sure. I do kind of miss the old location. I don't know. Did you ever go to amiibo records the old location in Los Angeles,
+### What’s the weirdest record you own
 
-I believe, because I was there in 2010
+*Destiny* by DJ Sabrina, the Teenage DJ, so like it's, it's, it's plunderphonics, it's mashups, and this particular mashup is, I think, three and a half hours long. It's  done so smoothly that you could mistake it for AI, but it's not, the the the artist has been very, very adamant that she does not use AI. There's a lot of, there's a lot more R & B influence in it than like something like Girl Talk, but I just love the fact that I have three and a half hour mas up mixtape on vinyl, and it sounds great.
 
-so, yeah, so that would be the one where, the one where that, when that was actually two stories, like, it's the location that it's in now, is still very, very big. Like, it's still like, stuns tourists, but the original, like, it really was, like, going to like Sears or Woolworths or something like that. But for records, it was just ridiculous. Like, I can still remember, like I still got in my mind's eye, like, where everything was, like, where the CD racks were, where the vinyl racks were, like, there was, like a glass case that had only, like rare 78 in it, like it was just
+### what’s your favorite vinyl buying story?
 
-going, yeah, yeah. So
+I told it on Twitter. But. I did want to relay it here, because I do enjoy it so much. So one of my other favorite record stores is is Record City in San Diego. It's moved now. It's moved closer to the beaches. But when I live in San Diego, it was in Hillcrest, which is a more artsy neighborhood of San Diego. It's also like a really big LGBTQ plus neighborhood.
 
-that's my favorite place for sur
+This was the same summer that  I actually started collecting records. And so one of the things that the owner would do is he would go to record shows, and hee would just buy lots and lots of records, and then just sort of stack them up on the floor, against the wall, so they would just sort of like stick out. And I was going through them, and found this original *Let it Be*, this is the Twin/Tone version, so like an original press from the 80s. And I was walking up to the counter with it, and somebody saw me with it, and he went up to me, and he said  "is that? Is that an original copy of *Let it Be*" And I said yeah. He said, I've, uh, I've never actually seen this before. Are you gonna buy it? And I said, yeah. And he said, "Can I hold it?" And I I looked at the I looked at him, I looked at the record store owner, and I looked it back and said, yeah, sure. So I gave it to him. He just held it, he just looked at it for couple minutes, and then just handed it right back to me. So it was one of those things where that's really struck me how much this hobby means to people. 
 
-do yo have a favorite live record?
-
-Um, so if we were talking about CDs, I mean, like, it would probably be one of, like 300 Grateful Dead shows,
-
-talking strictly vinyl,
-
-strictly vinyl, I would probably have To say live at leeds
-
-the original version is perfect in its own way, like it's just like this beautifully curated slice of hard rock that I really love, and I like the crackling noises as well. I do have the i. The three LP version, that's the complete show that they were able to actually, like, split up so that it's in chronological order, the CD version that came out in the 90s, like they had to, or in 2002 or whatever it was, they had to split it up so that all of Tommy was on one one CD, and then all the other songs were on the other CD. But the way that the concert actually went, they played nine songs, and then all of Tommy, and then a couple more songs. So yeah, and the the original live at Leeds would probably be my favorites. There's a, there's a label called Real God music that's that's pressing all of the original Dick's picks, you know, Grateful Dead Live series and, and I actually do have a couple of them. They, they, they're working with the dead organization, so that they're they're able to have access to the actual original tapes, like early versions, early versions of the of the Dick's picks on vinyl were were cut with digital transfers. But the ones that they're doing now are actually from the original analog tapes, and when they get to volume four, which is the the February 13 and 14, 1970 shows from the Fillmore east, that will probably take over as my favorite live album on vinyl.
-
-What’s the weirdest record you own
-
-Probably, probably this one. This is a destiny by DJ Sabrina, the Teenage DJ, so like it's, it's, it's plunder phonics, like it's, it's mashups, and this particular mashup is, I think, three and a half hours long, yeah, so like it's, it's it's done so smoothly that, like, you could mistake it for AI, but it's, it's not the the the artist has been very, very adamant that she does not use AI. And it's, it's, it's, it. There's a lot of, there's a lot more RMB refer, there's a lot more R and B influence in it than like something like Girl Talk, which definitely separates it from, you know, Girl Talk with athletes or somebody like that. But I just love the fact that I have three and a half hour mash up mix tape on vinyl, and it sounds great
-
-what’s your favorite vinyl buying story?
-
-I told it on Twitter. But. I did want to relay it here, because I do enjoy it so much. So one of my other favorite record stores is is record city in San Diego. It's moved now. It's moved closer to the beaches. But when I live in San Diego, it was, it was in Hillcrest, which is a more artsy neighborhood of San Diego. It's also like a really big LGBTQ plus neighborhood, which certainly helps and
-
-and
-
-I happened to be in there.
-
-This was the same summer that I, I actually started collecting records. And so one of the things that the owner would do is he would, he would go to records to like record shows, and he was by, he would just buy lots and lots of records, and then just sort of stack them up on the floor, against the wall, so they would just sort of like stick out like a toucher squad. And I was going through them, and I found this an original. Oh, wow, yeah. Let it be, this is the twin town version, so like an original press from the 80s. And I was, I was walking up to the counter with it, and somebody saw me with it, and he went up to me, and he said, is that? Is that an original copy of let it be? And I said, Yeah. He said, it from the from the 80s twin tone. I said, Yes, it is. He said, I've, uh, I've never actually seen this before. Um, are
-
-you gonna buy it? And I said, Yeah. And he said,
-
-Can I hold it? And I I looked at the I looked at him, I looked at the record store owner who just gave me one of these, and I looked it back and like, Yeah, sure. So I gave it to him. He just held it, he just looked at it for couple minutes, and then just handed it right back to me. So, yeah, it was, it was one of those things where it's like, man, like, that's it really struck me how much
-
-this hobby means to people. Yeah, and
-
-you knew you had something special in your head. Yeah, that's great
-
-Anthony Kim is a legal aid attorney in Southern California. His first novel, The Secret Chord, was self-published in September 2024 and is available here: <https://www.amazon.com/dp/B0DFVM23H2>. He lives in the Inland Empire with a miniature poodle and a record collection that is taking over his life.
+*Anthony Kim is a legal aid attorney in Southern California. His first novel, The Secret Chord, was self-published in September 2024 and is available here: <https://www.amazon.com/dp/B0DFVM23H2>. He lives in the Inland Empire with a miniature poodle and a record collection that is taking over his life.*
