@@ -1,7 +1,7 @@
 ---
 title: Q&A Remix With Nick Costa
-date: 2025-01-17T08:02:00.000Z
-draft: true
+date: 2025-01-17T08:04:00.000Z
+draft: false
 ---
 
 
