@@ -1,11 +1,9 @@
 ---
 title: "The Special Love I Have for You: Discovering Badfinger’s Straight Up"
-date: 2025-01-16T22:01:00.000Z
-draft: true
+date: 2025-01-17T02:41:00.000Z
+draft: false
 author: Bill Zuka
 ---
-
-
 ![](/images/upload/badfinger1a.jpg)
 
 Would you lend a highly sought-after album to someone whose last name you didn’t know, had no clue where they lived, and might possibly never see again? That is how I was introduced to my all-time favorite album. 
@@ -20,9 +18,9 @@ In the fall of 1983, I was a freshman in high school wearing the clothes my olde
 
 One morning on the way to school, I heard “Baby Blue,” which would become my favorite song, on the car radio, and it left me wondering why I didn’t know who created this familiar-sounding masterpiece. When I sang a little bit to Scott, Music Vision’s new manager that afternoon he laughed and said “That’s Badfinger from *Straight Up.* Great album, but impossible to find.” I immediately asked, “Can you record it for me if I bring you a cassette?” His response: “Sure!”
 
-For the next three months, I asked Scott if he had a chance to record Straight Up, and he apologetically said no. The day after Christmas, I was told Music Vision would be closing for good at the end of the year, but not to tell anyone. I was devastated. Scott assured me he’d get the tape to me before the final closing, and he kept his word in a way I didn’t expect. 
+For the next three months, I asked Scott if he had a chance to record *Straight Up*, and he apologetically said no. The day after Christmas, I was told Music Vision would be closing for good at the end of the year, but not to tell anyone. I was devastated. Scott assured me he’d get the tape to me before the final closing, and he kept his word in a way I didn’t expect. 
 
-When I entered on New Year’s Eve, he handed me a tape and his personal copy of *Straight Up*, and told me to go home and record it, and bring back his album. I had no clue what the cover looked like until that moment. Unlike the other Badfinger Apple-era albums with humorous covers that didn’t depict the band on the front, Straight Up had the four members tightly composed on the front in a no-nonsense manner. Looking at it I thought, “This is going to be great.” As I listened, I couldn’t believe how strong every track was. Immediately recognizing the second to last track, “Perfection,” a St. Louis FM staple, added more unexpected excitement. The songs had wonderful melodies, hook laden middle-eights, and impressive short guitar solos. Most clocked in under four minutes. Badfinger were always compared to The Beatles. After their first hit, Paul McCartney's “Come And Get It”, their following hits, all originals sung by Pete Ham had a unique sound I would never mistake for the Fab Four, and I grew tired of that constant likening. Ham’s voice had a warm deep sincerity rarely found in rock.
+When I entered on New Year’s Eve, he handed me a tape and his personal copy of *Straight Up*, and told me to go home and record it, and bring back his album. I had no clue what the cover looked like until that moment. Unlike the other Badfinger Apple-era albums with humorous covers that didn’t depict the band on the front, *Straight Up* had the four members tightly composed on the front in a no-nonsense manner. Looking at it I thought, “This is going to be great.” As I listened, I couldn’t believe how strong every track was. Immediately recognizing the second to last track, “Perfection,” a St. Louis FM staple, added more unexpected excitement. The songs had wonderful melodies, hook laden middle-eights, and impressive short guitar solos. Most clocked in under four minutes. Badfinger were always compared to The Beatles. After their first hit, Paul McCartney's “Come And Get It”, their following hits, all originals sung by Pete Ham had a unique sound I would never mistake for the Fab Four, and I grew tired of that constant likening. Ham’s voice had a warm deep sincerity rarely found in rock.
 
 ![](/images/upload/badfinger2a.jpg)
 
@@ -39,3 +37,5 @@ There are *Straight Up* pressings from two countries I would still like to get. 
 Thank you Scott, wherever you are, for your kindness and trust have meant so much to me.
 
 *Bill Zuka is a software consultant living in San Diego, CA.*
+
+{{< youtube XonFZjuyc6E >}}
