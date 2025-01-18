@@ -1,0 +1,51 @@
+---
+title: "This Story's Old: Reckoning with Brand New's \"Deja Entendu\" in 2025"
+date: 2025-01-18T02:04:00.000Z
+draft: true
+---
+
+
+![](/images/upload/img_8235.jpg)
+
+
+
+
+The year is 2003. I am stuck in a brutal marriage - my second - and I am trying to extricate myself from the relationship but I don’t know how to do that. It wasn’t as easy with my first marriage where I just told him I wanted out and he complied (bitterly). There’s some mental/emotional abuse in this second marriage and I’m afraid to anger him. It’s a terrible time for me. I’m drinking, I have bouts with sleep paralysis, there are frequent panic attacks, sometime a dozen in a day. I have effectively separated myself from my heart and soul. There is nothing left in me. 
+
+I use music to soothe me. I go for long drives and listen to my CDs and contemplate what I’m going to do with my life. I cry a lot, and I choose music that pairs well with sobbing. It’s cathartic, and in my car, in that only place where I am alone and can let go, I release a million demons, a million sorrows.
+
+I was introduced to Brand New in 2002 when an online friend from the blogging world gave me a list of Long Island bands. Most of them were small bands that were still playing VFW halls, but he emphasized Brand New and told me to buy a copy of their album *Your Favorite Weapon*. So I did. It was straight up pop punk and while it wasn’t going to help me cry it out, I still enjoyed it. 
+
+When *Deja Entendu* came out in June of 2003, I was a little hesitant to listen to it. I wasn’t in a pop punk place. I needed morose lyrics and a slower cadence. I needed something deep and profound that would let my sorrows loose. My blogging friend who introduced me to the band begged me to listen. He said it would change my life. So I went to Mr. Cheapo’s and bought the damn thing. I drove to the park, pulled my car in right by the lake, moved my seat back, and dug in. 
+
+Brand New was making music for scene kids. Teens and early twenties. And here I was, a grown 40 year old in the throes of some psychosis, establishing myself as a real fan of this band. *Deja* was decidedly not pop punk. It was heavy in both theme and sound. It was more mature than their debut, fuller, more thoughtful, more in tune with what I was looking for. It was getting dark and I decided to head home while listening to “Play Crack the Sky,” the last song on the album. Oh, how it hit me in the heart. By the time I was turning into my neighborhood I was on the second listen of the song - a five and half minute seafaring metaphor for love - when I let out a half scream, half sob, releasing a few years worth of sadness and despair. That’s when I fell in love with Brand New.
+
+By the time *The Devil and God are Raging Inside Me* came out in November 2006, my world had changed. My marriage ended in March of that year; I had finally had enough. I was working my way back mentally and found the strength to end things. I wasn’t solely listening to sad music anymore. I wondered if I would *need* this new album the way I needed *Deja.* After one listen I declared *Devil and God* the greatest album I’d  ever heard. The themes were darker, the music heavier, the lyrics far above anything they’d written previously. Brand New were *it*. There was no other band that was doing it for me like that. I dove headfirst into Brand New fandom. I found meaning in their lyrics, I found strength in the music, I just really fucking enjoyed them, probably to a fault. 
+
+Fast forward to 2017. Brand New are such an important part of my life that it became my *brand*, especially on twitter. My profile read “world’s oldest brand new fan” and I had no qualms about admitting that. I was 53 years old at the time and did not care that the rest of the fanbase was 30 years younger than me. Love of their music was something I shared with my own kids, and that meant the world to me. 
+
+By the time I saw them for a second time (Kings Theater, October 2017) on the *Science Fiction* tour, it was made known that Brand New as a band was ending after this tour. The curtain was coming down on my favorite band and I was sad about it but was so happy to get to see them again. The new album got great reviews and I felt proud that they were going out on a solid note. 
+
+A month later it all fell apart. In November of 2017, my world exploded when frontman Jesse Lacey was [accused](https://www.vulture.com/2017/11/multiple-people-accuse-jesse-lacey-of-misconduct-with-minors.html) of being a sexual [predator](https://pitchfork.com/news/two-alleged-victims-of-brand-news-jesse-lacey-detail-years-of-sexual-exploitation-of-minors/). I will never forget when a friend sent me a link to the story that had just come out. I felt sick to my stomach. I felt betrayed. I felt embarrassed. I felt very, very bad. I immediately let my daughter know and I let myself feel the shock and pain that were running through me. It was over. Brand New was over, and not in the way they intended to go out. It was devastating. Eventually all my feelings rolled up into one big ball of anger. I was so mad at Lacey, so disgusted by his actions. My years long relationship with Brand New was done and it felt like an honest to god breakup. 
+
+There’s a whole catalog of essays out there about separating the artist from the art, but for a long time I couldn’t do it. I stopped listening to Brand New, I stopped wearing my Brand New hoodies, I took that sentence out of my twitter profile. I turned my back on the entire band and just tried to put it out of my mind. I felt like listening them was a betrayal to those whom Lacey had hurt and exploited. It felt gross. I read a lot of message board posts about how some people were selling off their records and merch, but there were the stalwarts who wouldn’t change their mind, who thought the band should continue on. I found it revolting.
+
+Brand New was canceled. They effectively disappeared. *Science Fiction*, initially lauded, was not present on year end lists. Jesse Lacey was persona non grata in the music world. And sometimes I wonder if there wasn’t an underlying dislike for Lacey already present before this happened, because people were very willing to throw him in the garbage heap when other artists have been accused credibly of similar acts and they weren’t canceled so definitively. 
+
+I went a few years without listening to Brand New at all. There was a hole in my heart and a very large hole in my playlist. I would have bouts where I felt like I needed to hear a specific Brand New song, I’d cue it up on Spotify, hit play, and feel immense guilt, as if an unseen hand was pointing at me, accusing me, judging me. But it was really me judging myself.  Part of me said it was ok, that I needed to hear them again, but there was a part that just wasn’t ready for that.
+
+The year is 2021. The pandemic has wreaked havoc on the world and on my (third and final) marriage. It’s late January and my husband of seven years, partner for fourteen years, tells me he’s leaving. I come home from a short trip and find that he has packed his shit up while I was gone and got himself a new apartment, without once mentioning to me that he felt sad or unhappy with our marriage. I’m devastated and shocked, and I turn to two things to help me get through it: weed and music. 
+
+Mostly it’s the National that helps me bring my feelings to the surface, but I went full-on emo as well. I’d always been into the emo scene but being dumped pushed me in deep. I knew just what I needed. I added “Play Crack the Sky” to my daily playlist. When it would come up, I’d cry about my marriage and I’d cry about Brand New and it felt…okay. It didn’t feel *good* to listen to the music, but it didn’t feel horrible either. But hearing that song made me realize I wanted that music back. I didn’t want to renew my relationship with a band that is long gone, but I realized that losing the music was detrimental to me and my emotional well being. 
+
+It’s very difficult to separate things here. I know what Lacey did was awful and wrong. But Brand New was more than this one person. Brand New’s music is a  living, breathing artifact to me. I can listen to it knowing that it comes from a bad person, and not have it condone what he did. And maybe I’m digging around here to justify taking *Deja Entendu* and *Devil and God*  out for a spin, but holy crap did that album hit just right for me after my marriage died. I questioned everything around me, including my relationship with religion, and I felt some of those songs deep down, felt them in my heart and soul. Do I feel guilty still when I listen. A little. 
+
+Perhaps I am taking this too seriously, and no one really cares if I am listening to the music of a canceled artist. But I care, and I am torn, and it kills me that I will never again listen to Brand New in a way that is pure and simple again. That Jesse Lacey took that from me and thousands of other people is sad and aggravating, but what he took from his victims is worse. Am I doing a disservice to those young woman by listening to a song? I don’t know. I really don’t know. I was hoping writing this out would clarify some things for me but I am no closer to reconciling with Brand New than I was yesterday. I will listen to *Deja* and I will listen to *Devil and God* and I will say a small confession to the gods above before and after. And that’s all I can do. I can never get the original feeling of listening to their music again, but it doesn’t have to feel special anymore. The music just has to be there for me, as it always was. 
+
+*Further reading: Nina Corcoran on [moving on after Brand New](https://www.vice.com/en/article/8xvyek/brand-new-jesse-lacey-essay?utm_source=noiseytwitterus)*
+
+*I Have That on Vinyl is a reader supported publication. If you enjoy what's going on here please consider donating to the site's writer fund: [venmo](https://account.venmo.com/u/Michele-Catalano2659) // [paypal](https://www.paypal.com/paypalme/goingitaloneny?country.x=US&locale.x=en_US)*
+
+![]()
+
+![]()
