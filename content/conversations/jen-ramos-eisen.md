@@ -1,7 +1,7 @@
 ---
 title: Jen Ramos Eisen
-date: 2025-01-18T19:38:00.000Z
-draft: true
+date: 2025-01-19T03:25:00.000Z
+draft: false
 featuredImage: /images/upload/image.png
 ---
  *I was walking past someone, and I overheard them talking about Bruce Springsteen, and I mentioned, oh, I got to see Bruce Springsteen at Asbury Park this past year. And they're like, no way you got to go to that show - which apparently is now like a legendary Springsteen show - and I felt like I gained so much sports writing credit.*
@@ -14,8 +14,7 @@ featuredImage: /images/upload/image.png
 
 Okay, so my parents are from the Philippines, and they immigrated to the states in the early 1980s and my mom left all her records behind at her parents in the Philippines, she never explained to me why, but it made sense, there was just a lot of stuff that got left in the Philippines. So when I visited with my family when I was 17, I was already deep into record collecting then, and I looked through my mom's records, and it's like the Beatles, Dionne Warwick, the Supremes. I was like, can I bring this back to the States? And my mom said, okay, sure, just, you know, we just have to make sure that we have room for it. And in the Philippines, there's this thing called a Balikbayan box, which is basically, say, like, a three foot by three foot box. And a lot of people use that to ship between the states and the Philippines, and we had brought stuff over for family there, so we still had the box, and we had to pack things in it, stuff that we couldn't get otherwise in the States. So I put as many records as I could in there among things like garlic chips or like different snacks that we could only get in the Philippines. I wrapped the records in there, and we added it as a checked bag and everything, I still have it in my collection here in the States. 
 
-### 
-Were there a lot of records in there that you wanted to listen to?
+### Were there a lot of records in there that you wanted to listen to?
 
 Yeah, I really wanted my mom's Motown Records. That was the big one. I was raised on a lot of Motown and disco from my parents. So I just wanted all of the Diana Ross, all of the Dionne Warwick,I just wanted to listen to all of that. 
 
@@ -75,7 +74,7 @@ Oh, yeah, who doesn't? Huge ska person, so I was like, let's go, I love this.
 
 ### Do you have a favorite record store?
 
-Yes, there is one that I would go to all the time. But I have a few. I like [11th Street Records](https://www.instagram.com/11thstreetrecords/?hl=en) in Las Vegas. Very good, just good vibes, good selection. A lot of stuff there. I went to college in the Bay Area, and, like, I went to school in Oakland, so I would go to Berkeley and just stop into Amoeba all the time. And I feel like I was just really lucky to spend so many formative years going to Amoeba. Yeah. So Amoeba, [1234 Go](https://1234gorecords.com/), Rasputin. Those are my, go-tos whenever I'm in the Bay Area.
+Yes, there is one that I would go to all the time. But I have a few. I like [11th Street Records](https://www.instagram.com/11thstreetrecords/?hl=en) in Las Vegas. Very good, just good vibes, good selection. A lot of stuff there. I went to college in the Bay Area, and I went to school in Oakland, so I would go to Berkeley and just stop into Amoeba all the time. And I feel like I was just really lucky to spend so many formative years going to Amoeba. Yeah. So Amoeba, [1234 Go](https://1234gorecords.com/), Rasputin. Those are my, go-tos whenever I'm in the Bay Area.
 
 ### So do you only go shop record shopping when you're in the Bay Area?
 
@@ -89,12 +88,6 @@ I​​'ve never been the one in Hollywood, but I've been to the San Francisco a
 
 Probably the Killer’s *Sam's Town.* It's something that I loved since I was a teenager, and just play as a comfort album.
 
-
-
 *Jen Ramos Eisen is a Central CA and Las Vegas based sports journalist who writes a lot about Minor League Baseball and labor. Their writing has been found at places like Defector, Baseball Prospectus, and the San Jose Mercury News. They are often found at concerts or record stores when they're not writing about sports or being terminally online. Find them on Bluesky at [@jenramose.online](<>)*
-
-
-
-
 
 {{< youtube xq8UDpZ9B7c >}}
