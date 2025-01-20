@@ -1,7 +1,7 @@
 ---
 title: "My Springsteen Journey: fandom, divorce, and reconciliation "
-date: 2025-01-19T16:22:00.000Z
-draft: true
+date: 2025-01-20T00:53:00.000Z
+draft: false
 ---
 ![](/images/upload/img_7789.jpg)
 
