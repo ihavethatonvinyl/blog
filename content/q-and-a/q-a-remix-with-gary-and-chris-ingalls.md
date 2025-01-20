@@ -2,6 +2,7 @@
 title: Q&A Remix with Gary and Chris Ingalls
 date: 2025-01-20T14:16:00.000Z
 summary: ""
+featuredImage: /images/upload/img_3828.jpeg
 draft: true
 ---
 *Chris Ingalls interviewed his older brother, Gary, who currently owns around 3,000 records. Chris and Gary became obsessive record collectors while they were raised on the collections of their two older sisters, Karen and Julie, mostly during the five years in the ‘70s when they were living in France. For about 25 years, starting in 1985 at the age of 20, Gary worked as a DJ in various clubs around Florida and also at weddings and private parties. He currently lives in Houston where he works part-time at a local record store, Music Town.* 
@@ -25,6 +26,8 @@ When I walk into a record store for the first time, I just walk in and wait to b
 Well, you know that we grew up pretty much straight-up, 100 percent classic rock. At the time, anything that wasn’t classic rock was “bad.” Little did I know that I would eventually become a huge fan of funk. I hold a very special place in my heart for the albums that opened that up to me. One of them would be James Brown’s *Live at the Apollo, Vol. II.* First of all, the cover has a very distinctive ‘60s vibe to it. At the time, I didn’t own a record that looked anything like it. It’s also a much more rigid and thick record than anything else I had from the 70s or 80s. And musically – that album just completely converted me to James Brown, so it’s kind of special to me.   
 
 There’s also a Parliament-Funkadelic album that’s actually more of an EP – *The Mothership Connection, Live from Houston*. the second side has some singles, and side one – Live in Houston, 1976, OH MY GOD. Just a total game changer for me. The James Brown record is sturdy as hell, it still holds up; the Parliament-Funkadelic one is rather beat up, but it’s still playable. I got them both around 1985 when I first started DJing and I was playing a lot of soul and doo-wop and everything started opening up for me and I started branching out into other musical styles. It was a combination of “I’m getting in the business, so I should really know what I’m talking about,” and “I’ve been listening to rock and roll for about ten years now and I’m kind of bored with what I’ve stuck myself with, and it’s time to find something new and interesting out there.”    
+
+![](/images/upload/screenshot-2025-01-20-at-3.28.24 pm.png)
 
 ### What’s a record that’s in your collection that you’re most eager to share with friends?
 
@@ -58,6 +61,8 @@ Some of the records I remember listening to that night were the Beatles’ “bl
 
 For me, headphones are for when I’m not with my stereo. I gotta hear the shit booming out of the speakers. But I do remember one nearly-religious experience listening to DJ Shadow’s *Private Press* on headphones. 
 
+![](/images/upload/screenshot-2025-01-20-at-3.29.15 pm.png)
+
 ### Do you have a favorite record store? 
 
 Crunchy Armadillo Records, an old record store in Orlando, will always hold a special place in my heart, mainly because it’s where I got my first 20 or 30 Zappa records. But the thing about record stores, it really comes down to is who’s behind the cash register more than anything else. You’ve got to have a decent selection of records, of course, but outside of that, who do I want to hang with and talk music with, and who do I want influencing my purchases?
@@ -75,3 +80,7 @@ The Blasters, *The Complete Concert* (a Record Store Day exclusive)
 What’s really blown my mind is how different my 45 collection habit is to my LP collection habit. They’re different in so many ways. For example, I’m so lax about the condition of 45s because they tend to be in bad shape. I collect them for the love of music, like I do LPs, but also because I look at them as little slices of music history. The fact that somebody bought this record contributed to the fact that it was well known. It affected, in a very minute way, its chart position – and I own this thing, and I love the fact that it has this kid’s name scrawled on it, or even better, an address sticker. These records were probably bought by kids who didn’t buy them because they were an investment, they bought them because they heard the song on the radio and loved it, and had to own it. 
 
 *Chris Ingalls is a Massachusetts native and lifelong music fan who learned how to write while stationed in the U.S. Navy for seven years as a broadcast journalist. Since 2016, he has contributed nearly 500 reviews and features for PopMatters and is a former contributor to the now-defunct experimental music website Tome to the Weather Machine. He’s also an occasional guest on the music podcast Losing My Opinion. He currently lives in the leafy suburbs of Melrose, Massachusetts with his wife, son, dog, two cats, and lots of records. He’s on Bluesky and Instagram @ingalls1969.*
+
+
+
+*[I Have That on Vinyl is a reader supported publication. If you enjoy what's going on here please consider donating to the site's writer fund: [venmo](<>) // [paypal]](<>)*
