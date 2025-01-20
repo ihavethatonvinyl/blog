@@ -5,8 +5,6 @@ draft: false
 ---
 ![](/images/upload/img_8235.jpg)
 
-
-
 [*Liner Notes is a regular column in which I  (michele) randomly - i use an actual randomizer - choose albums from my collection to write about*]
 
 The year is 2003. I am stuck in a brutal marriage - my second - and I am trying to extricate myself from the relationship but I don’t know how to do that. It wasn’t as easy with my first marriage where I just told him I wanted out and he complied (bitterly). There’s some mental/emotional abuse in this second marriage and I’m afraid to anger him. It’s a terrible time for me. I’m drinking, I have bouts with sleep paralysis, there are frequent panic attacks, sometime a dozen in a day. I have effectively separated myself from my heart and soul. There is nothing left in me. 
@@ -44,7 +42,3 @@ Perhaps I am taking this too seriously, and no one really cares if I am listenin
 *Further reading: Nina Corcoran on [moving on after Brand New](https://www.vice.com/en/article/8xvyek/brand-new-jesse-lacey-essay?utm_source=noiseytwitterus)*
 
 *I Have That on Vinyl is a reader supported publication. If you enjoy what's going on here please consider donating to the site's writer fund: [venmo](https://account.venmo.com/u/Michele-Catalano2659) // [paypal](https://www.paypal.com/paypalme/goingitaloneny?country.x=US&locale.x=en_US)*
-
-![]()
-
-![]()
