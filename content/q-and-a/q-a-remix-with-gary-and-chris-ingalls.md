@@ -1,6 +1,6 @@
 ---
 title: Q&A Remix with Gary and Chris Ingalls
-date: 2025-01-21T03:21:00.000Z
+date: 2025-01-21T03:36:00.000Z
 summary: Chris Ingalls interviewed his older brother, Gary, who currently owns
   around 3,000 records
 featuredImage: ""
@@ -84,4 +84,4 @@ What’s really blown my mind is how different my 45 collection habit is to my L
 
 *Chris Ingalls is a Massachusetts native and lifelong music fan who learned how to write while stationed in the U.S. Navy for seven years as a broadcast journalist. Since 2016, he has contributed nearly 500 reviews and features for PopMatters and is a former contributor to the now-defunct experimental music website Tome to the Weather Machine. He’s also an occasional guest on the music podcast Losing My Opinion. He currently lives in the leafy suburbs of Melrose, Massachusetts with his wife, son, dog, two cats, and lots of records. He’s on Bluesky and Instagram @ingalls1969.*
 
-*[I Have That on Vinyl is a reader supported publication. If you enjoy what's going on here please consider donating to the site's writer fund: \[venmo](<>) // \[paypal]](<>)*
+I Have That on Vinyl is a reader supported publication. If you enjoy what's going on here please consider donating to the site's writer fund: [venmo](https://account.venmo.com/u/Michele-Catalano2659) // [paypal](https://www.paypal.com/paypalme/goingitaloneny?country.x=US&locale.x=en_US)
