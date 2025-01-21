@@ -1,9 +1,10 @@
 ---
 title: Q&A Remix with Gary and Chris Ingalls
-date: 2025-01-20T14:16:00.000Z
-summary: ""
+date: 2025-01-21T03:21:00.000Z
+summary: Chris Ingalls interviewed his older brother, Gary, who currently owns
+  around 3,000 records
 featuredImage: /images/upload/img_3828.jpeg
-draft: true
+draft: false
 ---
 *Chris Ingalls interviewed his older brother, Gary, who currently owns around 3,000 records. Chris and Gary became obsessive record collectors while they were raised on the collections of their two older sisters, Karen and Julie, mostly during the five years in the ‘70s when they were living in France. For about 25 years, starting in 1985 at the age of 20, Gary worked as a DJ in various clubs around Florida and also at weddings and private parties. He currently lives in Houston where he works part-time at a local record store, Music Town.* 
 
