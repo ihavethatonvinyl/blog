@@ -1,9 +1,9 @@
 ---
 title: In Defense of The Police (the band)
-date: 2025-01-22T05:35:00.000Z
+date: 2025-01-22T07:02:00.000Z
 featuredImage: /images/upload/police.jpg
 author: Draven Marino
-draft: true
+draft: false
 ---
 The first record I ever bought myself was a copy of The Police’s *Reggatta de Blanc*. I purchased it on a trip to my home state of New Jersey in 2015; I was 15 years old. I can authoritatively date this purchase because I felt compelled to post the purchase on my Instagram. At the time, if you asked me to pick any tour to see, I would have considered saying a show on the *Outlandos D’Amour* tour.
 
@@ -41,4 +41,4 @@ So, if up to this point, your primary exposure to The Police has been greatest h
 
 I recently parted with 35 or so records from my little collection, as they just didn’t reflect my taste anymore (and I wanted some extra money to sink into new ones!); that copy of *Reggatta De Blanc* was not one of those records, and likely never will be.
 
-*Pittsburgh resident who loves exploring all genres of music, especially more niche subgenres. Especially fond of harsh noise, jangle pop, and MJ Lenderman. Creates harsh noise/experimental music/whatever else I feel like as [Clear Eyes, Full Heart](https://cleareyesfullheart.bandcamp.com/track/tetsuo-iron-man).*
+*Draven Marino is a Pittsburgh resident who loves exploring all genres of music, especially more niche subgenres. Especially fond of harsh noise, jangle pop, and MJ Lenderman. Creates harsh noise/experimental music/whatever else I feel like as [Clear Eyes, Full Heart](https://cleareyesfullheart.bandcamp.com/track/tetsuo-iron-man).*
