@@ -1,7 +1,7 @@
 ---
 title: In Defense of The Police (the band)
 date: 2025-01-22T07:02:00.000Z
-featuredImage: ""
+featuredImage: /images/upload/police.jpg
 author: Draven Marino
 draft: false
 ---
