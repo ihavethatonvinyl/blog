@@ -45,4 +45,4 @@ I recently parted with 35 or so records from my little collection, as they just 
 
 *Draven Marino is a Pittsburgh resident who loves exploring all genres of music, especially more niche subgenres. Especially fond of harsh noise, jangle pop, and MJ Lenderman. Creates harsh noise/experimental music/whatever else I feel like as [Clear Eyes, Full Heart](https://cleareyesfullheart.bandcamp.com/track/tetsuo-iron-man).*
 
-I Have That on Vinyl is a reader supported publication. If you enjoy what's going on here please consider donating to the site's writer fund: [venmo](https://account.venmo.com/u/Michele-Catalano2659) // [paypal](https://www.paypal.com/paypalme/goingitaloneny?country.x=US&locale.x=en_US)
+*I Have That on Vinyl is a reader supported publication. If you enjoy what's going on here please consider donating to the site's writer fund: [venmo](https://account.venmo.com/u/Michele-Catalano2659) // [paypal](https://www.paypal.com/paypalme/goingitaloneny?country.x=US&locale.x=en_US)*
