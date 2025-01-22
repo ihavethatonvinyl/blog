@@ -1,10 +1,12 @@
 ---
 title: In Defense of The Police (the band)
 date: 2025-01-22T07:02:00.000Z
-featuredImage: /images/upload/police.jpg
+featuredImage: ""
 author: Draven Marino
 draft: false
 ---
+![](/images/upload/police.jpg)
+
 The first record I ever bought myself was a copy of The Police’s *Reggatta de Blanc*. I purchased it on a trip to my home state of New Jersey in 2015; I was 15 years old. I can authoritatively date this purchase because I felt compelled to post the purchase on my Instagram. At the time, if you asked me to pick any tour to see, I would have considered saying a show on the *Outlandos D’Amour* tour.
 
 Fast forward almost a decade later to 2025: I still love The Police. I own all their records on various physical formats; As of writing this, I just spun my *Zenyatta Mondatta* vinyl about a week ago while I made dinner. To this day, I still think Stewart Copeland is one of the greatest to ever do it (argue with a wall).
