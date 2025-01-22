@@ -2,7 +2,7 @@
 title: In Defense of The Police (the band)
 date: 2025-01-22T05:35:00.000Z
 featuredImage: /images/upload/police.jpg
-author: Dre
+author: Draven Marino
 draft: true
 ---
 The first record I ever bought myself was a copy of The Police’s *Reggatta de Blanc*. I purchased it on a trip to my home state of New Jersey in 2015; I was 15 years old. I can authoritatively date this purchase because I felt compelled to post the purchase on my Instagram. At the time, if you asked me to pick any tour to see, I would have considered saying a show on the *Outlandos D’Amour* tour.
@@ -16,7 +16,6 @@ Those are some of my fan credentials, qualifying me (in my own mind) to discuss 
 In pitching this to the editor/creator of I Have That on Vinyl, she gave me an interesting perspective on this topic: 
 
 “Funny story, I got reamed on Twitter a few months ago for saying The Police are a band to be listened to on a greatest hits comp. I say this as a person who owns all their records, too!”
-
 
 This got me thinking: Given how many radio hits The Police had in their heyday, how many people who weren’t there to see their reign received their first (and maybe only) exposure to the band via greatest hits compilations?  
 
@@ -41,3 +40,5 @@ If you’re reading this, and are quick to lampoon The Police because you find �
 So, if up to this point, your primary exposure to The Police has been greatest hits albums or the odd radio run-in, I encourage you to give some of the deep cuts a chance. Sting, for all his insufferable qualities, is a hell of a songwriter, and the importance of the contributions of Andy Summers and Stewart Copeland are some of the best examples of complimentary, nuanced playing in mainstream pop and rock music history. The Police’s general sound would have had a much lower ceiling in less capable hands, and I think that is affirmed by their distinct and fairly consistent discography.
 
 I recently parted with 35 or so records from my little collection, as they just didn’t reflect my taste anymore (and I wanted some extra money to sink into new ones!); that copy of *Reggatta De Blanc* was not one of those records, and likely never will be.
+
+*Pittsburgh resident who loves exploring all genres of music, especially more niche subgenres. Especially fond of harsh noise, jangle pop, and MJ Lenderman. Creates harsh noise/experimental music/whatever else I feel like as [Clear Eyes, Full Heart](https://cleareyesfullheart.bandcamp.com/track/tetsuo-iron-man).*
