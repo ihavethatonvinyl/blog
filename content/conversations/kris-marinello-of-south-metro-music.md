@@ -6,9 +6,9 @@ summary: There's the stereotype of the grumpy record store guy, right? When we
   opened up, I was specifically trying to be like, hey, I don't want to be the
   grumpy record store guy. I say hi to everybody when they come in, give a
   smile, try to chit chat or whatever. Don't be the grumpy person.
-featuredImage: ""
+featuredImage: /images/upload/20250121_124033-1-.jpg
 ---
-![](/images/upload/20250121_124033-1-.jpg)
+![]()
 
 ### Let's start off by just introducing yourself and then tell me a little bit about how you got into music.
 
