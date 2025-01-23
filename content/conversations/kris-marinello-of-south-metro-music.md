@@ -1,7 +1,11 @@
 ---
 title: Kris Marinello of South Metro Music
-date: 2025-01-22T18:59:00.000Z
-draft: true
+date: 2025-01-23T01:53:00.000Z
+draft: false
+summary: There's the stereotype of the grumpy record store guy, right? When we
+  opened up, I was specifically trying to be like, hey, I don't want to be the
+  grumpy record store guy. I say hi to everybody when they come in, give a
+  smile, try to chit chat or whatever. Don't be the grumpy person.
 featuredImage: /images/upload/20250121_124033-1-.jpg
 ---
 ![](/images/upload/20250121_124033-1-.jpg)
@@ -20,7 +24,7 @@ Yeah. She actually didn't spin much vinyl in the house when I was a kid, it was 
 
 ### Let’s talk about your store. You opened a record store a few years ago.
 
-So I live in Minnesota, and almost every record store is in the city area. I'm in the south suburbs. I'd been a software engineer for a long time. I still do that on the side, but it was kind of towards the trail end of the pandemic. My record collection was growing. I was getting more and more records. I was reselling online just to buy more records, not even to make money, just so I could afford more records, and then my wife would see a package come at the door. It'd be like, Oh, no, I promise I sold another record so I could buy that record!
+So I live in Minnesota, and almost every record store is in the city area. I'm in the south suburbs. I'd been a software engineer for a long time. It was kind of towards the trail end of the pandemic. My record collection was growing. I was getting more and more records. I was reselling online just to buy more records, not even to make money, just so I could afford more records, and then my wife would see a package come at the door. It'd be like, Oh, no, I promise I sold another record so I could buy that record!
 
 There's nothing down here by me. I have to drive 25-30 minutes to get to any record store, and I wanted to open a store, so let's give it a shot.  I did an online store at first, with just a website and Discogs and that seemed to be going well enough that I was like, you know what? I'm just going to take the dive. I did that for about a year until I went back to software engineering on the side, but just spent a full year just getting it up and running, getting employees and everything. I have two great employees right now. I've had a bunch of different employees, but my manager, Peyton, messaged me even when I just posted a teaser on Facebook, like, hey, I'm going to open a record store, [South Metro Music](https://southmetromusic.com/), and then she messaged me right away. It worked out really good. We've been open since September 2021 so a little more than three years. Right now, the boom has kind of gone down a little bit, but people are still really into records, not not crazy, like they were in the pandemic. It seemed like record prices were insane for used records.
 
@@ -32,7 +36,7 @@ There's nothing down here by me. I have to drive 25-30 minutes to get to any rec
 
 I keep trying to figure that out. It seems like every time I try to get a lock on it, it changes a little bit. When we first opened, we kind of were focusing more on young people's music, as silly as that sounds, Not that I’m old, I'm a little under 40, but we're mostly focusing on kid stuff because kids seem to be getting into it a lot, and there's a lot of kids in the suburbs, ton of high schools and middle schools. So it was like, all right, let's make sure we have all the young people stuff like Ariana Grande, Billie Eilish, Taylor Swift, all of that. Yeah, it worked. Then we ended up getting older people too, more people my age, more dudes with glasses and beards like me, looking for specific kinds of records. We ended up having a ton of metal people at first, and we still have a good chunk of them, but I think a lot of them have graduated, and now they’ve gone on to college. Now it's a different clientele, more indie people. It's probably mostly 30s and under. But then you have the 60s, 50s, 60s and over, who are only looking for 80s and earlier records. Hardest part of having a store is figuring out what to put into it, because you can't just get everything. It's not like the old days, where there's tons and tons of money, and no matter what you get it is going to sell at some point, right? When you have a store, especially a smaller store, it seems like you really have to pick and choose. Like, alright, I think people are going to be into this one, and this one sold, and it's kind of in the same genre…the Cure album was really big for us, because people seem to really be into that 80s New Wave sound.
 
-### That’s my genre, 80s new wave
+### That’s my genre, 80s new wave.
 
 That was one of our best sellers, the Cure. But then you'll get stuff like Dream Theater, which is 90s prog rock, stuff that we sold ten copies of last week. They finally did a reissue of their album, *Images and Words*, and we sold ten of them already. And it's a random prog metal ban. I got a bunch because I love this album, a lot of older people probably get it online, and people end up buying in person too. You find out stuff that you just didn't realize. And then I try to also stock the store with stuff I'm really into, like  200s pop punk, Fat Wreck stuff. I'll always put out Lawrence Arms and Strung Out and stuff like that. Yeah. Also, I'm also really into Swedish melodic death metal, which sounds like a lot of oxymorons all in one. I'll always have that in stock, and then you'll get that customer that comes in and buys one, and you're like, oh, yeah, you're my guy.
 
