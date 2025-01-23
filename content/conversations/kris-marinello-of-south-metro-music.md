@@ -78,11 +78,11 @@ Not really. You're pretty much working through the distributors. And distributor
 
 ![](/images/upload/smm.webp)
 
-*So you do participate in Record Store Day.*
+### So you do participate in Record Store Day.
 
  Oh yeah, that's huge, that's our biggest day of the year every year. That's another thing that keeps you going, when you have that huge line of people that show up on Record Store Day, it's like, Oh, yep, there's all these people who are in line. All this is super cool. And seeing hundreds of people in one day is a pretty fun time.
 
-Do you do anything like listening parties?
+### Do you do anything like listening parties?
 
 Yeah, every once in a while, we'll do one of those listening parties that's promoted. It's hard to do a listening party if you don't have something to give away. It was the Lincoln Park new album listening party, which was pretty well attended. They have lanyards and posters and stickers to give away for that. So that's kind of fun.
 
