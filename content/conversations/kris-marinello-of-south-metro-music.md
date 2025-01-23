@@ -8,8 +8,6 @@ summary: There's the stereotype of the grumpy record store guy, right? When we
   smile, try to chit chat or whatever. Don't be the grumpy person.
 featuredImage: /images/upload/20250121_124033-1-.jpg
 ---
-![]()
-
 ### Let's start off by just introducing yourself and then tell me a little bit about how you got into music.
 
  My name is Kris Marinello. I live in Minnesota, and have been all over the place. I got into music mostly through my parents. That's probably a lot of people. My mom worked for Columbia, a subsidiary of Columbia Records in the 70s, and my dad just had a very eclectic taste of music. Some of my earliest memories are in my dad's car, throwing his mixtape cassettes on and just being like, what the heck is this? I can still picture ”Roland the Headless Thompson Gunner” coming on by Warren Zevon, on the same tape as “Love Cats” by the Cure. My mom listened to the lighter stuff, like Neil Young, Bob Dylan, Ben Morris and stuff. My dad listened to more weird stuff, like the Talking Heads, Zevon, that kind of stuff. Ever since I was a kid, I have just really been, really been into \[records]. 
