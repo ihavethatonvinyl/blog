@@ -4,6 +4,8 @@ date: 2025-01-23T04:22:00.000Z
 featuredImage: /images/upload/tmgss.jpg
 draft: false
 ---
+![](/images/upload/tmgss.jpg)
+
 My first exposure to the Mountain Goats was on YouTube, maybe six years ago, a video of them doing “No Children” live, where the audience was doing the heavy lifting in singing. The lyrics demolished me; the unbridled catharsis with which the audience sang floored me. There was such an obvious connection with John Darnielle and the band and I knew I had to find out more. Within a week, I was a superfan.
 
 I started with *Tallahassee*, the album “No Children” is on. At the insistence of tMG fans on twitter, I moved on to *Sunset Tree*. From there I listened to a Spotify collection of songs from all their albums. I was hooked immediately, and I could see where that fan connection with Darnielle came from. His songs are accessible, they are relatable (for the most part), they are sung with earnestness, with vulnerability, with love and pain and wistfulness. I looked at all his songs as little stories, vignettes about love and loss, about broken families and dysfunctional relationships, and I reveled in the tales being told. And then some of those tales hit close to home and my relationship with those songs changed, took on deeper meaning.
