@@ -1,0 +1,107 @@
+---
+title: Kris Marinello of South Metro Music
+date: 2025-01-22T18:59:00.000Z
+draft: true
+featuredImage: /images/upload/20250121_124033-1-.jpg
+---
+![](/images/upload/20250121_124033-1-.jpg)
+
+### Let's start off by just introducing yourself and then tell me a little bit about how you got into music.
+
+ My name is Kris Marinello. I live in Minnesota, and have been all over the place. I got into music mostly through my parents. That's probably a lot of people. My mom worked for Columbia, a subsidiary of Columbia Records in the 70s, and my dad just had a very eclectic taste of music. Some of my earliest memories are in my dad's car, throwing his mixtape cassettes on and just being like, what the heck is this? I can still picture ”Roland the Headless Thompson Gunner” coming on by Warren Zevon, on the same tape as “Love Cats” by the Cure. My mom listened to the lighter stuff, like Neil Young, Bob Dylan, Ben Morris and stuff. My dad listened to more weird stuff, like the Talking Heads, Zevon, that kind of stuff. Ever since I was a kid, I have just really been, really been into \[records]. 
+
+### So your mom worked for Columbia.
+
+ Yeah, a subsidiary of Columbia. She worked with Bad Company, as well as Jaco Pastorius. She worked with Ian Hunter a lot, from Mott the Hoople, and then she managed smaller bands. She was part of the management team for smaller bands back then. So she was able to go into Columbia Records locker or whatever, and just grab promo records. I have a ton in my collection that have the gold Columbia stamp on it that says promo, not for sale.
+
+### That must have been a huge influence on you, growing up with music, your mom bringing all those records home.
+
+Yeah. She actually didn't spin much vinyl in the house when I was a kid, it was mostly cassettes and CDs, but they still had the collection, and I can picture that. I was always fascinated by the Bruce Springsteen *75 to 85 Live* box set. When I was a 10 year old, a 12 year old, that looked like the coolest thing in the world. I didn't even know what a record was at the time. But yeah, they've migrated to the smaller formats pretty quick.
+
+### Let’s talk about your store. You opened a record store a few years ago.
+
+So I live in Minnesota, and almost every record store is in the city area. I'm in the south suburbs. I'd been a software engineer for a long time. I still do that on the side, but it was kind of towards the trail end of the pandemic. My record collection was growing. I was getting more and more records. I was reselling online just to buy more records, not even to make money, just so I could afford more records, and then my wife would see a package come at the door. It'd be like, Oh, no, I promise I sold another record so I could buy that record!
+
+There's nothing down here by me. I have to drive 25-30 minutes to get to any record store, and I wanted to open a store, so let's give it a shot.  I did an online store at first, with just a website and Discogs and that seemed to be going well enough that I was like, you know what? I'm just going to take the dive. I did that for about a year until I went back to software engineering on the side, but just spent a full year just getting it up and running, getting employees and everything. I have two great employees right now. I've had a bunch of different employees, but my manager, Peyton, messaged me even when I just posted a teaser on Facebook, like, hey, I'm going to open a record store, [South Metro Music](https://southmetromusic.com/), and then she messaged me right away. It worked out really good. We've been open since September 2021 so a little more than three years. Right now, the boom has kind of gone down a little bit, but people are still really into records, not not crazy, like they were in the pandemic. It seemed like record prices were insane for used records.
+
+### That's basically when I started getting into collecting again. Was during the pandemic. I had a turntable and I said, I'm going to buy a bunch of records now, because I had some, but I wanted more. It just seemed like a thing that everybody was doing during the pandemic, buying records.
+
+ It was such a good way to just escape all the craziness going on. Take a record out, throw your headphones on, and it's like, alright, I'm just going to pay attention to this record. Yeah, I’ve got the whole setup. It's got to sound real good, right? Let me see how good it sounds. I'm not going to pay attention to anything else, not going to be distracted or whatever. It was a crazy time, but it was especially so for records. I don't know if you remember, but Smashing Pumpkins records at that time were going for hundreds of dollars, even the represses of *Siamese Dream*. Yeah, *Mellon Collie* was impossible to find. Those would go for like, $200. Just stuff that's common now, in the pandemic people were paying crazy, 
+
+### Do you cater to a certain clientele at all? Do you find there's a certain kind of customer you have?
+
+I keep trying to figure that out. It seems like every time I try to get a lock on it, it changes a little bit. When we first opened, we kind of were focusing more on young people's music, as silly as that sounds, Not that I’m old, I'm a little under 40, but we're mostly focusing on kid stuff because kids seem to be getting into it a lot, and there's a lot of kids in the suburbs, ton of high schools and middle schools. So it was like, all right, let's make sure we have all the young people stuff like Ariana Grande, Billie Eilish, Taylor Swift, all of that. Yeah, it worked. Then we ended up getting older people too, more people my age, more dudes with glasses and beards like me, looking for specific kinds of records. We ended up having a ton of metal people at first, and we still have a good chunk of them, but I think a lot of them have graduated, and now they’ve gone on to college. Now it's a different clientele, more indie people. It's probably mostly 30s and under. But then you have the 60s, 50s, 60s and over, who are only looking for 80s and earlier records. Hardest part of having a store is figuring out what to put into it, because you can't just get everything. It's not like the old days, where there's tons and tons of money, and no matter what you get it is going to sell at some point, right? When you have a store, especially a smaller store, it seems like you really have to pick and choose. Like, alright, I think people are going to be into this one, and this one sold, and it's kind of in the same genre…the Cure album was really big for us, because people seem to really be into that 80s New Wave sound.
+
+### That’s my genre, 80s new wave
+
+That was one of our best sellers, the Cure. But then you'll get stuff like Dream Theater, which is 90s prog rock, stuff that we sold ten copies of last week. They finally did a reissue of their album, *Images and Words*, and we sold ten of them already. And it's a random prog metal ban. I got a bunch because I love this album, a lot of older people probably get it online, and people end up buying in person too. You find out stuff that you just didn't realize. And then I try to also stock the store with stuff I'm really into, like  200s pop punk, Fat Wreck stuff. I'll always put out Lawrence Arms and Strung Out and stuff like that. Yeah. Also, I'm also really into Swedish melodic death metal, which sounds like a lot of oxymorons all in one. I'll always have that in stock, and then you'll get that customer that comes in and buys one, and you're like, oh, yeah, you're my guy.
+
+### It’s always great when you walk into a record store and then, and the guy at the counter looks at your haul and says oh, this is cool. You're like, oh yeah, impress the record store guy.
+
+There's the stereotype of the grumpy record store guy, right? When we opened up, I was specifically trying to be like, hey, I don't want to be the grumpy record store guy. I say hi to everybody when they come in, give a smile, try to chit chat or whatever. Don't be the grumpy person. There’s a moratorium on talking bad about any artist if there's any person in the store. Because you never, you never want that. I remember going into a store and I was buying a Lawrence Arms record or something, and one of the employees said, “oh, that's not their best one.” It's what I'm buying, I'm trying to get the whole thing, and I'm in your store trying to buy it, and you're sitting here…I took a note at that point, and then when I opened up, I remembered that, and I was like, I never want anyone in my store to feel like that.
+
+### Do you have regular customers? Do you have a rapport with your customers that come in all the time?
+
+I think I mentioned in our emails that some of our customers I see more as my friends. And it's real. That's probably the coolest part about having the store is getting to meet people and talk to people about music. Because I love talking about music. I love listening to music. Love looking at good records. But you get people in from all walks of life, like some of our best and oldest customers, Jeff and Nick. It's a dad and his son. He's super into Prince, and his son got into record collecting, and they go all around looking for records. They've worked for us on Record Store Day. They'll come in, they'll be first in line. They'll buy their records for Record Store Day, and then they'll hop behind the table, and then they'll help us get records to everyone else. And I'll give them a little I'll give them credit for however many hours they work. They're always helping out. I've gone to concerts with a lot of customers. That's a great thing, too. It's like, hey, I like this band. There's a show in town. I know this customer bought this record from me. Next time I see him, I'm gonna see if they want to go to the show. And I've gone to shows with four different customers at this point. I went to go see Ride last year, and I didn't know anyone else who was into Ride, except this one customer who bought all our Ride albums we got in. Oh, nice. Absolutely, let's go to Ride. He didn't have anyone to go with either.
+
+### What a great way to meet people to shows with.
+
+Yeah, and we got another regular. Julio, he's from Costa Rica, and he's been a long term customer. He's invited us over to his house. I've been to his house a couple times. It’s so cool just hearing people's different stories. Another guy who's been like, you wouldn't know it by looking at him, because he still comes record shopping every few every like two weeks, who's gone through four or five different surgeries for different kinds of cancer, you wouldn't even know. I talked to him a little before Christmas. He's like, oh, yep, got another surgery coming up, and he's just walking into the store. He looks like he's in better shape than I am. Man, there's just so many regulars we have that it would take a long time to get through the all of them, but it's just real cool being able to connect with different people, different walks of life, people that I don't even necessarily agree with politically in some ways, because they'll Facebook friend you after and you're like, oh. I don't necessarily understand that part of their personality, but they come in and you still have a chat with them. You're still talking to people you wouldn't necessarily be talking to otherwise. And yeah, because when I was doing the software engineering, it was all from home because a pandemic happened, and it was looking like that was going to be indefinite, which it has been. I still talk to people from my old jobs, and it just stinks at home, not talking to anyone or just typing to people on the computer. Plus you're in a Slack call or a Zoom meeting or something like that, and it's just like, This is terrible. I want to get out and be around people.
+
+
+
+![](/images/upload/20250121_152843.jpg)
+
+### I worked in a record store for several years in the 80s, and I'm wondering how different is it now, with the approach being that most people don't hear an album for the first time on physical media, how do you compete with streaming?
+
+That's really a good question, and it's really difficult to do. We try to feature stuff on our Instagram page to show how cool a record is. We'll take it out of the sleeve, and we'll show the color vinyl, spinning it around. We kind of promote when a new album is coming out. So the new Kendrick Lamar has been out for a while on streaming. It's not coming out, I think, until February, on vinyl, and you kind of have to do incentives to get people into the store. Big part of that seems to be having used records for cheaper, because people come into the store for things like a new album, hopefully to buy it after they've streamed it, and then they'll try to discover something else. I think that's the main appeal of coming into the store, is maybe seeing an album cover that then they'll go check out on streaming. So we have two rows of records, and the back row has a featured record on it, and then we'll rotate our featured records. And people, hopefully, when they come in to buy whatever else they're buying, will be like, oh, let me check that out, they're featuring it here today. And then they'll go to streaming and listen to it and come back and buy it the next time. Or people checking out, if they're buying a record, we’ll say, hey, have you ever heard of this? Try not to be too heavy handed on salesy stuff. I'm a terrible salesperson. A lot of times I'll point someone to a cheaper version of something or downplay a record, like, this one's expensive, but we got the regular pressing over there, so sometimes to my own detriment. But there's really no competing with streaming.
+
+You kind of just have to have people who are into vinyl. You can't compete with $10 a month, especially now when new records can be $27 for for a cheap new record, for a single LP, and then a hip hop and pop, like Taylor Swift and like Kendrick Lamar, Whatever, even they're like $45 for a double LP, 45-50 bucks for what?
+
+When you ask how to compete, I don't think you *can* compete. You just have to have a different lane to be in, and this lane is for people who do want to actually own the music and stream. I can't believe they don't have exclusive rights for like, “this is only on Apple Music” or only on Spotify or whatever. I'm sure we're going to see that day at some point where, yes, there’s going to be artists who are only on particular streaming platforms, and then it's like, well, now you have to buy two streaming platforms like you need to buy two streaming services.
+
+### Or you can just go buy the album.
+
+Yep, exactly. And then you have it forever. And then you pass it on to your kids and your grandkids. Because now I got my parents albums from 50 years ago that still play great.
+
+My mom is what started me on vinyl. She was down her basement, and she had all the records, and she's like, can you get rid of these for me or whatever?  I'm not gonna get rid of these. I'm just gonna take them. I had them in my house for a little bit, and then I finally got a record player and hooked it up, and it was like, alright, I get this, I get it.I was fully in from that point on. 
+
+When I was going to record stores it seemed like it was a much more easy to run business than it is now.
+
+### Because that’s all there was. If you wanted to hear a song on demand,  you had to buy the record.
+
+Yeah, I remember going to any Best Buy, the CD aisles would be crowded. And then record stores in the 90s, 2000s that's where you got your concert tickets too. That's my biggest regret. If I had a store back in the day, I'd have been swimming in free concert tickets. I'd be able to go to any show I wanted. And now it's like, if you're lucky, you get a poster from the label for a record that they're trying to promote, but maybe you're not even going to stock in your store, and they don't really help out very much. So you kind of just have to get by on personality and having an interesting selection of records to buy. 
+
+### The record companies don't really work hand in hand with the record store?
+
+Not really. You're pretty much working through the distributors. And distributors will tell you this record label has a free add-on if you buy this record or if you host a pre-listening event, but it's all through the distributors. I shouldn't say just the distributors, the Record Store Day organization, they do stuff like that too, where they're adding promotions and add-ons to stuff. They actually seem to be a pretty good organization, in my opinion. Not every record store person I've talked to has that opinion of them. In terms of allocations, we're a little smaller store and everything, but it seems that I pretty much get what I order fairly with the number of stores that do Record Store Day.
+
+![](/images/upload/smm.webp)
+
+*So you do participate in Record Store Day.*
+
+ Oh yeah, that's huge, that's our biggest day of the year every year. That's another thing that keeps you going, when you have that huge line of people that show up on Record Store Day, it's like, Oh, yep, there's all these people who are in line. All this is super cool. And seeing hundreds of people in one day is a pretty fun time.
+
+Do you do anything like listening parties?
+
+Yeah, every once in a while, we'll do one of those listening parties that's promoted. It's hard to do a listening party if you don't have something to give away. It was the Lincoln Park new album listening party, which was pretty well attended. They have lanyards and posters and stickers to give away for that. So that's kind of fun.
+
+### That’s great, when the label works with you.
+
+Yes. I wish they would do it a little bit more, because it really does get people into your store. But then they just do very selective releases for their listening parties. I wish they would do a few more of those, but they're always fun. And you get people who aren't always in your store, they'll hear about it and they're just a big fan and want to get the the swag or whatever, and they'll buy a CD that they probably don't even intend to listen to, but they just want to have something from the band, which is, which is cool too. 
+
+### Do you have collectible records in this store?Anything that would be someone’s white whale record?
+
+Yeah, we try to get a good chunk of collectibles in the store. They're harder to find because people who have them either want to keep them or now they want to sell them themselves as just a regular reseller. One we just sold was *Trip Thru Hell* by C.A. Quintet. They’re a psychedelic rock band from Minnesota. It's a pretty cool psych album. They only made like 500 or 1,000 on a private press. We sold it for $2,000 to a local person, not even online. That was a big white whale. And there were a few people asking about it. We just sold a Hank Mobley Blue Note ‘57 pressing. Had a few Miles presses. We just sold a sealed Alice in Chains from the 90s that still had the price sticker on it. That was for *Jar of Flies* with *SAP* on it, which was a real cool white whale record. Yeah. What we have currently in store, NOFX, the compilation of their first EPS that came out in late 80s on green vinyl, it was before Fat Wreck even existed. And you look on the back cover, and they all look like little babies.. We have an Audiophile *Physical Graffiti* in the shop right now, sealed, also from the 90s Pearl Jam’s *Ten*, which is like, how did no one ever open this after all these years? Yeah, when you get stuff like thatI want to open and listen to it, but I can't open it. 
+
+One of the hardest parts about having a store is seeing all this cool stuff come in and it's like, this has got to go to go to someone else, not me, because I’ve got to make some money at some point. High dollar stuff is, if I sell this, that's a quarter of the rent right there. 
+
+### You're making people happy by giving them the things they've been looking for.
+
+Yep, exactly. Yeah. There's no better feeling when someone comes in and they see it right away on the wall or something. It's like, holy crap. I want that there. They almost don't even care to look at the record, because they've been looking for it for so long. They just want it, yeah, they just want it. Like, give me that. I know I did that when I saw Zappa *Shut Up and Play Your Guitar* box set at a record store one time. I was so excited to see it. And I was like, oh, I want that one off the wall. He said, do you want to take a look at it? I was like, nope, nope. This is mine. I'm gonna go home and listen to this.
+
+*Kris Marinello is a suburban Minnesota dad who has been lucky enough to own a record store for the last 3 years, South Metro Music in Burnsville. Say 'hi' in person if you are in the Minneapolis metro area! If not, check them out online at [www.southmetromusic.com](http://www.southmetromusic.com/) or <https://www.discogs.com/seller/SouthMetroMusic/profile> for the rarer stuff. Follow him on bluesky at @[southmetromusic.com](http://southmetromusic.com/) for updates from the shop and other ramblings.*
+
+
+
+I Have That on Vinyl is a reader supported publication. If you enjoy what’s going on here please consider donating to the site’s writer fund: [venmo](https://ihavethatonvinyl.com/liner-notes/my-springsteen-journey-fandom-divorce-and-reconciliation/) // [paypal](https://ihavethatonvinyl.com/liner-notes/my-springsteen-journey-fandom-divorce-and-reconciliation/)
