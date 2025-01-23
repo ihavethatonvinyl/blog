@@ -6,7 +6,7 @@ summary: There's the stereotype of the grumpy record store guy, right? When we
   opened up, I was specifically trying to be like, hey, I don't want to be the
   grumpy record store guy. I say hi to everybody when they come in, give a
   smile, try to chit chat or whatever. Don't be the grumpy person.
-featuredImage: /images/upload/20250121_124033-1-.jpg
+featuredImage: ""
 ---
 ![](/images/upload/20250121_124033-1-.jpg)
 
@@ -104,4 +104,4 @@ Yep, exactly. Yeah. There's no better feeling when someone comes in and they see
 
 *Kris Marinello is a suburban Minnesota dad who has been lucky enough to own a record store for the last 3 years, South Metro Music in Burnsville (13710 Nicollet Ave) Say 'hi' in person if you are in the Minneapolis metro area! If not, check them out online at [www.southmetromusic.com](http://www.southmetromusic.com/) or <https://www.discogs.com/seller/SouthMetroMusic/profile> for the rarer stuff. Follow him on bluesky at @[southmetromusic.com](http://southmetromusic.com/) for updates from the shop and other ramblings.*
 
-I Have That on Vinyl is a reader supported publication. If you enjoy what’s going on here please consider donating to the site’s writer fund: [venmo](https://ihavethatonvinyl.com/liner-notes/my-springsteen-journey-fandom-divorce-and-reconciliation/) // [paypal](https://ihavethatonvinyl.com/liner-notes/my-springsteen-journey-fandom-divorce-and-reconciliation/)
+I Have That on Vinyl is a reader supported publication. If you enjoy what’s going on here please consider donating to the site’s writer fund: [venmo](https://account.venmo.com/u/Michele-Catalano2659) // [paypal](https://www.paypal.com/paypalme/goingitaloneny?country.x=US&locale.x=en_US)
