@@ -4,6 +4,8 @@ date: 2025-01-24T03:44:00.000Z
 featuredImage: /images/upload/20250123_141111.jpg
 draft: false
 ---
+![](/images/upload/20250123_141111.jpg)
+
 *The Q&A Remix is a frequent column on IHTOV in which people from all walks of life answer a set of pre-written questions about their vinyl collection. Today we welcome Jeff Ash*
 
 ### Have you ever bought a record just for the artwork?
