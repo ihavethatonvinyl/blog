@@ -1,8 +1,8 @@
 ---
 title: "Q&A Remix With Jeff Ash "
-date: 2025-01-23T23:07:00.000Z
+date: 2025-01-24T03:44:00.000Z
 featuredImage: /images/upload/20250123_141111.jpg
-draft: true
+draft: false
 ---
 *The Q&A Remix is a frequent column on IHTOV in which people from all walks of life answer a set of pre-written questions about their vinyl collection. Today we welcome Jeff Ash*
 
