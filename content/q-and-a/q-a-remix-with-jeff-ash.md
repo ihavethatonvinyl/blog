@@ -20,9 +20,9 @@ draft: false
 
 If it’s one of my regular stops, I’ll start with the new arrivals among the used records. If it’s a store that’s new to me, I’ll start with the used soul and R&B records.
 
-### What’s the most treasured album in your collection and why?
+### What one record in your collection would you be most eager to share with new friends?
 
-What one record in your collection would you be most eager to share with new friends Probably one of my soundtracks from Black or blaxploitation films of the ‘70s. Cool music they likely haven’t heard from films they likely haven’t seen. Probably the “Shaft” soundtrack by Isaac Hayes from 1971. I bought it when I was 14. Hugely influential on my musical tastes. I had that record for years before I ever saw the film.
+ Probably one of my soundtracks from Black or blaxploitation films of the ‘70s. Cool music they likely haven’t heard from films they likely haven’t seen. Probably the “Shaft” soundtrack by Isaac Hayes from 1971. I bought it when I was 14. Hugely influential on my musical tastes. I had that record for years before I ever saw the film.
 
 ### Are you a completionist when it comes to artists? Which artist do you have the most records from?
 
