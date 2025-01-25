@@ -2,6 +2,10 @@
 title: "Collecting Across Generations: a talk featuring my daughter, Natalie"
 date: 2025-01-25T16:53:00.000Z
 draft: true
+summary: Well, the memory that just popped up is my brother and I calling the
+  station to request songs when we were, like, three and six and I remember
+  wanting to hear a song and the guys at the radio station thinking it was so
+  cool that kids were calling in requesting Korn.
 ---
 *I sat down with my daughter, Natalie Sparaccio, to talk about our records, and how we influenced each other’s music taste and collection.* 
 
@@ -49,6 +53,8 @@ Yea, it definitely wasn’t a phase.
 
 The red vinyl version of Brand New’s  *Devil and God*. I got that when Jesse got canceled, and people were immediately selling all of their Brand New merch. And they were rage selling their things for good prices, and I had some money saved in the plans of following them on their last tour. I'm like, I might as well buy people's merch with it. So that is my most rare album that I have, and probably the coolest one that I have. It was limited to 666 copies.
 
+![](/images/upload/img_8331.jpg)
+
 ### Tell me about some of your favorite records you own.
 
 So I stopped my record collecting, because even when I was still in New York, I moved back and forth between different family members a decent amount, and once I got settled back at home with you, I knew I was going to be moving to California, so I sold a lot of my records for money to come here with, and still have not restarted my collection because I live in a very tiny, tiny place. But there are records that I left behind and I did not sell. They are my friends’ bands, and ones that are signed, and they feel more special to me. I kept the more precious ones that I'll be excited to have and start fresh with when I start my collection back up again when I get my own place.
@@ -84,6 +90,8 @@ I look forward to restarting my record collection. I'm curious what it'll look l
 ### Okay, if you were going to start fresh today would be the first record you would buy.
 
 I think I'd start collecting by band. Right now I have all of Brand New, I don't have all of Foxing, so I think I'd start there. I think I'd complete the Foxing discography. And then I’d do the Death Cab For Cutie discography.
+
+![](/images/upload/bx.jpg)
 
  Oh, one special record I forgot to mention is[ Best Ex,](https://bestexnj.bandcamp.com/music) *Good at Feeling Bad.* I did the cover photography. It was my first and only time, so far, having my photography on a record. And it's really cool. Shout out to Mariel for having me do that, and to Sarah Simone for taking pictures with me for that, for the album release and for the music video.
 
