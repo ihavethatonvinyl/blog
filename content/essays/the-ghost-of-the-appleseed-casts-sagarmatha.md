@@ -1,17 +1,21 @@
 ---
 title: "The Ghost of the Appleseed Cast's Sagarmatha "
-date: 2025-01-24T17:51:00.000Z
+date: 2025-01-25T04:51:00.000Z
 featuredImage: /images/upload/image0-4-.jpeg
 author: Seth Chandler
-draft: true
+draft: false
 ---
 ![](/images/upload/image0-4-.jpeg)
 
 The Appleseed Cast reinvent themselves with each album, and I’m always interested to see where they’re going. I originally bought *Sagarmatha* on CD when it first came out, but during the pandemic I found a copy of the repress by Graveface Records at my favorite record store, [The Love Garden](https://www.lovegardensounds.com/) in Lawrence, Kansas. I wasn’t expecting *Sagarmatha* to be the soundtrack to the haunted house I was raised in, but life is strange. The album is ambitious. It’s intoxicating, almost otherworldly. It’s been stuck in my brain since I first heard it many years ago.
 
+\_\_\_\_
+
 I used to sleepwalk. I’d fall asleep in the haunted basement bedroom that I shared with my older brother, but I’d wake in my sister’s room, or sometimes in my parent’s bed, feeling like I was suffocating between them and coming to gasping for air, disoriented and terrified. I wasn’t sure if I was still dreaming. I never remembered how I’d gotten there, but it felt like teleportation. I’d close my eyes in my own bed, my head safely wedged under a pillow, and awaken, confused, on the floor, or in a different bed.
 
 I kept the pillow over my head to block out the sound of my brother’s clock radio—which he kept tuned to a local pop station that played dance hits late into the night—but also to stop me from seeing the ghost that hovered over us each night as I tried to fall asleep. My parents said I mumbled incoherently about the ghost in the basement on those nights. My sister said she’d seen the ghost, grinning like someone with a secret. It called to me, said my name once. Sometimes, I’d remember parts of the dreams that made me climb the basement steps. Those dreams had a sound, a background drone that turned into a faraway hum and crept closer.
+
+\_\_\_\_
 
 I was reminded of it the first time I heard *Sagarmatha*. It sounded familiar—hypnotic and haunting—but felt like those nightly sojourns up the basement steps: half-conscious, half-dreaming, propelled by forces beyond my control along the hallway leading to my parents’ and sister’s rooms. Chris Crisci’s whisper guides me through the moonlit hallway. His voice an echo, muffled by the misery of finding the place where ambition and regret meet, a sadness and pain fed by ruminating on the ghosts of the past and an inner voice that constantly pushes him to pursue whatever’s next.
 
