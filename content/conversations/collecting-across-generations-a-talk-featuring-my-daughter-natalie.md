@@ -10,7 +10,7 @@ featuredImage: /images/upload/img_5725.jpeg
 ---
 *I sat down with my daughter, Natalie Sparaccio, to talk about our records, and how we influenced each other’s music taste and collection.* 
 
-### Let’s start with a little introduction.
+### Let's start with an introduction.
 
 I’m Natalie. I'm a 35 year old photographer and barista in LA, originally from Long Island.
 
