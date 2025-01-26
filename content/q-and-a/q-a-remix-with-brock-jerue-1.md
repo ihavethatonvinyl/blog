@@ -1,8 +1,8 @@
 ---
 title: Q&A Remix With Brock Jerue
-date: 2025-01-25T16:34:00.000Z
+date: 2025-01-26T01:50:00.000Z
 featuredImage: /images/upload/img_4333.jpeg
-draft: true
+draft: false
 ---
 ![](/images/upload/img_4333.jpeg)
 
