@@ -8,8 +8,6 @@ summary: Well, the memory that just popped up is my brother and I calling the
   cool that kids were calling in requesting Korn.
 featuredImage: /images/upload/img_5725.jpeg
 ---
-![]()
-
 *I sat down with my daughter, Natalie Sparaccio, to talk about our records, and how we influenced each other’s music taste and collection.* 
 
 ### Let’s start with a little introduction.
