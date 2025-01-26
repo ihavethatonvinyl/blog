@@ -100,6 +100,10 @@ I think I'd start collecting by band. Right now I have all of Brand New, I don't
 
  Oh, one special record I forgot to mention is[ Best Ex,](https://bestexnj.bandcamp.com/music) *Good at Feeling Bad.* I did the cover photography. It was my first and only time, so far, having my photography on a record. And it's really cool. Shout out to Mariel for having me do that, and to Sarah Simone for taking pictures with me for that, for the album release and for the music video.
 
+__
+
+Two days after we had this conversation, Natalie went to On [Maritime Records ](https://onmaritimerecords.square.site/)in LA and found the above pictured Springsteen album. My influence is still there in both taste and action.
+
 *Natalie Sparaccio is a Long Islander living in L.A., where she is a barista and photographer. You can find her work at[ natsparaccio.com,](natsparaccio.com)* you can also find her on [instagram](https://www.instagram.com/natsparaccio/)  and [bluesky](https://bsky.app/profile/natsparaccio.bsky.social)
 
 *I Have That on Vinyl is a reader supported publication. If you enjoy what's going on here please consider donating to the site's writer fund: [venmo](https://account.venmo.com/u/Michele-Catalano2659) // [paypal](https://www.paypal.com/paypalme/goingitaloneny?country.x=US&locale.x=en_US)*
