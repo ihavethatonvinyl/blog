@@ -6,7 +6,12 @@ summary: Well, the memory that just popped up is my brother and I calling the
   station to request songs when we were, like, three and six and I remember
   wanting to hear a song and the guys at the radio station thinking it was so
   cool that kids were calling in requesting Korn.
+featuredImage: /images/upload/img_5725.jpeg
 ---
+
+
+![](/images/upload/img_5725.jpeg)
+
 *I sat down with my daughter, Natalie Sparaccio, to talk about our records, and how we influenced each other’s music taste and collection.* 
 
 ### Let’s start with a little introduction.
