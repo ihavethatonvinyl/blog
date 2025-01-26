@@ -1,5 +1,5 @@
 ---
-title: "Collecting Across Generations: a talk featuring my daughter, Natalie"
+title: Collecting Across Generations - a Talk With My Daughter, Natalie
 date: 2025-01-26T01:50:00.000Z
 draft: false
 summary: Well, the memory that just popped up is my brother and I calling the
