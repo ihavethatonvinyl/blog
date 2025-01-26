@@ -1,15 +1,13 @@
 ---
 title: "Collecting Across Generations: a talk featuring my daughter, Natalie"
-date: 2025-01-25T16:53:00.000Z
-draft: true
+date: 2025-01-26T01:50:00.000Z
+draft: false
 summary: Well, the memory that just popped up is my brother and I calling the
   station to request songs when we were, like, three and six and I remember
   wanting to hear a song and the guys at the radio station thinking it was so
   cool that kids were calling in requesting Korn.
 featuredImage: /images/upload/img_5725.jpeg
 ---
-
-
 ![](/images/upload/img_5725.jpeg)
 
 *I sat down with my daughter, Natalie Sparaccio, to talk about our records, and how we influenced each other’s music taste and collection.* 
@@ -104,6 +102,6 @@ __
 
 Two days after we had this conversation, Natalie went to On [Maritime Records ](https://onmaritimerecords.square.site/)in LA and found the above pictured Springsteen album. My influence is still there in both taste and action.
 
-*Natalie Sparaccio is a Long Islander living in L.A., where she is a barista and photographer. You can find her work at[ natsparaccio.com,](natsparaccio.com)* you can also find her on [instagram](https://www.instagram.com/natsparaccio/)  and [bluesky](https://bsky.app/profile/natsparaccio.bsky.social)
+*Natalie Sparaccio is a Long Islander living in L.A., where she is a barista and photographer. You can find her work at[ natsparaccio.com.](natsparaccio.com)* You can also find her on [instagram](https://www.instagram.com/natsparaccio/)  and [bluesky](https://bsky.app/profile/natsparaccio.bsky.social)
 
 *I Have That on Vinyl is a reader supported publication. If you enjoy what's going on here please consider donating to the site's writer fund: [venmo](https://account.venmo.com/u/Michele-Catalano2659) // [paypal](https://www.paypal.com/paypalme/goingitaloneny?country.x=US&locale.x=en_US)*
