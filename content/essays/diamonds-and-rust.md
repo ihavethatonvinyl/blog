@@ -1,6 +1,7 @@
 ---
 title: Diamonds and Rust
-date: 2025-01-26T15:35:00.000Z
+date: 2025-01-26T19:53:00.000Z
+featuredImage: /images/upload/screenshot-2025-01-26-at-7.50.34 pm.png
 author: Maja Kalajdzic
 draft: true
 ---
@@ -12,6 +13,13 @@ My introduction to this album did not happen then, nor did it happen while I was
 
 Back then, I would spend a lot of time smoking cigarettes out of my bedroom window listening to Baez’ rendition of “Jesse” and wallowing in some sort of undefined misery. This undefined misery became a very much defined one once I moved on to the album’s title track, *Diamonds and Rust*. Its bittersweet idolization of old times and old lovers resonated just a little too well for me. This feeling of someone’s ghost haunting your every step, feeling as though you cannot shake off their presence, being tied to them in unexplainable ways – an uncomfortable yet comforting sensation. I hold this album dear to my heart since it expresses this precise sentiment, this feeling of memory being your biggest vice, of a never-ceasing nostalgia that is curse and solace at once. It is a testament to grief, love and the infinite arrays of emotions in between.
 
+![](/images/upload/screenshot-2025-01-26-at-7.50.13 pm.png)
+
 It took me about fifty-eight relistens, a lot more tears shed, and a few drunk calls induced by this song (that I may or may not regret the day after) to realize that this song is about Dylan. Looking back, the “unwashed phenomenon” reference should have been a dead giveaway from the start, but I was too busy losing myself in my incoherent thoughts about this track to even attempt to think about it critically. When the heartbroken haze of the first few plays wore off, I started to go down the rabbit hole that is their lives together. Baez’ Spotify biography starts off with the sentence “With the exception of Bob Dylan, Joan Baez was the most important artist to rise from the folk music movement (…).” It struck me the wrong way the moment I saw it – in the very text that is supposed to give us a short run-down of who she is and what she does, Dylan is mentioned before her. It was upsetting at first: is she not her own person? Does she not have her own work to show for? And further: who am I to be getting mad on her behalf? Did she not knowingly build part of her career on his? Did she not (quite beautifully) cover “Simple Twist of Fate” on this very album, even imitating his tone of voice that she loved so fiercely at one point in time? These are the sort of questions I tend to ask myself when listening to “Fountains of Sorrow” at two in the morning while trying to piece my own life together. The answers may vary depending on who you ask, but one thing is certain: In the end her idealization of him and his vagueness, of his effervescent nature, of special moments long gone by – it all helped to cement him as this mythical figure that he now is not only to the public, but also to her.
 
 All this and more goes through my mind in the split second it takes to pass *Diamonds and Rust* when walking past my record shelves. With time I realized that these musings are somewhat unproductive and more reflective of my life than theirs. We (read: I) tend to idolize lost love, and *Diamonds and Rust* makes me painfully aware of this. Everyone who has loved and lost knows of this never-ending longing after a shadow, a voice you can never escape from because it is so deeply etched into your mind and soul. A sort of ancient lingering desire that is slowly shifting out of view with time but never fully gone. Baez’ legacy is forever undeniably tied to Dylan’s, and while she has seemingly found peace with this, I feel like I have not.
+
+
+*My name is Maja and I am a teacher and translator living in Vienna, Austria. I like to spend most of my free time listening to and discussing music with other likeminded people. As of now I own about 30 records and I’ve been collecting them very sporadically for about four years. My favorite vinyl that I personally own is “Prodavnica Tajni” by the band Bajaga i Instruktori.*
+
+> *I Have That on Vinyl is a reader supported publication. If you enjoy what's going on here please consider donating to the site's writer fund: [venmo](https://account.venmo.com/u/Michele-Catalano2659) // [paypal](https://www.paypal.com/paypalme/goingitaloneny?country.x=US&locale.x=en_US)*
