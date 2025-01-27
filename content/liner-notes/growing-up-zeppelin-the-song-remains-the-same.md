@@ -1,8 +1,8 @@
 ---
 title: Growing Up Zeppelin (the song remains the same)
-date: 2025-01-26T17:44:00.000Z
+date: 2025-01-27T02:37:00.000Z
 featuredImage: /images/upload/zep.jpg
-draft: true
+draft: false
 ---
 ![](/images/upload/zep.jpg)
 
