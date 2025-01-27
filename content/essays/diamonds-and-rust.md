@@ -1,9 +1,9 @@
 ---
 title: Diamonds and Rust
-date: 2025-01-26T19:53:00.000Z
+date: 2025-01-27T02:36:00.000Z
 featuredImage: /images/upload/screenshot-2025-01-26-at-7.50.34 pm.png
 author: Maja Kalajdzic
-draft: true
+draft: false
 ---
 Some rare things are simply so significant, so powerful, that you are not meant to forget them, not in this lifetime at least. You carry them with you, what does it matter if they gradually become lighter or weigh you down with time? They will stay regardless.
 
