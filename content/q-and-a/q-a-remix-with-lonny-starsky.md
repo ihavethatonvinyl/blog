@@ -16,7 +16,7 @@ draft: false
 
 ## Have you ever bought a record just for the artwork?
 
-Whenever I saw FIDLAR on my 18th birthday. I remember buying a METZ record that night because of how cool I thought the cover looked.
+When I saw FIDLAR on my 18th birthday. I remember buying a METZ record that night because of how cool I thought the cover looked.
 
 ## What is your most memorable vinyl buying experience?
 
