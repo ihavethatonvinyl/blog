@@ -14,7 +14,7 @@ draft: false
 
 *The Q&A Remix is a frequent column on IHTOV in which people from all walks of life answer a set of pre-written questions about their vinyl collection. Today we welcome Lonny Starsky of the Acid Flashback at Nightmare Beach*
 
-## Have you ever bought a record just for the artwork?
+### Have you ever bought a record just for the artwork?
 
 When I saw FIDLAR on my 18th birthday. I remember buying a METZ record that night because of how cool I thought the cover looked.
 
