@@ -48,6 +48,8 @@ My car at the time, a 2009 white Chevy Cobalt, was a harbor. In the car, I didn'
 
 But Singing Dog closed sixteen years ago and after 33 years and several dial changes, the [local indie rock station permanently left the waves early in 2024. ](https://columbusfreepress.com/article/cd101%E2%80%99s-origin-tale-classic-old-school-columbus)I was unfamiliar with the radio presets on the blue Hyundai Electra I’d rented**,** and changing the station while driving came with difficulty. The soothing dark roads, unlit except by the headlights of cars now appeared dangerous and long stretches of freeway were endured. Since my first year of undergrad, I’d bemoaned Columbus’s changes—what the city championed as revitalization often shrouded its aggressive welcoming of gentrification. Yet, who I was to demand a place I fled, to remain in stasis for my infrequent returns?
 
+![](/images/upload/20250127_192119.jpg)
+
 My planning of this trip was again frantic, coming together in the third week of December. This time boggled down less by bureaucracy than I was by my own disorganization. The final quarter of the year, like its predecessor, had beat my ass. At 2023’s end, I was in shock, trying to reconcile the death of a friend who I loved but had not been close with in recent years. My pain felt without merit. Guilt would not let me mourn. Such intellectualizing safeguarded me from fully accepting that his death had transpired.
 
 When I finally looked into the chasms of my grief, the grace period for sadness it seemed, had expired. Tensions at my primary job between my boss and me resulting from errors made by and falsely attributed to me, had reached an apex. My systems were off kilter. How could I explain? *I hope this email finds you well! I’ve come to the obvious realization that death is permanent and that’s fucked.* I lost my wallet and forgot to book a vision exam to renew my license. My secondary job, assisting an artist I long admired, dissolved in the wake of her sudden passing, dredging up the leaden sensation of mourning. I trudged toward the hope of a new year, though it felt like I was running in quicksand.
@@ -135,6 +137,5 @@ I wrote accompanying letters for each package, hoping to transport not just thei
 Driving away from the post office back to my rental I realized that in all these visits, I hadn’t bought a single item for myself.
 
 *Madison Jamar is a writer living in New York City. Her essays have appeared in Angel Food, Black Lipstick, Catapult, and more. She knows that Palestine will be free within our lifetime.* 
-
 
 > *I Have That on Vinyl is a reader supported publication. If you enjoy what's going on here please consider donating to the site's writer fund: [venmo](https://account.venmo.com/u/Michele-Catalano2659) // [paypal](https://www.paypal.com/paypalme/goingitaloneny?country.x=US&locale.x=en_US)*
