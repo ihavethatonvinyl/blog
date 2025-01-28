@@ -1,12 +1,17 @@
 ---
 title: "Q&A Remix With Lonny Starsky "
-date: 2025-01-27T19:44:00.000Z
+date: 2025-01-28T09:35:00.000Z
 summary: I started collecting them freshman year of high school because Hot
   Topic did those splatter pressings of all the Blink-182 albums. I thought they
   looked cool and I wanted to waste money on cooler stuff because they stopped
   making Bionicles.
-draft: true
+featuredImage: /images/upload/909b4921.jpeg
+draft: false
 ---
+![](/images/upload/909b4921.jpeg)
+
+
+
 *The Q&A Remix is a frequent column on IHTOV in which people from all walks of life answer a set of pre-written questions about their vinyl collection. Today we welcome Lonny Starsky of the Acid Flashback at Nightmare Beach*
 
 ## Have you ever bought a record just for the artwork?
