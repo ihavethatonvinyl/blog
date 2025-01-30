@@ -1,6 +1,6 @@
 ---
 title: "Laughing in Analog: How Cheech & Chong Led Me Down a Comedy Vinyl Rabbit Hole"
-date: 2025-01-29T22:00:00.000Z
+date: 2025-01-30T05:03:00.000Z
 summary: That night, I placed the needle on "Sister Mary Elephant" and
   experienced comedy in a way my YouTube algorithm had never suggested. The
   crackle before the first "SHUT UP!" The perfectly timed pause between "Dave's
