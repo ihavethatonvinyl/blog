@@ -1,6 +1,6 @@
 ---
 title: Q&A Remix With Jay Gerland
-date: 2025-01-30T11:25:00.000Z
+date: 2025-01-30T12:23:00.000Z
 featuredImage: /images/upload/image-2-.png
 draft: false
 ---
