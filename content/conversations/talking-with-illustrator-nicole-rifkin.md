@@ -1,8 +1,14 @@
 ---
 title: "Talking with Illustrator Nicole Rifkin "
-date: 2025-01-28T23:38:00.000Z
+date: 2025-01-30T16:50:00.000Z
 draft: true
+summary: " I want to be like Questlove. Every interview he does he's sitting in
+  front of his record collection. I want that in my life. I want to have a
+  record room."
+featuredImage: /images/upload/img_5546.jpeg
 ---
+![](/images/upload/img_5546.jpeg)
+
 ### Tell me a little bit about yourself
 
 I'm Nicole Rifkin. I'm an illustrator. I'm also an avid record collector. It's hurled me into debt in such phenomenal ways, but I truly love it. I have over 1,800 LPs, and I have over 2,000 45s. I have a room in my house dedicated to it but I'm moving out next month. As you know, divorce is fun (laughs), but at least I get all my stuff back, which is pretty cool. We were together for seven years, so we accrued a lot of stuff, and it's the main point of not contention. But I guess the thing we're having the most conversations about is the record collection, and that's because we were both extreme collectors. We would travel around the United States to go to different stores, like, I think the furthest we went was Denver, Colorado.
@@ -21,7 +27,7 @@ I started collecting when I was 13. My dad is an avid collector as well, and wit
 
 ### Oh, that is very cool.
 
-\[picture of poster]
+![](/images/upload/img_7289.jpeg)
 
 it's actually a really good thing to have up if you're dating someone and they're like, that's really fucked up. And you're like, Yes, you did not pass the vibe test. You failed pretty badly. But my dad got me that. So when I was 13, he was taking me to record stores every week just to get the dollar records and stuff. And I’m picking up, like Donovan, and I still own all my records from back then, and I was getting them based on the album art for the most part. That's really how I got into being an illustrator. It was album art.
 
@@ -55,13 +61,15 @@ Every Matador Pavement reissue I'm just like, you're killing me. I got the *Terr
 
 I really hate the last song on the record. I get why it didn't go over well with people, because it's such a dark, textural record, and then you end on this happy, weird note, and it's like something was amiss. But I've also been able, and lucky enough to work with Pavement a few times, and that was huge for me. And I got a text from Bob Nastanovich from France, and he was like, are you down to do a poster? And I was like, I'm gonna shit myself. You're Bob Nastanovich. I'm just some asshole who tweeted at you and I collect all your records, and I have a “Gold Soundz” tattoo and a “Range Life” tattoo. Am I the crazy one? Are you the crazy one?
 
+![](/images/upload/img_0008.jpeg)
+
 ### Tell me about your 45 collection.
 
 So I collect any type of 45s. Flexi, lathe, whatever. I first started doing it to collect SST 45s, because I think SST is insane. My dad used to be on the mailing list when I was younger. So we have all the Dinosaur Jr. stuff and Sonic Youth. I just couldn't believe it. I couldn't believe that when I was a baby, he was getting this in the mail. And so whenever I go to a record store, I look for [SST](https://sstsuperstore.com/) records, because they went from alt and hardcore to jazz. For some reason it was a very strange transition. And I collect them all. I collect the Fucked Up 45s. I have their logo tattooed on my thigh, which is something I got when I was 18, and Damien means a lot to me as a front person, because he's a large presence, and as a large presence everywhere I go, it meant a lot to me for to see a show, to see a band, where he goes out in the crowd and he's like, I'm taking up this fucking space, and no one can stop me. And it really influenced me to just take up space and not give a shit. So Fucked Up gets to take up an entire crate for me. I own every record by them. I own every 45 and I'm going to continue collecting until they break up, which I've heard tales that they have it planned out already because they do a Zodiac series with the numerical value on it. Apparently they've dictated when they're going to break up. But who knows? I don't know if that's something I was told when I was younger, and I believed thoroughly. I'm incredibly gullible, but I still think they have a lot planned, which I love. They have a whole internal narrative that I really respond to, because I got my master's degree in narrative illustration, and I love telling stories, not my own, other people's, which is kind of why I got into doing album art. Because even if a band is just writing an isolated song that's about a girl not liking them, or whatever, in context of a record, it tells a story in a period of someone's life. And I think that as an illustrator, as a visual artist, whatever you are, representing that time in their life with a single image, that's a narrative. And with Fucked Up, it's just such beautiful language that they use to tell a story like *David Comes to Life* is a great record. It's a great story. When I was younger, I really loved *Tommy*, so I loved *Quadrophenia* and stuff like that, records that tell a story. My dad is big on the Who, and he's a mod. It's kind of, yeah, it's par for the course, with a mod to like *Quadrophenia*.
 
 Fucke Up is a pretty big band now, I think, and they're still doing stuff that a small band would do with 45s. And I just love that. I love collecting, like they're catering to collectors. And also the art’s really cool and they're hiring people like me to do a drawing. I'm like, Oh, you just like art. That's so cool. You just want to tell your story.
 
-Art and music are perfect storytelling. It all goes together.
+### Art and music are perfect storytelling. It all goes together.
 
 It's a universal language. You know, like some people can't understand English, some people are blind. You can't see what I'm drawing, but you can hear the music. Or conversely, you can see but you can't hear. So ideally, whatever you're using to represent what you're trying to say can be communicated to everyone. And I think that in that form of media, like records, are a way to communicate with everyone, because you're combining all these different mediums. I think it's cool. I love it, and also I like how they look in my house. I want to be like Questlove. Every interview he does he's sitting in front of his record collection. I want that in my life. I want to have a record room.
 
@@ -77,6 +85,8 @@ The Dinosaur Jr. record before they were Dinosaur Jr.,, when it was just Dinosau
 
 Yeah, it's important to me. I used to do vinyl DJ nights. I would put on *Filth* by Swans to get people to leave the bar. Like, I thought it was really funny. And then the original drummer for Against Me, Warren, came up to me once, and was like, you need to stop doing that. Stop scaring people with Swans. This is an outdoor bar. People just hang out and I want to go to bed. So I'm putting on *Filth* every time. And people are like, Oh, she's doing it again. Oh, that's so funny. I put on that record I own, because you bring your crate to DJ and stuff, and I brought the Dinosaur record. My friend Caleb, he worked at a record store that I loved, and he came running. He was like, can't play that record, it's too precious. And I'm like, man, it's 20 years old now. I'm gonna play this record. It's been well loved. You know, I'm not, it's not very good anymore. You know, it's not mint, it's my record, and I listen to it. It's just like comic books for me. I'm reading them, I'm listening to them. That's my prized possession. And a test press of *Year of the Ox* by Fucked Up.
 
+![](/images/upload/img_3535.jpeg)
+
 ### Do you have any record that says “white whale” to you, something you’ve been on the lookout for?
 
 For a long time, I did. I finally got it. It took me five years to find it. Was the Krill EP about Pile with. It’s a 10 inch wherein they talk about emailing Rick from Pile and asking to play a show with them. And Rick says, Oh, we're really busy this summer. We can't and then Jonah talks about how they released a new record, and there's not a stinker on it. And I was like, That's my white whale. I'm going to find it. I harassed Dan Goldin about it for years. I was like, if you ever find a copy of it, let me know. And he's like, Nicole, you need to, like, stop asking me. And I found it [Long in the Tooth](https://www.instagram.com/longinthetoothrecords/?hl=en) in Philly. And I remember hearing angels, and being like, it's over,. And I was looking for the wrong record the whole time. It was a 10 inch, and I was looking for a 12 inch the time. I could have done a little bit of research instead of just looking for the album art. But I just remember that being a really significant moment for me in Philadelphia, and then immediately becoming disabled. Sorry, it's a little funny. I was in a car accident because I went to Sit and Spin in Philly. We were on the highway coming back, and I got hit by a car, and I had a spine injury. I was sitting in the hospital, like, kind of worth it, you know, a little bit worth it, because I got the record I've always been looking for, and I'm happy, but now I'm permanently disabled \[laughs].
@@ -86,8 +96,6 @@ It's funny now, you know, yeah, sure, it was a little bit funny then as well, wh
 ### It'd be a great way to do it, to have your records back and feel like you're home again.
 
 Yeah, the delineation between me and the records is non-existent. You know, there's a France Gall lyric that I have tattooed on me because I'm a millennial, and it's in script on my rib. It's classic. My records are a mirror through which everyone can see me. And that's great. Yeah, I, I always thought that that was accurate to me, that the records that I love can explain who I am as an individual, so getting them back is huge. I know you know that feeling where you get to keep or you get to get stuff back, it's important. It's monumental. And getting my 45s back, I met so many people because of my obsession with collecting records, with music, and my life is so much richer because of it. I'm poor, but my life is very, very full.
-
-
 
 *Nicole Rifkin (they/she) is an award-winning illustrator from Baltimore, MD. Their work has appeared on the cover of the New Yorker multiple times, and her visual storytelling has augmented pieces published by everyone from The Atlantic to Wired. Nicole's art style has soundtracked music from Bethlehem Steel, Titus Andronicus, and several others—not to mention a stuffed portfolio of live show posters. Mx. Rifkin's accolades include a Gold Medal from the Society of Illustrators, kudos from American Illustration and Creative Quarterly, and a devilishly funny online presence. They earned their MFA in Illustration from NYC's School of Visual Arts and graduated from Pratt Institute with a BFA in Communications Design. When not sleeping, thinking about the Criterion Collection, or collecting kitschy Elvis heads, Nicole can be found listening to music: most likely the band Pile.*
 
