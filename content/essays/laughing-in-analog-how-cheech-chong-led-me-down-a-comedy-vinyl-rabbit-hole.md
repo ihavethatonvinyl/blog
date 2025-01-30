@@ -7,7 +7,7 @@ summary: That night, I placed the needle on "Sister Mary Elephant" and
   not here" and "No, man, I'm Dave!"
 featuredImage: /images/upload/screenshot-2025-01-27-at-4.35.33-pm.png
 author: Ronald Gross
-draft: true
+draft: false
 ---
 ![](/images/upload/screenshot-2025-01-27-at-4.35.33-pm.png)
 
