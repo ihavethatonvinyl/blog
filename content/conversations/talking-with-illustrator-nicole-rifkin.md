@@ -1,7 +1,7 @@
 ---
 title: "Talking with Illustrator Nicole Rifkin "
 date: 2025-01-30T16:50:00.000Z
-draft: true
+draft: false
 summary: " I want to be like Questlove. Every interview he does he's sitting in
   front of his record collection. I want that in my life. I want to have a
   record room."
