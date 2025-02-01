@@ -1,12 +1,15 @@
 ---
-title: How "Brat" Helped Me FInd Autistic JOy
-date: 2025-02-01T05:47:00.000Z
+title: How "Brat" Helped Me FInd Autistic Joy
+date: 2025-02-01T09:59:00.000Z
 summary: As a recently diagnosed autistic adult, who's been labeled loud, messy,
   selfish and honest to a fault, I had been unwittingly living a brat summer for
   my entire life.
+featuredImage: /images/upload/brat2.png
 author: Jessica Gentile
-draft: true
+draft: false
 ---
+![](/images/upload/brat2.png)
+
 On “Girl So Confusing” Charli XCX expresses uncertainty over her status within the pop princess hierarchy. The speculation of her social standing among A-list celebrities may seem like an unrelatable scenario, yet as an autistic woman struggling to decipher the finer points of office politics, I immediately latched on to it. Few songs matched my inability to navigate my own ranking in the workplace, all the unspoken tension and competition between my coworkers and I that festered between us during awkward after-work drinks. “If only middle managers could work it out on the remix,” I joked with a fellow neurodivergent friend. She nodded in agreement and cited “I Might Say Something Stupid,” as her personal refrain, one she claimed as her own, long before “Brat” came along. But instead of wallowing in our anxieties as we might have in years past, we shrugged them off with a laugh and a smile. As I had come to learn, that’s brat.
 
 My dorky, day-job working friends and I might be a far cry from the hard-partying it girl, Charli envisions as the ultimate Brat archetype, and yet those of us who identify as autistic, ADHD, or otherwise neurodivergent, share an unlikely kinship with the “Brat” experience. As a recently diagnosed autistic adult, who's been labeled loud, messy, selfish and honest to a fault, I had been unwittingly living a brat summer for my entire life. I lead a parade of spilled drinks, rude questions and pop culture hyper-fixations into every unreadable room I enter. For the longest time, I viewed this as a deficit. It was Brat that taught me it was an asset.
@@ -28,5 +31,7 @@ As someone who frequently experiences negative comments for my inability to modu
 I’ll never forget the first time I heard “Brat,” I scrambled to make my toddler breakfast. Mentally, I was ruminating on day-old texts and dense work emails, whose subtext painfully eluded me. Physically, I spilled yogurt in a daze of distraction. At the time I was just looking for frothy pop music to escape my tangled mind, one where mental overwhelm and sensory overload are the default state. Instead I found music that embraced it.
 
 As my kid cried for more pancakes, I cried for a moment of peace. I almost shut the album off. And yet as frustrated as I was, I was also enthralled. I smashed a banana, while my daughter flung a sippy cup on the floor. Brash beats and even brasher lyrics burst out of my tiny iPhone speaker in tandem with our meltdowns. My body registered “Brat’s” liberated joy before my brain did. At the drop of a beat we started bouncing in our seats, arms waving in the air, a giddy flail of limbs breaking free from the rut of our morning routine, ready for the joy about to come.
+
+Jessica is a writer and librarian based in New Jersey. Her work has appeared in The Atlantic, Slate, Pitchfork among other publications. You can find her on [bluesky](https://bsky.app/profile/volumeknobjess.bsky.social)
 
 *I Have That on Vinyl is a reader supported publication. If you enjoy what's going on here please consider donating to the site's writer fund: [venmo](https://account.venmo.com/u/Michele-Catalano2659) // [paypal](https://www.paypal.com/paypalme/goingitaloneny?country.x=US&locale.x=en_US)*
