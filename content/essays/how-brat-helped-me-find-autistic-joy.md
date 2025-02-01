@@ -1,6 +1,9 @@
 ---
 title: How "Brat" Helped Me FInd Autistic JOy
 date: 2025-02-01T05:47:00.000Z
+summary: As a recently diagnosed autistic adult, who's been labeled loud, messy,
+  selfish and honest to a fault, I had been unwittingly living a brat summer for
+  my entire life.
 author: Jessica Gentile
 draft: true
 ---
