@@ -7,6 +7,8 @@ summary: " I’ve always loved to hoard things, and to hold something physical. 
 featuredImage: /images/upload/screenshot-2025-02-01-at-7.46.04 pm.png
 draft: true
 ---
+![](/images/upload/screenshot-2025-02-01-at-7.46.04 pm.png)
+
 *The Q&A Remix is a frequent column on IHTOV in which people from all walks of life answer a set of pre-written questions about their vinyl collection. Today we welcome writer Niko Stratis*
 
 ### Have you ever bought a record just for the artwork?
@@ -33,6 +35,8 @@ TOUGH call. I am always kind of weird about listening to music around people I d
 
 Depends on the artist for sure, but there are a lot of my favourites I try and make sure I have everything by. I have every Sleater-Kinney record (up until Janet left the band), every Grandaddy record, every Liz Phair record. I have a LOT of Beck records, and everytime i look through the “B” section of our shared collection (my partner and I have our collections on a massive wall in our apartment, yes it sucks to move) I’m reminded of how many fucking records Beck has put out.
 
+![](/images/upload/screenshot-2025-02-01-at-7.46.57 pm.png)
+
 ### What is/are your white whale records?
 
 I don’t know, and I wish I had a cool answer! It’s funny, I’m a collector, but I’m also not at all. I’m never chasing one specific record, but I’m always on the lookout for a select few. *Shake The Sheets* by Ted Leo and the Pharmacists, which is one of my favourites of all time, and is the only Ted Leo record I don't have on vinyl.
@@ -52,6 +56,8 @@ My dad for sure, but just my love of music in general. I’ve always loved to ho
 ### What are your first memories of listening to records?
 
 I have such a terrible memory, stemming from my years of alcoholism, but music is kind of my only tether to places and people. I loved house parties when we still spun records. I loved the party we had at a friend's apartment above a restaurant where we all had to invent a superhero and show up to the party in costume, choose an alignment and prepare for an epic showdown on the street at midnight. In the lead up to it, we were spinning *Pauls Boutique* on repeat and that record will always remind me of simpler days, lost friends, old homes. I also love listening to music with my fiancée because she’s a musician and inevitably she’ll pull out a guitar and try and learn a part while we spin.
+
+
 
 ### What’s your favorite record to listen to on headphones?
 
