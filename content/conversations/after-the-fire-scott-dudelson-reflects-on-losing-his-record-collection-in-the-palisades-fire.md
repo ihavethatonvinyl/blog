@@ -11,7 +11,7 @@ featuredImage: /images/upload/screenshot-2025-02-02-at-3.10.02 am.png
 featuredImageAlt: Christina House/LA Times
 featuredImageCap: Christina House/LA TImes
 ---
-![](/images/upload/scott.jpg)
+![](/images/upload/screenshot-2025-02-02-at-3.10.02 am.png)
 
 *Today's featured conversation is with Scott Dudelson, an entrepreneur from LA who lost his house and 8,000 of his records in the Palisades fire. Here, he talks about perspective and kindness as well as his losses.*
 
