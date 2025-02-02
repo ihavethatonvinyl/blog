@@ -13,7 +13,7 @@ featuredImageCap: Christina House/LA TImes
 ---
 ![](/images/upload/img_1223.jpeg)
 
-*Today's featured conversation is with Scott Dudelson, an entrepreneur from LA who lost his house and 8,000 of his records in the Palisades fire. Here, he talks about perspective and kindness as well as his losses. Photo credit: Christina House/LA TImes.*
+*Today's featured conversation is with Scott Dudelson, an entrepreneur from LA who lost his house and 8,000 of his records in the Palisades fire. Here, he talks about perspective and kindness as well as his losses.*
 
 ### First I just want to say I'm sorry for the losses you suffered. I know this is probably a very hard time for you, so I appreciate you taking the time to talk to me. So you lost your house as well as your community, how have you been coping?
 
