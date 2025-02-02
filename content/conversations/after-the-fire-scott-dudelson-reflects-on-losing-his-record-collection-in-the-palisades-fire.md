@@ -7,11 +7,11 @@ summary: It sucks, but what am I going to do? I'm going to either have a
   breakdown on it, or I'm just gonna just enjoy life, and I'm gonna buy the
   records I want, and maybe find a new way to refocus how I collect and what I
   collec
-featuredImage: /images/upload/screenshot-2025-02-02-at-3.10.02 am.png
+featuredImage: /images/upload/img_1223.jpeg
 featuredImageAlt: Christina House/LA Times
 featuredImageCap: Christina House/LA TImes
 ---
-![](/images/upload/screenshot-2025-02-02-at-3.10.02 am.png)
+![](/images/upload/img_1223.jpeg)
 
 *Today's featured conversation is with Scott Dudelson, an entrepreneur from LA who lost his house and 8,000 of his records in the Palisades fire. Here, he talks about perspective and kindness as well as his losses. Photo credit: Christina House/LA TImes.*
 
