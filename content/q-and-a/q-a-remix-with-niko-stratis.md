@@ -57,11 +57,11 @@ My dad for sure, but just my love of music in general. I’ve always loved to ho
 
 I have such a terrible memory, stemming from my years of alcoholism, but music is kind of my only tether to places and people. I loved house parties when we still spun records. I loved the party we had at a friend's apartment above a restaurant where we all had to invent a superhero and show up to the party in costume, choose an alignment and prepare for an epic showdown on the street at midnight. In the lead up to it, we were spinning *Pauls Boutique* on repeat and that record will always remind me of simpler days, lost friends, old homes. I also love listening to music with my fiancée because she’s a musician and inevitably she’ll pull out a guitar and try and learn a part while we spin.
 
-
-
 ### What’s your favorite record to listen to on headphones?
 
 Elliott Smith, *Figure 8*. It’s a little too depressing for my partner to listen to, so I like to spare her and listen to it on my own. It reminds me of living in a punk house in Alberta, which is where I lived when he died. Reminds me of headphones as a refuge in my little makeshift bed with a curtain hanging from the roof for a little privacy, and it reminds me of going for walks to smoke cigarettes by myself. I like to think about weird, kind of sad times, because it’s nice to remember getting through it all.
+
+![](/images/upload/screenshot-2025-02-01-at-7.47.47 pm.png)
 
 ### What genre is most represented in your collection?
 
