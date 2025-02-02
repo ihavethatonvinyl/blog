@@ -8,8 +8,8 @@ summary: It sucks, but what am I going to do? I'm going to either have a
   records I want, and maybe find a new way to refocus how I collect and what I
   collec
 featuredImage: /images/upload/img_1223.jpeg
-featuredImageAlt: Christina House/LA Times
-featuredImageCap: Christina House/LA TImes
+featuredImageAlt: ""
+featuredImageCap: ""
 ---
 ![](/images/upload/img_1223.jpeg)
 
