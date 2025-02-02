@@ -1,11 +1,11 @@
 ---
 title: Q&A Remix With Niko Stratis
-date: 2025-02-01T19:51:00.000Z
+date: 2025-02-02T03:03:00.000Z
 summary: " I’ve always loved to hoard things, and to hold something physical. I
   collected VHS tapes, cassettes, CDs. Video games. Everything was a collection
   to me, it gave me something to organize and catalog and build my life around."
 featuredImage: /images/upload/screenshot-2025-02-01-at-7.46.04 pm.png
-draft: true
+draft: false
 ---
 ![](/images/upload/screenshot-2025-02-01-at-7.46.04 pm.png)
 
