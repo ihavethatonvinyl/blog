@@ -7,7 +7,7 @@ summary: It sucks, but what am I going to do? I'm going to either have a
   breakdown on it, or I'm just gonna just enjoy life, and I'm gonna buy the
   records I want, and maybe find a new way to refocus how I collect and what I
   collec
-featuredImage: /images/upload/scott2.jpg
+featuredImage: /images/upload/screenshot-2025-02-02-at-3.10.02 am.png
 featuredImageAlt: Christina House/LA Times
 featuredImageCap: Christina House/LA TImes
 ---
