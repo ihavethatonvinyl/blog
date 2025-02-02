@@ -2,7 +2,7 @@
 title: After the Fire - Scott Dudelson Reflects on Losing His Record Collection
   in the Palisades Fire
 date: 2025-02-02T03:03:00.000Z
-draft: true
+draft: false
 summary: It sucks, but what am I going to do? I'm going to either have a
   breakdown on it, or I'm just gonna just enjoy life, and I'm gonna buy the
   records I want, and maybe find a new way to refocus how I collect and what I
