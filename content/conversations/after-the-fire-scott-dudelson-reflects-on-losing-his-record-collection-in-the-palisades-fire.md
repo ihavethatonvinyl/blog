@@ -6,7 +6,7 @@ draft: false
 summary: It sucks, but what am I going to do? I'm going to either have a
   breakdown on it, or I'm just gonna just enjoy life, and I'm gonna buy the
   records I want, and maybe find a new way to refocus how I collect and what I
-  collec
+  collect
 featuredImage: /images/upload/img_1223.jpeg
 featuredImageAlt: ""
 featuredImageCap: ""
