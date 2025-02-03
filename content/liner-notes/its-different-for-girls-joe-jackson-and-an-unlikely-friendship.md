@@ -1,6 +1,6 @@
 ---
 title: "It's Different For Girls - Joe Jackson and an Unlikely Friendship "
-date: 2025-02-02T22:59:00.000Z
+date: 2025-02-03T03:58:00.000Z
 summary: " It was speaking to me, telling me not only that there was so much
   more out there beyond the Zeppelin and Springsteen music I was absorbed in,
   there was music in between those two that I hadn’t yet explored."
