@@ -1,12 +1,12 @@
 ---
 title: "Handle With Care: the Comfort of the Traveling Wilburys "
-date: 2025-02-04T06:11:00.000Z
+date: 2025-02-04T07:07:00.000Z
 summary: " I dressed her on the changing table in the small corner of our
   apartment and I sang the “Handle With Care” to her over and over while I paced
   the living room, the hallway, the kitchen, holding her in my arms and willing
   her to stop crying."
 featuredImage: /images/upload/img_8428.jpg
-draft: true
+draft: false
 ---
 ![](/images/upload/img_8428.jpg)
 
@@ -25,11 +25,8 @@ In August I spent three days in our bedroom with my feet up, afraid to move beca
 In October I had grown uncomfortably large already and one night I sat on the couch, legs sprawled, nursing my terrible heartburn, prepared to watch the World Series until I fell asleep. Then an earthquake happened in San Francisco and I spent the whole night watching CNN on the television that was a wedding gift from my grandparents. I fell asleep at about 1am on the couch and stayed asleep until I heard my husband coming up the stairs at three. He went right to our room. I stayed where I was and went back to watching news of the earthquake. I quietly hummed “Heading for the Light” as I thought about the good things that awaited me.
 
 *I see the sun ahead, I ain't never looking back*
-
 *All the dreams are coming true as I think of you*
-
 *Now there's nothing in the way to stop me*
-
 *Heading for the light*
 
 My belly grew and my desire to be a perfect wife and mother grew with it. We threw a Christmas party that December and I waddled around the house greeting friends and relatives who were crammed into our small but festive space. Some of them sat on the stairs smoking and drinking and some of them sat on my carefully curated furniture and everyone seemed to have a good time. My husband disappeared about an hour into the party and I didn’t question it. He disappeared often enough that no one asked me where he was. I put on *Vol. 1* after everyone tired of Christmas music. No one objects. Everyone loves the Traveling Wilburys.
@@ -47,11 +44,8 @@ Natalie Rose came the next day. Her birth was traumatic and horrifying and scary
 I came home two days later , full of stitches from an episiotomy and in terrible pain. I held my baby and fed my baby and soothed and burped my baby and I called my cousin every hour to ask questions like will she ever stop screaming and is projectile vomiting normal. I dressed her on the changing table in the small corner of our apartment and I sang the “Handle With Care” to her over and over while I paced the living room, the hallway, the kitchen, holding her in my arms and willing her to stop crying. That song was the only thing that helped.
 
 *Reputations changeable*
-
 *Situations tolerable*
-
 *Baby, you're adorable*
-
 *Handle me with care*
 
 As much as I sang that to my newborn daughter, the same way I sang to her before she arrived, I sang it to myself also. *Handle me with care*. That’s all I asked.
