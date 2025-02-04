@@ -1,7 +1,7 @@
 ---
-title: "Author Dan Ozzi "
-date: 2025-02-03T21:43:00.000Z
-draft: true
+title: "Dan Ozzi "
+date: 2025-02-04T03:17:00.000Z
+draft: false
 summary: I really, really miss being able to enjoy my music in a non-digital
   way. I miss just looking at my records and seeing a record that I forgot I had
   and putting that on.
@@ -10,7 +10,7 @@ featuredImageAlt: "Photo Credit: Erica Lauren"
 ---
 Today on Featured Conversations we welcome author and music historian Dan Ozzi
 
-### I got to know you work through your [newsletter](https://danozzi.substack.com/). Tell me a little bit about that. 
+### I got to know your work through your [newsletter](https://danozzi.substack.com/). Tell me a little bit about that. 
 
 I left my job in 2019 to finish a book and newsletters were still new. I don't even really know if there was a reputable music one at the time. I remember, really, the only person that I knew who had one that was successful was [Luke O’Neill,](https://www.welcometohellworld.com/) and I remember my editor, my very sage editor, Kate, said to me, Well, if you're thinking of getting a newsletter, you should do it now, instead of waiting until the day the book comes out, try to build it up now. And so I kind of kept it as a side project while I was writing the book. And I've kept it ever since. And I kind of lean on it when I have the time. I really wish it was my top priority. But books and things kind of take prominence. And so I feel like I've been a little bit uneven with it. I try to be fairly consistent, but it is sort of like I look at it as the thing that kind of supports the rest of my career, such as it is, you know.
 
@@ -59,7 +59,5 @@ I mean, my relationship with them has certainly changed. I don't covet them as m
 *He has co-authored two books: FAHRENHEIT-182: A Memoir (Dey Street Books, 2025) with blink-182's Mark Hoppus, and TRANNY: Confessions of Punk Rock’s Most Infamous Anarchist Sellout (Hachette, 2016) with Against Me!’s Laura Jane Grace.  [Instagram](https://www.instagram.com/danozzi/) | [Bluesky](https://bsky.app/notifications)*
 
 *For over five years, he served as a staff writer and editor at VICE’s music site, Noisey, and has contributed to Billboard, SPIN, The Fader, The Guardian, The AV Club, and others. He has also been a host on SiriusXM.* 
-
-
 
 > *I Have That on Vinyl is a reader supported publication. If you enjoy what's going on here please consider donating to the site's writer fund: [venmo](https://account.venmo.com/u/Michele-Catalano2659) // [paypal](https://www.paypal.com/paypalme/goingitaloneny?country.x=US&locale.x=en_US)*
