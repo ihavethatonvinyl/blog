@@ -56,7 +56,7 @@ I mean, my relationship with them has certainly changed. I don't covet them as m
 
 *Dan Ozzi is a Los Angeles-based writer. He is the author of the bestselling book SELLOUT: The Major Label Feeding Frenzy That Swept Punk, Emo, and Hardcore (1994-2007), published in 2021 by Dey Street Books at HarperCollins.*
 
-*He has co-authored two books: FAHRENHEIT-182: A Memoir (Dey Street Books, 2025) with blink-182's Mark Hoppus, and TRANNY: Confessions of Punk Rock’s Most Infamous Anarchist Sellout (Hachette, 2016) with Against Me!’s Laura Jane Grace.  [Instagram](https://www.instagram.com/danozzi/) | [Bluesky](https://bsky.app/notifications)*
+*He has co-authored two books: [FAHRENHEIT-182](https://danozzi.substack.com/p/fahrenheit182-by-mark-hoppus-with-dan-ozzi): A Memoir (Dey Street Books, 2025) with blink-182's Mark Hoppus, and [TRANNY](https://www.danozzi.com/books/tranny): Confessions of Punk Rock’s Most Infamous Anarchist Sellout (Hachette, 2016) with Against Me!’s Laura Jane Grace.  [Instagram](https://www.instagram.com/danozzi/) | [Bluesky](https://bsky.app/notifications)*
 
 *For over five years, he served as a staff writer and editor at VICE’s music site, Noisey, and has contributed to Billboard, SPIN, The Fader, The Guardian, The AV Club, and others. He has also been a host on SiriusXM.* 
 
