@@ -1,8 +1,10 @@
 ---
 title: Q&A Remix With Logan Archer Mounts
 date: 2025-02-05T04:15:00.000Z
-summary: It’s easy to take those early days for granted, when you only own a few
-  albums and listen to those same ones all the time.
+summary: I have learned to accept that vinyl is my biggest passion in life.
+  Music as a whole, truly, but the vinyl aspect has anchored me fully. My
+  obsession increased tenfold during the COVID years, when I had nothing to do
+  but listen to my collection.
 featuredImage: /images/upload/image0-5-.jpeg
 draft: false
 ---
