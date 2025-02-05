@@ -1,16 +1,14 @@
 ---
 title: Q&A Remix With Logan Archer Mounts
-date: 2025-02-04T13:44:00.000Z
+date: 2025-02-05T04:15:00.000Z
 summary: It’s easy to take those early days for granted, when you only own a few
   albums and listen to those same ones all the time.
 featuredImage: /images/upload/image0-5-.jpeg
-draft: true
+draft: false
 ---
-
-
 ![](/images/upload/image0-5-.jpeg)
 
-*The Q&A Remix is a frequent column on IHTOV in which people from all walks of life answer a set of pre-written questions about their vinyl collection. Today we welcome musician and writer Logan Archer Mounts*
+*The Q&A Remix is a frequent column on IHTOV in which people from all walks of life answer a set of pre-written questions about their vinyl collection. Today we welcome musician and writer Logan Archer Mounts, and his cat*
 
 ### Have you ever bought a record just for the artwork?
 
