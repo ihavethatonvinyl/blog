@@ -5,7 +5,7 @@ summary: The Doors are one of those bands you discovered intrinsically back in
   the 70s. No older cousin passed them down to you, no friends said, “Hey, you
   have to listen to this.” They were just on the radio a lot
 featuredImage: /images/upload/img_8456.jpg
-draft: true
+draft: false
 ---
 ![](/images/upload/img_8456.jpg)
 
