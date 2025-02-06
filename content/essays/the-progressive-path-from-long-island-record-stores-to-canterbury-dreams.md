@@ -32,4 +32,10 @@ The proximity to New York City might have given me access to these records, but 
 
 I still have that copy of *Peter and the Wolf*. It sits in a special place in my collection, between ELP's *Works Volume 1* and that Japanese Camel import, a reminder that sometimes the best finds come after the longest searches, and that prog rock's greatest treasures often lie in its most ambitious collaborations.
 
+
+
+*Ronald Gross is a seasoned music industry professional with over three decades of experience spanning radio, event programming, and music journalism. His career began in the late 1980s when he served on the Nassau Community College Concert Committee, followed by an internship at WPLJ radio. He went on to host a jazz show at WPIR, showcasing his deep appreciation for the genre.*
+
+*In the mid-2000s, Gross contributed his expertise to major branded music initiatives, writing about Heineken’s Red Star Soul and AmsterJam programs. Since 2007, he has established himself as a respected independent music reviewer, contributing to multiple platforms including BNN (Blogger News Network), Stereo Subversion, Eburban, Soundcheck, and Every DejaVu Records.*
+
 > *I Have That on Vinyl is a reader supported publication. If you enjoy what's going on here please consider donating to the site's writer fund: [venmo](https://account.venmo.com/u/Michele-Catalano2659) // [paypal](https://www.paypal.com/paypalme/goingitaloneny?country.x=US&locale.x=en_US)*
