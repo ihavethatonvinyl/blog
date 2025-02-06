@@ -89,7 +89,7 @@ I titled the paper “Jim Morrison: Genius or Fraud.” My conclusion was that n
 
 Two days later, I had my paper back in my hand, graded, folded over like a slice of pizza. I was genuinely afraid to look. “You are a Doors scholar.”
 
-“Uh..thank you?”
+“Oh...thank you?”
 “You gonna look at your grade?”
 
 I hesitated. I had a lot riding on this, and I put my all into it. Whatever happened, happened. I unfolded the paper.
