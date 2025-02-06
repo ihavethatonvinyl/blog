@@ -9,7 +9,7 @@ draft: true
 ---
 ![](/images/upload/img_8456.jpg)
 
-The greatest day of my life happened when I was 17, a senior in high school. My music teacher, upon reading my senior paper on Jim Morrison and the Doors, called me “Doors Scholar.” I know now, almost fifty years later, that he probably sneered when he said it, or at least meant it with a modicum of sarcasm. But at the time, I was sure I had peaked. An honor was bestowed upon me, I thought, and I wore that close to my heart. A Doors Scholar. Me.
+The greatest day of my life happened when I was 17, a senior in high school. My music teacher, upon reading my senior paper on Jim Morrison and the Doors, called me a “Doors Scholar.” I know now, almost fifty years later, that he probably sneered when he said it, or at least meant it with a modicum of sarcasm. But at the time, I was sure I had peaked. An honor was bestowed upon me, I thought, and I wore that close to my heart. A Doors Scholar. Me.
 
 The Doors are one of those bands you discovered intrinsically back in the 70s. No older cousin passed them down to you, no friends said, “Hey, you have to listen to this.” They were just on the radio a lot, along with the usual suspects of the era–Zeppelin, The Who, Pink Floyd. Although they were done at that point, because Jim was very much dead by the time I got to them in 1976 or so, they remained incredibly popular. No one was intentionally given the Doors to listen to; they were just there.
 
@@ -49,7 +49,7 @@ Did I know what this meant? No. I had no idea. I only knew the vibe was strange 
 
 I felt like I was reading an otherworldly story. I thought about Jim’s run-ins with the law, his oppositional behavior, his drug use, his larger than life persona, and decided he was some kind of martyr. I was a teenager. I didn’t know any better.
 
-I hung his poster on my wall. You know the one. I wrote his name in the margins of my notebooks. I wore shirts with Doors iron-ons. I went to see Crystal Ship. This is what we call today *parasocial*.
+I hung his poster on my wall. You know the one. I wrote his name in the margins of my notebooks. I wore shirts with Doors iron-ons. I went to see [Crystal Ship](https://crystalshipband.com/), the premiere Doors cover band. I studied him, lionized him, and came up with theories about him. This is what we call today *parasocial*.
 
 *The killer awoke before dawn*
 
@@ -87,14 +87,14 @@ This became a mantra of sorts for me. I quoted this a lot. I almost put it as a 
 
 I titled the paper “Jim Morrison: Genius or Fraud.” My conclusion was that no, he was not a fraud. He was a *poet*. He was an *artist*. I handed in my paper proudly. I was sure it was well informed, and well written, and I would pass at least one class without sweating it out.
 
-Two days later, I had my paper back in my hand, graded, folded over like a slice of pizza. I was genuinely afraid to look. “You are Doors scholar.”
+Two days later, I had my paper back in my hand, graded, folded over like a slice of pizza. I was genuinely afraid to look. “You are a Doors scholar.”
 
 “Uh..thank you?”
 “You gonna look at your grade?”
 
 I hesitated. I had a lot riding on this, and I put my all into it. Whatever happened, happened. I unfolded the paper.
 
-92.
+He gave me a 92.
 
 I exhaled. Mr. Marks laughed. “It was well done. I don’t agree with one iota of it, but well done.”
 
