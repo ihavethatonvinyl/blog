@@ -1,12 +1,12 @@
 ---
 title: Down in the Tube Station With the Jam
-date: 2025-02-06T06:18:00.000Z
+date: 2025-02-07T03:59:00.000Z
 summary: " Inside the case, Patrick had stuffed a sheet of yellow legal paper,
   folded about a hundred times. I opened it up and it was the lyrics to the
   Jam’s “Down in the Tube Station at Midnight,” a track from their 1978 album
   All Mod Cons, which also appears on the Snap! tape I held in my hand."
 featuredImage: /images/upload/img_6012.jpg
-draft: true
+draft: false
 ---
 ![](/images/upload/img_6012.jpg)
 
