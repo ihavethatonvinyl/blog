@@ -1,6 +1,6 @@
 ---
 title: Reach With Richard Simmons
-date: 2025-02-07T03:22:00.000Z
+date: 2025-02-07T03:23:00.000Z
 summary: " Look, I’m not gonna beat around the bush here. This is not a very
   good album. It currently has a 1.81 rating on RYM and I think it earns it. But
   give the man some credit! Workout records were fairly common in the 80’s (even
