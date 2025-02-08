@@ -10,6 +10,8 @@ featuredImage: /images/upload/jd-copy.jpg
 ---
 ![](/images/upload/jd-copy.jpg)
 
+*[this interview has been edited for clarity and length*]
+
 ### Let’s start with an introduction.
 
 I'm John Darnielle. I'm the singer from[ the Mountain Goats](https://www.mountain-goats.com/), and I write [books](https://www.thriftbooks.com/a/john-darnielle/445863/?utm_source=google&utm_medium=cpc&utm_campaign=us_dsa_general_232080312&utm_adgroup=&utm_term=&utm_content=664336997210&gad_source=1&gclid=Cj0KCQiA-5a9BhCBARIsACwMkJ4csbSihH_r-hNuZIX06igWRwl1mwD-NNEXYptiAzMLrQd1LyHROpcaAmY_EALw_wcB).
