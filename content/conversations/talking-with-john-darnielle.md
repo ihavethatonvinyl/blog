@@ -6,11 +6,9 @@ summary: So This feels like an errand of middle age to me, understanding that,
   the stuff that thrilled and fed you, if it's actual stuff, its mission going
   forward is to travel from you to the outside world where it can do that for
   somebody else
-featuredImage: /images/upload/themountaingoats-jd.jpg
+featuredImage: /images/upload/jd-copy.jpg
 ---
-![](/images/upload/themountaingoats-jd.jpg)
-
-
+![](/images/upload/jd-copy.jpg)
 
 ### Let’s start with an introduction.
 
