@@ -3,7 +3,7 @@ title: "Judge a Record by It's Cover: What Makes Good Album Art"
 date: 2025-02-09T20:52:00.000Z
 featuredImage: /images/upload/ihtov-2.jpg
 author: "Jason Bombach "
-draft: true
+draft: false
 ---
 
 
