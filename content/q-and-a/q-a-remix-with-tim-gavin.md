@@ -4,6 +4,10 @@ date: 2025-02-10T04:29:00.000Z
 featuredImage: /images/upload/pxl_20250208_234450809.raw-01.cover.jpg
 draft: false
 ---
+![](/images/upload/ihtov-2.jpg)
+
+
+
 *The Q&A Remix is a frequent column on IHTOV in which people from all walks of life answer a set of pre-written questions about their vinyl collection. Today we welcome Tim Gavin.*
 
 ### Have you ever bought a record just for the artwork?
@@ -71,7 +75,5 @@ My collection started mostly as random finds and collectors items, grabbing albu
 *Laughing Stock* by Talk Talk
 
 *Tim has worked in Radio around Western Canada for over 10 years, most recently as an Announcer and Music Director in Prince George, BC, Canada, where he lives with his wife and their 2 cats and dog.*
-
-
 
 > *I Have That on Vinyl is a reader supported publication. If you enjoy what's going on here please consider donating to the site's writer fund: [venmo](https://account.venmo.com/u/Michele-Catalano2659) // [paypal](https://www.paypal.com/paypalme/goingitaloneny?country.x=US&locale.x=en_US)*
