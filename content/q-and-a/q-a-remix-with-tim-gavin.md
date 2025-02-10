@@ -1,8 +1,8 @@
 ---
 title: Q&A Remix With Tim Gavin
-date: 2025-02-09T16:57:00.000Z
+date: 2025-02-10T04:29:00.000Z
 featuredImage: /images/upload/pxl_20250208_234450809.raw-01.cover.jpg
-draft: true
+draft: false
 ---
 *The Q&A Remix is a frequent column on IHTOV in which people from all walks of life answer a set of pre-written questions about their vinyl collection. Today we welcome Tim Gavin.*
 
