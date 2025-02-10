@@ -1,11 +1,11 @@
 ---
 title: "Songs for the Deaf: I Need a Saga. What's the Saga?"
-date: 2025-02-10T04:27:00.000Z
+date: 2025-02-10T04:30:00.000Z
 summary: '" I did a lot of thinking and contemplating, but I also just let the
   music play sometimes, let it take me away to a faraway desert road with the
   cow skulls and cacti."'
 featuredImage: /images/upload/img_8348.jpg
-draft: true
+draft: false
 ---
 ![](/images/upload/img_8348.jpg)
 
