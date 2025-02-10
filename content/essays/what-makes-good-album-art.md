@@ -5,6 +5,8 @@ featuredImage: /images/upload/ihtov-2.jpg
 author: "Jason Bombach "
 draft: false
 ---
+![](/images/upload/ihtov-2.jpg)
+
 
 
 Hello and welcome to a hopefully recurring column called ‘Judge a Record by Its Cover,' where we explore the art and science of record packaging and presentation. The importance of album art is often overlooked when thinking about a record you are putting out. You might be thinking you’ll just slap some random band photo on there and call it a day. After all, it’s the music that really matters right? Well, while technically correct, the music is ultimately what matters most, just like when everyone scrolls through Tinder, people usually only pick up the records that they find aesthetically pleasing. So while a good album cover won’t make up for terrible music, it can get people to listen in the first place.
