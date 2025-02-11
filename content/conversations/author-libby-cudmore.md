@@ -1,7 +1,7 @@
 ---
 title: Author Libby Cudmore
-date: 2025-02-10T21:44:00.000Z
-draft: true
+date: 2025-02-11T04:04:00.000Z
+draft: false
 summary: "\"Sometimes I'll just put on 1960s Cocktail Jazz, just really fun,
   exotic, like Martin Denny. I like to think of myself as a 1960s dinner party
   hostess.\""
@@ -9,7 +9,7 @@ featuredImage: /images/upload/a-side.jpg
 ---
 ![](/images/upload/a-side.jpg)
 
-*Today we’re talking with Libby Cudmore, author of Negative Girl, and The Big Rewind, and former host of Record Saturday on twitter.*
+*Today we’re talking with Libby Cudmore, author of Negative Girl and The Big Rewind, and former host of Record Saturday on twitter.*
 
 ### How long have you been collecting records for?
 
@@ -41,7 +41,7 @@ Six, which is everything they've put out on vinyl. But they're an indie label, s
 
 I found their first album, *Ferociously Stoned*, at a record store in Germany, and when I brought it to the show to have them sign it, every member of the band, except for, obviously, Steve Perry, the front man, was like, I don't even have a copy of this. Where did you get this? So Steve was like, oh god, I think I still have a couple of these in my basement.
 
-I have everything that the Vapors have put out. I have all the 45s. I have the American and UK versions of *New Clear Days*. I get into these weird little niches where I have to have everything. Probably my weirdest niche is that I have everything that Steve “Spit” Spingola, he was the frontman for the Fontanelles, which intersects my love of Mystery Science Theater 3000, with my love of post punk, because their band, the Fontanelles, was featured in [Hobgoblins](https://en.wikipedia.org/wiki/Hobgoblins_(film)). And I was obsessed with that music. There's a three song seven inch that they were just kind of an LA dark wave band in the 80s, just trying to make it playing clubs, and never had a major label release, and so this was probably just sold at the show. When [Datura](https://daturabooks.com/) acquired *Negative Girl*, I treated myself to a copy. I spent, like. $90 for three songs. The recording is terrible, but I now have everything he ever put out on vinyl. I have two from his first band Outer Circle; the *Blind Venetians* EP and the “My Mona Lisa” 12 inch. But I was like, I have to have everything that they've recorded.
+I have everything that the Vapors have put out. I have all the 45s. I have the American and UK versions of *New Clear Days*. I get into these weird little niches where I have to have everything. Probably my weirdest niche is that I have everything that Steve “Spit” Spingola, he was the frontman for the Fontanelles, which intersects my love of Mystery Science Theater 3000, with my love of post punk, because their band, the Fontanelles, was featured in [Hobgoblins](https://en.wikipedia.org/wiki/Hobgoblins_(film)). And I was obsessed with that music. There's a three song seven inch that they were just kind of an LA darkwave band in the 80s, just trying to make it playing clubs, and never had a major label release, and so this was probably just sold at the show. When [Datura](https://daturabooks.com/) acquired *Negative Girl*, I treated myself to a copy. I spent, like. $90 for three songs. The recording is terrible, but I now have everything he ever put out on vinyl. I have two from his first band Outer Circle; the *Blind Venetians* EP and the “My Mona Lisa” 12 inch. But I was like, I have to have everything that they've recorded.
 
 ![](/images/upload/a-side-1-.jpg)
 
@@ -63,8 +63,6 @@ We have what we call cult movie parties, which is where we invite people over to
 
 ![](/images/upload/a-side-2-.jpg)
 
-
-
 ### What do you listen to when you’re alone? Do you get a lot of use out of your records?
 
 I listen to a record minimum every morning. I'm actually traveling this week, and I'm a little stressed because I only have what is on my iPod from 2011. I will miss my records.
@@ -73,12 +71,12 @@ I listen to a record minimum every morning. I'm actually traveling this week, an
 
 I have two. [Reimagine Records](https://www.instagram.com/reimaginerecords/) in Utica or New Hartford. Michele and Scott are two of my favorite people. There was another record store there that I also loved, Music and More, but they have closed, so that leaves Reimagine as the one in my heart. So absolutely shout out to Reimagine Records and then [Jacks](https://www.instagram.com/jacksmusicshop/?hl=en) in Red Bank New Jersey, I actually did the first reading of my book tour for *Negative Girl* at Jack’s.
 
-The last time I was there, I picked up a Reverend Horton Heat record, which was really fun. And then they'll do flip throughs on Instagram, and I'll just be like, oh, can you pull that for me? And Tim, who works there, had messaged me that they had a copy of Echo and the Bunnymen *Songs to Learn and Sing*, which I've been looking for. He also had a copy of Amy Grant's *Heart in Motion*. I was like, oh, pull that for me. I love Amy Grant, and I firmly believe that - not to get spiritual or anything - Amy Grant is the only person among us who's guaranteed to go to heaven. I maintain Amy Grant is more punk than GG Allen. It's like, oh, cool, GG, you took a shit on stage. Amy Grant left behind her entire audience. She's like, you know what? I'm switching to secular music, and they were pissed, that is so punk. And then she's like, yeah, and my gay nieces are getting married on my lawn. Amy Grant is punk as fuck.
+The last time I was there, I picked up a Reverend Horton Heat record, which was really fun. And then they'll do flip throughs on Instagram, and I'll just be like, oh, can you pull that for me? And Tim, who works there, had messaged me that they had a copy of Echo and the Bunnymen *Songs to Learn and Sing*, which I've been looking for. He also had a copy of Amy Grant's *Heart in Motion*. I was like, oh, pull that for me. I love Amy Grant, and I firmly believe that - not to get spiritual or anything - Amy Grant is the only person among us who's guaranteed to go to heaven. I maintain Amy Grant is more punk than GG Allin. It's like, oh, cool, GG, you took a shit on stage. Amy Grant left behind her entire audience. She's like, you know what? I'm switching to secular music, and they were pissed, that is so punk. And then she's like, yeah, and my gay nieces are getting married on my lawn. Amy Grant is punk as fuck.
 
 ### What was the last record you listened to?
 
 The Smiths’ *Louder Than Bombs*, this morning.
 
-*Libby Cudmore is the author of [Negative Girl](https://www.penguinrandomhouse.com/books/761937/negative-girl-by-libby-cudmore/) (Datura, 2024) and [The Big Rewind](https://www.harpercollins.com/products/the-big-rewind-libby-cudmore?variant=42747946008610) (William Morrow, 2016) as well as the Wade & Jacks PI series in Ellery Queen Mystery Magazine, Alfred Hitchcock’s Mystery Magazine and Tough. Her work has been published in Smokelong Quarterly, The Dark, Stone’s Throw, Dark Waters, Shotgun Honey, Orca, Monkeybicycle and The Coachella Review, as well as the anthologies At the Edge of Darkness, Burning Down the House, 120 Murders, Shamus & Anthony Commit Capers and the Anthony-nominated Lawyers, Guns & Money (which she co-edited with Art Taylor). She is a 2005 Binghamton graduate and a four-year Barrelhouse Writer’s Camp alumni, and the recipient of the Shamus Award, the Black Orchid Award and the Oregon Writer’s Colony prize.*
+*Libby Cudmore is the author of [Negative Girl](https://www.penguinrandomhouse.com/books/761937/negative-girl-by-libby-cudmore/) (Datura, 2024) and [The Big Rewind](https://www.harpercollins.com/products/the-big-rewind-libby-cudmore?variant=42747946008610) (William Morrow, 2016) as well as the Wade & Jacks PI series in Ellery Queen Mystery Magazine, Alfred Hitchcock’s Mystery Magazine and Tough. Her work has been published in Smokelong Quarterly, The Dark, Stone’s Throw, Dark Waters, Shotgun Honey, Orca, Monkeybicycle and The Coachella Review, as well as the anthologies At the Edge of Darkness, Burning Down the House, 120 Murders, Shamus & Anthony Commit Capers and the Anthony-nominated Lawyers, Guns & Money (which she co-edited with Art Taylor). She is a 2005 Binghamton graduate and a four-year Barrelhouse Writer’s Camp alumni, and the recipient of the Shamus Award, the Black Orchid Award and the Oregon Writers Colony prize.*
 
-*I Have That on Vinyl is a reader supported publication. If you enjoy what's going on here please consider donating to the site's writer fund: [venmo](https://account.venmo.com/u/Michele-Catalano2659) // [paypal](https://www.paypal.com/paypalme/goingitaloneny?country.x=US&locale.x=en_US)*
+> *I Have That on Vinyl is a reader supported publication. If you enjoy what's here here please consider donating to the site's writer fund: [venmo](https://account.venmo.com/u/Michele-Catalano2659) // [paypal](https://www.paypal.com/paypalme/goingitaloneny?country.x=US&locale.x=en_US)*
