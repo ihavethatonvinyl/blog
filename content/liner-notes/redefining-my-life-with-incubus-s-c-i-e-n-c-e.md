@@ -6,10 +6,7 @@ summary: " By the time it was over for the second time, I had signed onto AOL
 featuredImage: /images/upload/science.jpg
 draft: false
 ---
-*I'm sick of painting in black and white*
-*My pen is dry and I'm all uptight*
-*So sick of limiting myself*
-*To fit your definition*
+*I'm sick of painting in black and white/My pen is dry and I'm all uptight/So sick of limiting myself/To fit your definition*
 
 *Incubus - Redefine*
 
