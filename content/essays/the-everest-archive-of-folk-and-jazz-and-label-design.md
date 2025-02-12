@@ -1,6 +1,6 @@
 ---
 title: The Everest Archive of Folk and Jazz and Label Design
-date: 2025-02-12T01:56:00.000Z
+date: 2025-02-12T06:03:00.000Z
 summary: " I realized my beloved series was more of an afterthought - something
   issued in the waning days of the company, long after its founder had been
   ousted."
