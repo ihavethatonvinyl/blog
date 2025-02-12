@@ -6,7 +6,7 @@ summary: " I realized my beloved series was more of an afterthought - something
   ousted."
 featuredImage: /images/upload/everest-photo-1-.jpg
 author: Shaw Ingram
-draft: true
+draft: false
 ---
 ![](/images/upload/everest-photo-1-.jpg)
 
