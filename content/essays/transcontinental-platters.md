@@ -1,12 +1,12 @@
 ---
 title: Transcontinental Platters
-date: 2025-02-13T03:46:00.000Z
+date: 2025-02-13T06:34:00.000Z
 summary: ...among my first buys were R.E.M., Graham Parker, Pretenders and The
   Replacement’s Tim. I still have most of them; some are worth a bit of money,
   but worth even more to me sentimentally.
 featuredImage: /images/upload/records-and-leo.jpg
 author: Greg Dubrow
-draft: true
+draft: false
 ---
 ![Leo the cat (RIP)](/images/upload/records-and-leo.jpg)
 
