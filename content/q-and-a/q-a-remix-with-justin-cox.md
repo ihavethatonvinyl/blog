@@ -1,15 +1,13 @@
 ---
 title: Q&A Remix With Justin Cox
-date: 2025-02-12T21:07:00.000Z
+date: 2025-02-12T21:52:00.000Z
 summary: I once ran through the falling snow down Addison Street just outside of
   Wrigley Field to try and catch an L Train while listening to Louis Armstrong’s
   “What a Wonderful World.
 featuredImage: /images/upload/img_2452.jpg
-draft: true
+draft: false
 ---
 ![](/images/upload/img_2452.jpg)
-
-
 
 *The Q&A Remix is a frequent column on IHTOV in which people from all walks of life answer a set of pre-written questions about their vinyl collection. Today we welcome writer and podcaster Justin Cox.*
 
@@ -37,11 +35,11 @@ Against Me! put out a 12” EP in 1999 that got fucked up in the rendering proce
 
 Not a completionist, but I do have the first five Jackson Browne records from the 70s. Sort of complete in a way.
 
-### What is your greatest “score;” could be on value or just rarity or something you were looking for the longest?
+### What is your greatest “score;” could be on value or rarity or something you were looking for the longest?
 
 I saw an unknown Phoebe Bridgers in 2015 opening for Conor Oberst at the Grass Valley Performing Arts Center. She blew my mind so I bought the only record she had: a “Smoke Signals/Motion Sickness” 7-inch single that now sells for a few hundred dollars. She was working the booth and signed it “Grass Valley Kicks Ass.” I’m not sure if that increases or decreases its value. Increases it for me personally.
 
-### Do you have a favorite live record? 
+### Do you have a favorite live record?
 
 *Live at Fillmore East* by The Allman Bros.
 
@@ -69,8 +67,10 @@ Maybe *Maximum Rocknroll* (1989) by NOFX, sort of unofficially released a few ye
 
 Vinyl purchases for me are rare and specific: Either a cheap used record jumps out, or a friend’s band releases a cool record that I want to support, or I decide an album is an all-timer and worth having (very rare).
 
-### What’s the last record you played? *The Slider by T Rex.*
+### What’s the last record you played?
 
-*Justin Cox is a writer and podcaster who lives with his family on an island in the PNW. His podcast is called After the Deluge, which has gone album by album through the discographies of Jackson Browne, Bright Eyes, and Against Me! Next up is Bon Iver if he can get his shit together. Justin writes songs under the name Routine Layup and his vinyl collection is modest and messy but he doesn't mind that. @routinelayup on bluesky*
+ *The Slider* by T Rex.
 
-*I Have That on Vinyl is a reader supported publication. If you enjoy what's going on here please consider donating to the site's writer fund: [venmo](https://account.venmo.com/u/Michele-Catalano2659) // [paypal](https://www.paypal.com/paypalme/goingitaloneny?country.x=US&locale.x=en_US)*
+*Justin Cox is a writer and podcaster who lives with his family on an island in the PNW. His podcast is called [After the Deluge](https://www.delugepodcast.com/), which has gone album by album through the discographies of Jackson Browne, Bright Eyes, and Against Me! Next up is Bon Iver if he can get his shit together. Justin writes songs under the name Routine Layup and his vinyl collection is modest and messy but he doesn't mind that. @routinelayup on bluesky*
+
+> *I Have That on Vinyl is a reader supported publication. If you enjoy what's going on here please consider donating to the site's writer fund: [venmo](https://account.venmo.com/u/Michele-Catalano2659) // [paypal](https://www.paypal.com/paypalme/goingitaloneny?country.x=US&locale.x=en_US)*
