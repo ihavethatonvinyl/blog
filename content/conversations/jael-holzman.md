@@ -1,7 +1,7 @@
 ---
 title: Jael Holzman
-date: 2025-02-14T05:07:00.000Z
-draft: true
+date: 2025-02-14T10:49:00.000Z
+draft: false
 summary: When we made Pink Balloons, the vinyl and the whole accoutrements, the
   whole deal was always about trying to create an experience for people. And a
   lot of that's colored by how important vinyl is to me.
