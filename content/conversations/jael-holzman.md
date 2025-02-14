@@ -23,7 +23,7 @@ I used to have a very large record collection. And in 2020, at the same time tha
 
 ### Have you ever bought a record just for the artwork?
 
-Oh, absolutely. Yeah, I've got a really, really good example of that here. So do you know the band Pink Shift?
+Oh, absolutely. Yeah, I've got a really, really good example of that here. So do you know the band Pinkshift?
 
 ### I’ve heard of them.
 
@@ -33,7 +33,7 @@ Pink Shift is a punk band out of Baltimore, and their last release that they did
 
 ### What's your most memorable vinyl buying experience?
 
-I think it's still the first time that I ever bought my own record. It was,I think, the first thing I bought when I got to college. I don't even think I went to the school store first. And there's a record store in Burlington, Vermont, where Liam Hughes, who helped start the band with me, we met at the University of Vermont. And there's this record store in Vermont, in Burlington, called [Pure Pop Records](https://purepoprecords.com/) where it's like a candy store. They really maintain it. And they are always really smart with what they order. In fact, it’s one of the only record stores I've ever been to that had almost all the [Top Shelf ](https://www.topshelfrecords.com/)releases. In person, it was really cool. The last time I was there, I think, was when we were getting signed to Top Shelf. And I was walking around like, This is so cool. But, yeah, I remember the first time I walked into Pure Pop. I was in college, and I really, really was a massive Kendrick Lamar fan. And and remain a massive Kendrick Lamar fan, and the first vinyl record that I ever bought, it was, gosh, almost 10 years ago, or more than ten years ago, was a it was the *Good Kid,* *M.A.A.D. City,* I feel so old.
+I think it's still the first time that I ever bought my own record. It was,I think, the first thing I bought when I got to college. I don't even think I went to the school store first. And there's a record store in Burlington, Vermont, where Liam Hughes, who helped start the band with me, we met at the University of Vermont. And there's this record store in Vermont, in Burlington, called [Pure Pop Records](https://purepoprecords.com/) where it's like a candy store. They really maintain it. And they are always really smart with what they order. In fact, it’s one of the only record stores I've ever been to that had almost all the [Tops](https://www.topshelfrecords.com/)[helf ](https://www.topshelfrecords.com/)releases. In person, it was really cool. The last time I was there, I think, was when we were getting signed to Topshelf. And I was walking around like, This is so cool. But, yeah, I remember the first time I walked into Pure Pop. I was in college, and I really, really was a massive Kendrick Lamar fan. And and remain a massive Kendrick Lamar fan, and the first vinyl record that I ever bought, it was, gosh, almost 10 years ago, or more than ten years ago, was a it was the *Good Kid,* *M.A.A.D. City,* I feel so old.
 
 ### Talking about your records will do that to you. Do you have a favorite record store? Is it Pure Pop?
 
