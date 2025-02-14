@@ -57,7 +57,7 @@ Ah, I like Record Store Day a lot, and I support the cause. Early on when it fir
 
 ### What's the most treasured album in your collection?
 
-So I have two answers to that. In terms of[ my actual favorite album ever, *Crack the Skye* by Mastodon, easily. Before the bed bug fire of 2020 I had a picture disc. It was like a Leviathan picture disc with the whales on it. I don't think I have it anymore, which sucks. But right now, I would say that my most played record that has really meant a lot to me is from this band out of Baltimore called [powerwasher](https://powerwasher.bandcamp.com/album/the-power-of-positive-washing). They're post punk crunch, like noise rock. It's just loud guitars. We played a couple of shows with them in October, and I was a huge fan of the record, but then when I saw them, they had such a great set and I just fell in love with it. So it's one of those growers of a record for me, and it's been getting a lot of plays. And it's definitely one of the only ones that I've been preserving inside of the fucking wraps that I have now. But, yeah, I miss, I miss some of those records. I feel like albums become kind of a memorial of time in a
+So I have two answers to that. In terms of[ my actual favorite album ever, *Crack the Skye* by Mastodon, easily. Before the bed bug fire of 2020 I had a picture disc. It was like a Leviathan picture disc with the whales on it. I don't think I have it anymore, which sucks. But right now, I would say that my most played record that has really meant a lot to me is from this band out of Baltimore called [powerwasher](https://powerwasher.bandcamp.com/album/the-power-of-positive-washing). They're post punk crunch, like noise rock. It's just loud guitars. We played a couple of shows with them in October, and I was a huge fan of the record, but then when I saw them, they had such a great set and I just fell in love with it. So it's one of those growers of a record for me, and it's been getting a lot of plays. And it's definitely one of the only ones that I've been preserving inside of the fucking wraps that I have now. But, yeah, I miss, I miss some of those records. I feel like albums become kind of a memorial of time.
 
 ### Is there a record that you're looking for that you haven't found yet, like a white whale record?
 
@@ -65,7 +65,7 @@ Actually, this is kind of funny, because it's kind of a call back to the record 
 
 ![](/images/upload/ea.jpg)
 
-### Do you have a favorite live record? 
+### Do you have a favorite live record?
 
 Yes, I have a bootleg Queens of the Stone Age vinyl that I got at a record store that's very dinky out in Northern Virginia. And it's some random stadium set that they did in like, 2000, 2004, so it's like prime Queens of the Stone Age.
 
