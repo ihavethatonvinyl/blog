@@ -1,12 +1,12 @@
 ---
 title: The Summer of Speaking in Tongues
-date: 2025-02-14T21:13:00.000Z
+date: 2025-02-14T21:50:00.000Z
 summary: What I remember most is the joy, the exhilaration. I knew we were
   listening to something special, an instant classic. And I knew that even
   though 1983 was shaping up to be an incredible year for music, this would
   soundtrack the summer.
 featuredImage: /images/upload/img_8540.jpg
-draft: true
+draft: false
 ---
 ![](/images/upload/img_8540.jpg)
 
