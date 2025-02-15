@@ -1,12 +1,12 @@
 ---
 title: Pilgrimage Has Gained Momentum
-date: 2025-02-14T21:59:00.000Z
+date: 2025-02-15T05:25:00.000Z
 summary: "While there, we learned about the reputation of Berry, Buck, Mills and
   Stipe locally. My suspicions were correct: They are solid dudes that everyone
   pretty much likes."
 featuredImage: /images/upload/rem.png
 author: Demetri Inembolidis
-draft: true
+draft: false
 ---
 
 
