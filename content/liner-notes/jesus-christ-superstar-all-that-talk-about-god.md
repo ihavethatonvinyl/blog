@@ -7,6 +7,8 @@ summary: " I had a lot of questions that would probably never be answered. Not
 featuredImage: /images/upload/jds.jpg
 draft: false
 ---
+![](/images/upload/jds.jpg)
+
 It’s almost Lent, or as I like to call it, *Jesus Christ, Superstar* season. It’s a time of year when I reflect, take stock of my life, and listen to the original cast recording (1970 version, on vinyl). I do a lot of thinking about Jesus and God. I also think about 11-year-old Margaret in Judy Blume’s *Are You There God, It’s Me, Margaret* prefacing her meditation to God with “Are you there?” When I first read the book, I wondered if she was questioning if God really exists, or questioning if he’s listening. I wonder that too, Margaret.
 
 I was the same age as Margaret when I first listened to *Jesus Christ, Superstar*. My mother was obsessed with the record and played it daily. I don’t think she realized I was listening intently, because when I asked for the lyric booklet so I could read along in the same breath, I asked if Judas was really a bad guy. She was taken aback. To her credit, she still gave me the lyrics and answered all of my existential questions. A lot of what I was hearing didn’t seem to line up with what they were teaching me in religious ed. My mother reminded me that *Superstar* is fiction based on reality, but even then I questioned the reality part of it.
