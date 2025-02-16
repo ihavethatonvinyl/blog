@@ -1,11 +1,11 @@
 ---
 title: Ankur Razdan
-date: 2025-02-16T03:33:00.000Z
+date: 2025-02-16T03:48:00.000Z
 summary: ...it feels like a far more important endeavor to be archiving and
   preserving these relics from the past that show where the musical tradition
   has been and helps us inform ourselves what it means to us now.
 featuredImage: /images/upload/gardens_setm-6-1-.jpg
-draft: true
+draft: false
 ---
 ![](/images/upload/gardens_setm-6-1-.jpg)
 
