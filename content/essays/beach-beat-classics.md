@@ -6,7 +6,7 @@ summary: "You can dice vegetables to Carolina Beach Music. Whatever is in an
   the Chairmen of the Board bops on in the background. "
 featuredImage: /images/upload/img_3921.jpeg
 author: Dan Chambers
-draft: true
+draft: false
 ---
 ![](/images/upload/img_3921.jpeg)
 
