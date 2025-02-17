@@ -6,7 +6,7 @@ summary: I kept the album with the living room stereo in case I had friends
   embarrassed to let them know I was an Elton John fan, like it would be an
   affront to Elton if he knew.
 featuredImage: /images/upload/img_8571.jpg
-draft: true
+draft: false
 ---
 ![](/images/upload/img_8571.jpg)
 
@@ -22,8 +22,8 @@ I kept the album with the living room stereo in case I had friends over. I didn�
 
 In a way, that was best. I felt like I had Elton to myself, that he was special to me. I was bonding with him by keeping him secret; it was something between me and Elton, and, to a lesser extent, Bernie Taupin. Listening to *Greatest Hits* felt like a ritual where I was summoning Elton and Bernie. I was a little frustrated at not having my own space to listen in - I wouldn’t get my own turntable until the next Christmas - but sitting cross-legged in front of the stereo cabinet in the living room became part of the ritual. My middle sister would almost always join me for “Bennie and the Jets,” and my mother loved to sit in the room while “Daniel” was on. My listening sessions felt private to me at first, but then became communal as the rest of the family joined me. With them, I could be myself, let my love of Elton John flow freely. They wouldn’t make fun of me. They wouldn’t desert me. They recognized the joy within listening to Elton John and celebrated that with me.
 
-I kind of lost touch with Elton after *Captain Fantastic*. I found other music to thrill me and he never put out another record that I truly connected with. But I still go back to his earlier stuff, especially *Goodbye Yellow Brick Road* and *Madman Across the Water*. But it’s the *Greatest Hits* album that stays with me, that brings back all the great memories of listening both with my family and on my own.
+I kind of lost touch with Elton after *Captain Fantastic*. I found other music to thrill me and he never put out another record that I truly connected with. But I still go back to his earlier records, especially *Goodbye Yellow Brick Road* and *Madman Across the Water*. But it’s the *Greatest Hits* album that stays with me, that brings back all the great memories of listening both with my family and on my own.
 
 I mentioned on social media that I was writing about this album and someone said that writing about a greatest hits album was cheating. I don’t agree with that. Not only did this album provide me with some charming moments of singing along with my family to “Bennie and the Jets,” but it brought me close to Elton, helped me really connect with his and Bernie’s words and his music. I have vivid memories of bellowing along with “Don’t Let the Sun Go Down on Me” and dancing to “Saturday Night” and that makes it worth writing about.
-
-*I Have That on Vinyl is a reader supported publication. If you enjoy what's going on here please consider donating to the site's writer fund: [venmo](https://account.venmo.com/u/Michele-Catalano2659) // [paypal](https://www.paypal.com/paypalme/goingitaloneny?country.x=US&locale.x=en_US)*
+>
+> *I Have That on Vinyl is a reader supported publication. If you enjoy what's going on here please consider donating to the site's writer fund: [venmo](https://account.venmo.com/u/Michele-Catalano2659) // [paypal](https://www.paypal.com/paypalme/goingitaloneny?country.x=US&locale.x=en_US)*
