@@ -1,6 +1,6 @@
 ---
 title: Beach Beat Classics
-date: 2025-02-16T17:45:00.000Z
+date: 2025-02-17T03:45:00.000Z
 summary: "You can dice vegetables to Carolina Beach Music. Whatever is in an
   oily frying pan just smells better when “Give Me Just a Little More Time” by
   the Chairmen of the Board bops on in the background. "
