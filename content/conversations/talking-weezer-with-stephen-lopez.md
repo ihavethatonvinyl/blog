@@ -1,7 +1,7 @@
 ---
 title: Talking Weezer With Stephen Lopez
-date: 2025-02-18T00:00:00.000Z
-draft: true
+date: 2025-02-18T04:54:00.000Z
+draft: false
 summary: It [the blue album] changed me in ways I can't articulate. It was
   clearly a turning point in terms of me as a human and I just latched on like a
   leech. I couldn't let go.
