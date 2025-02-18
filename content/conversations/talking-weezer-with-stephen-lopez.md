@@ -2,7 +2,10 @@
 title: Talking Weezer With Stephen Lopez
 date: 2025-02-17T23:39:00.000Z
 draft: true
+featuredImage: /images/upload/steelopus_weezer_landscape.png
 ---
+![](/images/upload/steelopus_weezer_landscape.png)
+
 *Today we are talking to musician Stephen Lopez, a long time internet friend of mine and my resident Weezer expert.*
 
 ### Would you like to introduce yourself?
@@ -17,7 +20,7 @@ I started in ‘94 right when the debut came out. I actually didn't really catch
 
 Not physically. For the first, let's say, up until Maladroit came out, I was an obsessive completionist with every piece of physical media I could get my hands on. T-shirts and posters and magazines and all that kind of stuff. I have boxes of them. You know, back in the early days of the internet, I was literally printing out pages off Weezer message boards and the Weezer website, and I've got three ring binders in the basement, with archival information about Weezer from that time period. 
 
-### Oh, that's awesome. 
+### Oh, that's awesome.
 
 Thank you. Most people would say it's a little bit nerdy, but that's fine. I don't mind being nerdy.
 
@@ -40,6 +43,8 @@ Yeah, here's the thing, right? I've often talked with other friends about this a
 ### No, definitely not. And I have several bands that I like that I also put into different categories, like Incubus. There's the early Incubus is one band, and the rest of it is a different band and I treat them that way.
 
 As long as you yourself can compartmentalize that in your own brain and heart. Yeah, it's okay. I'm not disappointed when Rivers releases an album like the Black Album, which I thought was terrible, because his resume is strong enough to let that happen. I can just kind of listen to it once and be like, it's not great. But it doesn't make me think that Weezer sucks, or that's not Weezer. All the trademarks of the band are still there. It's just the songs aren't what I like to listen to.
+
+![steve with rivers](/images/upload/steelopus_riverscuomo.jpg "steve with rivers")
 
 ### What’s your Weezer top five?
 
@@ -85,6 +90,10 @@ Well, it makes sense. I mean, Ocasek was a genius. The Cars were a genius band. 
 
 Yeah, Like *Hurley*, the black album, these are albums that are clearly…they feel like entire albums of filler. Rivers at some point went for quantity over quality. I think that's hurt them in the long run. He did an interview in the past six months where he had kind of admitted that was maybe a mistake. Maybe they'll slow down, you know, and release albums that have better songs, rather than just an album every year, rather than just throwing something out there for the sake of doing it.
 
+
+
+![blue album box set](/images/upload/img_8055.jpg "blue album box set")
+
 ### How many times have you seen them live?
 
 About 12 to 15 times which, you know, it's, it's a modest amount. Some, some people will see bands way more than that. Based on where I live, we don't get quite as many tours coming through here as people in larger cities. But I've traveled to see them play in different cities. 1996 I got to see them on the Pinkerton tour. That was my first show, first Weezer show. And it was life changing. It was one of those shows. I think everybody has this experience when you're a kid and you see a show that just plants a seed in you, that sprouts, and it helps you realize how much you love live music, and B, love specific bands. They played that tour with Ash. Remember the band Ash? That's where I learned to love opening bands. I came away from that show loving Ash and realizing that you should get the show on time, because the opening band might be the next Weezer.
@@ -101,7 +110,7 @@ It changed me in ways I can't articulate. It was clearly a turning point in term
 
 it is. And then the more I thought about that question, I think where I landed on was, I think I would get rid of “Buddy Holly.” 
 
-### Oh, really? 
+### Oh, really?
 
 Which is incredible, right? Because it was their hit. It was the one that that totally changed that band's career.
 
@@ -121,7 +130,7 @@ I need to mention Matt Sharp because it's hard to talk about Weezer without talk
 
 People thought last year, on the 30th anniversary of the blue album, that there might be some sort of reunion with Matt, or they would bring him back for a show or something. And it's not gonna happen, not that there's bad blood between them. It's just, what are you going to accomplish with that?
 
-### And what are they gonna say? What are they going to tell their bass player? 
+### And what are they gonna say? What are they going to tell their bass player?
 
 You know exactly. “Hey, Scott, why don't you, why don't you step aside for one song?” It's a little weird. 
 
