@@ -69,4 +69,6 @@ Josie had a good last day. She had a steak and imitation crab the night before a
 
 I left the OR without my dog, broken and shellshocked. Paying the bill I see an electronic candle lit with a sign “If this candle is on, please speak quietly and respectfully as someone is going through the difficult process of losing a pet.” And I think “Oh gosh, someone is losing a pet today? That’s so hard, I hope they’re ok.” It takes me getting to the car to realize it was lit for Josie. If you can’t laugh at yourself, who can you laugh at?
 
-*I Have That on Vinyl is a reader supported publication. If you enjoy what’s going on here please consider donating to the site’s writer fund: [venmo](https://account.venmo.com/u/Michele-Catalano2659) // [paypal](https://www.paypal.com/paypalme/goingitaloneny?country.x=US&locale.x=en_US)*
+*Everett Hall (he/him) is the songwriter for Virginia band Felt Lips. Their album “Boris Sent Me” features 11 songs about love, local weather patterns, novelty records, and grief. You're gonna dig it. [](https://feltlips.bandcamp.com/album/boris-sent-me)*Available [here. ](https://feltlips.bandcamp.com/album/boris-sent-me)
+
+*[](https://feltlips.bandcamp.com/album/boris-sent-me)I Have That on Vinyl is a reader supported publication. If you enjoy what’s going on here please consider donating to the site’s writer fund: [venmo](https://account.venmo.com/u/Michele-Catalano2659) // [paypal](https://www.paypal.com/paypalme/goingitaloneny?country.x=US&locale.x=en_US)*
