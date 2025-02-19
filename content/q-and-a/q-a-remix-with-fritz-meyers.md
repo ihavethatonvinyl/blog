@@ -1,12 +1,12 @@
 ---
 title: Q&A Remix With Fritz Meyers
-date: 2025-02-19T04:09:00.000Z
+date: 2025-02-19T04:23:00.000Z
 summary: " bought a couple albums, but the experience of wandering the aisles
   talking with those guys, catching up on who we’d become lately; conversations
   about kids and work peppered with “oooooh, look at this…” makes it a special
   memory."
 featuredImage: /images/upload/img_0031.jpeg
-draft: true
+draft: false
 ---
 ![](/images/upload/img_0031.jpeg)
 
