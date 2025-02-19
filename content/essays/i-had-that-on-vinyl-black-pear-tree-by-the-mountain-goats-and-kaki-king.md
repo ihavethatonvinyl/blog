@@ -1,13 +1,13 @@
 ---
 title: "I Had That on Vinyl: Black Pear Tree by the Mountain Goats and Kaki King"
-date: 2025-02-19T04:22:00.000Z
+date: 2025-02-19T04:23:00.000Z
 summary: That piece of vinyl, mottled black and yellow, was on my turntable a
   lot, in good times and especially in hard. The anger of “Mosquito Repellent”
   felt real and earned when I too hoped that the bad guys would win, that the
   good guys would get their heads bashed in.
 featuredImage: /images/upload/bpt.jpg
 author: Everett Hall
-draft: true
+draft: false
 ---
 ![](/images/upload/bpt2.jpg)
 
