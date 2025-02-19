@@ -1,6 +1,6 @@
 ---
-title: Q&A Remix With Fritz Meyers
-date: 2025-02-19T04:23:00.000Z
+title: Q&A Remix With Fritz Myers
+date: 2025-02-19T04:33:00.000Z
 summary: " bought a couple albums, but the experience of wandering the aisles
   talking with those guys, catching up on who we’d become lately; conversations
   about kids and work peppered with “oooooh, look at this…” makes it a special
@@ -10,7 +10,7 @@ draft: false
 ---
 ![](/images/upload/img_0031.jpeg)
 
-*The Q&A Remix is a frequent column on IHTOV in which people from all walks of life answer a set of pre-written questions about their vinyl collection. Today we welcome composer and producer Fritz Meyers.*
+*The Q&A Remix is a frequent column on IHTOV in which people from all walks of life answer a set of pre-written questions about their vinyl collection. Today we welcome composer and producer Fritz Myers.*
 
 ### Have you ever bought a record just for the artwork?
 
