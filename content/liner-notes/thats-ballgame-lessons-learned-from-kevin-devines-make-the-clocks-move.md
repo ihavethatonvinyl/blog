@@ -1,12 +1,12 @@
 ---
 title: That's Ballgame - Lessons Learned from Kevin Devine's "Make the Clocks Move"
-date: 2025-02-19T17:50:00.000Z
+date: 2025-02-19T19:30:00.000Z
 summary: " I wanted to stop the song. I wanted to start it over again. I wanted
   to hear the part about it being not a pattern but a phase. It’s what you’ve
   become and it’s what you will stay rang in my head. I was on the first stanza
   and already feeling choked up"
 featuredImage: /images/upload/mcm.jpg
-draft: true
+draft: false
 ---
 ![](/images/upload/mcm.jpg)
 
