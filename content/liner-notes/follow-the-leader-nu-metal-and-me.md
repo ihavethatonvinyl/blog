@@ -13,7 +13,7 @@ draft: false
 
 I’ve been through phases before. When I was a teen I had a southern rock phase where I wore a suede cowboy hat and fringed suede vest and went to Marshall Tucker concerts. There was my new wave phase, replete with spiked hair and ripped stockings and, much later, a regrettable Harry Connick style crooner phase. These were mostly harmless phases, maybe even wholesome. Nobody bothered me about it.
 
-It wasn’t until much later when, at 35, I entered a new phase in my life. I had kickstarted a nu-metal phase, much to the chagrin of every single person in my life save for my youngest sister, who absolutely encouraged me every step of the way.
+It wasn’t until much later that I entered a new phase in my life that people questioned me about. I had kickstarted a nu-metal phase, much to the chagrin of every single person in my life save for my youngest sister, who absolutely encouraged me every step of the way.
 
 Nu-metal was kind of a niche genre in early 1997. You’d mostly hear that style of music on college radio stations or you’d see the videos on MuchMusic’s *Loud* program, if you were lucky enough to get that with your cable package. I was fortunate I had both, so I got on the nu-metal train early. Something happened that year that made nu-metal blow up. Whereas I only had my sister to talk with about bands like Incubus and Korn and Coal Chamber.
 
