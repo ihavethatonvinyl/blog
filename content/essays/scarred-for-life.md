@@ -1,13 +1,13 @@
 ---
 title: Scarred for Life
-date: 2025-02-21T01:49:00.000Z
+date: 2025-02-21T04:31:00.000Z
 summary: " Your vibe is more that of a hair metal connoisseur, a devotee of the
   Aquanet set, a genre that’s subject to even more ridicule than the Heavy Metal
   Parking Lot wannabes who smoke rollies and give out stick and poke tats at the
   fringe of the ragged school lawns."
 featuredImage: /images/upload/rt.jpg
 author: Garth Jones
-draft: true
+draft: false
 ---
 ![](/images/upload/rt.jpg)
 
