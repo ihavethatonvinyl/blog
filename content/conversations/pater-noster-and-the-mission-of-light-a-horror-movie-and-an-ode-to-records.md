@@ -1,6 +1,6 @@
 ---
 title: "Pater Noster and the Mission of Light: a Horror Movie And an Ode to Records"
-date: 2025-02-20T20:08:00.000Z
+date: 2025-02-20T20:57:00.000Z
 draft: true
 featuredImage: /images/upload/cb1.jpg
 ---
