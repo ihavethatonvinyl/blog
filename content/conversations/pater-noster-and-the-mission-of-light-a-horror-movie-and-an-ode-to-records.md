@@ -1,6 +1,6 @@
 ---
 title: "Pater Noster and the Mission of Light: a Horror Movie And an Ode to Records"
-date: 2025-02-20T20:57:00.000Z
+date: 2025-02-21T01:54:00.000Z
 draft: true
 featuredImage: /images/upload/cb1.jpg
 ---
@@ -64,11 +64,8 @@ I've always been obsessed with low budget movies. Especially horror. So I've alw
 
 For the longest time my holy grail record was "Pay To Cum" by the Bad Brains. But I ended up thrifting a Ronnie and the Relatives 45 for 25 cents which I flipped on eBay for over $1000 and I took that Paypal mad money and bought myself an original "Pay To Cum." This was back when you could still get one of those for $1000! The two Fix 7 inches are probably the top of my wantlist now. But I don't think there's any record I want so much that I'd run back into the cult compound to grab like Max does in the movie!
 
-*Bickel's CV includes stints as a columnist for MaximumRockNRoll magazine
- and Dangerous Minds. He was also singer in the punk bands In/Humanity 
-and Guyana Punch Line, as well as the brains behind prolific avant-garde
- recording project Anakrid.*
+*Bickel's CV includes stints as a columnist for MaximumRockNRoll magazine and Dangerous Minds. He was also singer in the punk bands In/Humanity and Guyana Punch Line, as well as the brains behind prolific avant-garde recording project Anakrid.*
 
-Bickel works in underground genre films.
-
-*I Have That on Vinyl is a reader supported publication. If you enjoy what's going on here please consider donating to the site's writer fund: [venmo](https://account.venmo.com/u/Michele-Catalano2659) // [paypal](https://www.paypal.com/paypalme/goingitaloneny?country.x=US&locale.x=en_US)*
+ *Bickel works in underground genre films.*
+>
+> *I Have That on Vinyl is a reader supported publication. If you enjoy what's going on here please consider donating to the site's writer fund: [venmo](https://account.venmo.com/u/Michele-Catalano2659) // [paypal](https://www.paypal.com/paypalme/goingitaloneny?country.x=US&locale.x=en_US)*
