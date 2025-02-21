@@ -7,7 +7,7 @@ summary: I spent a lot of time on AOL and that is where I met Justin, a guy half
   He wore Jnco jeans and band t-shirts and had a wallet chain hanging from his
   pocket.
 featuredImage: /images/upload/img_8614.jpg
-draft: true
+draft: false
 ---
 ![](/images/upload/img_8614.jpg)
 
