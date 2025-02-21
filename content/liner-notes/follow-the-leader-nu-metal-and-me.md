@@ -15,7 +15,7 @@ I’ve been through phases before. When I was a teen I had a southern rock phase
 
 It wasn’t until much later that I entered a new phase in my life that people questioned me about. I had kickstarted a nu-metal phase, much to the chagrin of every single person in my life save for my youngest sister, who absolutely encouraged me every step of the way.
 
-Nu-metal was kind of a niche genre in early 1997. You’d mostly hear that style of music on college radio stations or you’d see the videos on MuchMusic’s *Loud* program, if you were lucky enough to get that with your cable package. I was fortunate I had both, so I got on the nu-metal train early. Something happened that year that made nu-metal blow up. Whereas I only had my sister to talk with about bands like Incubus and Korn and Coal Chamber.
+Nu-metal was kind of a niche genre in early 1997. You’d mostly hear that style of music on college radio stations or you’d see the videos on MuchMusic’s *Loud* program, if you were lucky enough to get that with your cable package. I was fortunate I had both, so I got on the nu-metal train early. Something happened that year that made nu-metal blow up. Where before I only had my sister to talk with about bands like Incubus and Korn and Coal Chamber, I was starting to hear more and more people mention it. 
 
 Suddenly the AOL chat rooms I had been visiting to talk about music were all about nu-metal. Radio stations were playing Korn. I still had to work to hear most nu-metal bands. I taped *Loud* diligently, catching bands like Deftones, whose music blew my mind, and Limp Bizkit, whose frontman Fred Durst captured my interest. I went to Uncle Phil’s record store and asked Phil for nu-metal CDs. I was all in.
 
