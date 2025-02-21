@@ -1,7 +1,11 @@
 ---
 title: "Pater Noster and the Mission of Light: a Horror Movie And an Ode to Records"
-date: 2025-02-21T01:54:00.000Z
-draft: true
+date: 2025-02-21T04:30:00.000Z
+draft: false
+summary: "There's a meme I once saw that I felt rang true: \"Hippies are mean
+  people pretending to be nice and punks are nice people pretending to be
+  mean.\" Every generation sucks though when you get down to it. Because, as
+  Deja Venus states in the movie: \"people, in general, are assholes.\" "
 featuredImage: /images/upload/cb1.jpg
 ---
 ![](/images/upload/cb1.jpg)
