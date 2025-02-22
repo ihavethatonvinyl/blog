@@ -1,12 +1,12 @@
 ---
 title: Q&A Remix With Chris Ingalls
-date: 2025-02-22T03:34:00.000Z
+date: 2025-02-22T04:08:00.000Z
 summary: My sisters were never really into finding rare records, buying stacks
   of records at a time, filling in gaps in their collections, stuff like that;
   they just liked listening to music. My brother and I turned it into an
   obsession, and we couldn’t have done it without them.
 featuredImage: /images/upload/img_4053.jpeg
-draft: true
+draft: false
 ---
 ![](/images/upload/img_4053.jpeg)
 
@@ -63,6 +63,8 @@ As far as live records currently in my vinyl collection, probably *Sunday at the
 I have three older siblings – my brother Gary is four years older than me and my sisters Julie and Karen are about nine and eleven years older. When I was in kindergarten, my sisters were in high school. The golden age of music discovery for me was when I was between the ages of five and ten, from 1974 to 1979, when we lived in the suburbs outside of Paris – our father worked for the defense contractor Raytheon and his job brought us over there, which was an incredibly enriching experience that essentially helped shape the person I am today. My sisters helped fuel the obsession, but my brother and I took it to a whole other level. My sisters were never really into finding rare records, buying stacks of records at a time, filling in gaps in their collections, stuff like that; they just liked listening to music. My brother and I turned it into an obsession, and we couldn’t have done it without them.
 
 As much as my sisters got me started, it was my brother Gary who really helped maintain that momentum. He’s been an avid record collector since the late 70s and has never really stopped. He got me into a lot of different kinds of music, and these days I’ve been influencing his tastes more and more – I like to take some credit for his relatively recent addiction to jazz. Our music tastes aren’t exactly the same, but we’re both a bit of a rarity due to the fact that we’re in our fifties and still love discovering new music. A lot of people I went to highschool with are stuck in the same musical rut and I can’t abide that.
+
+![](/images/upload/img_4055.jpeg)
 
 ### What are your first memories of listening to records?
 
