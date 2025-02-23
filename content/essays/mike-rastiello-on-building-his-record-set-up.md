@@ -1,12 +1,12 @@
 ---
 title: Mike Rastiello on Building His Record Set Up
-date: 2025-02-22T17:11:00.000Z
+date: 2025-02-23T04:07:00.000Z
 summary: It was a dark, damp room; oh man, there was the receiver. They still
   had speakers set up to it to show me that it worked. I plugged in my iPod into
   the AUX in port, a hilarious meeting of technology decades apart.
 featuredImage: /images/upload/image3-1-.jpeg
 author: Mike  Rastiello
-draft: true
+draft: false
 ---
 ![](/images/upload/image3-1-.jpeg)
 
