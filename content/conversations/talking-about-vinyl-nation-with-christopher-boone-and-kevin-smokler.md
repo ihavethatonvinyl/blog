@@ -2,6 +2,11 @@
 title: Talking About "Vinyl Nation" With Christopher Boone and Kevin Smokler
 date: 2025-02-24T10:09:00.000Z
 draft: true
+summary: ...if you put any of those 45 people in a room and they'd never met
+  each other, they would be fast friends. And even though they came from totally
+  different places in life, different backgrounds, different beliefs; their
+  passion for records, and even if the genres are different, would just connect
+  them immediately.
 ---
 *Today at IHTOV: Christopher Boone and Kevin Smokler, the producers of the documentary Vinyl Nation, sit down with us to talk about  the vinyl resurgence, Record Store Day, stereo equipment and the aesthetics of vinyl.*
 
