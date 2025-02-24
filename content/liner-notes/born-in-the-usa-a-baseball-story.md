@@ -1,6 +1,6 @@
 ---
 title: "Born in the USA: A Baseball Story"
-date: 2025-02-23T19:21:00.000Z
+date: 2025-02-24T03:31:00.000Z
 summary: "There was something for every Bruce fan on this album: everyone who
   wanted catharsis, everyone who wanted something fun, everyone who wanted
   something that punched them in the face, that didn’t deal in the subtleties of
@@ -8,7 +8,7 @@ summary: "There was something for every Bruce fan on this album: everyone who
   was more than that. The album became his entire personality, and it was coming
   to a head in July 1985."
 featuredImage: /images/upload/img_8625.jpg
-draft: true
+draft: false
 ---
 ![](/images/upload/img_8625.jpg)
 
