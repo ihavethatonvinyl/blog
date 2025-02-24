@@ -10,8 +10,6 @@ draft: true
 ---
 ![](/images/upload/image2-2-.jpeg)
 
-
-
 *The Mystical Dice of Random Musical Destiny decreed that I listen to the Clash’s* London Calling *and who am I to deny the Mystical Dice of Random Musical Destiny? I love* London Calling*, and I’m always happy to give it a spin.*
 
 Let’s just get this out of the way: Henry Rollins’ quote about Joe Strummer preparing us for the current state of affairs might have gotten overexposed over the last month, but the defiance of *London Calling* sounds necessary right now.
@@ -90,6 +88,6 @@ School ended a few weeks after my birthday, and almost immediately, my friendshi
 
 About 15 years or more ago, Bob and I briefly reconnected via social media, but again, no lasting connection was made, and we haven’t connected since. Maybe we will again sometime, but if not, we had “Train in Vain (Stand by Me)”, “Set Me Free”, *Flying Lizards*, *52nd Street*, *Blondie*, *Cheaper by the Dozen, Prisoner in Cell Block H*, and our own personal Bender.
 
-And, apparently, kindergarten.
-
-*I Have That on Vinyl is a reader supported publication. If you enjoy what's going on here please consider donating to the site's writer fund: [venmo](https://account.venmo.com/u/Michele-Catalano2659) // [paypal](https://www.paypal.com/paypalme/goingitaloneny?country.x=US&locale.x=en_US)*
+ And, apparently, kindergarten.
+>
+> *I Have That on Vinyl is a reader supported publication. If you enjoy what's going on here please consider donating to the site's writer fund: [venmo](https://account.venmo.com/u/Michele-Catalano2659) // [paypal](https://www.paypal.com/paypalme/goingitaloneny?country.x=US&locale.x=en_US)*
