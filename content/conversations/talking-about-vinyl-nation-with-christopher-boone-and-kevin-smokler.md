@@ -3,7 +3,7 @@ title: Talking About "Vinyl Nation" With Christopher Boone and Kevin Smokler
 date: 2025-02-24T10:09:00.000Z
 draft: true
 ---
-*Today at IHTOV: Christopher Boon and Kevin Smokler, the producers of the documentary Vinyl Nation, sit down with us to talk about  the vinyl resurgence, Record Store Day, stereo equipment and the aesthetics of vinyl.*
+*Today at IHTOV: Christopher Boone and Kevin Smokler, the producers of the documentary Vinyl Nation, sit down with us to talk about  the vinyl resurgence, Record Store Day, stereo equipment and the aesthetics of vinyl.*
 
 ### IHTOV: Tell me a little about your record collections.
 
