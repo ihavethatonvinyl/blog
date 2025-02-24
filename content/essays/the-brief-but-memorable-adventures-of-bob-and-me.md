@@ -89,5 +89,7 @@ School ended a few weeks after my birthday, and almost immediately, my friendshi
 About 15 years or more ago, Bob and I briefly reconnected via social media, but again, no lasting connection was made, and we haven’t connected since. Maybe we will again sometime, but if not, we had “Train in Vain (Stand by Me)”, “Set Me Free”, *Flying Lizards*, *52nd Street*, *Blondie*, *Cheaper by the Dozen, Prisoner in Cell Block H*, and our own personal Bender.
 
  And, apparently, kindergarten.
->
+
+*Rich Wilhelm is a writer and record collector who lives in Royersford, Pennsylvania. Rich is the news editor for the communications department at ASTM International. He has written extensively for Cool and Strange Music Magazine, PopMatters, and his own website, The Dichotomy of the Dog. Rich is also a certified volunteer tour guide at Laurel Hill Cemetery in Philadelphia, Pennsylvania. Rich can be found on social media at Bluesky (@rfwilhelm.bsky.social)*.
+
 > *I Have That on Vinyl is a reader supported publication. If you enjoy what's going on here please consider donating to the site's writer fund: [venmo](https://account.venmo.com/u/Michele-Catalano2659) // [paypal](https://www.paypal.com/paypalme/goingitaloneny?country.x=US&locale.x=en_US)*
