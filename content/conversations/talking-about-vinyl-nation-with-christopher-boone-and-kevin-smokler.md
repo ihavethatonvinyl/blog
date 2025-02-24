@@ -1,13 +1,16 @@
 ---
 title: Talking About "Vinyl Nation" With Christopher Boone and Kevin Smokler
-date: 2025-02-24T10:09:00.000Z
+date: 2025-02-24T13:21:00.000Z
 draft: true
 summary: ...if you put any of those 45 people in a room and they'd never met
   each other, they would be fast friends. And even though they came from totally
   different places in life, different backgrounds, different beliefs; their
   passion for records, and even if the genres are different, would just connect
   them immediately.
+featuredImage: /images/upload/kevin-smokler-hero.png
 ---
+![](/images/upload/kevin-smokler-hero.png)
+
 *Today at IHTOV: Christopher Boone and Kevin Smokler, the producers of the documentary Vinyl Nation, sit down with us to talk about  the vinyl resurgence, Record Store Day, stereo equipment and the aesthetics of vinyl.*
 
 ### IHTOV: Tell me a little about your record collections.
@@ -30,6 +33,8 @@ summary: ...if you put any of those 45 people in a room and they'd never met
 
 **KS**: It was pretty bad. But we had a lot of things happen with the movie that probably wouldn't have had it been conventional times and we had to sort of do it the old fashioned way. So I will never know what would have happened had there not been a pandemic. But I think we're pretty grateful that we got the opportunities we did on a first movie.
 
+![](/images/upload/vn2.jpg)
+
 ### IHTOV: One thing I love about the film is how human it is, and you view records less as a commodity and more as an extension of someone's personality. Was this the intent?
 
 **CB**: Yeah, it definitely was. We were we went into it with, again, Kevin's idea of, let's figure out why there's such a thing is a vinyl record renaissance going on now, but very quickly we realized, and our editors also realized as we gave them footage, you've gone and set out to make a movie and documentary about the renaissance about records. And really, what we ended up doing was making a movie about human connection, and the only way to really do that is to understand who these people are and why they're connected to records. And another observation our editors made, too, was we had, I think, 45 distinct interviews. That doesn’t count any of the on the fly interviews we did like the Austin record convention or Record Store Day at [Mills Record Company](https://millsrecordcompany.com/) in Kansas City, places like that. And our editors realized that if you put any of those 45 people in a room and they'd never met each other, they would be fast friends. And even though they came from totally different places in life, different backgrounds, different beliefs; their passion for records, and even if the genres are different, would just connect them immediately. And they would just start talking records and why it's so special to them and it really is, like you said, an extension of people's personality. And because one of the things we tried to do visually, which may or may not come across upon first watching, but we really, as best we could, tried to put people in their environments as it related to their records, and tried to show them, at least in the wide shots, in such a way that the frame itself would tell the story in terms of their relationship with records. But yeah, you can learn a lot from somebody's record collection to the point where one of our interview subjects, who said she doesn’t actually like when people come over and look through her record collection because she thought it was a little too personal. But I think it is a nice way to get to know people, and also a way to share parts of yourself that help other people about you, and maybe indirectly.
@@ -49,6 +54,8 @@ summary: ...if you put any of those 45 people in a room and they'd never met
 ### IHTOV: How do you think young kids being interested in records will bode well for the record industry?
 
 **KS**: That's a good question. I mean, we don’t know. We don't work in the music industry ; we don't have much of an understanding of its ebbs and flows. Most of the people who we talked to for this movie, said the near future, so far as we see it, is streaming and vinyl. like that's what the music industry, in terms of sales of music, will consist of. Sales of music to the customer, not B2B sales or anything and that kind of makes sense to us. There's a bit of a cassette tape renaissance here and there amongst some particular music groups. Maybe people will think 8-tracks are cool. I always thought 8-track players were cool. They look like toasters. Toasters with a Nintendo cartridge that you put in them. And who knows? Records are really aesthetically pleasing, and we think that's perfectly legit. When people say things like, records are just pretty Yes, they are.
+
+![photo credit: sherri kauk](/images/upload/vn.jpg)
 
 ### IHTOV: I'd rather have a record than a CD. Sometimes I think a CD sounds a little better depending on what I'm listening to, but I would rather have the record.
 
@@ -85,6 +92,12 @@ Like Kevin said, just come to the record store just say thank you. Spend time wi
 ### IHTOV: Where can my readers watch [*Vinyl Nation*?](https://vinylnationfilm.com/)
 
 **KS**: It’s on most streaming platforms. And for purchase at all the normal places - iTunes, Amazon Prime. Chris and I had a great time working together. We shot a short documentary in Portland, Oregon last fall that'll probably be out sometime this year. Sherry, our cinematographer, continues to work with us. She worked on the short doc and we don't know if we're gonna be making music documentaries for the rest of our lives, but, but we have a lot of, a lot of ideas. A few of them are music related and, and they're all on the burners as we speak.
+
+*Kevin Smokler is a writer, documentary filmmaker and event host focused on our relationship as human beings with pop culture. His most recent book BREAK THE FRAME: CONVERSATIONS WITH WOMEN FILMMAKERS  contains 24 career-retrospective conversations with directors behind box office phenomenon like Captain Marvel, Oscar winners like Free Solo and the filmmakers who launched actors such as America Ferrera, Paul Rudd, Ryan Gosling and Jennifer Lawrence. and will be published on May 22, 2025. His previous books, BRAT PACK AMERICA is a love letter to teen movies of the 1980s. His 2013 essay collection PRACTICAL CLASSICS is a 
+50 book attempt to reread one's high school reading list as an adult.*
+
+*Christopher Boone is a writer and a filmmaker based in Albuquerque. He co-directed the feature documentary Vinyl Nation about the resurgence of vinyl records with Kevin Smokler, and directed the narrative feature Cents from his Academy Nicholl semifinalist script. Christopher has also 
+moderated several screenwriting panels for the Austin Film Festival and its On Story PBS series and podcast. His next film is Middle Grounds, a short documentary co-directed with Smokler about coffee, community, and conversations.*
 
 *[ed note: if you have Kanopy - which you can get with a library card - the film is streaming there for free. [Trailer is here](https://vinylnationfilm.com/trailer).]*
 
