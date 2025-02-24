@@ -1,11 +1,11 @@
 ---
 title: Q&A Remix With Chris Payne
-date: 2025-02-23T20:17:00.000Z
+date: 2025-02-24T03:31:00.000Z
 summary: ... that thrill of opening up new vinyl packaging and—sometimes—getting
   surprised with a gorgeous interior design or cool liner notes you weren’t
   expecting. 
 featuredImage: /images/upload/screenshot-2025-02-23-at-8.20.54 pm.png
-draft: true
+draft: false
 ---
 ![](/images/upload/screenshot-2025-02-23-at-8.20.54 pm.png)
 
