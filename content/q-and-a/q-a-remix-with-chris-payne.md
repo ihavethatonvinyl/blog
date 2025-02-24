@@ -1,6 +1,6 @@
 ---
 title: Q&A Remix With Chris Payne
-date: 2025-02-24T03:31:00.000Z
+date: 2025-02-24T07:36:00.000Z
 summary: ... that thrill of opening up new vinyl packaging and—sometimes—getting
   surprised with a gorgeous interior design or cool liner notes you weren’t
   expecting. 
@@ -9,7 +9,7 @@ draft: false
 ---
 ![](/images/upload/screenshot-2025-02-23-at-8.20.54 pm.png)
 
-
+*The Q&A Remix is a frequent column on IHTOV in which people from all walks of life answer a set of pre-written questions about their  vinyl collection. Today we welcome author Chris Payne.*
 
 **Have you ever bought a record just for the artwork?**
 
@@ -72,7 +72,5 @@ Daft Punk, *Homework* 
 *Bluesky: cpayneonaplane.bsky.social*
 
 *Instagram: @cpayneonaplane*
-
-
 
 > *I Have That on Vinyl is a reader supported publication. If you enjoy what's going on here please consider donating to the site's writer fund: [venmo](https://account.venmo.com/u/Michele-Catalano2659) // [paypal](https://www.paypal.com/paypalme/goingitaloneny?country.x=US&locale.x=en_US)*
