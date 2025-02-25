@@ -1,12 +1,12 @@
 ---
 title: The Brief But Memorable Adventures of Bob and Me
-date: 2025-02-24T18:11:00.000Z
+date: 2025-02-25T04:46:00.000Z
 summary: " I’d like to think I’ve made up for lost time, but it almost doesn’t
   matter that I came to London Calling late. Whenever you first experience a
   brilliant work of art, it’s always the right time."
 featuredImage: /images/upload/image2-2-.jpeg
 author: Rich Wilhelm
-draft: true
+draft: false
 ---
 ![](/images/upload/image2-2-.jpeg)
 
