@@ -7,9 +7,9 @@ summary: ...if you put any of those 45 people in a room and they'd never met
   different places in life, different backgrounds, different beliefs; their
   passion for records, and even if the genres are different, would just connect
   them immediately.
-featuredImage: /images/upload/kevin-smokler-hero.png
+featuredImage: /images/upload/vn2.jpg
 ---
-![](/images/upload/kevin-smokler-hero.png)
+![](/images/upload/vn2.jpg)
 
 *Today at IHTOV: Christopher Boone and Kevin Smokler, the producers of the documentary Vinyl Nation, sit down with us to talk about  the vinyl resurgence, Record Store Day, stereo equipment and the aesthetics of vinyl.*
 
@@ -33,7 +33,7 @@ featuredImage: /images/upload/kevin-smokler-hero.png
 
 **KS**: It was pretty bad. But we had a lot of things happen with the movie that probably wouldn't have had it been conventional times and we had to sort of do it the old fashioned way. So I will never know what would have happened had there not been a pandemic. But I think we're pretty grateful that we got the opportunities we did on a first movie.
 
-![](/images/upload/vn2.jpg)
+![](/images/upload/kevin-smokler-hero.png)
 
 ### IHTOV: One thing I love about the film is how human it is, and you view records less as a commodity and more as an extension of someone's personality. Was this the intent?
 
