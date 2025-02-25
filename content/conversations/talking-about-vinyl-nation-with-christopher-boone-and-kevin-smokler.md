@@ -1,7 +1,7 @@
 ---
 title: Talking About "Vinyl Nation" With Christopher Boone and Kevin Smokler
-date: 2025-02-24T13:21:00.000Z
-draft: true
+date: 2025-02-25T04:44:00.000Z
+draft: false
 summary: ...if you put any of those 45 people in a room and they'd never met
   each other, they would be fast friends. And even though they came from totally
   different places in life, different backgrounds, different beliefs; their
