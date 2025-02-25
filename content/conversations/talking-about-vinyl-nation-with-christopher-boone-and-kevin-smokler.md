@@ -55,7 +55,7 @@ featuredImage: /images/upload/vn2.jpg
 
 **KS**: That's a good question. I mean, we don’t know. We don't work in the music industry ; we don't have much of an understanding of its ebbs and flows. Most of the people who we talked to for this movie, said the near future, so far as we see it, is streaming and vinyl. like that's what the music industry, in terms of sales of music, will consist of. Sales of music to the customer, not B2B sales or anything and that kind of makes sense to us. There's a bit of a cassette tape renaissance here and there amongst some particular music groups. Maybe people will think 8-tracks are cool. I always thought 8-track players were cool. They look like toasters. Toasters with a Nintendo cartridge that you put in them. And who knows? Records are really aesthetically pleasing, and we think that's perfectly legit. When people say things like, records are just pretty Yes, they are.
 
-![photo credit: sherri kauk](/images/upload/vn.jpg)
+![photo credit: sherri kauk](/images/upload/vn.jpg "photo credit: sherri kauk")
 
 ### IHTOV: I'd rather have a record than a CD. Sometimes I think a CD sounds a little better depending on what I'm listening to, but I would rather have the record.
 
