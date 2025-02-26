@@ -1,10 +1,12 @@
 ---
 title: Q&A Remix With Ken French
-date: 2025-02-25T20:24:00.000Z
+date: 2025-02-26T03:41:00.000Z
 featuredImage: /images/upload/20250213_213102.jpg
-draft: true
+draft: false
 ---
 ![](/images/upload/20250213_213102.jpg)
+
+*The Q&A Remix is a frequent column on IHTOV in which people from all walks of life answer a set of pre-written questions about their vinyl collection. Today we welcome* *Clash fan Ken French.*
 
 ### Have you ever bought a record just for the artwork?
 
@@ -66,7 +68,7 @@ A Housemartins picture disc shaped like a toilet.
 
 I went from vinyl to CDs then back to vinyl. I much prefer the sound of vinyl.
 
-### What’s the last record you played? 
+### What’s the last record you played?
 
 Saint Etienne’s new one, *The Night*
 
