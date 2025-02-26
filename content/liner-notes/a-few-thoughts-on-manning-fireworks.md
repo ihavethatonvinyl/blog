@@ -1,10 +1,10 @@
 ---
 title: A Few Thoughts on Manning Fireworks
-date: 2025-02-26T02:47:00.000Z
+date: 2025-02-26T03:35:00.000Z
 summary: " The best compliment I can give goes to Manning Fireworks: I am
   genuinely disappointed when the album ends"
 featuredImage: /images/upload/mjl.jpg
-draft: true
+draft: false
 ---
 ![](/images/upload/mjl.jpg)
 
