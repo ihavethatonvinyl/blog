@@ -19,6 +19,8 @@ All of Low’s discography shines on vinyl, but *The Great Destroyer* has always
 
 Known for his work at the time with The Flaming Lips and Mercury Rev, Fridmann brings a rich understanding of how to exploit the studio to a band’s advantage.Fridmann was a bit of a musical darling in the early part of the 2000s, thanks to a *Yoshimi Battles The Pink Robots* inspired renaissance the Flaming Lips were enjoying. Several bands looked to him in 2005 to give their production a shot in the arm. In addition to *The Great Destroye*r Fridmann would also helm Sleater-Kinney’s blown-out masterpiece *The Woods* later in the year.
 
+![](/images/upload/low.jpg)
+
 On paper, his partnership with Low might seem like an odd fit, but when you understand the producer’s true superpower, you unlock the magic of *The Great Destroyer*. What Fridmann excels at is accentuating a band's essence by turning the dials to fully capitalize on their existing strengths. For Low, Fridmann kept their angelic harmonies, but took their instrumentation - Parker and Sally's low-end and Sparhawk’s guitar - and fuzzed them out to create a wall of sound.
 
 How the vocals pair with the enormity of the instrumentation is part of the magic of *The Great Destroyer.* Where other producers played into the minimalism, Fridmann challenged the vocals to push through the reverb and sonic textures, as if they were doing battle. This makes for thrilling tension and in turn, it makes softer moments sweeter by contrast. “When I Go Deaf” is a perfect example of this. It starts as a delicate acoustic song, only to erupt into the album's most chaotic moment of guitar squall, with the chorus barely audible through the chaos.
