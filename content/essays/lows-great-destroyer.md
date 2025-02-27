@@ -1,11 +1,11 @@
 ---
 title: Low's "Great Destroyer"
-date: 2025-02-27T02:51:00.000Z
+date: 2025-02-27T03:34:00.000Z
 summary: " All of Low’s discography shines on vinyl, but The Great Destroyer has
   always been the record I spin the most. It's a record that consumes you"
 featuredImage: /images/upload/low.jpg
-author: G. Cameron Norbert
-draft: true
+author: Cameron Norbert
+draft: false
 ---
 ![](/images/upload/image0-2-.jpeg)
 
