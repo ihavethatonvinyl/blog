@@ -1,6 +1,6 @@
 ---
 title: Mike Monteiro
-date: 2025-02-28T03:32:00.000Z
+date: 2025-02-28T03:36:00.000Z
 draft: false
 summary: When you pull out that record, you're not remembering the music on that
   record. You're remembering that connection. You're remembering the whole
