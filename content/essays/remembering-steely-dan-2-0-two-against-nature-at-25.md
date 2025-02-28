@@ -1,11 +1,11 @@
 ---
 title: "Remembering Steely Dan 2.0: Two Against Nature at 25"
-date: 2025-02-28T02:42:00.000Z
+date: 2025-02-28T03:32:00.000Z
 summary: The leap day release was one last joke on everyone, a deliberate tweak
   of an anxious fan base after a two-decade wait for a new album.
 featuredImage: /images/upload/img_6841.jpeg
 author: Nick Fleisher
-draft: true
+draft: false
 ---
 ![](/images/upload/img_6841.jpeg)
 
