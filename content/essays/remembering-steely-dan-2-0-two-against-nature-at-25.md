@@ -31,4 +31,7 @@ We’re also now a quarter century removed from the last real wave of media inte
 
 Becker: “I always thought *Kind of Blue* was a good one.”
 
+*Nick Fleisher is a linguist at UW-Milwaukee and lifelong music enthusiast. Brushes with musical fame include meeting Hall and Oates backstage at age 11 courtesy of Irish music legend Mick Moloney, handing a pair of scissors to Emanuel Ax, playing bass in a band that opened 
+for the Disco Biscuits, and seeing Donald Fagen in a midtown movie theater lobby.*
+
 > *I Have That on Vinyl is a reader supported publication. If you enjoy what's going on here please consider donating to the site's writer fund: [venmo](https://account.venmo.com/u/Michele-Catalano2659) // [paypal](https://www.paypal.com/paypalme/goingitaloneny?country.x=US&locale.x=en_US)*
