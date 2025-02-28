@@ -1,6 +1,6 @@
 ---
 title: Mike Monteiro
-date: 2025-02-27T21:11:00.000Z
+date: 2025-02-28T02:42:00.000Z
 draft: true
 summary: When you pull out that record, you're not remembering the music on that
   record. You're remembering that connection. You're remembering the whole
@@ -145,7 +145,7 @@ I played the new Squid record.
 
 It’s still on the turntable. It’s really good. It’s called *Cowards*. Here's my last trip to the record store: I got the new Squid. I got a reissue of Deee-Lite. By the way, that is a record that younger me would have not been caught dead listening to because I was an idiot. And I got the new Kendrick.
 
-I thought of my weirdest record. Devo’s *Beautiful World* \[see photo above] as a die cut astronaut head that I’ve had since it came out in 1981. And as I was reaching for that I grabbed this; there’s a woman on instagram, [teeny tiny vinyl ](https://www.instagram.com/teeny_tiny_vinyl/?hl=en)and she has recreated her vinyl in tiny, maybe two inch records. She made me this Meatmen’s *Double Nickels on the Dime*. She does all of the details. And this is like the paper sleeve that only has the hole on the one side and that is correct. She researches all of the details and she puts this thing together. And the best part is she sent me this many years ago, and she said, I really don't like this record. Oh, but I made it. I made it for you.
+I thought of my weirdest record. Devo’s *Beautiful World* \[see photo above] as a die cut astronaut head that I’ve had since it came out in 1981. And as I was reaching for that I grabbed this; there’s a woman on instagram, [teeny tiny vinyl ](https://www.instagram.com/teeny_tiny_vinyl/?hl=en)and she has recreated her vinyl in tiny, maybe two inch records. She made me this Minutemen’s *Double Nickels on the Dime*. She does all of the details. And this is like the paper sleeve that only has the hole on the one side and that is correct. She researches all of the details and she puts this thing together. And the best part is she sent me this many years ago, and she said, I really don't like this record. Oh, but I made it. I made it for you.
 
 *Mike Monteiro is a designer, writer, and painter living in San Francisco. He hates audiophiles whatever you’re using to listen to music is just fine. Protect trans kids.*
 
