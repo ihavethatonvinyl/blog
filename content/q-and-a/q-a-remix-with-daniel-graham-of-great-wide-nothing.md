@@ -1,11 +1,11 @@
 ---
 title: Q&A Remix With Daniel Graham of Great Wide Nothing
-date: 2025-03-01T02:46:00.000Z
+date: 2025-03-01T05:34:00.000Z
 summary: " I’ve been hunting a good mono copy of Magical Mystery Tour by The
   Beatles. As a general rule of thumb Beatles albums always sound better in
   mono."
 featuredImage: /images/upload/great-wide-nothing-28.jpg
-draft: true
+draft: false
 ---
 ![](/images/upload/great-wide-nothing-28.jpg)
 
