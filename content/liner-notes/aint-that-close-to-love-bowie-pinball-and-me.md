@@ -1,11 +1,11 @@
 ---
 title: Ain't That Close to Love - Bowie, Pinball, and Me
-date: 2025-02-28T19:18:00.000Z
+date: 2025-03-01T05:35:00.000Z
 summary: "We would throw a few quarters into the jukebox (three plays for twenty
   five cents!), and play the same lineup each time. Led Zeppelin. Todd Rundgren.
   Bowie. "
 featuredImage: /images/upload/bally.jpg
-draft: true
+draft: false
 ---
 
 
