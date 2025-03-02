@@ -8,8 +8,6 @@ featuredImage: /images/upload/uncletupelo_640.jpg
 author: " David Fenigoshn"
 draft: false
 ---
-
-
 ![](/images/upload/uncletupelo_640.jpg)
 
 A popular topic among any gathering of rock fans is the question: “Which act do you wish you could have seen in their prime?” Many of the usual answers—Jimi Hendrix, Queen, Nirvana—are informed by tragedy. These artists are chosen because they died before their devotees had the opportunity to see them. Not because as fans they weren’t clued-in enough at the time.
@@ -45,3 +43,5 @@ And in some ways, I can rejoice about that. Missing out on Uncle Tupelo when I h
 *David Fenigsohn is a long-time music and culture writer. His work has appeared on RollingStone.com, PopMatters, and E! Online. He missed seeing Uncle Tupelo live but is always happy to share that one story about the time he interviewed Greg Allman.*
 
 > *I Have That on Vinyl is a reader supported publication. If you enjoy what's going on here please consider donating to the site's writer fund: [venmo](https://account.venmo.com/u/Michele-Catalano2659) // [paypal](https://www.paypal.com/paypalme/goingitaloneny?country.x=US&locale.x=en_US)*
+>
+> *[<iframe width="560" height="315" src="https://www.youtube.com/embed/zWiUkQMs5zM?si=AFYjOwZps534dVOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>](https://www.paypal.com/paypalme/goingitaloneny?country.x=US&locale.x=en_US)*
