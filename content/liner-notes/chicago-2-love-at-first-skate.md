@@ -1,10 +1,10 @@
 ---
 title: "Chicago 2: Love At First Skate"
-date: 2025-03-01T22:52:00.000Z
+date: 2025-03-02T04:33:00.000Z
 summary: " Maybe Chicago 2 isn’t as bad as I remember it. Maybe there’s more to
   the album than a schmaltzy love song that reminds me of a love never found."
 featuredImage: /images/upload/ch2.jpg
-draft: true
+draft: false
 ---
 ![](/images/upload/ch2.jpg)
 
@@ -40,6 +40,6 @@ I listen to a lot of love songs, but I listen more to songs about people who hav
 
 Maybe *Chicago 2* isn’t as bad as I remember it. Maybe there’s more to the album than a schmaltzy love song that reminds me of a love never found.
 
-I’m 62 years old, and I’ve given up on the idea of true love for myself, mainly because I no longer believe a perfect love exists. I’d love a companion, someone to travel with and go out to dinner with, maybe a movie. But I am no longer looking for someone to whisper Peter Cetera lyrics into my ear. Songs like that are best left for the roller rink, for when the “couples only” sign lights up, and young people who still believe in love skate hand-in-hand, sure that they have found the one.
+I’m 62 years old, and I’ve given up on the idea of true love for myself, mainly because I no longer believe a perfect love exists. I’d love a companion, someone to travel with and go out to dinner with, maybe a movie. But I am no longer looking for someone to whisper Chicago lyrics into my ear. Songs like that are best left for the roller rink, for when the “couples only” sign lights up, and young people who still believe in love skate hand-in-hand, sure that they have found the one.
 
 *I Have That on Vinyl is a reader supported publication. If you enjoy what’s going on here please consider donating to the site’s editor/writer fund: [venmo](https://account.venmo.com/u/Michele-Catalano2659) // [paypal](https://www.paypal.com/paypalme/goingitaloneny?country.x=US&locale.x=en_US)*
