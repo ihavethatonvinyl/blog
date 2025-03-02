@@ -5,7 +5,7 @@ summary: Their best songs, spread across four albums in just a few years, gave
   voice to a uniquely Midwestern blend of hope, desperation, determination, and
   alcoholism.
 featuredImage: /images/upload/uncletupelo_640.jpg
-author: " David Fenigoshn"
+author: " David Fenigsohn"
 draft: false
 ---
 ![](/images/upload/uncletupelo_640.jpg)
