@@ -1,12 +1,17 @@
 ---
 title: There Was a Time - on Uncle Tupelo
-date: 2025-03-01T18:51:00.000Z
+date: 2025-03-02T04:35:00.000Z
 summary: Their best songs, spread across four albums in just a few years, gave
   voice to a uniquely Midwestern blend of hope, desperation, determination, and
   alcoholism.
+featuredImage: /images/upload/uncletupelo_640.jpg
 author: " David Fenigoshn"
-draft: true
+draft: false
 ---
+
+
+![](/images/upload/uncletupelo_640.jpg)
+
 A popular topic among any gathering of rock fans is the question: “Which act do you wish you could have seen in their prime?” Many of the usual answers—Jimi Hendrix, Queen, Nirvana—are informed by tragedy. These artists are chosen because they died before their devotees had the opportunity to see them. Not because as fans they weren’t clued-in enough at the time.
 
 I had the opportunity to see my now-favorite band, Uncle Tupelo, in their heyday. They recorded their seminal debut *No Depression* in Boston, just a couple of miles from my dorm room in 1990, during which time I was the music editor of my college newspaper. The following year, they played Charlie’s Tap in Cambridge, a venue where I had seen several acts now faded from memory. By the time of their final tour in support of *Anodyne*, an alt-country masterpiece, in 1993, I was living in San Francisco and occasionally freelancing for a local music magazine. Their profile had risen—they had signed to a major label—but they still played Slim’s rather than the city’s more esteemed venues, such as the Warfield or the Fillmore. I didn’t go.
