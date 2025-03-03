@@ -1,8 +1,8 @@
 ---
 title: Q&A Remix With Jason Bombach
-date: 2025-03-02T19:04:00.000Z
+date: 2025-03-03T05:00:00.000Z
 featuredImage: /images/upload/20250301_114010.jpg
-draft: true
+draft: false
 ---
 ![](/images/upload/20250301_114010.jpg)
 
