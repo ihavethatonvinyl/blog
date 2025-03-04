@@ -1,9 +1,9 @@
 ---
 title: No Band Does Vinyl Packaging Like mewithoutYou
 date: 2025-03-04T05:12:00.000Z
-summary: We all have our reasons for loving vinyl. It’s a format you can hold close.
-  There’s that special substance about it that demands attention and makes you feel 
-  like you’re getting something real, something tangible.
+summary: '"We all have our reasons for loving vinyl. It’s a format you can hold
+  close. There’s that special substance about it that demands attention and
+  makes you feel like you’re getting something real, something tangible"'
 featuredImage: /images/upload/mwy-pic-2.jpg
 author: Jackson Balling
 draft: false
