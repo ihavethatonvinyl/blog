@@ -5,7 +5,7 @@ summary: It was a silly song, which was just fine, as it was for the very young,
   not five twentysomething record store clerks who listened to the likes of
   Flipper. 
 featuredImage: /images/upload/raffif.jpg
-draft: true
+draft: false
 ---
 ![](/images/upload/raffif.jpg)
 
