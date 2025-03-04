@@ -1,9 +1,9 @@
 ---
 title: No Band Does Vinyl Packaging Like mewithoutYou
-date: 2025-03-03T19:58:00.000Z
+date: 2025-03-04T05:12:00.000Z
 featuredImage: /images/upload/mwy-pic-2.jpg
 author: Jackson Balling
-draft: true
+draft: false
 ---
 ![](/images/upload/mwy-pic-2.jpg)
 
