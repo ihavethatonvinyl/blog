@@ -1,6 +1,6 @@
 ---
 title: Singable Songs For the Very Young (and Old)
-date: 2025-03-03T21:46:00.000Z
+date: 2025-03-04T05:16:00.000Z
 summary: It was a silly song, which was just fine, as it was for the very young,
   not five twentysomething record store clerks who listened to the likes of
   Flipper. 
