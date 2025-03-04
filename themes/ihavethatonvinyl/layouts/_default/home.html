@@ -1,11 +1,11 @@
 {{ define "main" }}
 <div id="liner-notes">{{ partial "liner-notes.html" . }}</div>
 <div id="featured">
-  {{ $collection := where .Site.RegularPages "Type" "conversations" }}
+  {{ $collection := where .Site.RegularPages "Type" "ne" "liner-notes" }}
   {{ if gt (len $collection) 0 }}
     {{ $page := index $collection 0 }}
     {{ with $page }}
-      <h2>FEATURED CONVERSATION: {{ .Title | upper }}</h2>
+      <h2>NOW PLAYING: {{ .Title | upper }}</h2>
       {{ if .Params.featuredImage }}
       <div class="featuredImage">
       <img src="{{ .Params.featuredImage }}" alt='{{ default "Featured Image" .Params.featuredImageAlt }}' title='{{ default "Featured Image" .Params.featuredImageCap }}' />
