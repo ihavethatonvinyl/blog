@@ -1,6 +1,6 @@
 ---
 title: "Nowhere, Man: Searching for Rubber Soul"
-date: 2025-03-06T01:02:00.000Z
+date: 2025-03-06T03:43:00.000Z
 summary: '"Let’s get this out of the way. I don’t like the Beatles. I don’t take
   pride in this, and I swear I’m not being contrarian. I just was never able to
   connect with any of their music. I think a big factor in whether a person born
@@ -8,7 +8,7 @@ summary: '"Let’s get this out of the way. I don’t like the Beatles. I don’
   raised them the “right” way. My parents didn’t provide such an upbringing"'
 featuredImage: /images/upload/img_7491.jpeg
 author: Greg Gaines
-draft: true
+draft: false
 ---
 ![](/images/upload/img_7491.jpeg)
 
