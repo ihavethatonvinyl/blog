@@ -1,12 +1,12 @@
 ---
 title: The Lost Art of the Mixtape
-date: 2025-03-07T11:58:00.000Z
+date: 2025-03-07T12:51:00.000Z
 summary: '"They had to flow into one another. Each song needed to be a
   continuation of the one before it, as if all these disparate bands got
   together and recorded a concept album based solely on your feelings for the
   guy who sits in front of you in English class.'
 featuredImage: /images/upload/tapess.jpg
-draft: true
+draft: false
 ---
 ![](/images/upload/tapess.jpg)
 
