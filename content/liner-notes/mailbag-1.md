@@ -13,7 +13,7 @@ draft: false
 
 **Which two artists of any era would you put on a twin bill? Nothing is off limits.**
 
-Mike Patton and Herb Alpert, just so they can come out for an encore and “This Guy’s In Love With You” together.
+Mike Patton and Herb Alpert, just so they can come out for an encore and play “This Guy’s In Love With You” together.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/S-dxuwv4vs4?si=4dNbP7U2Bcg6_mhX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -32,8 +32,6 @@ Monetarily speaking, I have a variant of Slipknot’s first album on “snot gre
 **Favorite concert venue?**
 
 [Brooklyn Steel](https://www.bowerypresents.com/venues/brooklyn-steel). It’s just the right size, the sound is good, the sight lines are great no matter where you stand, and I found a spot right by the entrance where I can lean on the wall and still see everything. Also shout out to [Warsaw Brooklyn](https://www.warsawconcerts.com/), where you can get pierogies before the show.
-
-
 
 ![](/images/upload/screenshot-2025-03-08-at-4.05.09 am.png)
 
