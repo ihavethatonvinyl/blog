@@ -7,8 +7,6 @@ draft: false
 ---
 ![](/images/upload/img_8774.jpg)
 
-
-
 *Something new here at IHTOV: I’m going to do a once a week mailbag, where you, dear readers, can ask me anything you want relative to music. You can hit me up on bluesky or email me at michele.catalano at gmail with your burning questions about music, records, me, the site itself. Have at it.*
 
 *Here’s the first installment, with questions coming from bluesky.*
@@ -35,7 +33,7 @@ Monetarily speaking, I have a variant of Slipknot’s first album on “snot gre
 
 [Brooklyn Steel](https://www.bowerypresents.com/venues/brooklyn-steel). It’s just the right size, the sound is good, the sight lines are great no matter where you stand, and I found a spot right by the entrance where I can lean on the wall and still see everything. Also shout out to [Warsaw Brooklyn](https://www.warsawconcerts.com/), where you can get pierogies before the show.
 
-As someone who loves digital music but hates streaming I'm curious if you've maintained a digital collection and/or if you have any thoughts on the mp3 blog glory days
+
 
 ![](/images/upload/screenshot-2025-03-08-at-4.05.09 am.png)
 
