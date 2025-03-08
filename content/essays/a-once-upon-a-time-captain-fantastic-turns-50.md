@@ -1,11 +1,11 @@
 ---
-title: "A Once Upon a Time: Captain Fantastic Turns 50"
+title: " Once Upon a Time: Captain Fantastic Turns 50"
 date: 2025-03-08T04:14:00.000Z
 summary: "\"There is also a poster of the album's cover art, emblazoned with the
   words \"from the end of the world to your town.\" The poster quickly goes up
   on the wall of my bedroom, where it will hang for several years, even after I
   leave home, until one of my brothers moves into the room. "
-featuredImage: /images/upload/20210119_054456.jpg
+featuredImage: /images/upload/cf2.jpg
 author: J.A. Bartlett
 draft: false
 ---
