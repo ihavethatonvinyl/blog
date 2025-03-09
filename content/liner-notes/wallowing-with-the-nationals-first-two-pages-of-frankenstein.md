@@ -1,11 +1,11 @@
 ---
 title: Wallowing with the National's First Two Pages of Frankenstein
-date: 2025-03-08T19:00:00.000Z
+date: 2025-03-09T05:16:00.000Z
 summary: '"At first, I did not listen to it on vinyl. I needed to listen on
   streaming, so I could stop after each song and gather my thoughts and cry if I
   needed to. And lord, did I need to."'
 featuredImage: /images/upload/img_1056.jpg
-draft: true
+draft: false
 ---
 ![](/images/upload/img_1056.jpg)
 
