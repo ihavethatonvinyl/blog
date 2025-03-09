@@ -1,13 +1,13 @@
 ---
 title: Kansas City Jazz and Searching for Records
-date: 2025-03-09T01:17:00.000Z
+date: 2025-03-09T08:20:00.000Z
 summary: '"Current radio hits aside, you could only enjoy the music if you had
   it in your hands. Collecting was, like the format itself, hands-on and all
   analog. So finding a coveted rarity took legwork, sleuthing, and patience. And
   my dad loved nothing more than being a vinyl Sherlock. "'
 featuredImage: /images/upload/img_5790.jpg
-author: Scott
-draft: true
+author: Scott O'Kelley
+draft: false
 ---
 ![](/images/upload/img_5790.jpg)
 
@@ -59,15 +59,12 @@ The next thing he’d always ask—after getting the record info—was Who else 
 
 He passed away a few years ago and I hated/loved going through all this stuff—all the things he’d saved—helping my mom get things in order. 
 
-I kept a few things—not many. Most was sold to other collectors and the local record store. Some’s still in the basement. But even if no one else wanted it, I loved that he did. And I loved going through all the boxes and crates and stacks—like the final scene from *Citizen Kane*—being part of his stuff. Being with him in a way.
+I kept a few things—not many. Most was sold to other collectors and the local record store. Some is still in the basement. But even if no one else wanted it, I loved that he did. And I loved going through all the boxes and crates and stacks—like the final scene from *Citizen Kane*—being part of his stuff. Being with him in a way.
 
 Best of all was the stash of about 50 copies of *The Legendary Buster Smith*. I literally laughed out loud. A previously unknown and unremarkable record had become a serious decades-long quest. I’ve sold or traded a few, but kept most of them and still love giving them to friends. 
 
 He would have loved that, too.
 
-*Scotto is a preacher's kid from Arkansas who moved to Kansas City, went to art school, worked in record stores, was a journalist, then went to grad
-school, became a therapist, and have been mental health director for
-Missouri's prisons for the last dozen years. He’s been buying
-records at every stop along the way.*
+*Scotto is a preacher's kid from Arkansas who moved to Kansas City, went to art school, worked in record stores, was a journalist, then went to grad school, became a therapist, and have been mental health director for Missouri's prisons for the last dozen years. He’s been buying records at every stop along the way.*
 
 *I Have That on Vinyl is a reader supported publication. If you enjoy what’s going on here please consider donating to the site’s writer fund:[ venmo](https://account.venmo.com/u/Michele-Catalano2659) //[ paypal](https://www.paypal.com/paypalme/goingitaloneny?country.x=US&locale.x=en_US)*
