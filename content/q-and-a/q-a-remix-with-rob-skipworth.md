@@ -1,8 +1,13 @@
 ---
 title: Q&A Remix With Rob Skipworth
 date: 2025-03-08T18:45:00.000Z
+summary: '"I got a Louis Armstrong box set on Amazon that had been incorrectly
+  priced at $12.  Found a Third Man Vault release at a Goodwill and got a $100
+  Loretta Lynn set for 75 cents."'
 draft: true
 ---
+*The Q&A Remix is a frequent column on IHTOV in which people from all walks of life answer a set of pre-written questions about their record collection. Today we welcome Rob Skipworth.*
+
 **Have you ever bought a record just for the artwork?** 
 
 Yes!  Almost all of the Chemical Brother’s records are done by an artist named [Kate Gibb](https://www.instagram.com/kategibbprint?igsh=ZHBvaHN5dTZpMHRz).  She does screen printing and the uniform style makes their discography so cool visually!
@@ -14,8 +19,6 @@ Yes!  Almost all of the Chemical Brother’s records are done by an artist name
 **What’s the most treasured album in your collection and why?**
 
  Currently it's The White Room by KLF.  The UK release has mixes/samples never heard in the US so it was like discovering a whole new version of old faves. 
-
- 
 
 ![]()
 
@@ -58,3 +61,7 @@ A Japanese artist Takeo Ischi who does German Beer Barrel Polka.  It's autograp
 **What’s the last record you played?**
 
  Underworld - *Strawberry Hotel*
+
+*[Click here ](https://docs.google.com/document/d/1UvxqUA5WtrFOuCc6KXD0Beo9HyE__vBoKEbIDLEkDXA/edit?usp=sharing)if you'd like to participate in the IHTOV Q&A*
+
+> *I Have That on Vinyl is a reader supported publication. If you enjoy what’s going on here please consider donating to the site’s writer fund:[ venmo](https://account.venmo.com/u/Michele-Catalano2659) //[ paypal](https://www.paypal.com/paypalme/goingitaloneny?country.x=US&locale.x=en_US)*
