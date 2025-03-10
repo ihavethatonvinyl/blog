@@ -12,9 +12,13 @@ draft: false
 
 *[I will occasionally be visiting the 45s of my childhood. This is the first installment.*]
 
-*Earth angel, Earth angel
-Will you be mine
-My darling dear, love you all the time*
+*Earth angel, Earth angel*
+
+
+*Will you be mine*
+
+
+*My darling dear, love you all the time*
 
 It’s early July 1970. This song drifts out of the kitchen speakers, through the open door, into the front yard where my younger sister and I are playing while we wait for our father to get home from work. It’s almost 7 p.m. He should be home soon. The summer sun beats down on us, which makes it seem much earlier than it is. I never could get used to it being light out so close to bedtime.
 
@@ -34,9 +38,13 @@ This night, as he gets home just in time to dance with us, feels special. A few 
 
 \*\**
 
-*In the still of the night
-I held you
-Held you tight*
+*In the still of the night*
+
+
+*I held you*
+
+
+*Held you tight*
 
 It’s three years later. I’m almost 10, and while I feel like being in double digits makes me cool and almost a teenager, I’m pretty insecure and unsure of myself. I don’t make a lot of friends, but that’s okay. I have my cousins and my sisters, and family is all I need.
 
