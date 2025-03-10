@@ -1,22 +1,20 @@
 ---
 title: Let's Dance - Songs of my Youth Volume 1
-date: 2025-03-10T04:00:00.000Z
+date: 2025-03-10T11:54:00.000Z
 summary: '"My father pulls up in his blue Impala convertible just as “Earth
   Angel” is about to end. I run up to the driveway to greet him and practically
   propel him onto the lawn, so he can dance with me and my sister to the end of
   the song"'
-featuredImage: /images/upload/earthangel.jpg
+featuredImage: /images/upload/earth1.webp
 draft: false
 ---
-![](/images/upload/earthangel.jpg)
+![](/images/upload/earth1.webp)
 
 *[I will occasionally be visiting the 45s of my childhood. This is the first installment.*]
 
 *Earth angel, Earth angel*
 
-
 *Will you be mine*
-
 
 *My darling dear, love you all the time*
 
@@ -40,9 +38,7 @@ This night, as he gets home just in time to dance with us, feels special. A few 
 
 *In the still of the night*
 
-
 *I held you*
-
 
 *Held you tight*
 
