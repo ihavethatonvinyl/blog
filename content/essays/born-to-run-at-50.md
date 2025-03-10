@@ -1,13 +1,13 @@
 ---
 title: Born to Run at 50
-date: 2025-03-09T17:49:00.000Z
+date: 2025-03-10T04:07:00.000Z
 summary: '"So, where did my love for Bruce come from? It started after I left
   New Jersey to go to college and grew more intense when I moved to Texas to be
   with my wife, Ali. I wanted a piece of home, and his music fed my need for
   nostalgia. '
 featuredImage: /images/upload/born-to-run-record.jpeg
 author: "Mike Rastiello "
-draft: true
+draft: false
 ---
 ![](/images/upload/born-to-run-record.jpeg)
 
