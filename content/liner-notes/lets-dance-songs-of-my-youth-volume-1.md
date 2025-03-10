@@ -12,7 +12,6 @@ draft: false
 
 *[I will occasionally be visiting the 45s of my childhood. This is the first installment.*]
 
-
 *Earth angel, Earth angel
 Will you be mine
 My darling dear, love you all the time*
@@ -29,7 +28,7 @@ I realized the gravity of what my father did for a living when I was very young.
 
 I grew to love that smell, even though I knew where it came from, what it stood for. I associate it with my father, with him coming home to safety from a dangerous job, with “Earth Angel” and dancing on the lawn.
 
-This night, as he gets home just in time to dance with us, feels special. A few early bird fireflies flitter around my sister and me as we chase each other around, while the baby sits in the grass squealing in delight at us. I am sevena month away from turning eight—and I recognize that what I’m feeling is happiness. I hold onto this feeling. I take it to bed with me. Before I fall asleep, I thank God for my family and for bringing my dad home to me once again. I sing “Earth Angel” to myself until I fall asleep.
+This night, as he gets home just in time to dance with us, feels special. A few early bird fireflies flitter around my sister and me as we chase each other around, while the baby sits in the grass squealing in delight at us. I am seven months away from turning eight, and I recognize that what I’m feeling is happiness. I hold onto this feeling. I take it to bed with me. Before I fall asleep, I thank God for my family and for bringing my dad home to me once again. I sing “Earth Angel” to myself until I fall asleep.
 
 ![](/images/upload/still.jpg)
 
