@@ -1,13 +1,13 @@
 ---
 title: You Should Be Dancing
-date: 2025-03-10T22:35:00.000Z
+date: 2025-03-11T03:56:00.000Z
 summary: '"I spent a lot of my alone time in my room, listening to disco and
   feeling somewhat ashamed, as if I was betraying my friends. I was listening to
   Chic, KC and the Sunshine Band, Rose Royce, and Tavares. I loved the
   slow-dancing disco as much as the fast-dancing tunes, and I moved around my
   room like I was in Studio 54, minus the cocaine. I didn’t tell a soul."'
 featuredImage: /images/upload/snf.webp
-draft: true
+draft: false
 ---
 ![](/images/upload/snf.webp)
 
