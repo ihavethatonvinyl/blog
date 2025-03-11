@@ -1,5 +1,5 @@
 ---
-title: THe Trials and Tribulations of Finding A Perfect Turntable
+title: The Trials and Tribulations of Finding A Perfect Turntable
 date: 2025-03-11T05:14:00.000Z
 summary: '" Assuming a more advanced hi-fi setup was too expensive and
   complicated, I gave up playing records for a while. Things would change though
