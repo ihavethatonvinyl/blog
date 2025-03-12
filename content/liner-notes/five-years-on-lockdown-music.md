@@ -1,12 +1,12 @@
 ---
 title: "Five Years On: Lockdown Music"
-date: 2025-03-12T03:20:00.000Z
+date: 2025-03-12T04:07:00.000Z
 summary: '"It’s not the fault of Soccer Mommy (Sophia Allison) that her album
   came out at the end of February, thus ushering in the Covid era. It’s just a
   matter of circumstance. For me, it was the right place, right time. Soccer
   Mommy’s Color Theory became my musical mantra, my guide, my solace."'
 featuredImage: /images/upload/img_3926.jpg
-draft: true
+draft: false
 ---
 ![](/images/upload/img_3926.jpg)
 
