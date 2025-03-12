@@ -1,13 +1,13 @@
 ---
 title: "Collecting Cal Tjader Or: How I Learned to Stop Worrying and Love Jazz"
-date: 2025-03-11T19:20:00.000Z
+date: 2025-03-12T04:08:00.000Z
 summary: '"Cal Tjader opened my eyes to jazz as a genre and as I started
   collecting more and more records, an increasing percentage of my purchases
   were jazz. As of the time of writing this, my record collection stands at 1344
   records, 350 of which are jazz.'
 featuredImage: /images/upload/pxl_20250311_131420670.mp.jpg
 author: Eric Gaines
-draft: true
+draft: false
 ---
 ![](/images/upload/pxl_20250311_131420670.mp.jpg)
 
