@@ -62,3 +62,7 @@ Three years after he left, I found out things I wasn’t meant to find out. It s
 *I imply I've got to get it back then*
 
 For the third time, the song and album turned for me. I became determined to get back to where it felt sunny and warm, to where the words did not harm me. I had to make peace with “Simple Math” all over again. I would not lose this album or this song. I’ve been through too much with it; it’s been through too much with me. I will get those summer days back. It's just simple math.
+
+
+
+*I Have That on Vinyl is a reader supported publication. If you enjoy what’s going on here please consider donating to the site’s writer fund:[ venmo](https://account.venmo.com/u/Michele-Catalano2659) //[ paypal](https://www.paypal.com/paypalme/goingitaloneny?country.x=US&locale.x=en_US)*
