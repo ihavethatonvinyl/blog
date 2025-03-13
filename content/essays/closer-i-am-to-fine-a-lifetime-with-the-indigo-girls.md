@@ -1,6 +1,6 @@
 ---
 title: "Closer I Am to Fine: A Lifetime with The Indigo Girls"
-date: 2025-03-13T03:54:00.000Z
+date: 2025-03-13T03:56:00.000Z
 summary: '"“I’m trying to tell you something ‘bout my life.” The words feel like
   a hand extended across time, reaching to my eighth-grade self in 1989. That
   was the year the Indigo Girls released their first record, and though I can’t
