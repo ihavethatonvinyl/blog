@@ -4,8 +4,13 @@ date: 2025-03-12T20:07:00.000Z
 summary: '" The album stayed with me, a beacon on cold winter nights when I
   wanted to be warmed by memories of temperate days.  It was my walking album;
   it was my driving album. Simple Math was a part of the fabric of my life."'
+featuredImage: /images/upload/img_8812.jpg
 draft: true
 ---
+
+
+![](/images/upload/img_8812.jpg)
+
 Summer sounds of the suburbs: the slight hum of air conditioners, sprinklers sputtering on and off, a lone lawnmower dares to cut the 7 a.m. silence. 
 
 I inhaled. I hate summer, hate its heat and humidity and the way it drags on forever; but I admit to loving bits and pieces of it. The early mornings, before the temperature crawls above 80, when the birds are having breakfast and the sun is just a hint in the sky; those moments sustain me. 
@@ -29,6 +34,8 @@ As my life circumstances changed over the next few years, so did my relationship
 *What if you believed me?*
 
 *Everything is brilliant*
+
+![](/images/upload/img_2810.jpg)
 
 Those words stung. They hurt. They made me face truths that had been dangling on the surface; truths I’d been ignoring but had suddenly become bigger than life. I started listening to the title song while running. Its cadence doesn’t really lend itself to running, but I made do, because I needed to hear these words loud, inside my head. I needed to turn the volume up, turn the speed up, and come face to face with the demons that had been swirling around—demons that were only brought out because of this song, this album.
 
