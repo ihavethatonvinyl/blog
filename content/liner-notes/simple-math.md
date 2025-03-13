@@ -1,11 +1,11 @@
 ---
 title: "Simple Math "
-date: 2025-03-13T02:53:00.000Z
-summary: '" The album stayed with me, a beacon on cold winter nights when I
+date: 2025-03-13T03:37:00.000Z
+summary: '"The album stayed with me, a beacon on cold winter nights when I
   wanted to be warmed by memories of temperate days.  It was my walking album;
   it was my driving album. Simple Math was a part of the fabric of my life."'
 featuredImage: /images/upload/img_8812.jpg
-draft: true
+draft: false
 ---
 ![](/images/upload/img_8812.jpg)
 
