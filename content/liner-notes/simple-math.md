@@ -1,14 +1,12 @@
 ---
 title: "Simple Math "
-date: 2025-03-12T20:07:00.000Z
+date: 2025-03-13T02:53:00.000Z
 summary: '" The album stayed with me, a beacon on cold winter nights when I
   wanted to be warmed by memories of temperate days.  It was my walking album;
   it was my driving album. Simple Math was a part of the fabric of my life."'
 featuredImage: /images/upload/img_8812.jpg
 draft: true
 ---
-
-
 ![](/images/upload/img_8812.jpg)
 
 Summer sounds of the suburbs: the slight hum of air conditioners, sprinklers sputtering on and off, a lone lawnmower dares to cut the 7 a.m. silence. 
@@ -63,4 +61,4 @@ Three years after he left, I found out things I wasn’t meant to find out. It s
 
 *I imply I've got to get it back then*
 
-For the third time, the song and album turned for me. I became determined to get back to where it felt sunny and warm, to where the words did not harm me. I had to make peace with “Simple Math” all over again. I would not lose this album or this song. I’ve been through too much with it; it’s been through too much with me. I will get those summer days back.
+For the third time, the song and album turned for me. I became determined to get back to where it felt sunny and warm, to where the words did not harm me. I had to make peace with “Simple Math” all over again. I would not lose this album or this song. I’ve been through too much with it; it’s been through too much with me. I will get those summer days back. It's just simple math.
