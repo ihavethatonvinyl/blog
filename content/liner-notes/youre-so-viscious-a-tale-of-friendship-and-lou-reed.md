@@ -1,6 +1,6 @@
 ---
 title: "You're So Viscious: a tale of friendship and Lou Reed"
-date: 2025-03-14T04:25:00.000Z
+date: 2025-03-14T04:30:00.000Z
 summary: '"She was younger but knew all the cool music before I did, thanks to
   her older brothers. We’d sit in her room, and she’d play records for me and
   rattle off facts about each album, each song. Sometimes the songs were new to
