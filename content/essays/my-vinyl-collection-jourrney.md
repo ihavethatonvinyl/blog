@@ -1,13 +1,13 @@
 ---
 title: My Vinyl Collection Journey
-date: 2025-03-14T04:12:00.000Z
+date: 2025-03-14T04:27:00.000Z
 summary: '"The “hunt” of shopping is a huge part of the hobby’s appeal for
   myself. I occasionally buy records I have not heard before, usually within the
   two to five dollar range. Through chance encounters, I have the opportunity to
   explore new music or come across old favorites"'
 featuredImage: /images/upload/ah2.jpg
 author: Allen Hale
-draft: true
+draft: false
 ---
 ![](/images/upload/ah2.jpg)
 
