@@ -6,7 +6,7 @@ summary: '"She was younger but knew all the cool music before I did, thanks to
   rattle off facts about each album, each song. Sometimes the songs were new to
   me, sometimes they were familiar"'
 featuredImage: /images/upload/loureed.jpg
-draft: true
+draft: false
 ---
 ![](/images/upload/loureed.jpg)
 
