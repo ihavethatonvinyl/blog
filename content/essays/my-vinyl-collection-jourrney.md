@@ -1,10 +1,15 @@
 ---
-title: My Vinyl Collection Jourrney
-date: 2025-03-13T22:17:00.000Z
+title: My Vinyl Collection Journey
+date: 2025-03-14T04:12:00.000Z
+summary: '"The “hunt” of shopping is a huge part of the hobby’s appeal for
+  myself. I occasionally buy records I have not heard before, usually within the
+  two to five dollar range. Through chance encounters, I have the opportunity to
+  explore new music or come across old favorites"'
+featuredImage: /images/upload/ah2.jpg
 author: Allen Hale
 draft: true
 ---
-
+![](/images/upload/ah2.jpg)
 
 I bought my first vinyl when I was 15. My family was visiting Cambridge, Massachusetts for the day. We found ourselves at [Cheapo Records](http://cheaporecords.com/index.php), a lovely store in Central Square I have revisited many times since. 
 
@@ -14,13 +19,13 @@ Occasionally, I ask myself: Why collect a format which, compared to the ubiquity
 
 In one regard, vinyl collecting signifies committedness among those of us raised in waning days of CDs and the early years of digital streaming. Investing in physical music demonstrates an appreciation for the artists who made that music possible. Vinyl enables one to grow intensively dedicated to music *as a hobby*, whatever that means for each individual. You go beyond the minimum of streaming which, for artists, [only result in pennies](https://www.digitalmusicnews.com/2024/12/23/billionaire-daniel-ek-shuts-down-spotify-unwrapped-calculator/).
 
-
-
 At the time of my first vinyl purchase, I was exploring music with fervor. Progressive rock was my then-current infatuation. Miraculously, I came across a copy of Yes’ *Close to the Edge*, my favorite album at the time. The record was used but undamaged, on sale for 10 bucks. I bought it without a second thought. 
 
 I cannot remember if I got the record before I owned my first crappy record player—a chicken and the egg type scenario. 
 
-Since then, six years have passed, and I have acquired 6 additional vinyls. Their purchase points are varied: more from Cheapo, many from [Inclusion Records](https://inclusionrecords.com/) in Norwell, Massachusetts and [Darkside Records](https://shop.darksiderecords.com/) in Poughkeepsie, New York, a few from thrift stores, some through bands’ merch sites, and so on. Vinyls have been gifts to myself and gifts from others. I own an assortment of personally cherished albums alongside cheap finds I encountered without prior knowledge of their existence.\
+![](/images/upload/ah3.jpg)
+
+Since then, six years have passed, and I have acquired 6 additional records. Their purchase points are varied: more from Cheapo, many from [Inclusion Records](https://inclusionrecords.com/) in Norwell, Massachusetts and [Darkside Records](https://shop.darksiderecords.com/) in Poughkeepsie, New York, a few from thrift stores, some through bands’ merch sites, and so on. Vinyls have been gifts to myself and gifts from others. I own an assortment of personally cherished albums alongside cheap finds I encountered without prior knowledge of their existence.
 
 The “hunt” of shopping is a huge part of the hobby’s appeal for myself. I occasionally buy records I have not heard before, usually within the two to five dollar range. Through chance encounters, I have the opportunity to explore new music or come across old favorites. There is similarly palpable excitement in listening to vinyl that I have already heard before in another format. New areas of intrigue are located within the sound itself, enriching my close connection to a particular album’s tracklist. 
 
@@ -31,6 +36,8 @@ However, even if we agree on the above point, the vinyl phenomenon can be dismis
 I am then left with a second, more difficult 
 
 question for myself: Bracketing audiophile concerns, what makes these purchases different from other “unnecessary” patterns of consumption? How do we vinyl collectors reasonably distinguish our expenditures from other unreflective spending habits? As a young person who began collecting in the time of streaming’s pre-given dominance, this is of particular concern. 
+
+![](/images/upload/ah1.jpg)
 
 I have felt a bit low on collecting recently. Purchases began feeling unnecessary, or even wasteful. It has been about 10 months since I got new vinyl—*Lowercase* by Bluetile Lounge was a gift to me. The last time I bought a record was Everyone Asked About You’s compilation *Paper Airplanes, Paper Hearts,* about a year and a half ago. The majority of my listening is done digitally. I explore hundreds of new albums every year; physical formats are unsustainable in that effort. 
 
@@ -50,7 +57,6 @@ Whether we stream, attend live shows, or buy vinyl, our listening remains within
 
 However, if musical commodification is an inevitable part of listening, even for “non-commercial” styles, it does not hurt to have more of that created wealth find its way back into the creators’ pockets. As far as all “materialistic” hobbies go, vinyl seems alright to me. Maybe I’ll grab that copy of *Moon Pix*…
 
-
-
-
-Allen Hale is a music fan and writer from Massachusetts. He is currently a senior-year philosophy major at Vassar College, where he serves as Editor-in-Chief of *The Miscellany News*. When he is not writing, Allen also plucks the electric bass. Aside from music, he enjoys consuming cheap coffee, playing frisbee, watching Boston sports, and reading anything he can get his hands on.
+ *Allen Hale is a music fan and writer from Massachusetts. He is currently a senior-year philosophy major at Vassar College, where he serves as Editor-in-Chief of The Miscellany News. When he is not writing, Allen also plucks the electric bass. Aside from music, he enjoys consuming cheap coffee, playing frisbee, watching Boston sports, and reading anything he can get his hands on.*
+>
+> *I Have That on Vinyl is a reader supported publication. If you enjoy what’s going on here please consider donating to the site’s writer fund:[ venmo](https://account.venmo.com/u/Michele-Catalano2659) //[ paypal](https://www.paypal.com/paypalme/goingitaloneny?country.x=US&locale.x=en_US)*
