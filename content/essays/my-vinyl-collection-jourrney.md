@@ -25,7 +25,7 @@ I cannot remember if I got the record before I owned my first crappy record play
 
 ![](/images/upload/ah3.jpg)
 
-Since then, six years have passed, and I have acquired 6 additional records. Their purchase points are varied: more from Cheapo, many from [Inclusion Records](https://inclusionrecords.com/) in Norwell, Massachusetts and [Darkside Records](https://shop.darksiderecords.com/) in Poughkeepsie, New York, a few from thrift stores, some through bands’ merch sites, and so on. Vinyls have been gifts to myself and gifts from others. I own an assortment of personally cherished albums alongside cheap finds I encountered without prior knowledge of their existence.
+Since then, six years have passed, and I have acquired 60 additional records. Their purchase points are varied: more from Cheapo, many from [Inclusion Records](https://inclusionrecords.com/) in Norwell, Massachusetts and [Darkside Records](https://shop.darksiderecords.com/) in Poughkeepsie, New York, a few from thrift stores, some through bands’ merch sites, and so on. Vinyls have been gifts to myself and gifts from others. I own an assortment of personally cherished albums alongside cheap finds I encountered without prior knowledge of their existence.
 
 The “hunt” of shopping is a huge part of the hobby’s appeal for myself. I occasionally buy records I have not heard before, usually within the two to five dollar range. Through chance encounters, I have the opportunity to explore new music or come across old favorites. There is similarly palpable excitement in listening to vinyl that I have already heard before in another format. New areas of intrigue are located within the sound itself, enriching my close connection to a particular album’s tracklist. 
 
@@ -58,5 +58,5 @@ Whether we stream, attend live shows, or buy vinyl, our listening remains within
 However, if musical commodification is an inevitable part of listening, even for “non-commercial” styles, it does not hurt to have more of that created wealth find its way back into the creators’ pockets. As far as all “materialistic” hobbies go, vinyl seems alright to me. Maybe I’ll grab that copy of *Moon Pix*…
 
  *Allen Hale is a music fan and writer from Massachusetts. He is currently a senior-year philosophy major at Vassar College, where he serves as Editor-in-Chief of The Miscellany News. When he is not writing, Allen also plucks the electric bass. Aside from music, he enjoys consuming cheap coffee, playing frisbee, watching Boston sports, and reading anything he can get his hands on.*
->
+
 > *I Have That on Vinyl is a reader supported publication. If you enjoy what’s going on here please consider donating to the site’s writer fund:[ venmo](https://account.venmo.com/u/Michele-Catalano2659) //[ paypal](https://www.paypal.com/paypalme/goingitaloneny?country.x=US&locale.x=en_US)*
