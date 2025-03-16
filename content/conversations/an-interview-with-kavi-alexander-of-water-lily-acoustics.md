@@ -11,7 +11,7 @@ featuredImage: /images/upload/41zabs-pxil-1-.jpg
 ---
 ![](/images/upload/41zabs-pxil-1-.jpg)
 
-*Today we have guest interviewer Ankur Razdan with an in depth, extensive interview with Kavi Alexander of Water Lily Acoustics*
+*Today we have guest interviewer Ankur Razdan with an in depth, extensive interview with Kavi Alexander of [Water Lily Acoustics](http://waterlilyacoustics.com/main.htm), a Grammy Award winning record label.*
 
 **AR: One thing I'm really curious about is when in your life did your attachment to music begin? And what was the first music that made a difference to you?** 
 
@@ -92,8 +92,6 @@ Wearing some kind of a bathrobe. Wonderful man, wonderful tradition, you know, t
 In fact, it was because Allen Ginsburg had gone to India and he’d somehow found out–and he'd heard some Bauls, and he realized the connection, that here these are the original hippies, the original bluesman. And he came back to the states and he got, I think, Albert Grossman involved, Bob Dylan's manager. And they brought this troupe from India and they were gonna do a little tour as a stage production called *Lila*, and I think it fell apart. 
 
 Anyways, they ended up living out of Grossman's upstate New York property, which is where they met the Band. And the first of the Bauls done in the US was done by Garth Hudson of the Band, at Big Pink. I think they recorded for Nonesuch \[Records.] Those recordings were done by my hero, David B. Jones, who recorded phenomenal stuff on Nonesuch. Carnatic music.
-
- 
 
 So there's two recordings of the Bauls on Nonesuch. And the one \[recorded] by Garth Hudson was released on Elektra \[Records.] Garth Hudson’s recording isn’t anywhere near David B. Jones. David B. Jones was fantastic, he’s a hero of mine.
 
