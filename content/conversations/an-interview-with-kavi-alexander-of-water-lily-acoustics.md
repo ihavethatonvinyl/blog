@@ -392,3 +392,5 @@ Yes. Listen to it first, then let me know. 
 You, too. Take care. God bless.
 
 *Ankur Razdan is the leader of Washington, DC folk-rock group Different Answers. He can be followed for his musical micro-reviews on Twitter at @mukkuthani or for his band on Instagram at @differentanswersband, and corresponded with by email at ankurmrazdan@gmail.com.*
+
+> *I Have That on Vinyl is a reader supported publication. If you enjoy what’s going on here please consider donating to the site’s writer fund:[ venmo](https://account.venmo.com/u/Michele-Catalano2659) //[ paypal](https://www.paypal.com/paypalme/goingitaloneny?country.x=US&locale.x=en_US)*
