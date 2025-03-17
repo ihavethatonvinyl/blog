@@ -6,7 +6,7 @@ summary: '"So anyway, I bought all the Folkways and Connoisseur and Lord Pacific
   and Le Chant du Monde and the Cora recordings I could find. And I noticed that
   the recordings were not as great as the Western records, like jazz or western
   classical music. So that was when I decided that this is what I want to do
-  with my life, to start making recordings. So that was the real thrust. '
+  with my life, to start making recordings. So that was the real thrust."'
 featuredImage: /images/upload/41zabs-pxil-1-.jpg
 ---
 ![](/images/upload/41zabs-pxil-1-.jpg)
