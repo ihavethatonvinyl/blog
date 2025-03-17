@@ -1,7 +1,7 @@
 ---
 title: An Interview With Kavi Alexander of Water Lily Acoustics
-date: 2025-03-16T06:50:00.000Z
-draft: true
+date: 2025-03-17T04:03:00.000Z
+draft: false
 summary: '"So anyway, I bought all the Folkways and Connoisseur and Lord Pacific
   and Le Chant du Monde and the Cora recordings I could find. And I noticed that
   the recordings were not as great as the Western records, like jazz or western
