@@ -1,6 +1,6 @@
 ---
 title: "Tommy: My First Album Love"
-date: 2025-03-16T16:39:00.000Z
+date: 2025-03-17T04:04:00.000Z
 summary: '" Tommy opened the door for me. It allowed me to be receptive to
   listening to all kinds of music. It played a role in my discovering Black
   Sabbath two years later, which changed my life. It made me a lifelong fan of
