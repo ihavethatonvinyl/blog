@@ -1,6 +1,6 @@
 ---
 title: "Fish Heads and Dead Puppies: In Search of Demented Vinyl"
-date: 2025-03-17T20:39:00.000Z
+date: 2025-03-18T05:07:00.000Z
 summary: '"From there, I plunged deeper into the world of novelty vinyl. One of
   my next quests led me to Ogden Edsl’s “Dead Puppies.” The song, a darkly
   comedic ode to neglected pets, became one of Dr. Demento’s most requested
@@ -11,10 +11,8 @@ summary: '"From there, I plunged deeper into the world of novelty vinyl. One of
   free."'
 featuredImage: /images/upload/drdemento.png
 author: Ronald Gross
-draft: true
+draft: false
 ---
-
-
 ![](/images/upload/drdemento.png)
 
 There was a time when the airwaves carried the odd, the absurd, and the delightfully bizarre straight into our homes. A time when an eccentric DJ named Dr. Demento gave a national platform to the kind of songs that might otherwise be forgotten, lost in the annals of musical weirdness. And for me, a lifelong vinyl collector with an obsession for the strange and offbeat, tracking down the original releases of these demented classics became more than a hobby, it became a mission.
@@ -41,6 +39,8 @@ What makes collecting these records so rewarding isn’t just the thrill of the 
 
 Every time I drop the needle on one of these old 45s or LPs, I can almost hear Dr. Demento’s voice introducing another demented hit, a relic from a time when radio dared to be weird. These records are more than just vinyl, they’re artifacts of a golden age when humor, music, and strangeness collided in the best possible way. And as long as I can keep hunting them down, the spirit of Dr. Demento’s show will never truly fade away.
 
+*Ronald Gross is a seasoned music industry professional with over three decades of experience spanning radio, event programming, and music journalism. His career began in the late 1980s when he served on the Nassau Community College Concert Committee, followed by an internship at WPLJ radio. He went on to host a jazz show at WPIR, showcasing his deep appreciation for the genre.*
 
+*In the mid-2000s, Gross contributed his expertise to major branded music initiatives, writing about Heineken’s Red Star Soul and AmsterJam programs. Since 2007, he has established himself as a respected independent music reviewer, contributing to multiple platforms including BNN (Blogger News Network), Stereo Subversion, Eburban, Soundcheck, and Every DejaVu Records.*
 
 > *I Have That on Vinyl is a reader supported publication. If you enjoy what’s going on here please consider donating to the site’s writer fund:[ venmo](https://account.venmo.com/u/Michele-Catalano2659) //[ paypal](https://www.paypal.com/paypalme/goingitaloneny?country.x=US&locale.x=en_US)*
