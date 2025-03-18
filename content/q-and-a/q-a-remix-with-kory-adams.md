@@ -1,16 +1,20 @@
 ---
 title: Q&A Remix With Kory Adams
-date: 2025-03-17T21:01:00.000Z
+date: 2025-03-18T05:07:00.000Z
 summary: n looks. The album art featured the band members wearing white
   button   ups with long red ascots and shimmering gold pants with gold
   suspenders, the   men with full pants and the women wearing bootyshorts. It
   was not at all   emblematic of the music I liked at the time, but the cover
   made me laugh. I   still have it!"
+featuredImage: /images/upload/img_2132-1-.jpeg
 draft: true
 ---
 
 
-\
+![](/images/upload/img_2132-1-.jpeg)
+
+*Q&A Remix is a frequent column on IHTOV in which people from all walks of life answer a set of questions about their vinyl collection. Today we welcome Kory Adams*
+
 ***Have you ever bought a record just for the artwork?*** 
 
 I think I was at the Amoeba, or maybe Rasputin Records, in San Francisco when I bought my first real vinyl. That day I got *Brothers* by The Black Keys because I really liked *Thickfreakness*, and an album by CSS, I think? It’s gone, I don’t know where or how. But I also bought *All The Sweet Stuff*, by Gravy Train!!! based purely on looks. The album art featured the band members wearing white button ups with long red ascots and shimmering gold pants with gold suspenders, the men with full pants and the women wearing bootyshorts. It was not at all emblematic of the music I liked at the time, but the cover made me laugh. I still have it!
@@ -33,7 +37,7 @@ Uh, art, dude. We’re listening to genre-pioneers at the top of their game. 
 
 So, what I usually put on instead is this comp called *COLD HEAT: HEAVY FUNK RARITIES 1968-1974 VOL 1.* It’s dope as hell, and no one I know has ever heard a song off it before. As far as I know, there have not been any further volumes, which is a shame. The liner notes are nuts, too. For some tracks, they are literally guessing at who might be playing. For instance: track 2 (“Free Your Mind” by Amnesty) says “unknown trombone player, perhaps Gary Tifford.” It’s either that, or Madlib’s *Shades Of Blue,* which I’m just not gonna talk about. Pick it up, spark up, and bliss out baby. Ok, actually I will say one thing: it coincidentally also has crazy liner notes. Instead of not knowing who the musicians are, Madlib just creates a bunch of aliases for himself and uses his samples to create new bands. You know, the kind of high-caliber hijinks you might expect from a collaborator of MF DOOM.
 
-![](/images/upload/screenshot-2025-03-17-at-8.49.34 pm.png)
+![](/images/upload/screenshot-2025-03-17-at-8.48.35 pm.png)
 
 ***Are you a completionist when it comes to artists? Which artist do you have the most records from?*** 
 
