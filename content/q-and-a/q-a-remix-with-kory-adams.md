@@ -1,11 +1,11 @@
 ---
 title: Q&A Remix With Kory Adams
 date: 2025-03-18T05:07:00.000Z
-summary: n looks. The album art featured the band members wearing white
-  button   ups with long red ascots and shimmering gold pants with gold
-  suspenders, the   men with full pants and the women wearing bootyshorts. It
-  was not at all   emblematic of the music I liked at the time, but the cover
-  made me laugh. I   still have it!"
+summary: '"The album art featured the band members wearing white buttonups with
+  long red ascots and shimmering gold pants with gold suspenders, the men with
+  full pants and the women wearing bootyshorts. It was not at all   emblematic
+  of the music I liked at the time, but the cover made me laugh. I   still have
+  it!"'
 featuredImage: /images/upload/img_2132-1-.jpeg
 draft: false
 ---
