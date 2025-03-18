@@ -7,7 +7,7 @@ summary: n looks. The album art featured the band members wearing white
   was not at all   emblematic of the music I liked at the time, but the cover
   made me laugh. I   still have it!"
 featuredImage: /images/upload/img_2132-1-.jpeg
-draft: true
+draft: false
 ---
 
 
