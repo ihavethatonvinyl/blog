@@ -1,6 +1,6 @@
 ---
 title: "Urban Hymns "
-date: 2025-03-19T02:36:00.000Z
+date: 2025-03-19T11:28:00.000Z
 summary: '"So, I had a little red record player with my strange amplifier
   glowing in the dim light of my living room. One of the first albums I
   purchased was The Verve. Listening to Urban Hymns one night I found myself so
@@ -34,5 +34,7 @@ As my GemTune bulbs began to glow I was well into the neon wilderness of not onl
 “Can't you hear this beauty in life?” This one question defines this entire album and elevates it to a hymn. As an ordained Buddhist I am always on the lookout for the experience that transcends *experience.* “This Time” is the most experimental and compelling track and rounds out questioning the beauty of light with reflection. Catchy and fluid it is the one song that drew me so deep I forgot about music and albums and only heard the sounds of a band so far away finally catching up to me.
 
 “Come On” addresses him calling God from a payphone. It is a particularly spiritual exploration and one that rounds out what I’d come to think of as an ascension process. “Let the spirit inside you/Don't wait to be found”. That sums it up well. Like all iconic moments this one didn’t wait to be found. Instead, it arrived right on time with a little red record player and a hymn sweeping across the urban landscape of my life.  
+
+*Hailed as “an author with a genuine flair for originality” by Midwest Book Review and “a loveable, engaging, original voice…” by Publishers Weekly, Lis Anna-Langston is the author of five novels, winner of 18 book awards, three-time Pushcart nominee, published extensively in literary journals and a Magna Cum Laude graduate. You can find her in the wilds of South Carolina listening to vinyl and plucking stories out of thin air.*  
 
 > *I Have That on Vinyl is a reader supported publication. If you enjoy what’s going on here please consider donating to the site’s writer fund:[ venmo](https://account.venmo.com/u/Michele-Catalano2659) //[ paypal](https://www.paypal.com/paypalme/goingitaloneny?country.x=US&locale.x=en_US)*
