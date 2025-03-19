@@ -7,7 +7,7 @@ summary: '" So, I had a little red record player with my strange amplifier
   caught up in the lyrics that I forgot it was an album"'
 featuredImage: /images/upload/urban-hymns-three.jpg
 author: Lis Anna-Langston
-draft: true
+draft: false
 ---
 ![](/images/upload/urban-hymns-three.jpg)
 
@@ -29,7 +29,7 @@ Visceral energy is music to me. There is no substitution. That energy comes to d
 
 The 90’s are ironically one of my favorite decades and the one hardest to navigate at the time. Headstrong and determined to get through a series of obstacles I tackled at least part of the decade with verve and part with relentless momentum. It was exhausting and yet the decade I pine for the most. Video Stores, 90210 watch parties I dodged, letters arriving in the mail, meeting up in person at the New French Bar, that easy stroll through airports, winning a free camera and a hundred rolls of film. I never knew where anyone was or what they were thinking and “I know I’ll see your face again,” so wonderfully frames that time. It was a time when I bumped into people at a café and five hours later we were so well caffeinated we knew we couldn’t stop there. “The Drugs Don’t Work” cycles into a groovy track of “Catching the Butterfly”. In terms of sheer originality and creativity there’s a part of me that would argue this is one of the best albums ever made. *Like,* ever.
 
-As my GemTune bulbs began to glow I was well into the neon wilderness of not only the song but the entirety of the experience. The album really took on the momentum of an urban hymn, a semi religious experience that encapsulated the decade that had long passed with the wonder of discovering a piece of the past that felt almost like the future. Like one where I could see myself leaning into the dynamic “Space and Time.” Into the haunting chorus of “Weeping Willow”. I am reminded that this is an album I would have played on repeat in the late 90’s. But just like hooking up with my high school crush two decades later if I’d gone out with him then it would have taken on a different meaning. Same with Hymns.
+As my GemTune bulbs began to glow I was well into the neon wilderness of not only the song but the entirety of the experience. The album really took on the momentum of an urban hymn, a semi religious experience that encapsulated the decade that had long passed with the wonder of discovering a piece of the past that felt almost like the future. Like one where I could see myself leaning into the dynamic “Space and Time.” Into the haunting chorus of “Weeping Willow”. I am reminded that this is an album I would have played on repeat in the late 90’s. But just like hooking up with my high school crush two decades later if I’d gone out with him then it would have taken on a different meaning. Same with *Hymns*.
 
 “Can't you hear this beauty in life?” This one question defines this entire album and elevates it to a hymn. As an ordained Buddhist I am always on the lookout for the experience that transcends *experience.* “This Time” is the most experimental and compelling track and rounds out questioning the beauty of light with reflection. Catchy and fluid it is the one song that drew me so deep I forgot about music and albums and only heard the sounds of a band so far away finally catching up to me.
 
