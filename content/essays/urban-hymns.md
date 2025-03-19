@@ -1,7 +1,7 @@
 ---
 title: "Urban Hymns "
 date: 2025-03-19T02:36:00.000Z
-summary: '" So, I had a little red record player with my strange amplifier
+summary: '"So, I had a little red record player with my strange amplifier
   glowing in the dim light of my living room. One of the first albums I
   purchased was The Verve. Listening to Urban Hymns one night I found myself so
   caught up in the lyrics that I forgot it was an album"'
