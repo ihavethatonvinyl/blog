@@ -5,11 +5,11 @@ summary: '" So, I had a little red record player with my strange amplifier
   glowing in the dim light of my living room. One of the first albums I
   purchased was The Verve. Listening to Urban Hymns one night I found myself so
   caught up in the lyrics that I forgot it was an album"'
-featuredImage: /images/upload/urban-hymns-three.jpg
+featuredImage: /images/upload/verve.jpg
 author: Lis Anna-Langston
 draft: false
 ---
-![](/images/upload/urban-hymns-three.jpg)
+![](/images/upload/verve.jpg)
 
 A few years ago, a friend was moving and needed to free up funds and space. A little red record player he never used was up for sale. Looking back on that moment I don’t know what made me offer to buy it. On the surface I think I knew he needed cash and it’s easier to support a goal this way rather than offer a loan. Also, I think my soul was guiding me toward a choice I couldn’t see with logic. What I was going to do with a record player I had no idea. I imagined it would become a glorified paperweight given how much music I never listened to.
 
@@ -19,9 +19,9 @@ I quickly purchased a GemTune GS01 Hi-Fi tube amplifier because why not. What I 
 
 So, I had a little red record player with my strange amplifier glowing in the dim light of my living room. One of the first albums I purchased was The Verve. Listening to *Urban Hymns* one night I found myself so caught up in the lyrics that I forgot it was an album. No small task. Outside of a few artists like Iggy Pop, Black Flag, Isaac Hayes, and MC Solaar I am almost always aware that I am separated from the music. That perfect sound people have come to love is to me a signal that it isn’t live. It isn’t real to me. But in that moment of oneness I realized the perfect imperfection of the sound was part of the enjoyment. It wasn’t that I preferred silence to music, it was that I had been listening to music the wrong way since I’d left my original roots and gone forth in the world. The crisp sound of a CD never appealed to me, never called to me though I acknowledge it called to many. It never occurred to me that I needed a simple means to explore the landscape of an artistic medium so iconic. In a world where we are judged by our sound systems mine is wonderfully sparse. The instant gratification of downloads isn’t for me. The fret I build up waiting for an album to arrive in pristine condition is part of my process.
 
-![](/images/upload/verve.jpg)
-
 I grew up in Memphis and I’m good at finding the music, the meaning, the real notes that form a deeper harmony within the tapestry of my life because the experience is so woven into the fiber of my being that I cannot separate the music from my life. I used to walk my dog past Sun Studios every day. It was not something I took for granted. It’s a tiny place on Union Avenue and I’d always peek through the glass door. All the Delta Blues artists crossed that threshold. *I mean, seriously, Johnny Cash was in there.*
+
+![](/images/upload/urban-hymns-three.jpg)
 
 When you’re standing ten feet away from B. B. King singing it changes you. Maybe not in obvious ways I perceived in the moment, but it definitely created a lasting impression. Any day of the week I could hear music on corners in Memphis. Real music with mics too loud and amps too scratchy.
 
