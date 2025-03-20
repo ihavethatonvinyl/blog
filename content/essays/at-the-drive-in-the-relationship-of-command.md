@@ -1,11 +1,11 @@
 ---
 title: "At the Drive-In: The Relationship of Command"
 date: 2025-03-20T12:54:00.000Z
-summary: "\" At the Drive-In released \"The Relationship of Command\" on
-  September 12, 2000. I had just turned 19 the month before, standing at a
-  crossroads of hearing this and The Refused' “The Shape of Punk to Come” – both
-  fundamentally changing me, daring me to re-examine what music was, what I
-  thought songs could sound like.\""
+summary: " At the Drive-In released \"Relationship of Command\" on September 12,
+  2000. I had just turned 19 the month before, standing at a crossroads of
+  hearing this and The Refused' “The Shape of Punk to Come” – both fundamentally
+  changing me, daring me to re-examine what music was, what I thought songs
+  could sound like.\""
 featuredImage: /images/upload/atdi.jpg
 author: Robert Dean
 draft: false
@@ -14,9 +14,9 @@ draft: false
 
 The noise is frantic like you cannot hold onto the movements, the rhythm, that what you're experiencing is unique and wholly it's own. It's jarring, there are no smooth edges as if it's the sound recording of a Cold War scientist and a ghost screwed, and this is the audio representation of their moans. The melodies howls into the void while reaching for the cosmos in a way that dares Sagan to grab hold of God's robe and tell that motherfucker to ride. 
 
-The glorious noise belongs to At the Drive-In, and the record is “The Relationship of Command”, a magnum opus of noise, punk, and mathematical equations of the unknown. 
+The glorious noise belongs to At the Drive-In, and the record is “ \Relationship of Command”, a magnum opus of noise, punk, and mathematical equations of the unknown. 
 
-At the Drive-In released "The Relationship of Command" on September 12, 2000. I had just turned 19 the month before, standing at a crossroads of hearing this and The Refused' “The Shape of Punk to Come” – both fundamentally changing me, daring me to re-examine what music was, what I thought songs *could* sound like. With its raw intensity and aggressive emotion, “The Relationship of Command” is a testament to its time; many have tried to capture the lightning that is "One Armed Scissor," the band's biggest hit, but no one has been able to harness what the five punks from El Paso, Texas could back at the beginning of the new millennium.
+At the Drive-In released "Relationship of Command" on September 12, 2000. I had just turned 19 the month before, standing at a crossroads of hearing this and The Refused' “The Shape of Punk to Come” – both fundamentally changing me, daring me to re-examine what music was, what I thought songs *could* sound like. With its raw intensity and aggressive emotion, “Relationship of Command” is a testament to its time; many have tried to capture the lightning that is "One Armed Scissor," the band's biggest hit, but no one has been able to harness what the five punks from El Paso, Texas could back at the beginning of the new millennium.
 
 The album was recorded between January and March 2000 at Indigo Ranch Studios in Malibu, California. Produced by Ross Robinson, known for his unconventional methods (mentally breaking members of Korn and Glassjaw), the recording process aimed to capture the band's dynamic live presence. Notably, punk icon Iggy Pop contributed guest vocals on the tracks "Rolodex Propaganda" and "Enfilade." While Robinson had recorded Slipknot’s debut, it made a big noise for the masses, what At The Drive-In did was give a lease on life for those holding onto the spirit of Fugazi.
 
@@ -43,7 +43,6 @@ No matter how you try to place anything new against what the “Relationship of 
 You can say a lot of bands are influenced by what At The Drive-in did, but has anyone recorded anything like “The Relationship of Command”? Not that I know of and I’m a music nerd. There’s so much identity to what they did back in 2000 that twenty-five years later, it stands alone as a body of work that’s signature rather than popping on the Misfits at the bar and singing along to “Skulls” – this is just different and it’s obvious. 
 
 I still listen to this record in awe, not because it's an all-time favorite for me, but because of how fearless it is; while people laud The Mars Volta as this genre-bending psychedelic force, At The Drive-in will always be the band asked to play the festivals, to reunite because they stand as one of those bands whose importance will be signed into the halls of the punk rock hall of infamy with a butcher knife.
-
 
 *Robert Dean is a journalist, cultural editorialist, and self-proclaimed enlightened dumbass. His work has appeared in over 50 publications worldwide, including MIC, Eater, Fatherly, Yahoo, Austin American-Statesman, Houston Chronicle, Consequence of Sound, Ozy, USA Today, and Channel Void. He’s appeared on CNN and NPR and currently serves as a features writer for Culture Clash and The Cosmic Clash, as well as a weekly political columnist for The Carter County Times. He lives in Austin, Texas, and loves ice cream, koalas, and calling out bullshit. His collection of essays, Existential Thirst Trap, is out now.*
 
