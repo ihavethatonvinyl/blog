@@ -1,13 +1,13 @@
 ---
 title: "My 45s: Seasons in the Sun"
-date: 2025-03-19T21:46:00.000Z
+date: 2025-03-20T04:23:00.000Z
 summary: '"The song went on, and I took it all in, too mesmerized by the lyrics
   to turn the channel. The singer, Terry Jacks, was saying goodbye to the people
   he loved before he died. Like, he had totally accepted his death already and
   was telling other people to accept it as well. To me, this was a new way of
   thinking about dying.'
 featuredImage: /images/upload/sits45.jpg
-draft: true
+draft: false
 ---
 ![](/images/upload/sits45.jpg)
 
@@ -34,7 +34,6 @@ My name. He sang my name! It was a weird thing to hear. My name wasn’t very po
 And then:
 
 *Goodbye Michele it’s hard to die*
-
 
 I screamed. My mother came running into my room and asked what’s the matter.”
 
@@ -66,3 +65,7 @@ Things I have learned about “Seasons in the Sun” as an adult:
 * Irish boy band Westlife covered it in 1999
 
 “Seasons in the Sun” is an artifact of its time; a cheesy, corny, overwrought piece of drivel that 12-year-old me thought was deep and ironically life affirming. But damn, I wish I still had that 45.
+
+
+
+*I Have That on Vinyl is a reader supported publication. If you enjoy what’s going on here please consider donating to the site’s writer fund:[ venmo](<>) //[ paypal](<>)*
