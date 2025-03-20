@@ -1,16 +1,15 @@
 ---
 title: Q&A Remix With John Yslas
-date: 2025-03-19T17:42:00.000Z
+date: 2025-03-20T04:21:00.000Z
 summary: '"Some of the most meaningful connections in my life have come from
   camping out for Record Store Day, and that experience will always remind me of
   how music can bring people together.'
 featuredImage: /images/upload/img_3413.jpeg
-draft: true
+draft: false
 ---
 ![](/images/upload/img_3413.jpeg)
 
 *Q&A Remix is a frequent column on IHTOV in which people from all walks of life answer a set of questions about their vinyl collection. Today we welcome John Yslas*
-
 
 **1.) Have you ever bought a record just for the artwork?**
  Absolutely, Wild Nothing's *Nocturne*. The vinyl edition comes with multiple lithograph options for the album cover, making it feel like a customizable art piece.
@@ -63,6 +62,5 @@ draft: true
  The Cranberries *– Everybody Else Is Doing It, So Why Can’t We?*
 
 *Jon Yslas, known musically as[ Forbidden Disco](https://soundcloud.com/forbiddendisco), has always been drawn to the energy of indie rock and disco house. But as any true artist knows, evolution is inevitable. His upcoming project, Midway Echoes, trades club-ready grooves for something more cinematic and immersive, pulling from film scores, ambient textures, and the eerie warmth of theme park soundscapes. It’s music that feels like stepping into a forgotten dream, where the echoes of childhood joy and distant melodies blur together. With Midway Echoes, Yslas crafts an exploration of memory, loss, and the spaces in between.*
-
-
-*I Have That on Vinyl is a reader supported publication. If you enjoy what’s going on here please consider donating to the site’s writer fund:[ venmo](https://account.venmo.com/u/Michele-Catalano2659) //[ paypal](https://www.paypal.com/paypalme/goingitaloneny?country.x=US&locale.x=en_US)*
+>
+> *I Have That on Vinyl is a reader supported publication. If you enjoy what’s going on here please consider donating to the site’s writer fund:[ venmo](https://account.venmo.com/u/Michele-Catalano2659) //[ paypal](https://www.paypal.com/paypalme/goingitaloneny?country.x=US&locale.x=en_US)*
