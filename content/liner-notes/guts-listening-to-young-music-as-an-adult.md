@@ -7,7 +7,7 @@ summary: '" I thought of this while listening to Olivia Rodrigo’s GUTS. Most o
   days. The album is a perfect storm of two things I enjoy: crying and rocking
   out. Maybe rocking out while crying."'
 featuredImage: /images/upload/guts.webp
-draft: true
+draft: false
 ---
 ![](/images/upload/guts.webp)
 
