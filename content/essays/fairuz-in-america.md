@@ -1,6 +1,6 @@
 ---
 title: Fairuz in America
-date: 2025-03-20T12:36:00.000Z
+date: 2025-03-21T06:09:00.000Z
 summary: '"Fairouz is a known name to anyone who speaks Arabic, as a legendary
   singer from Lebanon who had been active since 1950, she graced many
   generations with her voice and her music, and as an Arab Christian family, we
@@ -9,7 +9,7 @@ summary: '"Fairouz is a known name to anyone who speaks Arabic, as a legendary
   gathering."'
 featuredImage: /images/upload/3-fairouz-1971.jpg
 author: Rami Soudah
-draft: true
+draft: false
 ---
 
 
