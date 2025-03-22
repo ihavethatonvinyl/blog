@@ -1,6 +1,6 @@
 ---
 title: You're My Favorite Thing
-date: 2025-03-22T13:28:00.000Z
+date: 2025-03-22T13:55:00.000Z
 summary: '"A conversation about what it means to be a fan of a band; what your
   favorite band says about you; how your favorite band stands the test of good,
   bad, and indifferent times; and how the same goes for your oldest, dearest
@@ -10,8 +10,6 @@ author: Jim Parisi
 draft: true
 ---
 ![](/images/upload/img_2273.jpg)
-
-
 
 *True Replacements fans—not the ones coming to live vicariously through them for their own behavior—were a different breed. “When we started, we were mixed-up kids, and we wrote about it,” said \[Paul] Westerberg. “It's funny that the people who related to it the most weren't fucked-up kids, though. Our fans always have been, dare I say, a little more intelligent than the band was labeled as. I always thought that ironic."*
 
@@ -66,3 +64,5 @@ Despite those superficial differences, we have much in common, as you would expe
 We definitely aren't go-getters or yuppie types, but we’re also not hopeless wastrels. We turned out just fine. The young, unattached, confused twentysomethings are now older, permanently attached (hey there, Beth and Ann!), still confused close-to-sixtysomething family men who never strove for professional success but hold (or held, as I was recently laid off) responsible jobs in which we’ve achieved some small measure of success on our own terms. 
 
 As  Tommy Stinson put it so succinctly, we didn’t aspire to much, but we also didn’t aspire to doing nothing. We are, and always have been, in that gray area, making us the prototypical Replacements fans. That’s just fine with me. I hope Liam feels the same way.
+
+*Jim Parisi lives in Washington, D.C., with his long-suffering wife, Beth, and Dolce, a spicy mix of boxer, pit bull, and Australian cattle dog. (Their two kids, Aidan and Nora, have flown the coop.) After a long career as an editor of  research products for the academic  market, he is setting out on his own as a freelance editor.  He is a writer of various fictions and the occasional essay (none of which has managed to find its way into print until today). Much of his free time is spent coaching Little League softball. He also plays a mediocre bass and has been known to make sounds that some species might recognize as music on the guitar. He grew up in New Jersey but urges readers not to hold that against him.*
