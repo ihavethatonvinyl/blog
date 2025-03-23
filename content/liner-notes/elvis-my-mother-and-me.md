@@ -1,11 +1,11 @@
 ---
 title: Elvis, My Mother, And Me
-date: 2025-03-22T16:28:00.000Z
+date: 2025-03-23T04:19:00.000Z
 summary: '"The news of Elvis’s death spread around the neighborhood. It was as
   if my mother’s sobbing set off some kind of Bat signal, and you could hear
   wails of anguish coming from housewives all down the block."'
 featuredImage: /images/upload/elvis.webp
-draft: true
+draft: false
 ---
 It was one of those moments when you say something you know you shouldn’t. But I couldn’t help myself. I was fourteen and still in the throes of teenage-girl-smart-ass disease. I was sitting in the backyard 48 years ago, listening to the radio, when I heard the news. I went inside and found my mother in her room, making her bed.
 
