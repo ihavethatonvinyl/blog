@@ -7,6 +7,8 @@ summary: '"The news of Elvis’s death spread around the neighborhood. It was as
 featuredImage: /images/upload/elvis.webp
 draft: false
 ---
+![](/images/upload/elvis.webp)
+
 It was one of those moments when you say something you know you shouldn’t. But I couldn’t help myself. I was fourteen and still in the throes of teenage-girl-smart-ass disease. I was sitting in the backyard 48 years ago, listening to the radio, when I heard the news. I went inside and found my mother in her room, making her bed.
 
 “Hey, mom. Guess you won’t be going to that Elvis concert next week.”
