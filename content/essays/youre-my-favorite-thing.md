@@ -1,13 +1,13 @@
 ---
 title: You're My Favorite Thing
-date: 2025-03-22T13:55:00.000Z
+date: 2025-03-23T04:18:00.000Z
 summary: '"A conversation about what it means to be a fan of a band; what your
   favorite band says about you; how your favorite band stands the test of good,
   bad, and indifferent times; and how the same goes for your oldest, dearest
   friends."'
 featuredImage: /images/upload/img_2273.jpg
 author: Jim Parisi
-draft: true
+draft: false
 ---
 ![](/images/upload/img_2273.jpg)
 
