@@ -1,6 +1,6 @@
 ---
 title: "Hello, It's Me: My Intro to Todd Rundgren"
-date: 2025-03-23T19:25:00.000Z
+date: 2025-03-24T01:16:00.000Z
 summary: "\"The first time I consciously heard \"Hello It's Me\" was in 1975.
   I'm sure I'd heard it before; it came out in 1972, when I was ten. Chances are
   I heard it on the radio, either the staticky AM station my mom listened to, or
