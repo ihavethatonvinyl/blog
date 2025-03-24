@@ -9,7 +9,7 @@ summary: "\"The first time I consciously heard \"Hello It's Me\" was in 1975.
   the word—surly, emotional, indifferent, and all those other things teenagers
   can be."
 featuredImage: /images/upload/todd.png
-draft: true
+draft: false
 ---
 ![smoking in my room, 1978](/images/upload/todd.png "smoking in my room, 1978")
 
