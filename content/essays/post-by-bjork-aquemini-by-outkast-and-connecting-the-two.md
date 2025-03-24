@@ -1,6 +1,6 @@
 ---
 title: Post by Bjork; Aquemini by Outkast and Connecting the Two
-date: 2025-03-23T15:32:00.000Z
+date: 2025-03-24T01:15:00.000Z
 summary: '"Both of these collections are of their time and outside of time. Post
   is the sonified, personified “irrational exuberance” from 1995 that would go
   unnamed until Alan Greenspan’s speech a year later. Post what? Post
@@ -12,7 +12,7 @@ summary: '"Both of these collections are of their time and outside of time. Post
   adaptive process, one which people would now"'
 featuredImage: /images/upload/img_3011.jpeg
 author: Kevin McCraney
-draft: true
+draft: false
 ---
 ![](/images/upload/img_3011.jpeg)
 
