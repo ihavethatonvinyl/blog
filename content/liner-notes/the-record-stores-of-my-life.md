@@ -1,13 +1,13 @@
 ---
 title: The Record Stores of my Life
-date: 2025-03-24T19:59:00.000Z
+date: 2025-03-25T04:17:00.000Z
 summary: "\"A good record store has a very specific smell to it. I’m assaulted
   by it, in the best possible way, the second I walk into Looney Tunes. It
   brings me back to working at Record World, to shopping at Jimmy's Music World
   and Uncle Phil's and Mr. Cheapo's. I can't define that smell, but I just know
   it brings me an inner peace, a sense of being home.\""
 featuredImage: /images/upload/looney.jpg
-draft: true
+draft: false
 ---
 ![](/images/upload/looney.jpg)
 
