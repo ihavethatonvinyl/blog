@@ -1,6 +1,6 @@
 ---
 title: The Brian Jonestown Massacre - Their Satanic Majesties' Second Request
-date: 2025-03-24T16:50:00.000Z
+date: 2025-03-25T04:16:00.000Z
 summary: '"A spiritual sequel to the forbidden British record, the
   Eastern-influenced neo-psychedelia made a statement for the ages, a piece that
   fills the record stores and shelves of music nerds of a plethora of
@@ -8,7 +8,7 @@ summary: '"A spiritual sequel to the forbidden British record, the
   first-timer on lasts a lifetime."'
 featuredImage: /images/upload/bjm-satanic.jpg
 author: Case Cockrell
-draft: true
+draft: false
 ---
 ![](/images/upload/bjm-satanic.jpg)
 
