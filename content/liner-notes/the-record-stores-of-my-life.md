@@ -25,6 +25,8 @@ I have no set routine for shopping in a record store. I usually just pick an ais
 
 I take my time, looking through each artist in case I find some hidden gem, flipping through every single album behind the singular letter cards. I never know what I'm looking for to start out with, but just like adopting a dog or a cat, the record chooses you. Like I knew immediately when I saw *Siamese Dream* that it was something I needed in my collection. It called out to me. It found me.
 
+![Kevin Devin at Looney Tunes 2018e](/images/upload/img_2679.jpg "Kevin Devine at Looney Tunes 2018")
+
 My first record store was actually just a section in Modell's department store (before it became a sporting goods store). I bought so many cassettes and 45s there. It’s where I bought my first music with my own money, a cassette of David Bowie's *Young Americans*. The record department also had a T-shirt maker, and sometimes I would get a good Led Zeppelin iron-on shirt when I bought an album. 
 
 After Modell's closed, there was Jimmy's. It was at Jimmy's that I really honed my love of record stores. It was different from Modell's, whose record department was flanked by old ladies in housewares and kids rummaging through the toys. Jimmy's was its own. Everyone was there because they wanted to be. I was 16 or 17 when I frequented the place, taking my meager minimum-wage earnings each week and plopping down some cash for the latest Police or Talking Heads album. 
