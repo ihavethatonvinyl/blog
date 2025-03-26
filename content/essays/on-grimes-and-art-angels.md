@@ -1,7 +1,7 @@
 ---
 title: On Grimes and Art Angels
-date: 2025-03-26T02:04:00.000Z
-summary: '". I was barely holding it together mentally and financially, with
+date: 2025-03-26T03:54:00.000Z
+summary: '"I was barely holding it together mentally and financially, with
   little room for solace. But that solace, like always, showed itself in the
   form of music. It was around this time that I first heard the lead single off
   of Art Angels, Grimes’ follow-up to her breakthrough opus Visions. “Flesh
@@ -9,7 +9,7 @@ summary: '". I was barely holding it together mentally and financially, with
   structured like a rock song but as deeply engrossing as a dream-pop one. '
 featuredImage: /images/upload/grimes.png
 author: Andrew McNally
-draft: true
+draft: false
 ---
 ![](/images/upload/grimes.png)
 
