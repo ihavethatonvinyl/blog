@@ -1,6 +1,6 @@
 ---
 title: Only In Dreams - on Weezer's Blue Album
-date: 2025-03-26T02:12:00.000Z
+date: 2025-03-26T03:55:00.000Z
 summary: '"He was right. “Only in Dreams” is a devastating song, a closer
   appropriate for such a grand album. It makes the record stay with you. It sits
   in your heart and sits in your soul. It causes you to ache and yearn, and, no,
@@ -9,7 +9,7 @@ summary: '"He was right. “Only in Dreams” is a devastating song, a closer
   replicating it; the same way it struck me upon hearing it for the first time
   in 1994."'
 featuredImage: /images/upload/img_3518.jpg
-draft: true
+draft: false
 ---
 ![](/images/upload/img_3518.jpg)
 
