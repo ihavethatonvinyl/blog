@@ -1,8 +1,8 @@
 ---
 title: Q&A Remix With Malia DelaCruz (Ciao Malz)
-date: 2025-03-27T04:01:00.000Z
+date: 2025-03-27T03:01:00.000Z
 featuredImage: /images/upload/ciao.jpg
-draft: true
+draft: false
 ---
 ![](/images/upload/ciao.jpg)
 
