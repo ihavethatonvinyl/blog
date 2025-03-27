@@ -1,6 +1,6 @@
 ---
 title: How a High School Radio Station Became Chicagoland’s First FM Rock Revolution
-date: 2025-03-26T17:17:00.000Z
+date: 2025-03-27T03:56:00.000Z
 summary: '"Tucked in a barely ventilated room in the corner of the drama
   department’s rehearsal room, in 1966, WRHS, 88.1 FM with its group of high
   school music rebels became the first Chicagoland FM station to play
@@ -8,7 +8,7 @@ summary: '"Tucked in a barely ventilated room in the corner of the drama
   station to play rock-and-roll in 1968."'
 featuredImage: /images/upload/wrhs-20250126-1966-or-1967-eric-jay-toll-i-have-that-on-vinyl-2.jpg
 author: Eric J. Toll
-draft: true
+draft: false
 ---
 ![](/images/upload/wrhs-20250126-1966-or-1967-eric-jay-toll-i-have-that-on-vinyl-2.jpg)
 
@@ -76,5 +76,6 @@ McGrath said that being on the air gave him the confidence to express himself. Z
 
 “(WRHS) served a real purpose. It gave the non-jocks, those non-athletes ones, something to feel good about,” Zahn remembered. “When you look back at what we did, we didn’t realize it then, but we do now.”
 
-
 *Eric Jay Toll is a business journalist and travel writer-photographer who once was spinning disks on WRHS from his freshman year in high school several eons ago. In the years since Rich East, he wrote news for CBS Radio/Chicago and worked in broadcast advertising sales and for an ad agency before spending decades as a city planner. The Great Recession gave him the opportunity to become a writer. More than 2,000 articles appear under his byline and four awards hang on the wall. Eric’s work has appeared in USA Today, MSN, Chicago Tribune, Houston Chronicle, National Parks Traveler, She Buys Travel and other publications. He lives in Phoenix, Arizona, and travels a lot. On Facebook, he is[ https://Facebook.com/EricJayToll](https://facebook.com/EricJayToll) and @EricJayToll on Instagram.*
+
+> *I Have That on Vinyl is a reader supported publication. If you enjoy what’s here please consider donating to the site’s writer fund:[ venmo](https://account.venmo.com/u/Michele-Catalano2659) //[ paypal](https://www.paypal.com/paypalme/goingitaloneny?country.x=US&locale.x=en_US)*. *Tips go toward paying writers, an editor and for site maintenance*
