@@ -34,6 +34,6 @@ The last record I played was *Wede Harer Guzo* by Hailu Mergia & Dahlak Band. Th
 
 *Her music first reached the Audio Antihero label when she issued a cover of Frog’s “You Know I’m Down” sleeper hit in 2023. Impressed with demo material like “Your Winner,” “Always Be My Maybe,” and “Circumstancey,” the label offered to work with her on her debut, the 'Safe Then Sorry' EP. On this, her most eclectic, complete, and unrestrained work to date, CIAO MALZ takes inspiration from Jordana, Elliott Smith, Jerry Jeff Walker, Frog, and Men I Trust to combine an honest introspection, that’s informed by her experience as a young woman of color, with a layered sonic bounce.*
 
-**CIAO MALZ** - *‘Safe Then Sorry’* (Dec 6th / Indie):[ Bandcamp](https://ciaomalz.bandcamp.com/album/safe-then-sorry) /[ EPK](https://bit.ly/CIAOMALZEPK) /[ Press Release](https://bit.ly/CIAOMALZPR) /[ Linktree](https://linktr.ee/Ciaomalz)
+[](https://ciaomalz.bandcamp.com/album/safe-then-sorry)[](https://bit.ly/CIAOMALZEPK)[](https://bit.ly/CIAOMALZPR)[](https://linktr.ee/Ciaomalz)
 
 > [](https://linktr.ee/Ciaomalz)*I Have That on Vinyl is a reader supported publication. If you enjoy what’s here please consider donating to the site’s writer fund:[ venmo](https://account.venmo.com/u/Michele-Catalano2659) //[ paypal](https://www.paypal.com/paypalme/goingitaloneny?country.x=US&locale.x=en_US)*. *Tips go toward paying writers, an editor and for site maintenance*
