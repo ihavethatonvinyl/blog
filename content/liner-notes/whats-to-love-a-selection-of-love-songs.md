@@ -10,9 +10,7 @@ draft: false
 ---
 ![](/images/upload/love.webp)
 
-*Some people want to fill the world with silly love songs*. Paul McCartney may have penned the ultimate song *about* love songs, but it’s not a love song in itself. What makes a good love song probably differs in the eyes of  most of everyone, because the answers are vastly different as if you asked “What is love?”
-
-Don’t worry, we’re not going to ask that. Today. 
+*Some people want to fill the world with silly love songs*. Paul McCartney may have penned the ultimate song *about* love songs, but it’s not a love song in itself.  
 
 There are no rules when it comes to love songs. *What makes a good love song?* is as impossible for me to answer as *What is love?* I just know it when I hear it.   
 
