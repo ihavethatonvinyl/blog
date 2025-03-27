@@ -1,6 +1,6 @@
 ---
 title: How a High School Radio Station Became Chicagoland’s First FM Rock Revolution
-date: 2025-03-27T03:56:00.000Z
+date: 2025-03-27T04:01:00.000Z
 summary: '"Tucked in a barely ventilated room in the corner of the drama
   department’s rehearsal room, in 1966, WRHS, 88.1 FM with its group of high
   school music rebels became the first Chicagoland FM station to play
