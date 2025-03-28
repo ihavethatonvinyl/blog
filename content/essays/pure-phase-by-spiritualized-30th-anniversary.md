@@ -1,6 +1,6 @@
 ---
 title: Pure Phase by Spiritualized 30th Anniversary
-date: 2025-03-27T15:17:00.000Z
+date: 2025-03-28T04:13:00.000Z
 summary: '" This year marks the 30th anniversary of the release of Pure Phase,
   the overlooked second album by beloved neo-psych space rockers Spiritualized.
   The album occupies an interesting spot in their discography as it’s sandwiched
@@ -9,8 +9,10 @@ summary: '" This year marks the 30th anniversary of the release of Pure Phase,
   Floating in Space."'
 featuredImage: /images/upload/screenshot-2025-03-27-at-3.13.03 pm.png
 author: Chase Harrison
-draft: true
+draft: false
 ---
+![](/images/upload/screenshot-2025-03-27-at-3.13.03 pm.png)
+
 ![](/images/upload/screenshot-2025-03-27-at-3.13.03 pm.png)
 
 This year marks the 30th anniversary of the release of *Pure Phase*, the overlooked second album by beloved neo-psych space rockers Spiritualized. The album occupies an interesting spot in their discography as it’s sandwiched between their widely acclaimed and influential debut album *Lazer Guided Melodies*, and their canonized masterpiece, *Ladies and Gentlemen We Are Floating in Space*. While it was well-received overall, it’s the only album by the band that Pitchfork hasn’t reviewed, it scored only a decent 3.5/5 stars on AllMusic (the second lowest of their career), and it has just the 7th most reviews of their career on RateYourMusic. I’d like to suggest it’s long overdue for a reappraisal.
@@ -43,9 +45,10 @@ Jason “Spaceman” Pierce himself, as recently as 2021 (to [The Quietus](https
 
 *I can't get too much of it*
 
-
 While the direct influence of *Pure Phase* is hazier than the clear impact *Lazer Guided Melodies* has had on dream pop and *Ladies and Gentlemen* has had on (orchestral) space rock, its touchpoints can be found all over music released in the decades since. Slowdive’s *Pygmalion*, released the following year, has a strikingly similar ambient, electronic, neo-psych atmosphere. Maligned at the time as a departure from the pure noisy shoegaze of *Souvlaki*, it’s since been reevaluated as an influential forebear of post-rock. Also released in 1996, Bowery Electric’s *Beat* explored similar territory with a greater emphasis on the pulsing rhythms of trip-hop. Seefeel – who toured with Spiritualized in 1995 – have melded guitars with electronics since the early 90s (and released two excellent comeback albums last year). Since then, Sigur Rós, Deerhunter, Yo La Tengo, Beach House, and Animal Collective (who have specifically named dropped Spacemen 3 a major influence) have all dabbled in the combination of sounds that J. Spaceman and co. mined on “Pure Phase.” The current neo-shoegaze wave is filled with examples but Philadelphia bands They Are Gutting a Body of Water and Full Body 2 are notable for heavily incorporating electronic music into their wall-of-sound approach.
 
 When asked to describe the band to the uninitiated, I often refer to them as “gospel for agnostics and addicts.” Listening to Spiritualized can be a cathartic, life-affirming, near religious experience unto itself. Who needs god when music like this exists?
 
 *Born in Durham, NC and raised outside of Baltimore, MD, Chase has spent the last 18 years in Philadelphia, PA and Brooklyn, NY. He holds a Master of Advanced Studies in American Media & Popular Culture and currently works as a Content Manager with past experience in the film, food, and beverage spaces. He has also performed as a DJ and makes electronic music under the name Cult Posture. He has seen Spiritualized perform live six times since 2008.*
+
+> *I Have That on Vinyl is a reader supported publication. If you enjoy what’s here please consider donating to the site’s writer fund:[ venmo](https://account.venmo.com/u/Michele-Catalano2659) //[ paypal](https://www.paypal.com/paypalme/goingitaloneny?country.x=US&locale.x=en_US)*. *Tips go toward paying writers, an editor and for site maintenance*
