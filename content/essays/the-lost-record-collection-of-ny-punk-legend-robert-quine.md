@@ -1,9 +1,9 @@
 ---
 title: The Lost Record Collection of NY Punk Legend Robert Quine
-date: 2025-03-30T07:41:00.000Z
+date: 2025-03-30T08:15:00.000Z
 summary: '"Robert Wolfe Quine was a brilliant guitar player who had been an
   integral part of the New York/CBGB punk scene during its heyday. He went on to
-  work with Tom Waits, Lou Reed, They Might Be Giants, Brian Eno, Michael Sweet,
+  work with Tom Waits, Lou Reed, They Might Be Giants, Brian Eno, Matthew Sweet,
   and Richard Hell and the Voidoids to name a few. But, despite being such a
   genius of the instrument, he passed away and remains unknown to most.'
 featuredImage: /images/upload/quine1.jpg
