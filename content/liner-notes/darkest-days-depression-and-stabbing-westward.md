@@ -1,19 +1,18 @@
 ---
 title: "Darkest Days: Depression and Stabbing Westward"
-date: 2025-03-30T03:56:00.000Z
+date: 2025-03-30T04:10:00.000Z
 summary: '"Sometimes, an album comes along at just the right time, a perfect
   match for your mood and your place in life; so much so that for a while it
   becomes your personality. For me, that time was in late 1998, and the album
   was Stabbing Westward’s Darkest Days."'
 featuredImage: /images/upload/sw.jpg
-draft: true
+draft: false
 ---
 ![art by the wonderful dave mckean](/images/upload/sw.jpg "art by the wonderful dave mckean")
 
 Sometimes, an album comes along at just the right time, a perfect match for your mood and your place in life; so much so that for a while it becomes your personality. For me, that time was in late 1998, and the album was Stabbing Westward’s *Darkest Days*.
 
 I was still settling into my divorce from a year earlier, still dealing with the fact that my marriage had fallen apart brutally and spectacularly, leaving me alone with two small children. I was angry, bitter, heartbroken. Not heartbroken that he left, which was my idea. This was the heartbreak of knowing that I had missed a couple of years of my life while I was disassociating from everyone, that I failed at the one thing a woman my age was supposed to get right. 
-
 
 There I was, depressed, angry, unsettled in life, with an eight-year-old  and a five-year-old to raise, basically without their father. I wanted more in this life. I wanted to live fully. I wanted to be loved. I wanted revenge. I was getting none of those things. So I would lie in bed at night, listening to music that spoke to those things, music that coddled my despair and sharpened the edges of my anger. Enter *Darkest Days.* 
 
@@ -72,3 +71,7 @@ I cried again, tears hot against my face. I went outside and lit a cigarette aft
 This album empowered me. It told me that my feelings were valid, long before that became a therapy catchphrase. It made me feel something besides despair. I didn’t care that I was feeling hate and anger; there was a place and time for those emotions, and I was standing in that target. I walked around the block, trying to clear my head, with the refrain of “I won’t become the thing I hate, I won’t become you” clattering around in my head.
 
 When I got home, I got back into bed, pulled the covers over my head, and started *Darkest Days* again, from the beginning. This time, I was prepared. I knew what I would feel. I knew the self-loathing, the depression, and the desperation would all surface again, and that was fine. I needed those emotions to be at the surface when the anger kicked in. This was not a bedtime album, but an album to listen to while lying in bed, feeling my feelings. It was the perfect album at the perfect time.
+
+
+
+*I Have That on Vinyl is a reader supported publication. If you enjoy what’s here please consider donating to the site’s writer fund:[ venmo](https://account.venmo.com/u/Michele-Catalano2659) //[ paypal](https://www.paypal.com/paypalme/goingitaloneny?country.x=US&locale.x=en_US)*. *Tips go toward paying writers, an editor and for site maintenance*
