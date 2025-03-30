@@ -1,6 +1,6 @@
 ---
 title: The Lost Record Collection of NY Punk Legend Robert Quine
-date: 2025-03-30T03:40:00.000Z
+date: 2025-03-30T04:09:00.000Z
 summary: '"Robert Wolfe Quine was a brilliant guitar player who had been an
   integral part of the New York/CBGB punk scene during its heyday. He went on to
   work with Tom Waits, Lou Reed, They Might Be Giants, Brian Eno, Michael Sweet,
@@ -8,7 +8,7 @@ summary: '"Robert Wolfe Quine was a brilliant guitar player who had been an
   genius of the instrument, he passed away and remains unknown to most.'
 featuredImage: /images/upload/quine1.jpg
 author: Nickolas Tsui
-draft: true
+draft: false
 ---
 
 
