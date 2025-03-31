@@ -1,6 +1,6 @@
 ---
 title: 45s and Summer
-date: 2025-03-30T16:25:00.000Z
+date: 2025-03-31T06:13:00.000Z
 summary: '"My baby sister’s room had air conditioning. At that time, mine did
   not. My baby sister’s room had a (Fisher-Price) record player. At that time,
   mine did not. But I had 45s, and whenever my mom was in the pool with my
@@ -9,7 +9,7 @@ summary: '"My baby sister’s room had air conditioning. At that time, mine did
   suit to the likes of “Brand New Key.” My hairbrush microphone skills were
   unmatched."'
 featuredImage: /images/upload/45.jpg
-draft: true
+draft: false
 ---
 ![](/images/upload/45.jpg)
 
