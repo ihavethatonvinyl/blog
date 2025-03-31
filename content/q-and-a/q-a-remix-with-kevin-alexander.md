@@ -1,6 +1,6 @@
 ---
 title: Q&A Remix With Kevin Alexander
-date: 2025-03-30T16:03:00.000Z
+date: 2025-03-31T06:12:00.000Z
 summary: '" I wasn’t looking for Cloudland when I walked into my local record
   shop a couple of years ago—in fact, I rarely know what I’m looking for when I
   go in. And even when I do, I usually either toss that list, come up with
@@ -9,7 +9,7 @@ summary: '" I wasn’t looking for Cloudland when I walked into my local record
   I came across their CD all those many years ago, I came across a vinyl copy,
   misfiled under the wrong letter."'
 featuredImage: /images/upload/kevin_kitchen.jpg
-draft: true
+draft: false
 ---
 ![](/images/upload/kevin_kitchen.jpg)
 
