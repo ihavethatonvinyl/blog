@@ -93,3 +93,6 @@ John Lee Hooker – Travelin’ (1960)
 John Lee Hooker – Plays & Sings the Blues (1961)*
 
 \*did not get
+
+﻿*Nickolas Tsui is a lover of music and collector of memorabilia - vinyl, posters, and signatures. He loves to share his stories and adventures,  go see live music, travel, and meet the musicians he admires. He has 
+written for Howl Magazine, The UMass Lowell Connector Student Newspaper, and The Blues Audience Newsletter. Residing in Nashua, NH, he is  currently writing his first book, The Steward of the Strings,’ about  guitarists he’s met over the years. Besides collecting records, he is  part of a group that meets once a month to spin them.  When not  enveloped by music and records, he enjoys reading, watching movies, trying new foods, a good whiskey, and shooting billiards.*
