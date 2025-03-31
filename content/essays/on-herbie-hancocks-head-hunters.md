@@ -1,6 +1,6 @@
 ---
 title: On Herbie Hancock's Head Hunters
-date: 2025-03-30T15:52:00.000Z
+date: 2025-03-31T06:12:00.000Z
 summary: '"I guess quite simply put, Head Hunters always has and always will be
   the epitome of "cool" to me: the meandering, yet extremely well thought-out
   instrumental sounds heard within, the sheer idea of being bold/brazen enough
@@ -11,7 +11,7 @@ summary: '"I guess quite simply put, Head Hunters always has and always will be
   Ivory Coast."'
 featuredImage: /images/upload/24079.jpg
 author: Matt Horowitz
-draft: true
+draft: false
 ---
 ![](/images/upload/24079.jpg)
 
