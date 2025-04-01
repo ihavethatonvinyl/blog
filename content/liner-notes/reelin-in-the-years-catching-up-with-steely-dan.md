@@ -1,13 +1,13 @@
 ---
 title: Reelin' in the Years - Catching Up With Steely Dan
-date: 2025-04-01T04:05:00.000Z
+date: 2025-04-01T04:11:00.000Z
 summary: " The timing felt right. I clicked on Aja and was transported to that
   basement party and the sweet awkwardness of Jacques. I listened to the whole
   album, then made my way backward through the band’s discography, hitting on
   all the songs that brought it all back: the football field at school, Pinball
   Palace, Field 6 at Eisenhower Park, the bus to Jones Beach."
 featuredImage: /images/upload/sd.webp
-draft: true
+draft: false
 ---
 ![](/images/upload/sd.webp)
 
