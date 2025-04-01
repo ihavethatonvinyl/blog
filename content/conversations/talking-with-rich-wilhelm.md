@@ -1,8 +1,8 @@
 ---
 title: Talking With Rich Wilhelm
-date: 2025-03-30T15:36:00.000Z
-draft: true
-summary: "\" I'm a writer and editor, and I live in Royersford, Pennsylvania,
+date: 2025-04-01T03:58:00.000Z
+draft: false
+summary: "\"I'm a writer and editor, and I live in Royersford, Pennsylvania,
   outside of Philadelphia, with my wife and I've been collecting records for
   about 50 years. I'd say actively, I do not remember a time in my life when I
   did not have records. I had 45s and a little tiny collection of albums when I
