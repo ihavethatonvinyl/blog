@@ -35,4 +35,6 @@ This music wasn’t meant for 14-year-old kids, the age I was when all of it was
 
 That night with Jacques was special in an unintended way. Maybe I didn’t get to kiss my Canadian crush, but that Steely Dan record locked itself into my memory bank, breaking free just when I needed something to soothe my soul. Thank you, Steely Dan, for making music that fulfills me, even if it took me so long to let that happen.
 
-\[insert playlist here called easy like a sunday morning]
+> *I Have That on Vinyl is a reader supported publication. If you enjoy what’s here please consider donating to the site’s writer fund:[ venmo](https://account.venmo.com/u/Michele-Catalano2659) //[ paypal](https://www.paypal.com/paypalme/goingitaloneny?country.x=US&locale.x=en_US). Tips go toward paying writers, an editor and for site maintenance*
+
+<iframe allow="autoplay *; encrypted-media *;" frameborder="0" height="450" style="width:100%;max-width:660px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/us/playlist/easy-like-a-sunday-morning/pl.u-d2b0k40uBBoJLV"></iframe>
