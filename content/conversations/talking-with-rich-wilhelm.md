@@ -1,6 +1,6 @@
 ---
 title: Talking With Rich Wilhelm
-date: 2025-04-01T03:09:00.000Z
+date: 2025-04-01T04:19:00.000Z
 draft: false
 summary: "\"I'm a writer and editor, and I live in Royersford, Pennsylvania,
   outside of Philadelphia, with my wife and I've been collecting records for
