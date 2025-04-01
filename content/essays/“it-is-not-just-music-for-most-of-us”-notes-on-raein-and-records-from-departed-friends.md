@@ -1,7 +1,7 @@
 ---
 title: "“It is not just music for most of us”: Notes on Raein and Records From
   Departed Friends"
-date: 2025-04-01T04:04:00.000Z
+date: 2025-04-01T04:10:00.000Z
 summary: '"Elsewhere in the world, the raw anarchist spirit of the underground
   still thrives. Turn your ear toward Europe and you can hear young screamo
   bands collaborating on split 7” singles, hammering out philosophical
