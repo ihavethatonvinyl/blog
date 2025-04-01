@@ -1,6 +1,6 @@
 ---
 title: Reelin' in the Years - Catching Up With Steely Dan
-date: 2025-03-31T22:13:00.000Z
+date: 2025-04-01T04:05:00.000Z
 summary: " The timing felt right. I clicked on Aja and was transported to that
   basement party and the sweet awkwardness of Jacques. I listened to the whole
   album, then made my way backward through the band’s discography, hitting on
