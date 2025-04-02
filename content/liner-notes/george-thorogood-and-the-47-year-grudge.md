@@ -1,13 +1,13 @@
 ---
 title: George Thorogood and the 47 Year Grudge
-date: 2025-04-01T22:53:00.000Z
+date: 2025-04-02T04:08:00.000Z
 summary: '"I have a list of grudges. Some of them are new (Juan Soto) and some
   go back to 1980 (Teri from high school). But my oldest grudge, going back 47
   years, is against musician George Thorogood. When I tell people this, I get a
   lot of questions. What could mild-mannered George Thorogood have done to you?
   Mild-mannered? The man was bad to the bone! He said it himself!"'
 featuredImage: /images/upload/gt.jpg
-draft: true
+draft: false
 ---
 ![](/images/upload/gt.jpg)
 
