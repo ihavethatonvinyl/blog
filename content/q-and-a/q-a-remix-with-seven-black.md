@@ -1,8 +1,8 @@
 ---
 title: Q&A REmix with Seven Black
-date: 2025-04-02T03:20:00.000Z
+date: 2025-04-02T04:07:00.000Z
 featuredImage: /images/upload/img_4203.jpeg
-draft: true
+draft: false
 ---
 ![](/images/upload/img_4203.jpeg)
 
