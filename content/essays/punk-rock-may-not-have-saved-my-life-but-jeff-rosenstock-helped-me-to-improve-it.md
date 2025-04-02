@@ -1,7 +1,7 @@
 ---
 title: Punk Rock May Not Have Saved My Life, But Jeff Rosenstock Helped Me To
   Improve It
-date: 2025-04-01T19:58:00.000Z
+date: 2025-04-02T04:06:00.000Z
 summary: '"And the first song on there, the very first line is “will you still
   love me after I’ve fucked up?” It had been a long two years since I lost my
   friend and almost lost my partner. I’d done a lot of 12 hour drives for work,
@@ -11,7 +11,7 @@ summary: '"And the first song on there, the very first line is “will you still
   while Jeff tells me that “growing and changing doesn’t change the stuff"'
 featuredImage: /images/upload/img_2208-2-.jpeg
 author: Kory Adams
-draft: true
+draft: false
 ---
 ![](/images/upload/img_2208-2-.jpeg)
 
