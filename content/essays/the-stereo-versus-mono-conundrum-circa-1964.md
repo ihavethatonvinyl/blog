@@ -1,6 +1,6 @@
 ---
 title: The Stereo-Versus-Mono Conundrum Circa 1964
-date: 2025-04-02T19:43:00.000Z
+date: 2025-04-03T03:08:00.000Z
 summary: ' "The record bin at Thrifty Drug Store in La Mirada, California, where
   I stood, was admittedly full of my parents’ soul-crushing music: the Ray
   Conniff Singers, Vic Damone, the Mills Brothers. But on this bright sunny day
@@ -8,11 +8,9 @@ summary: ' "The record bin at Thrifty Drug Store in La Mirada, California, where
   delivery truck: Meet the Beatles!, the group’s first album from Capitol."'
 featuredImage: /images/upload/in-the-sixties-stereo-systems-were-still-in-their-infancy-so-played-up-their-uniqueness-with-blazing-emblems-that-shouted-_stereo-_.-photo-by-fihu_flickr.jpg
 author: Mark Orwoll
-draft: true
+draft: false
 ---
 ![](/images/upload/in-the-sixties-stereo-systems-were-still-in-their-infancy-so-played-up-their-uniqueness-with-blazing-emblems-that-shouted-_stereo-_.-photo-by-fihu_flickr.jpg)
-
-
 
 By Mark Orwoll
 
@@ -43,9 +41,6 @@ Dan Trigoboff is a legal scholar and retired professor from Virginia who grew up
 “\[My] first album was Simon & Garfunkel’s *Sounds of Silence*,” he recalled. “Second was Four Seasons’ (Valli, not Vivaldi) *Gold Vault of Hits*. Probably mono, since we played them on these small, incredibly cheap record players. In high school, I bought a 7-inch reel-to-reel tape recorder and stopped buying records for a while.”
 
 ![](/images/upload/1960-advertisement-for-mullard-stereo-44-stereophonic-amplifier-kit.-courtesy-of-archive.orgjpg.jpg)
-
-
-
 
 Steve West, who has played bass guitar with bands across Southern California, grew up in my hometown of La Mirada. Rather than Thrifty Drug Store, he went to the Big A department store, whose record section dwarfed any other in town. Although he had previously purchased the soundtrack to the movie *Tom Thumb,* then *Supercar* from the TV show, he told me via email that the first meaningful record he bought was by the lads from Liverpool. 
 
@@ -91,8 +86,6 @@ The arguments in favor of mono recordings are compelling. They can be punchier, 
 
 But back in the day, there was never any question why you should choose mono. Let’s face it: A dollar saved was one dollar closer to your next mono LP.
 
-
-
 *Mark Orwoll is a veteran journalist and longtime record collector. He is the author of a new travel memoir,* [Just One Little Hitch](https://www.amazon.com/Just-One-Little-Hitch-Life-Changing-ebook/dp/B0DJYR4YJ8)*, about hitchhiking through Europe and Morocco in the 1970s.*
 
-*I Have That on Vinyl is a reader supported publication. If you enjoy what’s here please consider donating to the site’s writer fund:[ venmo](https://account.venmo.com/u/Michele-Catalano2659) //[ paypal](https://www.paypal.com/paypalme/goingitaloneny?country.x=US&locale.x=en_US)*. *Tips go toward paying writers, an editor and for site maintenance*
+> *I Have That on Vinyl is a reader supported publication. If you enjoy what’s here please consider donating to the site’s writer fund:[ venmo](https://account.venmo.com/u/Michele-Catalano2659) //[ paypal](https://www.paypal.com/paypalme/goingitaloneny?country.x=US&locale.x=en_US)*. *Tips go toward paying writers, an editor and for site maintenance*
