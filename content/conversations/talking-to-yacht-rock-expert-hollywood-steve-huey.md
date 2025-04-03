@@ -1,13 +1,16 @@
 ---
 title: Talking to  Yacht Rock Expert "Hollywood" Steve Huey
-date: 2025-04-02T10:43:00.000Z
-draft: true
+date: 2025-04-03T04:07:00.000Z
+draft: false
 summary: "\"At this point, JD had started calling it yacht rock. Because you
   look at the cover of Loggins and Messina’s Full Sail album, they're on a boat.
   They’re very, very happy to be on a boat. You look at the back cover, they're
   so happy. They're so happy the shirts come off. They’re in the California sun
   on a boat. They're making rock star money. They had boats.\""
+featuredImage: /images/upload/steve-50-party-balloons.jpeg
 ---
+![](/images/upload/steve-50-party-balloons.jpeg)
+
 *Today's interview was conducted by IHTOV correspondent Jason Bombach* 
 
  I’ll be honest with you dear reader. When Michele said she wouldn’t be doing interviews anymore on this site and I stepped in to interview anyone she had already scheduled, I thought I was making a clever play at meeting someone famous. She had already interviewed[ Steve Sladkowski ](https://ihavethatonvinyl.com/conversations/pups-steve-sladkowski/)of PUP, [Mike Huguenor](https://ihavethatonvinyl.com/conversations/featured-conversation-mike-huguenor/) of Jeff Rosenstock and [John Darnielle](https://ihavethatonvinyl.com/conversations/talking-with-john-darnielle/) of The Mountain Goats. Surely if the thought of talking to whoever she had on the calendar had her anxiety so ratcheted up, they must be a bona fide superstar. Maybe I’d be talking to Dave Grohl or a proper Beatle! What I did not expect was a talk with the host of [Beyond Yacht Rock](https://podcasts.apple.com/us/podcast/beyond-yacht-rock/id1074528052), aficionado of the subgenre, “Hollywood” Steve Huey.
@@ -85,8 +88,6 @@ SH: Yea. People were still talking about this stuff and the term had become adop
 SH: We're still trying, and it hasn’t worked out yet, but we're still going. We decided every 10th episode is going to be a yacht rock themed episode where we explore some kind of sub style of yacht rock. First one we did, we called it Nyacht Rock. These are songs everybody thinks are yacht rock, but actually are *nyacht*. That's where we started trying to really nail down what we thought yacht rock was, what it had meant to us when we came up with it. Which maybe we couldn't completely articulate at the time, but, you know, a decade having gone by, we've kind of figured out that's what I think is yacht rock.
 
 ![](/images/upload/nyacht.jpg)
-
- 
 
   What we kind of settled on was, it's this sub-style of soft rock. It's not just that it's smooth. It's not really about the lyrics so much. It's about the *sound*. It's almost always influenced to some degree by black music, jazz, R&B. It's got this crossover feel to it, where these white guys start out doing this kind of updated Blue Eyed Soul with all these session musicians. Then some R&B artists hear it, and some of these guys start working with Earth, Wind & Fire, and the Quincy Jones family of productions, and Ray Parker Jr. who started off as a session musician and became a successful R&B artist in his own right. It just becomes this cross cultural dialog that happens. It starts out at the height of disco, so there's these white guys trying to put disco flourishes on their stuff to make sure it becomes a hit. 
 
@@ -186,6 +187,10 @@ podcast is going strong. [Join our Patreon](https://www.patreon.com/yachtrock) t
 
   Seeing as my free Zoom account meant we were out of time, Steve and I said our goodbyes and I was left to look up the records he had talked about. His obvious passion for yacht rock was infectious. I spent the next half hour falling down YouTube rabbit holes filled with men in unbuttoned shirts and feathered hair singing in high falsetto. There wasn’t a distortion pedal in sight. Just smooth sailing to cool vibes. 
 
-  Did I become a new yacht head and run out to buy a captains hat and dubious amounts of cocaine? No. I’m still too prickly a punk to listen to anything this calm. It’s all still sounds like high-fi hold music to me. But I love that someone like Steve is out there loving it. This world is too full of people trying real hard to not care about anything and it sucks. After all, to be cringe is to be free. So give a shit about something. When I was younger (and an idiot), I would have railed against anything I deemed beneath my exceptional taste. But I’m old enough now to realize, just because I don’t like something, doesn’t make it bad. So why rock the boat? I’m just gonna drop the needle on a 90’s vomit rock record and sail on.
+  Did I become a new yacht head and run out to buy a captain's hat and dubious amounts of cocaine? No. I’m still too prickly a punk to listen to anything this calm. It’s all still sounds like high-fi hold music to me. But I love that someone like Steve is out there loving it. This world is too full of people trying real hard to not care about anything and it sucks. After all, to be cringe is to be free. So give a shit about something. When I was younger (and an idiot), I would have railed against anything I deemed beneath my exceptional taste. But I’m old enough now to realize, just because I don’t like something, doesn’t make it bad. So why rock the boat? I’m just gonna drop the needle on a 90’s vomit rock record and sail on.
 
 *Jason Bombach is an aging left wing punk who makes music under the name History History, writes, and shoots film. But mostly he scrubs toilets for money and is an organizer for the IWW. Check out his YouTube channel Death to The Algorithm or don't. Yell at him on Bluesky at thecurmudgeon.bsky.social*
+
+
+
+> *I Have That on Vinyl is a reader supported publication. If you enjoy what’s here please consider donating to the site’s writer fund:[ venmo](https://account.venmo.com/u/Michele-Catalano2659) //[ paypal](https://www.paypal.com/paypalme/goingitaloneny?country.x=US&locale.x=en_US)*. *Tips go toward paying writers, an editor and for site maintenance. Or you can join the [Patreon](https://www.patreon.com/c/IHaveThatonVinyl)!*
