@@ -1,10 +1,10 @@
 ---
 title: Announcing the IHTOV Patreon
 date: 2025-04-04T16:57:00.000Z
-featuredImage: /images/upload/screenshot-2025-03-31-at-7.02.34 am.png
+featuredImage: /images/upload/tote-1-1-.png
 draft: false
 ---
-![](/images/upload/screenshot-2025-03-31-at-7.02.34 am.png)
+![](/images/upload/tote-1-1-.png)
 
 As of this morning, I Have That on Vinyl now has a [Patreon](https://www.patreon.com/c/ihavethatonvinyl). 
 
