@@ -1,6 +1,6 @@
 ---
 title: The Cozy Domesticity of Carly Simon
-date: 2025-04-04T04:04:00.000Z
+date: 2025-04-04T04:06:00.000Z
 summary: '"“Coming Around Again” is truly as domestic as it gets. A perfectly
   blissful portrait is initially painted of a life that is “So good on paper/So
   romantic” but the tone gradually shifts to “Then you break a window/Burn the
@@ -9,7 +9,7 @@ summary: '"“Coming Around Again” is truly as domestic as it gets. A perfectl
   unbearable."'
 featuredImage: /images/upload/meaghan-with-hotcakes-vinyl.jpg
 author: Meaghan Steeves
-draft: true
+draft: false
 ---
 ![](/images/upload/meaghan-with-hotcakes-vinyl.jpg)
 
