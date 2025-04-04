@@ -1,6 +1,6 @@
 ---
 title: The Cozy Domesticity of Carly Simon
-date: 2025-04-04T04:06:00.000Z
+date: 2025-04-04T04:08:00.000Z
 summary: '"“Coming Around Again” is truly as domestic as it gets. A perfectly
   blissful portrait is initially painted of a life that is “So good on paper/So
   romantic” but the tone gradually shifts to “Then you break a window/Burn the
