@@ -1,6 +1,6 @@
 ---
 title: Announcing the IHTOV Patreon
-date: 2025-04-02T04:17:00.000Z
+date: 2025-04-04T04:04:00.000Z
 featuredImage: /images/upload/screenshot-2025-03-31-at-7.02.34 am.png
 draft: false
 ---
