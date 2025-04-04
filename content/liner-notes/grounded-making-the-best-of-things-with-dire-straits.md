@@ -1,6 +1,6 @@
 ---
 title: "Grounded: Making the Best of Things With Dire Straits"
-date: 2025-04-04T04:06:00.000Z
+date: 2025-04-04T04:08:00.000Z
 summary: I decide that I’m going to let Dire Straits soundtrack this snowy
   night, imprisoned in my room. “Sultans of Swing” becomes the winter song for
   me; for the rest of my life it would speak to me of snowdrifts and watching
