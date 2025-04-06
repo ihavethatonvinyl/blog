@@ -11,9 +11,7 @@ summary: I went a few years without listening to Brand New at all. There was a
 featuredImage: /images/upload/deja.jpg
 draft: false
 ---
-![](/images/upload/bn.jpg)
 
-[*Liner Notes is a regular column in which I  (michele) randomly - i use an actual randomizer - choose albums from my collection to write about*]
 
 The year is 2003. I am stuck in a brutal marriage - my second - and I am trying to extricate myself from the relationship but I don’t know how to do that. It wasn’t as easy with my first marriage where I just told him I wanted out and he complied (bitterly). There’s some mental/emotional abuse in this second marriage and I’m afraid to anger him. It’s a terrible time for me. I’m drinking, I have bouts with sleep paralysis, there are frequent panic attacks, sometime a dozen in a day. I have effectively separated myself from my heart and soul. There is nothing left in me. 
 
