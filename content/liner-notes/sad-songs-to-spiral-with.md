@@ -1,5 +1,5 @@
 ---
-title: Sad Songs to Spiral With
+title: Sad Songs to Spiral To
 date: 2025-04-06T17:41:00.000Z
 summary: I go through my album collection and pick out the saddest songs, the
   ones with despondent lyrics and morose melodies. I look for breakup songs but
@@ -13,8 +13,7 @@ draft: true
 ![](/images/upload/bheart.jpg)
 
 *Tired and wired, we ruin too easy
-Sleep in our clothes and wait for winter to leave*
-- The National, “Apartment Story”
+Sleep in our clothes and wait for winter to leave*The National, “Apartment Story”
 
 That was, at one time, a song I’d sing quietly to myself in the dead of winter, a reminder that we tackled everything together, even long winter days. It was of great comfort to me, a warm blanket on a cold day. Now it feels wistful, like a failure of sorts, a reminder of things lost.
 
@@ -29,7 +28,8 @@ Nobody said it was easy
 No one ever said it would be this hard*
 
 *Oh, take me back to the start*
-- Coldplay, “The Scientist”
+
+Coldplay, “The Scientist”
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/RB-RcX5DS5A?si=7N_T-8Syh5CWb6ND" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -65,6 +65,10 @@ I am not alone. There are millions of us who break down at the mere mention of c
 **sam: "Floating in the Forth" by Frightened Rabbit**. I have a whole emotional journey associated with the Frightened Rabbit discography, but this one really hits me like a ton of bricks.
 
 **kirby:"$20" by Low from their record *C'mon*** - it's just such a beautiful love song and beautiful love songs make me bawl like a baby. especially Low love songs, and especially after Mimi's passing (RIP Mimi Parker).
+
+**Ryan: “Death of an Heir of Sorrows (Silver Jews)”** With his passing, it feels more and more like (David Berman) wrote a song for us to sing about him.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MejAUT1z7HA?si=QxgMphX084efsRoY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 I take these suggestions and many others and pull out some records. I need to vent, I need to purge some emotions. I need a good cry.
 
