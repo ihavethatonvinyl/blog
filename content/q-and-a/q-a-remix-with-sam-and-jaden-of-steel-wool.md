@@ -1,13 +1,13 @@
 ---
 title: Q&A Remix with Sam and Jaden of Steel Wool
-date: 2025-04-05T16:38:00.000Z
+date: 2025-04-06T04:29:00.000Z
 summary: '"I remember when I saw the cover for Memories in Beach House by
   Seaside Lovers, I was so struck by the artwork that I ordered it without even
   listening or reading much about it. It’s a painting of a woman floating alone
   in an endless ocean, with deep-fried magenta clouds on the horizon. The record
   itself sounds exactly as serene as the cover would suggest."'
 featuredImage: /images/upload/steelwoolhorizontalveronicahenderson.jpg
-draft: true
+draft: false
 ---
 ![](/images/upload/steelwoolhorizontalveronicahenderson.jpg)
 
@@ -73,10 +73,12 @@ SAM: *Adventure* by Television; *Pleasure* by Pure X; *Painful* by Yo La Tengo.�
 
 **What’s the last record you played?**
 
-
-
 JADEN: Supper by smog! It’s a pretty underrated one in the Bill Callahan discography, and features some of his hardest rocking moments to date. “Feather By Feather” and “Our Anniversary” are all-timers in the Drag City indie folk space for sure.
 
 *Splitting the difference between early post-punk and shoegaze revival, Los Angeles 4-piece Steel Wool rose to insignificance in the summer of 2024. The band, consisting of Sean Lissner (guitar/singing), Jaden Amjadi (bass/screaming), Evan Landi (drums), and Sam Schlesinger (guitar), blends ethereal synthesizers and fuzzed-out guitars to deliver soft-yet-abrasive anthems for sitting in traffic on the 101.*
 
 Audio / Video:[ Bandcamp](https://steelwoolmusicband.bandcamp.com/album/steel-wool) /[ YouTube](https://www.youtube.com/watch?v=kTUPC7srtDQ)
+
+> *I Have That on Vinyl is a reader supported publication. If you enjoy what’s here please consider donating to the site’s writer fund:[ venmo](https://account.venmo.com/u/Michele-Catalano2659) //[ paypal](https://www.paypal.com/paypalme/goingitaloneny?country.x=US&locale.x=en_US)*. *Tips go toward paying writers, an editor and for site maintenance, You can also join the [Patreon](https://www.patreon.com/c/IHaveThatonVinyl).*
+
+[](https://www.youtube.com/watch?v=kTUPC7srtDQ)
