@@ -1,6 +1,6 @@
 ---
 title: "Four Days: Searching For This Desert Life"
-date: 2025-04-05T17:00:00.000Z
+date: 2025-04-06T04:29:00.000Z
 summary: '"I’d spent most of my life to that point wondering if any band will
   ever really speak to me. I’ve heard rumors before of music changing people’s
   lives, of finding commiserate truths and profundities in song lyrics, but I
@@ -10,7 +10,7 @@ summary: '"I’d spent most of my life to that point wondering if any band will
   round here, we always stand up straight."'
 featuredImage: /images/upload/screenshot-2025-04-05-at-5.05.02 pm.png
 author: Travis Cook
-draft: true
+draft: false
 ---
 ![](/images/upload/screenshot-2025-04-05-at-5.05.02 pm.png)
 
@@ -74,8 +74,6 @@ In the evening, I burst out of the farm post-dinner, heading to Dayton. On a whi
 
 Until there is. I can scarcely believe my luck – *August and Everything After*, reprint, double vinyl edition. I don’t even own a record player, but I snatch this up and fork over my day’s earnings. At last – my first Counting Crows vinyl. Not a piece of my mother, for that is gone, leaving a gaping hole. Rather, a new piece of myself that begins to fill that space.
 
-	
-
 ![](/images/upload/screenshot-2025-04-05-at-5.05.20 pm.png)
 
 **May 2024**
@@ -87,7 +85,6 @@ Not the whole farm, just a small lot. The land has value, and our cousin needs s
  “Chad’s looking for five acres. We have room in the northwest field,” said my brother.
 
 “That’s fine,” I say. “Let me know if I can help.”
-
 
 “Sure. Oh, dad says you and I can split the money fifty-fifty.” My father has retired and moved south to Florida. We speak once a week, just to check in, shoot the shit, talk about the Reds. He’s content down there in the warm sunshine, and the farm is ours to deal with as we see fit.
 
@@ -118,3 +115,7 @@ I think back to that night on the farm, discovering the true nature of my favori
 I click the button. The record arrives four days later. 
 
 *Travis Cook is a writer, as well as a former/erstwhile musician, actor, director, and general jack of all trades/master of none. He enjoys watching baseball (go Reds), movies, movie trivia at the Music Box Theatre, and spending time with his dog, Mr. Robot. He is a graduate of BGSU and is currently workings towards a Masters in Writing at DePaul University. He and his wife live in Chicago.*
+
+
+
+> *I Have That on Vinyl is a reader supported publication. If you enjoy what’s here please consider donating to the site’s writer fund:[ venmo](https://account.venmo.com/u/Michele-Catalano2659) //[ paypal](https://www.paypal.com/paypalme/goingitaloneny?country.x=US&locale.x=en_US)*. *Tips go toward paying writers, an editor and for site maintenance, You can also join the [Patreon](https://www.patreon.com/c/IHaveThatonVinyl).*
