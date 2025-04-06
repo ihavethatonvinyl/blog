@@ -54,21 +54,23 @@ I need all this. It’s a way of coping, a way of expressing my sorrow, my anger
 
 I am not alone. There are millions of us who break down at the mere mention of certain songs. I asked my followers on Bluesky what one song made them really *weep*. Some examples:
 
-**sarah: “You’ll Be In My Heart” by Phil Collins** “When destiny calls you You must be strong, I may not be with you, but you’ve got to hold on.” It made me cry after my mom died, but it makes me cry even more now that I’m a mom myself and can see it from both sides.
+**Srah: “You’ll Be In My Heart” by Phil Collins** “When destiny calls you You must be strong, I may not be with you, but you’ve got to hold on.” It made me cry after my mom died, but it makes me cry even more now that I’m a mom myself and can see it from both sides.
 
-**dom: Bonnie 'Prince' Billy's "I See A Darkness,"** a song I've always listened to at my loneliest, with lyrics that I've always thought about as a despairing confession from a good friend who's just looking for someone, for something that doesn't eat at that loneliness but could maybe replace it.
+**Dom: Bonnie 'Prince' Billy's "I See A Darkness,"** a song I've always listened to at my loneliest, with lyrics that I've always thought about as a despairing confession from a good friend who's just looking for someone, for something that doesn't eat at that loneliness but could maybe replace it.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4iV4NwSbscg?si=FrlCcF99k8sjxQ3Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-**john: igur Rós, “Glósoli”** Goosebumps just typing it. I’ve wept every time they played it live, always cry watching the video. Incredible.
+**John: igur Rós, “Glósoli”** Goosebumps just typing it. I’ve wept every time they played it live, always cry watching the video. Incredible.
 
-**sam: "Floating in the Forth" by Frightened Rabbit**. I have a whole emotional journey associated with the Frightened Rabbit discography, but this one really hits me like a ton of bricks.
+**Sam: "Floating in the Forth" by Frightened Rabbit**. I have a whole emotional journey associated with the Frightened Rabbit discography, but this one really hits me like a ton of bricks.
 
-**kirby:"$20" by Low from their record *C'mon*** - it's just such a beautiful love song and beautiful love songs make me bawl like a baby. especially Low love songs, and especially after Mimi's passing (RIP Mimi Parker).
+**Kirby:"$20" by Low from their record *C'mon*** - it's just such a beautiful love song and beautiful love songs make me bawl like a baby. especially Low love songs, and especially after Mimi's passing (RIP Mimi Parker).
 
 **Ryan: “Death of an Heir of Sorrows (Silver Jews)”** With his passing, it feels more and more like (David Berman) wrote a song for us to sing about him.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MejAUT1z7HA?si=QxgMphX084efsRoY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+**Erin: Harvest Moon by Neil Young**, and I'm not entirely sure why or when it became the vessel for all of my hopes for the future but then when we played it at my wedding, before I walked down the aisle, I was just weeping. Even thinking about it now, I'm tearing up!
 
 I take these suggestions and many others and pull out some records. I need to vent, I need to purge some emotions. I need a good cry.
 
