@@ -1,9 +1,17 @@
 ---
 title: "This Story's Old: Reckoning with Brand New's \"Deja Entendu\" in 2025"
 date: 2025-01-18T02:20:00.000Z
+summary: I went a few years without listening to Brand New at all. There was a
+  hole in my heart and a very large hole in my playlist. I would have bouts
+  where I felt like I needed to hear a specific Brand New song, I’d cue it up on
+  Spotify, hit play, and feel immense guilt, as if an unseen hand was pointing
+  at me, accusing me, judging me. But it was really me judging myself.  Part of
+  me said it was ok, that I needed to hear them again, but there was a part that
+  just wasn’t ready for that.
+featuredImage: /images/upload/deja.jpg
 draft: false
 ---
-![](/images/upload/img_8235.jpg)
+![](/images/upload/bn.jpg)
 
 [*Liner Notes is a regular column in which I  (michele) randomly - i use an actual randomizer - choose albums from my collection to write about*]
 
