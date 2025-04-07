@@ -8,13 +8,11 @@ summary: '"My father had originally set the sound system up for me in my
   Pachelbel, each reveal its own surprise. As much as I enjoy a prelude,
   Departure’s instrumental hip-hop is what I find myself reaching for when there
   are silences to fill, or when we have company over."'
-featuredImage: /images/upload/departure.jpg
+featuredImage: /images/upload/dep.png
 author: Danielle Shin 
 draft: true
 ---
-![](/images/upload/departure.jpg)
-
-
+![](/images/upload/dep.png)
 
 In late spring of last year, after my partner and I made the move to the bottom of a hill in Berkeley, he surprised me with the record *Departure*, from the Samurai Champloo soundtrack. He made sure to pick up the album for me from a location on the university campus, surrounded by squirrels, so that I wouldn't spot the sleeve or discover it ahead of time in the mail. I had already established something of a routine around the postal service, blasting "Please Mr. Postman" by The Carpenters whenever the white truck rolled around. I was infatuated with the mail carrier because of my new typewriter, which I liked to slot postcards into, covering them in black type and vintage stamps. Every day I kept a lookout for what we called “fun mail”, the return messages from those who wrote back: cards of Japanese sea creature folklore, droll bunny clowns. 
 
