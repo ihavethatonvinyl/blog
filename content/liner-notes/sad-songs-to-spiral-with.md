@@ -1,6 +1,6 @@
 ---
 title: Sad Songs to Spiral To
-date: 2025-04-06T17:41:00.000Z
+date: 2025-04-07T05:08:00.000Z
 summary: I go through my album collection and pick out the saddest songs, the
   ones with despondent lyrics and morose melodies. I look for breakup songs but
   also songs that deal with a vague sadness. The sadness does not have to be
@@ -8,7 +8,7 @@ summary: I go through my album collection and pick out the saddest songs, the
   turntable, rather than streaming them on my computer because the sound fills
   the living room, laying waste to the emptiness that threatens to envelop me.
 featuredImage: /images/upload/bheart.jpg
-draft: true
+draft: false
 ---
 ![](/images/upload/bheart.jpg)
 
@@ -83,3 +83,7 @@ What's a couple more?*
 \- Jawbreaker, “Accident Prone”
 
 Indeed.
+
+
+
+*I Have That on Vinyl is a reader supported publication. If you enjoy what’s here please consider donating to the site’s writer fund:[ venmo](https://account.venmo.com/u/Michele-Catalano2659) //[ paypal](https://www.paypal.com/paypalme/goingitaloneny?country.x=US&locale.x=en_US)*. *Tips go toward paying writers, an editor and for site maintenance, You can also join the [Patreon](https://www.patreon.com/c/IHaveThatonVinyl).*
