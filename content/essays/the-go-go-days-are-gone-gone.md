@@ -1,6 +1,6 @@
 ---
 title: The Go-Go Days Are Gone-Gone
-date: 2025-04-06T17:45:00.000Z
+date: 2025-04-07T05:06:00.000Z
 summary: When The Go-Go’s first album was released, I spent untold hours
   listening to it spin, singing along to every lyric from the bubble-gum pink
   inner sleeve, staring at the back of the speckled cover transfixed, where all
@@ -11,7 +11,7 @@ summary: When The Go-Go’s first album was released, I spent untold hours
   book called Harlot and eats chocolate in her overflowing bubble bath.
 featuredImage: /images/upload/go-go-s.jpeg
 author: Chelsey Drysdale
-draft: true
+draft: false
 ---
 
 
