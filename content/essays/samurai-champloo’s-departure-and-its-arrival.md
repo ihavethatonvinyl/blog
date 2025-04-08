@@ -1,6 +1,6 @@
 ---
 title: Samurai Champloo’s Departure and its Arrival
-date: 2025-04-07T16:54:00.000Z
+date: 2025-04-08T04:07:00.000Z
 summary: '"My father had originally set the sound system up for me in my
   mother’s old apartment, as I sat at the piano and played a few tunes for him,
   that day one of the few times I learned about his taste in classical music,
@@ -10,7 +10,7 @@ summary: '"My father had originally set the sound system up for me in my
   are silences to fill, or when we have company over."'
 featuredImage: /images/upload/dep.png
 author: Danielle Shin 
-draft: true
+draft: false
 ---
 ![](/images/upload/dep.png)
 
@@ -31,3 +31,5 @@ It wasn’t until around midway through my college years that I fell into a coll
 Though, we still put on *Departure* when there's no need to talk, and the soundscapes and the images they conjure up overtake us entirely. I think there will always be those tracks that make one reminisce about childhood. The two of us drink homebrewed co-fermented coffee out of green jadeite cups while waiting for the music to settle, content in our return to the past, and its pleasures.
 
 Danielle Shi lives and writes in Berkeley, CA. Her work has been published at *Michigan Quarterly Review Mixtape* (forthcoming), *Denver Quarterly* (forthcoming), *The Rumpus, La Piccioletta Barca, The Margins, ZYZZYVA Magazine Blog*, and *The Frida Cinema Blog*. She will be spending this spring in residence at the Prelinger Library and Winslow House Project, working on her novel *The Shelter*. In her spare time, she enjoys drinking kombucha-flavored kombucha and taking photographs of everything.[ http://www.danielleshi.com/](http://www.danielleshi.com/)
+
+> [](http://www.danielleshi.com/)*I Have That on Vinyl is a reader supported publication. If you enjoy what’s here please consider donating to the site’s writer fund:[ venmo](https://account.venmo.com/u/Michele-Catalano2659) //[ paypal](https://www.paypal.com/paypalme/goingitaloneny?country.x=US&locale.x=en_US)*. *Tips go toward paying writers, an editor and for site maintenance, You can also join the [Patreon](https://www.patreon.com/c/IHaveThatonVinyl).*
