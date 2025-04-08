@@ -7,7 +7,7 @@ summary: " It’s no coincidence that Some Girls is my favorite Stones album. Al
   time I hear “Far Away Eyes,” thinking of him belting it out, so unabashed, so
   happy."
 featuredImage: /images/upload/dad.webp
-draft: true
+draft: false
 ---
 ![](/images/upload/dad.webp)
 
