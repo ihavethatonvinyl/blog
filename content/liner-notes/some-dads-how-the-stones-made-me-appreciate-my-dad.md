@@ -28,3 +28,7 @@ When these moments hit me, when I’m feeling like I don’t have enough time le
 “Far Away Eyes” was not for us, though. It was for him, for his own pleasure, and he belted it out like he could actually hold a note. We had “our” songs. This was *his* song, the tune I always associate with him—more than “Earth Angel,” more than his favorite, “In the Still of the Night,” more than the made-up songs he regaled us with at bedtime.
 
 I’m not a huge Stones fan. I think they have, at best, one or two good songs on each album, save for *Some Girls*, which is kind of perfect. I have other memories of this album, ones that don’t include my father, but “Far Away Eyes” will forever be the one I associate with his happiness. As time moves on, and we all get on in years and the inevitable marches toward us, we take what memories we have and hang on to them like amulets. I won’t always have my father, but I’ll always have this song, sung, in my head, not in Mick Jagger’s voice but in the off-key voice of my father. I wouldn’t have it any other way.
+
+
+
+*I Have That on Vinyl is a reader supported publication. If you enjoy what’s here please consider donating to the site’s writer fund:[ venmo](https://account.venmo.com/u/Michele-Catalano2659) //[ paypal](https://www.paypal.com/paypalme/goingitaloneny?country.x=US&locale.x=en_US)*. *Tips go toward paying writers, an editor and for site maintenance, You can also join the [Patreon](https://www.patreon.com/c/IHaveThatonVinyl).*
