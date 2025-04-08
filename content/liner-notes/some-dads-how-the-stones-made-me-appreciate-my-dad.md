@@ -1,6 +1,6 @@
 ---
 title: "Some Dads: How the Stones Made Me Appreciate My Dad"
-date: 2025-04-07T21:35:00.000Z
+date: 2025-04-08T04:07:00.000Z
 summary: " It’s no coincidence that Some Girls is my favorite Stones album. All
   of my from my childhood and youth are associated with music in one form or
   another, and I closely associate that album with my dad. My heart warms every
