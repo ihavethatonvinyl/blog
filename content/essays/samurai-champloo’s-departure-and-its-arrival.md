@@ -9,7 +9,7 @@ summary: '"My father had originally set the sound system up for me in my
   Departure’s instrumental hip-hop is what I find myself reaching for when there
   are silences to fill, or when we have company over."'
 featuredImage: /images/upload/dep.png
-author: Danielle Shin 
+author: Danielle Shi
 draft: false
 ---
 ![](/images/upload/dep.png)
