@@ -1,6 +1,6 @@
 ---
 title: "Jackson Browne and Staying Alive "
-date: 2025-04-08T22:26:00.000Z
+date: 2025-04-09T04:37:00.000Z
 summary: I listened to enough Jackson Browne in high school to know what I was
   getting into by opening 1993’s I’m Alive. I was a little hesitant because how
   good could it be if I never heard of it? But it’s not as if I had exactly been
@@ -8,13 +8,9 @@ summary: I listened to enough Jackson Browne in high school to know what I was
   marriage ended—I took a chance and put on I’m Alive and  settled in for the
   long haul. I never get past the first song.
 featuredImage: /images/upload/jb1.jpg
-draft: true
+draft: false
 ---
 ![](/images/upload/jb1.jpg)
-
-
-
-
 
 While I believed in true love when I was younger, I also knew there was a polar opposite of the heady feeling of falling fast in love, and to acknowledge that heartache and breakups existed was to acknowledge my dreams of romance were just flights of fancy. Once I recognized the possibilities of having my heart broken, I began to obsess over what it would be like to love someone so deeply that their leaving would render me helpless. 
 
@@ -101,3 +97,5 @@ I had an epiphany of sorts that day. Oh, it did not cure my heartache, it did no
 Here’s a  slowed down version from *The Road East - Live in Japan* that you all might enjoy:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/50zeHKiazVc?si=vqga6d3flkMfSMjE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+*I Have That on Vinyl is a reader supported publication. If you enjoy what’s here please consider donating to the site’s writer fund:[ venmo](https://account.venmo.com/u/Michele-Catalano2659) //[ paypal](https://www.paypal.com/paypalme/goingitaloneny?country.x=US&locale.x=en_US)*. *Tips go toward paying writers, an editor and for site maintenance, You can also join the [Patreon](https://www.patreon.com/c/IHaveThatonVinyl)*
