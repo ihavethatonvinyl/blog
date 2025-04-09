@@ -1,6 +1,6 @@
 ---
 title: "The Debate of the Century: That Weird French 45 in my Record Collection"
-date: 2025-04-08T21:49:00.000Z
+date: 2025-04-09T04:36:00.000Z
 summary: '"The 45 in question was called “Le Debat Du Siecle” (The Debate of the
   Century), an eleven-minute recording by two French comedians, Thierry Le Luron
   and Pierre Douglas, who were known for doing political comedy and developed an
@@ -8,7 +8,7 @@ summary: '"The 45 in question was called “Le Debat Du Siecle” (The Debate of
   scenario.'
 featuredImage: /images/upload/img_3315.jpeg
 author: Chris Ingalls
-draft: true
+draft: false
 ---
 ![](/images/upload/img_3315.jpeg)
 
@@ -31,3 +31,5 @@ The 45 disappeared for decades until 2015 when I was visiting Gary in Florida, w
 The record occupies a space in my modest 45 collection alongside a mildly varied bunch of singles. Among them are a very scratchy, sleeveless copy of Led Zeppelin’s “Fool in the Rain,” which Gary bought in 1979, probably because the only other song he knew from *In Through the Out Door* was the decidedly un-Zeppelin-like “All My Love”; Kyle Craft’s version of the *Annie* anthem “Tomorrow,” tucked into the sleeve of his killer 2018 album *Full Circle Nightmare*; the collaboration between art-rock quartet JOBS and visual artist Sam King, *Similar Canvas / Different Properties*; a lovely Nico Hedley / Field Guides split single from the sadly now-defunct Whatever’s Clever label; Lana Del Rey’s cover of Father John Misty’s “Buddy’s Rendezvous,” and a handful of others. But the one that spoofs European geopolitics may be the most prized of the bunch. 
 
 *Chris has been writing about music for PopMatters since 2016 and previously wrote for the now-defunct experimental music site Tome to the Weather Machine. He is an occasional guest on the music podcast Losing my Opinion. He lives in Melrose, Massachusetts, with his wife, son, dog, two cats, and lots of records.*
+
+> *I Have That on Vinyl is a reader supported publication. If you enjoy what’s here please consider donating to the site’s writer fund:[ venmo](https://account.venmo.com/u/Michele-Catalano2659) //[ paypal](https://www.paypal.com/paypalme/goingitaloneny?country.x=US&locale.x=en_US)*. *Tips go toward paying writers, an editor and for site maintenance, You can also join the [Patreon](https://www.patreon.com/c/IHaveThatonVinyl)*
