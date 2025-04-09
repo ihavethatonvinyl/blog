@@ -1,6 +1,6 @@
 ---
 title: "Jackson Browne and Staying Alive "
-date: 2025-04-09T04:37:00.000Z
+date: 2025-04-09T04:45:00.000Z
 summary: I listened to enough Jackson Browne in high school to know what I was
   getting into by opening 1993’s I’m Alive. I was a little hesitant because how
   good could it be if I never heard of it? But it’s not as if I had exactly been
@@ -22,9 +22,9 @@ When the time came that my heart was actually broken, I automatically reached ba
 
 I kept playing the same records when I felt down because they were familiar and provided comfort, and because they made me feel like I knew what I was doing to navigate life post-breakup.
 
-I’d thumb through the music I had left after the divorce—he took so much of our shared Record World hoard— and look for something different when the sadness became too much of a rut. Nothing but the same albums ever called to me, but they were beginning to sound stale. One night, I decided to really take care in going through my collection instead of absentmindedly flipping through everything. And then I found it. Still in plastic wrap. A Jackson Browne album I’d never heard of and that my ex either didn’t see or didn’t want. The black and white cover was a picture of Browne submerged in a pool up to his neck. He looks terrified for some reason. 
+I’d thumb through the music I had left after the divorce—he took so much of our shared Record World hoard— and look for something different when the sadness became too much of a rut. Nothing but the same albums ever called to me, but they were beginning to sound stale. One night, I decided to really take care in going through my collection instead of absentmindedly flipping through everything. And then I found it. Still in plastic wrap. A Jackson Browne album I’d never heard of and that my ex either didn’t see or didn’t want. The black and white cover was a picture of Browne submerged in a pool up to his neck. He looks like a man who has seen troubles.
 
-![](/images/upload/jb2.jpg)
+![](/images/upload/jbredo.jpg)
 
 I listened to enough Jackson Browne in high school to know what I was getting into by opening 1993’s *I’m Alive*. I was a little hesitant because how good could it be if I never heard of it? But it’s not as if I had exactly been keeping track of Browne. So that winter night in 1996—six weeks after my marriage ended—I took a chance and put on *I’m Alive* and  settled in for the long haul.
 
@@ -39,6 +39,8 @@ It started out as a jaunty little ditty. But then his voice kicked in. When he s
 *I might have done something to keep you if I'd known*
 
 *How unhappy you had become*
+
+
 
 Oh boy. I felt like I had been kicked in the chest. I pushed on.
 
