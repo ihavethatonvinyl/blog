@@ -1,6 +1,6 @@
 ---
 title: Talking With Chris Walla
-date: 2025-04-09T22:11:00.000Z
+date: 2025-04-10T04:54:00.000Z
 draft: false
 summary: "\"It's like, I don't want to listen to Death Cab For Cutie. Please
   stop recommending it to me. I don't want to listen to the Postal Service.
