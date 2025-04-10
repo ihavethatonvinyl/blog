@@ -1,13 +1,13 @@
 ---
 title: The Intimate Relationship of a Demo Track
-date: 2025-04-09T18:19:00.000Z
+date: 2025-04-10T04:52:00.000Z
 summary: '"Demo releases give an extra sense of intimacy between the artist and
   the listener. Similarly to waking up next to someone, a demo track provides a
   rawness that technical preparedness could not emulate and a new level to the
   relationship established."'
 featuredImage: /images/upload/1702393389254.jpeg
 author: Zeinab Fakih
-draft: true
+draft: false
 ---
 ![](/images/upload/1702393389254.jpeg)
 
