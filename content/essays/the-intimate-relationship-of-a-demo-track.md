@@ -31,6 +31,4 @@ Demo tracks are almost akin to a live performance. Listeners get to experience t
 
 In the same way that every person experiences a studio release differently, they experience demo tracks differently. This is because they all started with different levels of closeness to the artist. A new fan will be provided insight into the artist's mind right away whereas an old fan will unlock a new level of intimacy and creative process. Though separated, there is still a bond to be formed and an understanding to be had that a polished look will never be able to provide. 
 
-![](/images/upload/1702393389254.jpeg)
-
 *Zeinab Fakih is a Lebanese-Canadian author and poet. She has written two poetry collections titled "I Didn't Know How to Say This. So, I Wrote It Down" and "Sweet Tea and Ketamine." Through her writing, Fakih aims to explore themes of identity and the human experience.*
