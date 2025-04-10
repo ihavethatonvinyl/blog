@@ -1,7 +1,7 @@
 ---
 draft: false
 slug: pups-steve-sladkowski
-title: Pup's Steve Sladkowski
+title: Talking With Pup's Steve Sladkowski
 date: 2025-04-10T19:14:00.000Z
 featuredImage: /images/upload/portrait.png
 featuredImageAlt: Pup's Steve Sladkowski
