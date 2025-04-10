@@ -5,12 +5,10 @@ summary: '"Demo releases give an extra sense of intimacy between the artist and
   the listener. Similarly to waking up next to someone, a demo track provides a
   rawness that technical preparedness could not emulate and a new level to the
   relationship established."'
-featuredImage: /images/upload/1702393389254.jpeg
+featuredImage: /images/upload/indie-artist-nemahsis.jpeg
 author: Zeinab Fakih
 draft: false
 ---
-![](/images/upload/1702393389254.jpeg)
-
 Demo albums have been utilized by punk and rock artists for decades, such as Green Day’s "Demolicious," "Dookie (30th Anniversary 4-Track Demos)," and "Jesus of Suburbia," as well as Metallica’s "No Life ‘til Leather." Indie artists release demo tracks constantly to bring their audience behind the scenes of a recording or to build an audience through websites such as SoundCloud. Phoebe Bridgers, for example, is an indie-rock singer-songwriter who released a 3-song charity collection of demo versions of her most anticipated songs in 2020 titled *inner demos*. Bridgers is known for her powerful and emotional tracks, which are often used to underscore the saddest scenes in the most depressing films and television shows. Consequently, listening to unedited versions of her songs is particularly appealing, as it allows listeners to fully experience the emotions she evokes through her music. Many pop artists have even opted to release demo versions of singles to accompany studio releases but what makes a demo so alluring to fans? While they may often feel like a cash grab––an excuse to release a deluxe version of an album for an upped price––there is something appealing about having a listen to the raw track provided.  
 
 Something that people love about indie artists is the authenticity they hold in their music. Without major labels behind them, fans can trust that all their decisions are made by them instead of a label. Which songs they release, the music videos they create, and the persona they take hold much more intention than someone who has people designated to make these decisions for them. That is why we often see demo releases by indie artists.  
@@ -30,5 +28,7 @@ There is a hierarchy that is often displayed between who is entitled to call the
 Demo tracks are almost akin to a live performance. Listeners get to experience their favorite artists’ raw vocals without a producer manipulating the audio or the roadblock of being unable to attend a show. Parasocial behaviors aside, artists have a relationship to maintain with their listeners. Beyond red-carpet events or concerts, there aren’t many ways for artists to interact with their fans on a person-to-person level. Demo tracks allow that rawness to exist beyond monetary interactions.  
 
 In the same way that every person experiences a studio release differently, they experience demo tracks differently. This is because they all started with different levels of closeness to the artist. A new fan will be provided insight into the artist's mind right away whereas an old fan will unlock a new level of intimacy and creative process. Though separated, there is still a bond to be formed and an understanding to be had that a polished look will never be able to provide. 
+
+![](/images/upload/1702393389254.jpeg)
 
 *Zeinab Fakih is a Lebanese-Canadian author and poet. She has written two poetry collections titled "I Didn't Know How to Say This. So, I Wrote It Down" and "Sweet Tea and Ketamine." Through her writing, Fakih aims to explore themes of identity and the human experience.*
