@@ -1,16 +1,21 @@
 ---
-title: Chris Walla
-date: 2024-12-19T20:32:00.000Z
+title: Talking With Chris Walla
+date: 2025-04-09T22:11:00.000Z
 draft: false
+summary: "\"It's like, I don't want to listen to Death Cab For Cutie. Please
+  stop recommending it to me. I don't want to listen to the Postal Service.
+  Please stop recommending it to me. And you know, I love all of that music. I
+  loved working on those records and I love those guys, you know, they're great.
+  But when it was that raw and that new, it was just like, can’t do it.\""
 featuredImage: /images/upload/chriswalla.jpg
 featuredImageAlt: Chris Walla
 featuredImageCap: Chris Walla
 ---
-*"It's like, I don't want to listen to Death Cab For Cutie. Please stop recommending it to me. I don't want to listen to the Postal Service. Please stop recommending it to me. And you know, I love all of that music. I loved working on those records and I love those guys, you know, they're great. But when it was that raw and that new, it was just like, can’t do it."*
+*\*
 
-<!--more-->
+![](/images/upload/walla.jpg)
 
-*I talked to Chris Walla - accomplished producer, guitarist, and record collector - about buying records, listening to music with his young son, and streaming.*
+*Revisiting the conversation I had late last year withChris Walla - accomplished producer, guitarist, and record collector - about buying records, listening to music with his young son, and streaming, for those who may not have seen it earlier.*  
 
 ### So tell me a little about yourself and your collection.
 
@@ -66,6 +71,10 @@ It's like, I don't want to listen to Death Cab For Cutie. Please stop recommendi
 
 Yeah, so that's, that's why I never really bought into the streaming thing. It's kind of petty I mean, I know I'm not literally the only person who's had this experience, but it's the most common reason to not be into streaming, I'm not opposed to streaming. Conceptually, I think that Spotify kind of sucks, but I really do believe that there's a good way to do it, but yeah that's why I'm not a streaming guy.
 
-\--- 
+
 
 *Chris Walla is a musician, record producer, recording engineer, songwriter, and studio owner, perhaps best known as a founding member of [Death Cab for Cutie](https://deathcabforcutie.com/), the band he was in for 17 years. Chris recorded and produced the first seven DCfC albums and mixed the first six. He has also made records with [Tegan and Sara](https://teganandsara.com/), [The Decemberists](https://www.decemberists.com/), [Lo Moon](https://lomoonofficial.com/), [Gord Downie](https://www.gorddownie.com/), [Nada Surf](https://www.nadasurf.com/), [The Thermals](https://www.thethermals.com/), [S](https://www.hardlyart.com/artists/s), [William Fitzsimmons](https://williamfitzsimmons.com/), [Someone Still Loves You Boris Yeltsin](https://sslyby.com/), [Your Heart Breaks](https://yourheartbreaks.bandcamp.com/), [Telekinesis](https://telekinesismusic.com/), [Foxing](https://foxingtheband.com/), [Ratboys](https://www.ratboysband.com/), and many others. In the studio he is happiest capturing the sound of a live band, managing a mess of tape loops, or tying sequencers and drum machines together. He really, really loves coffee.*
+
+
+
+> *I Have That on Vinyl is a reader supported publication. If you enjoy what’s here please consider donating to the site’s writer fund:[ venmo](https://account.venmo.com/u/Michele-Catalano2659) //[ paypal](https://www.paypal.com/paypalme/goingitaloneny?country.x=US&locale.x=en_US)*. *Tips go toward paying writers, an editor and for site maintenance, You can also join the [Patreon](https://www.patreon.com/c/IHaveThatonVinyl).*
