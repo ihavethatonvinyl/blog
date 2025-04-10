@@ -8,10 +8,10 @@ summary: " I had harbored a secret love for Elton since 1973, when “Daniel”
   Yellow Brick Road came out later that year, and I was blown away. I was
   eleven, too young to really get the nuances of the album but old enough to
   know it was brilliant."
-featuredImage: /images/upload/elton.jpg
+featuredImage: /images/upload/ej45.jpg
 draft: true
 ---
-![](/images/upload/elton.jpg)
+![](/images/upload/ej45.jpg)
 
 I was 13 years old in 1975, a rebellious fledgling teenager living off the adrenaline of rock and roll. Led Zeppelin. Kiss. Bowie. Pink Floyd. That’s what we were listening to in the converted garages of suburbia, crammed together in the teenage version of clubhouses, pretending to be cooler than we actually were. It’s hard to be cool at thirteen. You still wear a thin veneer of childhood at that age, a softness that belies the affectation you present as you sit there sipping a stolen Rheingold beer while listening to music whose meaning still escapes you. 
 
