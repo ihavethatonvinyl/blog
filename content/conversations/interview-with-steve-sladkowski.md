@@ -1,11 +1,16 @@
 ---
 draft: false
+summary: " So I'm pretty lucky that a lot of stuff in my collection is either
+  stuff my dad bought new, you know, in the 60s and 70s, or stuff that I
+  found…before that wave of vinyl collecting in the 2010s, when it really
+  started to ramp up again. And yeah, now it's basically one of my favorite
+  things to do to waste time on tour."
+featuredImageCap: Pup's Steve Sladkowski
 slug: pups-steve-sladkowski
 title: Talking With Pup's Steve Sladkowski
-date: 2025-04-10T19:14:00.000Z
+date: 2025-04-10T19:22:00.000Z
 featuredImage: /images/upload/portrait.png
 featuredImageAlt: Pup's Steve Sladkowski
-featuredImageCap: Pup's Steve Sladkowski
 ---
 
 
@@ -207,7 +212,5 @@ interesting way of engaging with the different types of physical media.
 has been collecting vinyl for over 20 years, and has shopped in record stores on
 four continents, but still hasn’t found an original pressing of Joni Mitchell’s
 “Blue.”*
-
-
 
 > *I Have That on Vinyl is a reader supported publication. If you enjoy what’s here please consider donating to the site’s writer fund:[ venmo](https://account.venmo.com/u/Michele-Catalano2659) //[ paypal](https://www.paypal.com/paypalme/goingitaloneny?country.x=US&locale.x=en_US)*. *Tips go toward paying writers, an editor and for site maintenance, You can also join the [Patreon](https://www.patreon.com/c/IHaveThatonVinyl).*
