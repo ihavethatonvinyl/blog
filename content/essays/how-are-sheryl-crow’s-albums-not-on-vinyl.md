@@ -1,6 +1,6 @@
 ---
 title: How Are Sheryl Crow’s Albums Not On Vinyl?
-date: 2025-04-10T17:55:00.000Z
+date: 2025-04-11T04:13:00.000Z
 summary: "It’s a question that should boggle the mind of any music fan: how are
   Sheryl Crow’s pivotal albums of the 1990s and early 2000s not yet available on
   vinyl? In an era when the format has been resurrected as a celebration of
@@ -8,7 +8,7 @@ summary: "It’s a question that should boggle the mind of any music fan: how ar
   best of their time — stands out as baffling and unjust."
 featuredImage: /images/upload/image0-4-.jpeg
 author: "Adam Blum "
-draft: true
+draft: false
 ---
 ![](/images/upload/image0-4-.jpeg)
 
