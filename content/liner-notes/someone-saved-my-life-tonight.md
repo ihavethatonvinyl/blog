@@ -1,6 +1,6 @@
 ---
 title: Someone Saved My Life Tonight
-date: 2025-04-10T12:06:00.000Z
+date: 2025-04-11T04:12:00.000Z
 summary: " I had harbored a secret love for Elton since 1973, when “Daniel”
   entered my heart and “Crocodile Rock” got stuck in my brain. I bought Don’t
   Shoot Me, I’m Only the Piano Player with my allowance, thinking it was the
@@ -9,9 +9,11 @@ summary: " I had harbored a secret love for Elton since 1973, when “Daniel”
   eleven, too young to really get the nuances of the album but old enough to
   know it was brilliant."
 featuredImage: /images/upload/ej45.jpg
-draft: true
+draft: false
 ---
 ![](/images/upload/ej45.jpg)
+
+*\[content warning: this essay talks about suicidal thoughts]*
 
 I was 13 years old in 1975, a rebellious fledgling teenager living off the adrenaline of rock and roll. Led Zeppelin. Kiss. Bowie. Pink Floyd. That’s what we were listening to in the converted garages of suburbia, crammed together in the teenage version of clubhouses, pretending to be cooler than we actually were. It’s hard to be cool at thirteen. You still wear a thin veneer of childhood at that age, a softness that belies the affectation you present as you sit there sipping a stolen Rheingold beer while listening to music whose meaning still escapes you. 
 
@@ -23,7 +25,7 @@ I never told anyone about my Elton John obsession; how I would collect magazine 
 
 And then came *Captain Fantastic and the Brown Dirt Cowboy*. My mother took me to the store to buy it the day it came out. I spent the ride home from the store gawking at the album cover, studying it. When I got home I intended to listen, as I always listened to new albums, from start to finish. But I got stuck on the last song on the first side: “Someone Saved My Life Tonight.”
 
-There are few songs that catch you like that on the first listen. Songs that sound immediately familiar; songs that feel like they were meant to live inside you. I had no idea what the song was really about, and that didn’t matter. I knew what it felt like to me. I had no idea of the emotions that had been bottled up inside me; but the cork had been pulled out, and everything came rushing at me. 
+There are few songs that catch you like that on the first listen. Songs that sound immediately familiar; songs that feel like they were meant to live inside you. I had no idea what this song was really about, and that didn’t matter. I knew what it felt like to me. I had no idea of the emotions that had been bottled up inside me; but the cork had been pulled out, and everything came rushing at me. 
 
 What does a 13-year-old know to do with such a rush of feelings? Nothing but cry. So I sat there listening to “Someone Saved My Life Tonight” over and over again, letting the rush of sadness, loneliness, and darkness work itself out of me. I had no idea why Elton John’s life needed to be saved, or what events led him to the point of writing that song, or what it meant to him, I only knew how the music, the pain within, transferred to my own psyche and forced out things that I’d been feeling but could never articulate.
 
@@ -35,8 +37,12 @@ I listened to “Someone Saved My Life Tonight” for most of that evening, writ
 
 I thought about how many other people in the world have felt like ending it all, and how many actually did it. It was a sobering thought, and I pushed myself into thinking that it could get better, it *would* get better. After all, Elton John walked away from that river and freed himself from his unhappiness. If he could do it, so could I.
 
-The next day I bought an Elton John T-shirt, one with the cover of *Captain Fantastic* ironed on. Coming out to those garage friends as an Elton John fan was my way of freeing myself from a part of my darkness. *Here I am*, I was saying. This is me. Take it or leave it. Whether I was really saying that to myself or to them, I still don’t know. I just know that 40 listens of “Someone Saved My Life Tonight” pushed me into a new phase of my life. 
+The next day I bought an Elton John T-shirt, one with a *Captain Fantastic* iron-on. Coming out to those garage friends as an Elton John fan was my way of freeing myself from a part of my darkness. *Here I am*, I was saying. This is me. Take it or leave it. Whether I was really saying that to myself or to them, I still don’t know. I just know that 40 listens of “Someone Saved My Life Tonight” pushed me into a new phase of my life. 
 
 Suddenly, all my friends seemed like little kids, just a bunch of punks sitting in an overgrown clubhouse, arguing over KISS lyrics. I wanted to shout at them, “I thought about killing myself last night.” But I didn’t because they wouldn’t understand. I wanted to sit them down and make them listen to the song a dozen times, until they got something out of it. But I didn’t because they wouldn’t understand. I wanted to tell them about me, about my feelings, about my inadequacy. But I didn’t because they wouldn’t understand.
 
 So I went home and listened to *Captain Fantastic and the Brown Dirt Cowboy* again, because Elton John understood.
+
+
+
+*I Have That on Vinyl is a reader supported publication. If you enjoy what’s here please consider donating to the site’s writer fund:[ venmo](https://account.venmo.com/u/Michele-Catalano2659) //[ paypal](https://www.paypal.com/paypalme/goingitaloneny?country.x=US&locale.x=en_US)*. *Tips go toward paying writers, an editor and for site maintenance, You can also join the [Patreon](https://www.patreon.com/c/IHaveThatonVinyl).*
