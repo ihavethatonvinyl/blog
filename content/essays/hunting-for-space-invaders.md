@@ -1,6 +1,6 @@
 ---
 title: Hunting For Space Invaders
-date: 2025-04-12T07:33:00.000Z
+date: 2025-04-13T04:00:00.000Z
 summary: " One of the tracks on the CD was a song called “Spacing Out” by a band
   called The Invaders. Upon my first listen, I was instantly hooked. There were
   elements of spaced-out psych-rock, latin jazz, funk, and other worldly sounds
@@ -13,7 +13,7 @@ summary: " One of the tracks on the CD was a song called “Spacing Out” by a 
   curiosity."
 featuredImage: /images/upload/afterlightimage.jpeg
 author: Marc Rosenberg
-draft: true
+draft: false
 ---
 ![](/images/upload/afterlightimage.jpeg)
 
