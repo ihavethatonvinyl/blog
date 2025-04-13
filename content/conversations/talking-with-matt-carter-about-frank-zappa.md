@@ -1,6 +1,6 @@
 ---
 title: Talking With Matt Carter About Frank Zappa
-date: 2025-04-13T03:58:00.000Z
+date: 2025-04-13T05:38:00.000Z
 draft: false
 summary: Today we are talking to Matt Carter of Rhode Island about his Zappa
   fandom. I referred to him as “my resident Zappa expert” on social media, and
