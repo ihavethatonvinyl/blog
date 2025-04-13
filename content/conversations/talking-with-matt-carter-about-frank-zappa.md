@@ -1,7 +1,7 @@
 ---
 title: Talking With Matt Carter About Frank Zappa
-date: 2025-04-12T14:56:00.000Z
-draft: true
+date: 2025-04-13T03:58:00.000Z
+draft: false
 summary: Today we are talking to Matt Carter of Rhode Island about his Zappa
   fandom. I referred to him as “my resident Zappa expert” on social media, and
   we decided to let people ask him questions about Zappa.
@@ -11,7 +11,7 @@ featuredImage: /images/upload/img_0926.jpeg
 
 *Today we are talking to Matt Carter of Rhode Island about his Zappa fandom. I referred to him as “my resident Zappa expert” on social media, and we decided to let people ask him questions about Zappa.*
 
-**"Okay, so talking to my brother in law, Matt Carter, who I consider a Zappa expert.** 
+**We are talking to my brother in law, Matt Carter, who I consider a Zappa expert.** 
 
 I wouldn’t go that far.
 
@@ -106,7 +106,5 @@ It would be the one that he released from Nassau Coliseum, the last US show. Tha
 I’ll give you my take on the whole thing because I think there’s people out there that just don’t like him and I get that because there are bands that I don’t like. But if you don’t like Frank, try a different album because some of his albums don’t even sound like the same band. There’s stuff he’s released that I don’t like. *Broadway the Hard Way* is a fine album, but I almost never listen to it. I like it but I don’t really want to hear it. Another thing, Frank could have written pop hits all day long. He could have written top 40 stuff if he wanted to. He could have written music for other people or played it himself. If you don’t believe me, listen to the end of It “Just Might Be a One-Shot Deal.” I like to point that one out because he throws a wrench into the song and then he starts playing this catchy hook that sounds like a pop song to me. George Duke talks about how Frank would write these beautiful melodies and it would aggravate him because he would “throw a wrench into it” and he felt that Frank was ruining it. Frank would respond that it “needed to be ruined.” I don’t think he was doing any of this for us, the listeners. He was doing what he wanted. If we like it, then great. If not, great. Once he got out of the Warner Brothers contract, he may have been selling fewer albums, but he was making more money. And he owned all of his material. When Steve Vai went out on his own, he asked Frank for advice. That was the advice Frank gave him. Make sure you own all of your material.
 
 **That’s all the questions we are going to cover for now. There are more, so we may do a Part 2.**
-
-
 
 *Matt Carter is a truck driver from Rhode Island who regrets almost every decision he ever made that resulted in him being a truck driver from Rhode Island. If it wasn't for his older brother he would have been his mother's favorite. He can be found on [bluesky](https://bsky.app/profile/lettersfromthedead.bsky.social).*
