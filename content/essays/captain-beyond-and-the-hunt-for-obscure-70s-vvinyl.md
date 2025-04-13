@@ -1,5 +1,5 @@
 ---
-title: Captain Beyond and the Hunt for Obscure 70's vVinyl
+title: Captain Beyond and the Hunt for Obscure 70s Vinyl
 date: 2025-04-13T19:48:00.000Z
 summary: Though I have no proof of this, I would bet dollars to doughnuts that
   the need to find things is hardwired into our DNA. Seriously, just think about
