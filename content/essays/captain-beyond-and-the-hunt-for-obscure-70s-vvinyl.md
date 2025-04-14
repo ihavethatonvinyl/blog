@@ -1,6 +1,6 @@
 ---
 title: Captain Beyond and the Hunt for Obscure 70s Vinyl
-date: 2025-04-13T19:48:00.000Z
+date: 2025-04-14T05:15:00.000Z
 summary: Though I have no proof of this, I would bet dollars to doughnuts that
   the need to find things is hardwired into our DNA. Seriously, just think about
   the archetypal quests that proliferate from the minds of writers across the
@@ -10,7 +10,7 @@ summary: Though I have no proof of this, I would bet dollars to doughnuts that
   vinyl.
 featuredImage: /images/upload/enzo.jpg
 author: Vincent T. Ciaramella
-draft: true
+draft: false
 ---
 ![](/images/upload/enzo.jpg)
 
