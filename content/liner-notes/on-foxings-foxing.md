@@ -1,6 +1,6 @@
 ---
-title: On Foxing's "Foxing"
-date: 2025-04-12T05:57:00.000Z
+title: Is This All There Is - On Foxing's "Foxing"
+date: 2025-04-14T05:17:00.000Z
 summary: " The screaming of Constant fatigue constant fatigue constant fatigue
   on “Hell 99” plays in my head over and over. I scream along with it when it’s
   playing because holy shit, I am fatigued. The world fatigues me. Life fatigues
@@ -9,7 +9,7 @@ summary: " The screaming of Constant fatigue constant fatigue constant fatigue
   and vulnerable. Here, Foxing is at their most vulnerable but also at their
   most powerful."
 featuredImage: /images/upload/foxingdiscc.jpg
-draft: true
+draft: false
 ---
 ![](/images/upload/foxingdiscc.jpg)
 
