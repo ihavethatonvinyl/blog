@@ -1,6 +1,6 @@
 ---
 title: Sebadoh and My First Vinyl Purchase
-date: 2025-04-14T18:04:00.000Z
+date: 2025-04-15T04:19:00.000Z
 summary: " One specific band that I had fallen in love with was Sebadoh, Lou
   Barlow’s post-Dinosaur Jr (at the time) band. I had a lot of feelings as a
   teen and so did Lou, and Sebadoh’s sound on 1994’s Bakesale was just the right
@@ -8,7 +8,7 @@ summary: " One specific band that I had fallen in love with was Sebadoh, Lou
   in music after the death of Kurt Cobain."
 featuredImage: /images/upload/screenshot-2025-04-14-at-6.02.02 pm.png
 author: Ryan Pak
-draft: true
+draft: false
 ---
 ![](/images/upload/screenshot-2025-04-14-at-6.02.02 pm.png)
 
@@ -37,3 +37,7 @@ When I moved into my first condo, my dad gave me his record player. I still use 
 \*When I mention mail order, people often mistake that with the BMG or Columbia Record House 13 CDs from a penny if you pay a stupid amount of money for 1 CD club that seemed to be advertised in every magazine
 
 *Ryan Pak co-hosts the podcast, Soundtrack Your Life, which releases episodes on the 2nd and 4th Monday of the month. Ryan has over 200 records in his collection. To go along with his podcast, he has focussed on collecting soundtrack vinyl, since a lot of older soundtracks are not available on digital platforms.*
+
+
+
+> *I Have That on Vinyl is a reader supported publication. If you enjoy what’s here please consider donating to the site’s writer fund:[ venmo](https://account.venmo.com/u/Michele-Catalano2659) //[ paypal](https://www.paypal.com/paypalme/goingitaloneny?country.x=US&locale.x=en_US)*. *Tips go toward paying writers, an editor and for site maintenance, You can also join the [Patreon](https://www.patreon.com/c/IHaveThatonVinyl).*
