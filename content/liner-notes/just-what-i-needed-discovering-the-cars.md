@@ -1,6 +1,6 @@
 ---
 title: Just What I Needed - Discovering the Cars
-date: 2025-04-16T04:11:00.000Z
+date: 2025-04-16T04:14:00.000Z
 summary: I became a Cars evangelist. I recorded the song off the radio and made
   everyone listen to it. I didn’t care that almost all of them had heard it. I
   wanted to play “Just What I Needed” all the time.
