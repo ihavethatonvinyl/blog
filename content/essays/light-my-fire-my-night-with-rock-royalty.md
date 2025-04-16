@@ -1,5 +1,5 @@
 ---
-title: Light My FIre - My Night With Rock Royalty
+title: Light My Fire - My Night With Rock Royalty
 date: 2025-04-15T20:05:00.000Z
 summary: When I was twelve, my dad inadvertently introduced me to my first
   musical obsession. His intention was to send me upriver with Captain Willard
