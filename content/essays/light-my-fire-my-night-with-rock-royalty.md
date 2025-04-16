@@ -9,13 +9,11 @@ summary: When I was twelve, my dad inadvertently introduced me to my first
   “The End.” A band whose singer had passed some twenty years before I had even
   heard a single note from them; yet a band that would play a role in arguably
   one of the greatest experiences in my career as a personal chef.
-featuredImage: /images/upload/buffet.png
+featuredImage: /images/upload/phil-1-.jpg
 author: Helio Novell
 draft: false
 ---
-![](/images/upload/buffet.png)
-
-![](/images/upload/buffet.png)
+![](/images/upload/phil-1-.jpg)
 
 When I was twelve, my dad inadvertently introduced me to my first musical obsession. His intention was to send me upriver with Captain Willard on a mission to take out the deranged Colonel Kurtz. Instead, what I found was the haunting psychedelic sounds of the Doors. The film was, of course, Francis Ford Coppola’s masterpiece “Apocalypse Now,” and the song in the intro was “The End.” A band whose singer had passed some twenty years before I had even heard a single note from them; yet a band that would play a role in arguably one of the greatest experiences in my career as a personal chef.
 
