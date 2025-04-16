@@ -1,11 +1,11 @@
 ---
 title: Just What I Needed - Discovering the Cars
-date: 2025-04-15T19:39:00.000Z
+date: 2025-04-16T04:11:00.000Z
 summary: I became a Cars evangelist. I recorded the song off the radio and made
   everyone listen to it. I didn’t care that almost all of them had heard it. I
   wanted to play “Just What I Needed” all the time.
 featuredImage: /images/upload/cars.jpg
-draft: true
+draft: false
 ---
 ![](/images/upload/cars.jpg)
 
@@ -16,7 +16,6 @@ And so it was that, in 1978, I found myself confronted with a DJ who was implori
 And then he played “Just What I Needed” by an unknown band, the Cars. 
 
 At this time in history, we were being inundated with good music. *Darkness on the Edge of Town*. *This Year’s Model*. We had Van Halen and Warren Zevon and Talking Heads. And here comes a new band trying to break into all of that. The minute I heard “Just What I Needed,” I knew what it was; a *disruption*. 
-
 
 There was something so different about this sound. It was polished and well produced, but it was also like nothing I’d ever heard before. This was a sound that might emanate from a dank nightclub, where the girls wore platform heels and the guys watched incredulously as the girls danced with each other. The song itself—the words, the meaning—was a fine little ditty. But it was the tone, the staccato beat, the entirety of the music, that made it feel a little dark and decadent in contrast to what I had been listening to. For someone who was drawn to the Grateful Dead and the Doors on a daily basis, the Cars were a revelation. 
 
@@ -35,3 +34,7 @@ It was glorious, how we all rallied around the Cars, proselytizing to anyone wit
 I still have the same copy I bought that day when I was sixteen. I listen to it at least once a week and always have the same revelation: This is one hell of a debut album. Probably the best. 
 
 RIP Ric Ocasek. RIP Benjamin Orr. Long may you run on my turntable.
+
+
+
+*I Have That on Vinyl is a reader supported publication. If you enjoy what’s here please consider donating to the site’s writer fund:[ venmo](https://account.venmo.com/u/Michele-Catalano2659) //[ paypal](https://www.paypal.com/paypalme/goingitaloneny?country.x=US&locale.x=en_US)*. *Tips go toward paying writers, an editor and for site maintenance, You can also join the [Patreon](https://www.patreon.com/c/IHaveThatonVinyl).*
