@@ -1,6 +1,6 @@
 ---
 title: Light My Fire - My Night With Rock Royalty
-date: 2025-04-15T20:05:00.000Z
+date: 2025-04-16T04:10:00.000Z
 summary: When I was twelve, my dad inadvertently introduced me to my first
   musical obsession. His intention was to send me upriver with Captain Willard
   on a mission to take out the deranged Colonel Kurtz. Instead, what I found was
@@ -9,8 +9,9 @@ summary: When I was twelve, my dad inadvertently introduced me to my first
   “The End.” A band whose singer had passed some twenty years before I had even
   heard a single note from them; yet a band that would play a role in arguably
   one of the greatest experiences in my career as a personal chef.
+featuredImage: /images/upload/buffet.png
 author: Helio Novell
-draft: true
+draft: false
 ---
 ![](/images/upload/buffet.png)
 
@@ -28,8 +29,6 @@ The requirements were pretty straightforward for me: the ability to be creative,
 
 There were so many musical genres to explore: jazz, blues, metal, fusion. Lo and behold, I saw cooking the same way: Italian, French, and Thai, and those can all be fused. Each cuisine had its own key and time signatures to work in. You wouldn’t play a G in an Eb Dorian scale (well, not without a damn good reason), just as you wouldn’t serve Carolina BBQ with some thick Texas BBQ sauce. I could bring happiness with food, just as so many musicians had delivered me the same feeling with their craft. So on a whisper from the cosmos, I went for it and signed up to start culinary school in six weeks, moving out of the house and on my own, regardless of what anybody else thought. 
 
-	
-
 The cosmos didn’t lead me astray! Twenty years after starting culinary school, I am the only one of my class still in my field. And after years working in restaurants and hotels, I was lucky enough to be brought into a world almost unfathomable to me! I had arrived as a personal chef for an “ultra high net worth” individual.  
 
 Regardless of how you feel about the word “billionaire” in 2025,  there is no argument that life for them is simply…different. The connections and name-drops to make your jaw drop on a daily basis, the resources to make your wildest dreams come true, private jets, god-tier-level  collections, you name it. 
@@ -43,8 +42,6 @@ As we spent the day preparing food for the evening's event—smoked beef tenderl
 Five o’clock, showtime! We were down in the rehearsal space, all set up with our food, waiting for guests to arrive, and getting the bottles of spirits and warming dishes ready to go. Oh, I was not at all nervous, anxious, or excited neither was  12-year-old me, who knew every song, lyric, and bit of trivia about the band. 
 
 As the guests started arriving, the staff looked to me, the resident music nerd, to start identifying folks who would be dining and jamming that evening. Oh, that tall goofy guy? C’mon guys, that’s Krist Novoselic. Those two reformed but punkish-looking folks? Oh yeah, that’s John Doe and Exene Cervenka from X. Guys, how do you not recognize Jerry Cantrell?! Oh, hey, there’s the house band for the event. I’m just going to stay here and slice beef tenderloin while you guys tune up.
-
-	
 
 The music eventually started. Jerry took some runs at “Love Her Madly.” Everybody traded bars on “Roadhouse Blues.” Okay, I could get used to this being my job! As my line died down, two older gentlemen approached with smiles on their faces. They would have had to been blind not to notice my smile, from ear to ear, because it was Robby Krieger and John Densmore of the Doors! 
 
@@ -66,6 +63,11 @@ They ran through six or seven Doors songs—“Roadhouse Blues,” “Love Her M
 
 I would have many more fun moments like this in my career, but this one always stands out to me as my arrival at what I had always wanted in life:  that fun balance of rock and roll, taking care of people, and having a creative outlet to do so. Let’s keep this just between us (and  my parents), but I did call my folks and leave my phone on in my pocket, so they could hear the jam sessions. Otherwise, who would believe me?
 
-	
-
 *Helio Novell is a modern renais-sauce man grown locally in the pacific northwest, on a steady diet of grunge and classic rock. He has been a professional chef for over 20 years and a music nerd since he was a 1 year old chasing around his pet dog Bonzo, named after John Bohnam. He can be found weekly co-hosting The Indie 500 podcast, a show where the hosts take an album at random each week from the NME magazine top 500 albums break it down, discuss and maybe sneak in some comedic ad reads now and again. The chef's pairing suggestions for the podcast would also be to check them out on Substack where each week there is a recipe paired with that weeks album.*
+
+[Substack](https://theindie500podcast.substack.com/) \
+Tiktok: Theindie500podcast bluesky: [@helionovell.bsky.social](<>)
+
+]
+
+> *I Have That on Vinyl is a reader supported publication. If you enjoy what’s here please consider donating to the site’s writer fund:[ venmo](https://account.venmo.com/u/Michele-Catalano2659) //[ paypal](https://www.paypal.com/paypalme/goingitaloneny?country.x=US&locale.x=en_US)*. *Tips go toward paying writers, an editor and for site maintenance, You can also join the [Patreon](https://www.patreon.com/c/IHaveThatonVinyl).*
