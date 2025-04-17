@@ -1,0 +1,48 @@
+---
+title: On Karlheinz Stockhausen's Music
+date: 2025-04-17T16:13:00.000Z
+summary: "  I heard a low-quality rip of Gesang der Jünglinge by Karlheinz
+  Stockhausen while deep in a Youtube rabbit hole as a teenager. It blew my
+  mind. His music didn’t sound like anything I had ever heard before, having
+  been raised on a steady listening diet of what we now call “mom rock” and “dad
+  rock.” Music that wasn’t based on guitars was new and exciting to me at the
+  time, but this seemed to exist in a galaxy of its own. "
+featuredImage: /images/upload/image0-5-.jpeg
+author: Charles Rose
+draft: true
+---
+
+
+
+![](/images/upload/image0-5-.jpeg)
+
+
+
+
+I heard a low-quality rip of *Gesang der Jünglinge* by Karlheinz Stockhausen while deep in a Youtube rabbit hole as a teenager. It blew my mind. His music didn’t sound like anything I had ever heard before, having been raised on a steady listening diet of what we now call “mom rock” and “dad rock.” Music that wasn’t based on guitars was new and exciting to me at the time, but this seemed to exist in a galaxy of its own. Maybe it says something about me that I wasn’t immediately repulsed by something so unfamiliar. After doing some research on this Stockhausen guy, I found out that he was one of the most important composers in the history of early electronic music. I had to hear more. 
+
+Despite his weirdo brilliance and historical importance, it’s surprisingly difficult to hear Stockhausen’s music. There aren’t many classical ensembles in the United States willing to take a risk on his music, preferring to program safer seat-fillers like the overplayed classics and donor-friendly contemporary composers. I can also bet your local opera company isn’t planning to perform his seven-day opera cycle *Licht* any time soon. 
+
+The Stockhausen estate is notoriously stingy with his recordings, too. Most of it is not available on streaming services, Youtube rips are of mixed (generally poor) quality, and most libraries aren’t likely to have CDs of his music laying around. Your best bet to hear his music is to order it directly from the Stockhausen-Verlag, where even the most inexpensive CDs are at least twenty-six euro and have to be shipped overseas from Germany. This can make hearing some of the most groundbreaking early electronic music a total chore. So when I finally found a record containing *Gesang* in the wild, I knew how special it was to have a document of his music. 
+
+I first started really collecting vinyl around 2016, after buying a record player that was definitely out of my budget for an undergraduate. While browsing for records to start my collection at Everyday Music in downtown Portland, OR, I found this record containing *Gesang der Jünglinge*, along with his early electronic compositions *Studie I* and *Studie II,* and *Zyklus* for percussion released by Soundohm Records under their Modern Silence series. I was intrigued not just by a neat-looking record of his music, but by this little number 8 written on the back in pen under “your copy number.” This was copy number eight of only 500! (At the time I hadn’t considered that small pressings are actually quite common.)
+
+I didn’t buy it–at the time I must have thought it was just a cool oddity I found instead of something I had to own. But I vowed that I would buy it the next time I dropped in. I came back a week later, and it was still there, so I bought it. Later on I would pick up the two other records from the Modern Silence Stockhausen releases at other record stores: one containing *Kontakte*, the other containing *Beton-Studie*, *Zeitmass,* and *Klavierstuck XI.* 
+
+The packaging is minimal. The jacket is unlaminated and has the texture of cardstock, and there’s no liner notes, photos or gatefold. It feels a bit cheap, and I dinged up the corners after taking the plastic off as gingerly as I could. There’s nothing contained therein to guide you, only what is on side A and side B. 
+
+*Studie I*, *Studie II* and *Gesang Der Jünglinge* comprise side A. All three were composed from the early- to mid-1950s at the WDR electronic music studio in Cologne. The three are similar, but you can hear a clear progression as Stockhausen became more comfortable working with electronic sounds. *Studie I* is the most stark and alien of the three. While supposedly composed of pure sine waves, the inharmonic stacking of overtones, the subtle tape saturation and reverb creates a soundworld that is richer than one would expect. The textures and sounds exist in a space of their own, bearing only the faintest resemblance to recognizable timbres. Some sounds are clearly metallic, for instance. But there are no melodies or conventional harmonies, nothing to clearly latch onto. After nearly nine minutes the piece ends unceremoniously, as if it could have gone on forever. *Studie II,* on the other hand, is more focused on harmonies, envelopes and reverberation. The textural shifts are in general faster, and sounds overlap in unique ways. The reversed sounds and dynamic envelopes along with the metallic textures remind me of the sounds from an underground subway station.
+
+These two *Studie* compositions prepare us for the masterpiece of early electronic music. Originally composed for five channels and mixed down to stereo, *Gesang der Jünglinge* explores the connections between synthesized sounds and the human voice and the movement of sounds through space. *Gesang* opens with bubbling synth gestures that appear out of nowhere and drift away, leaving behind a young boy singing. The boy’s voice could feel so out of place in the midst of these synthesized tones, but the vocal samples are manipulated in such a way that it oddly fits. There are glimpses of sounds getting reversed and stacked to form previously unheard harmonies. The boy’s singing also creates the only moments on the whole record that are properly melodic, with the refrain, “*preiset den herrn,”* or “praise the lord.” The loosely-set text comes from the apocalyptic Book of Daniel, and political implications of using a Jewish apocalyptic text in 1950s Germany should be obvious. 
+
+![](/images/upload/luigi-nono-karlheinz-stockhausen-1957.jpg)
+
+The piece was painstakingly constructed. All the sounds had to be synthesized, recorded to magnetic tape, then cut and pieced together into what we hear. The structure is based around the mathematically precise serial method en vogue among European avant-garde composers at the time. The whole thing does make sense, even if it is an abstract, unfamiliar sense. Nothing really sounds quite like it, even in the world of avant-garde music. The closest are the emotionally moving *Philomel* by Milton Babbitt and the noisy, post-industrial *Williams Mix* by John Cage, both of which are fantastic compositions but neither of which carry the same sense of wonder or mystery for me as *Gesang*. 
+
+*Zyklus* takes up the entirety of Side B. The suite is a massive piece for solo percussion, playing a massive array of drums, bongos, cymbals, guiros, xylophone and whatever else. Percussion instruments became a favorite for avant-garde composers after Edgard Varèse, inspiring many others to explore a whole menagerie of new timbres. *Zyklus* contrasts with the electronic compositions on Side A nicely while introducing the human element of Christoph Caskel’s performance.
+
+The austere German *Elektronische musik* we hear on this record reflects a culture trying to grapple with its destructive past, an art trying to free itself from the modes of thought that started the most deadly war in human history. If Beethoven and Wagner soundtracked the Third Reich, we would be presaging the Fourth Reich if we continued to write music the way they did. Stockhausen was starting from square one, building up a new music from the foundation up, trying to free himself from the shackles of the centuries-old common practice. Because of this, *Gesang der Jünglinge* and his other early electronic masterpieces have this incredible dynamism to them. One is hearing him build something new in real time. Listening to his music rarely feels like a chore, as one gets lost in this unfamiliar sound world. To be sure, there are plenty of early electronic music pioneers who are getting more well-deserved attention: Delia Derbyshyre, Daphne Oram, Halim El-Dabh and Pauline Oliveros to name a few. But I will always hold a special reverence for Stockhausen, for opening my ears to this fascinating era in music history.
+
+
+
+*Charles Rose is a writer and composer based in Portland, OR. You can find his writing at [OregonArtsWatch](https://www.orartswatch.org/).*
