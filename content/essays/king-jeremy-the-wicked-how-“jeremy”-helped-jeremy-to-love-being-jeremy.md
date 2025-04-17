@@ -1,13 +1,16 @@
 ---
 title: "King Jeremy the Wicked: How “Jeremy” Helped Jeremy to Love Being Jeremy"
-date: 2025-04-16T20:19:00.000Z
+date: 2025-04-17T05:33:00.000Z
 summary: "   And then, when I was in middle school, my parents introduced me to
   Pearl Jam’s “Jeremy,” a badass rock song that offered a small sliver of
   feeling witnessed. A badass rock song that followed another young boy named
   Jeremy, a young, insecure boy who made art and was bullied relentlessly"
+featuredImage: /images/upload/jeremy.jpg
 author: Jeremy Mauser
-draft: true
+draft: false
 ---
+![](/images/upload/jeremy.jpg)
+
 *\[cw: suicide]*
 
 I was always jealous of anyone who shared their name with a love song. When I dated a girl named Maria, I’d sometimes fake an operatic voice to swoon her with the West Side Story song. Even my friend Tupelo, whose name was more unique than most, could be serenaded with Van Morrison’s “Tupelo Honey.” Unfortunately, I, Jeremy, struggled to find a love song specific to my name. I was a young, insecure boy who loved to make art and faced evolving forms of bullying from kindergarten through high school, who sought refuge in music every time I thought I’d lose all my friends, or die alone, or never amount to anything remotely close to “cool.”
@@ -39,3 +42,10 @@ There is a small part of me, though, that wishes there could be a second hit “
 What I do know, though, is that Vedder and the band shaped the grunge movement, which means he shaped everything that has been built off of it. I do know that when I listen to “Jeremy,” I’m struck not just by the power behind the lyrics, the passion behind the voice, and the weight of its spotlight, but also by how the song is respectfully, humbly, and effortlessly—for lack of a better term—cool.
 
 And, in turn, it made me feel cool. Cool enough, at least.
+
+*Jeremy Mauser is pursuing an MFA in Creative Writing at the University 
+of Alabama. His prose and poetry can be found, or is forthcoming, in 
+Cloudscent Journal, Prairie Margins, and Catfish Creek, among other 
+publications. He is an Assistant Fiction Editor at the Black Warrior 
+Review, an amateur stand-up comic, and an Oscars trivia expert who can 
+be found on Instagram @jamauser13 and Bluesky @jeremymauser.bsky.social.*
