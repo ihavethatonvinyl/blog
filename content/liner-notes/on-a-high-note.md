@@ -6,10 +6,10 @@ summary: hat said, I have decided to celebrate 4/20, which is happening this
   These are not songs about being high—you can find those lists at the usual
   places this weekend—but songs that go along with being high or are really
   interesting to listen to while stoned. 
-featuredImage: /images/upload/420.jpg
+featuredImage: /images/upload/4202.jpg
 draft: true
 ---
-![](/images/upload/420.jpg)
+![](/images/upload/4202.jpg)
 
 We will address this right up front: I am a stoner. I was a stoner in high school but quit weed all together when I turned twenty. I didn’t touch the stuff until four years ago, when my post-marriage breakup spiraling was happening. My daughter convinced me that smoking weed would help me, and damn it, she was right. It quiets the voices in my head. It soothes me. It makes the rest of this shitty world disappear for a little while. Weed got me through those early months, when I thought my life was over. 
 
