@@ -1,6 +1,6 @@
 ---
 title: On Karlheinz Stockhausen's Music
-date: 2025-04-17T16:13:00.000Z
+date: 2025-04-18T03:22:00.000Z
 summary: "  I heard a low-quality rip of Gesang der Jünglinge by Karlheinz
   Stockhausen while deep in a Youtube rabbit hole as a teenager. It blew my
   mind. His music didn’t sound like anything I had ever heard before, having
@@ -9,15 +9,9 @@ summary: "  I heard a low-quality rip of Gesang der Jünglinge by Karlheinz
   time, but this seemed to exist in a galaxy of its own. "
 featuredImage: /images/upload/image0-5-.jpeg
 author: Charles Rose
-draft: true
+draft: false
 ---
-
-
-
 ![](/images/upload/image0-5-.jpeg)
-
-
-
 
 I heard a low-quality rip of *Gesang der Jünglinge* by Karlheinz Stockhausen while deep in a Youtube rabbit hole as a teenager. It blew my mind. His music didn’t sound like anything I had ever heard before, having been raised on a steady listening diet of what we now call “mom rock” and “dad rock.” Music that wasn’t based on guitars was new and exciting to me at the time, but this seemed to exist in a galaxy of its own. Maybe it says something about me that I wasn’t immediately repulsed by something so unfamiliar. After doing some research on this Stockhausen guy, I found out that he was one of the most important composers in the history of early electronic music. I had to hear more. 
 
@@ -43,6 +37,4 @@ The piece was painstakingly constructed. All the sounds had to be synthesized, r
 
 The austere German *Elektronische musik* we hear on this record reflects a culture trying to grapple with its destructive past, an art trying to free itself from the modes of thought that started the most deadly war in human history. If Beethoven and Wagner soundtracked the Third Reich, we would be presaging the Fourth Reich if we continued to write music the way they did. Stockhausen was starting from square one, building up a new music from the foundation up, trying to free himself from the shackles of the centuries-old common practice. Because of this, *Gesang der Jünglinge* and his other early electronic masterpieces have this incredible dynamism to them. One is hearing him build something new in real time. Listening to his music rarely feels like a chore, as one gets lost in this unfamiliar sound world. To be sure, there are plenty of early electronic music pioneers who are getting more well-deserved attention: Delia Derbyshyre, Daphne Oram, Halim El-Dabh and Pauline Oliveros to name a few. But I will always hold a special reverence for Stockhausen, for opening my ears to this fascinating era in music history.
 
-
-
-*Charles Rose is a writer and composer based in Portland, OR. You can find his writing at [OregonArtsWatch](https://www.orartswatch.org/).*
+*[Charles Rose](https://charlesrosemusic.com/) is a writer and composer based in Portland, OR. You can find his writing at [OregonArtsWatch](https://www.orartswatch.org/).*
