@@ -1,13 +1,13 @@
 ---
 title: On a High Note
-date: 2025-04-17T20:41:00.000Z
+date: 2025-04-18T03:31:00.000Z
 summary: hat said, I have decided to celebrate 4/20, which is happening this
   weekend (on Easter), by telling you about the songs I listen to when I’m high.
   These are not songs about being high—you can find those lists at the usual
   places this weekend—but songs that go along with being high or are really
   interesting to listen to while stoned. 
 featuredImage: /images/upload/4202.jpg
-draft: true
+draft: false
 ---
 ![](/images/upload/4202.jpg)
 
