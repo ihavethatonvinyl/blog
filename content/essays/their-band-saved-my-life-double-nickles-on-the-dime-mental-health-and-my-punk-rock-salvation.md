@@ -2,8 +2,14 @@
 title: "Their Band Saved My Life: Double Nickles on the Dime, Mental Health, and
   My Punk Rock Salvation"
 date: 2024-12-28T15:05:00.000Z
-draft: false
+summary: "   I once let a kid who had been kicked out of his house live with me
+  and my family, and he tried to steal my underwear. Okay, that’s a lot up
+  front, let me backup for just a second. It will be quick, and then I’ll tell
+  you how it all led me to The Minutemen’s Double Nickels on the Dime and how D.
+  Boon, Mike Watt, and George Hurley saved my life. "
+featuredImage: /images/upload/dn.jpg
 author: Ryan J. Novak
+draft: false
 ---
 ![](/images/upload/img_5918-1-.jpeg)
 
