@@ -1,11 +1,11 @@
 ---
 title: "The Ghost of the Appleseed Cast's Sagarmatha "
 date: 2025-01-25T04:51:00.000Z
-featuredImage: /images/upload/image0-4-.jpeg
+featuredImage: ""
 author: Seth Chandler
 draft: false
 ---
-![](/images/upload/image0-4-.jpeg)
+![]()
 
 The Appleseed Cast reinvent themselves with each album, and I’m always interested to see where they’re going. I originally bought *Sagarmatha* on CD when it first came out, but during the pandemic I found a copy of the repress by Graveface Records at my favorite record store, [The Love Garden](https://www.lovegardensounds.com/) in Lawrence, Kansas. I wasn’t expecting *Sagarmatha* to be the soundtrack to the haunted house I was raised in, but life is strange. The album is ambitious. It’s intoxicating, almost otherworldly. It’s been stuck in my brain since I first heard it many years ago.
 
