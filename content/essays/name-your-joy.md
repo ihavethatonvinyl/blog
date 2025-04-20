@@ -1,13 +1,13 @@
 ---
 title: Name Your Joy
-date: 2025-04-19T15:09:00.000Z
+date: 2025-04-20T04:11:00.000Z
 summary: There are a few times in my life when I've gone from zero to groupie in
   a matter of minutes. Those moments when I’ve heard a song or seen a live
   performance and forged an instant connection to a band that ended up going
   beyond mere appreciation of the music. 
 featuredImage: /images/upload/img_1265.jpg
 author: Jim Parisi
-draft: true
+draft: false
 ---
 ![](/images/upload/img_1265.jpg)
 
