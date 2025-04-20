@@ -78,3 +78,10 @@ The evening wrapped up with a trip to the merch table, where we waited in line s
 Something changed on that street in Dublin on that fateful day in April. What started as an amusing story to tell to anyone who would listen soon became a gateway to a bond that continues to this day. A bond that has reawakened my love for finding out about new music, which has led me to discover many new bands that I never would have known about before that most awkward of selfies. 
 
 Over the past year, I have learned to look past that awkwardness to see the joy in the photo, the same joy I feel whenever I listen to Pillow Queens.
+
+
+*Jim Parisi lives in Washington, D.C., with his long-suffering wife, Beth, and Dolce, a spicy mix of boxer, pit bull, and Australian cattle dog. (Their two kids, Aidan and Nora, have flown the coop.) After a long career as an editor of  research products for the academic  market, he is setting out on his own as a freelance editor.  He is a writer of various fictions and the occasional essay. Much of his free time is spent coaching Little League softball. He also plays a mediocre bass and has been known to make sounds that some species might recognize as music on the guitar. He grew up in New Jersey but urges readers not to hold that against him*
+
+
+*Previously by Jim Parisi: [You’re My Favorite Thing ](https://ihavethatonvinyl.com/essays/youre-my-favorite-thing/)*
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xHW-AIak3MQ?si=tgJ3_XDLXAeAlNTX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
