@@ -1,6 +1,6 @@
 ---
 title: Confessions of a Former Led Zeppelin Vinyl Bootleg Addict
-date: 2025-04-20T19:46:00.000Z
+date: 2025-04-21T05:25:00.000Z
 summary: ' Led Zeppelin was the first band that I really connected with. Thanks
   to "Hard Rock" FM radio of the late 1970s, I was provided with a steady dose
   of Led Zeppelin and all the other staples of the era. This was also the time
@@ -11,10 +11,8 @@ summary: ' Led Zeppelin was the first band that I really connected with. Thanks
   even if they were a little rough around the edges. '
 featuredImage: /images/upload/zepp2.webp
 author: " Paul Prescott"
-draft: true
+draft: false
 ---
-
-
 ![](/images/upload/zepp2.webp)
 
 Led Zeppelin was the first band that I really connected with. Thanks to "Hard Rock" FM radio of the late 1970s, I was provided with a steady dose of Led Zeppelin and all the other staples of the era. This was also the time that I started performing odd jobs so that I could afford to finally buy their albums. Once I had their full discography, the album I listened to most was the live album *The Song Remains the Same*. As much as I enjoyed their studio albums, to me, the live versions contained much more energy and excitement, even if they were a little rough around the edges. 
@@ -34,8 +32,6 @@ That was enough for me. It was then that I noticed the price. Single albums went
 I looked through all the options, comparing the packaging and track listings. I knew that *The Song Remains the Same* came from their 1973 tour, so I stayed away from shows from that year. I opted for a double album titled *Live in Osaka 9/29 '71*. Here is the cover as I remember it:
 
 ![](/images/upload/zeppp.jpg)
-
-
 
 In hindsight, I couldn't have picked a better album. As I came to learn, there are some really bad quality bootlegs out there. This one is one of the better ones. I have since learned that there are multiple legends regarding this recording. One is that this came from some of the tracks from the professional multitrack recording that was made of this show. Plant's vocals are somewhat buried in the mix so the theory is that this version does not include the vocal channel, and that all that is heard is bleed-through. Another theory is that the concert promoter put his recording device on the stage near the drum riser, which would explain why it also picks up the onstage banter from the drummer John "Bonzo" Bohnam. 
 
@@ -72,3 +68,9 @@ As I move through my fifties, live Zeppelin is once again in regular rotation. I
 Are the 20-minute solos excessive? Of course, But like John Coltrane, if done right, they can be a thing of beauty. Even the Rollins Band occasionally went off on 20-minute jams. With the right band, it can work, and Zeppelin were talented enough that they could pull it off.
 
 By the time I had become a fan, Zeppelin had already played their last show in the USA, so I never had the opportunity to see them live. I did see Jimmy Page as part of the Firm, and last year, saw two performances by John Paul Jones. One solo, and one with Thurston Moore. For the second show, I was right up front. As Thurston Moore took a screwdriver to his guitar, Jonesy bashed out chords on a keyboard. As I stood a mere few feet away from this spectacle of talent and noise, I couldn't help but reflect on that first Zeppelin bootleg album, that started me out all those years ago.
+
+*Paul Prescott is a retired engineer from Maine. He is co-editor of an 
+oral history book about Canadian punk rock band NoMeansNo: From 
+Obscurity to Oblivion. He has also appeared in the Journal of Glaciology
+ and publications from the Metal Powder Industries Foundation. He 
+currently lives in Belize.*
