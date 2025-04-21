@@ -1,6 +1,6 @@
 ---
 title: "In the Year 2525 "
-date: 2025-04-21T02:52:00.000Z
+date: 2025-04-21T05:26:00.000Z
 summary: "In the corner of the room was a little turntable, something they must
   have put in the room as an afterthought because there was only one record: a
   single by Zager & Evans, called “In the Year 2525 (Exordium & Terminus).” I’d
@@ -8,7 +8,7 @@ summary: "In the corner of the room was a little turntable, something they must
   speed musically (I was probably still into Disney songs at the time), and 2525
   seemed such a ridiculous thing to sing about. "
 featuredImage: /images/upload/2525.jpg
-draft: true
+draft: false
 ---
 ![](/images/upload/2525.jpg)
 
