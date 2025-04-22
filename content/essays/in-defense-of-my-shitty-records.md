@@ -1,6 +1,6 @@
 ---
 title: In Defense of my Shitty Records
-date: 2025-04-21T19:55:00.000Z
+date: 2025-04-22T04:30:00.000Z
 summary: "But I treasure each of these recordings all the same, as I did the CD
   collection that accompanied me through the wasteland of Western suburbia, a
   scarcity mindset triggered into generosity and attention. A strange thing
@@ -10,7 +10,7 @@ summary: "But I treasure each of these recordings all the same, as I did the CD
   “optimized.”"
 featuredImage: /images/upload/2024_05_22_lorenzo_headshot.png
 author: Lorenzo Landini
-draft: true
+draft: false
 ---
 ![](/images/upload/2024_05_22_lorenzo_headshot.png)
 
