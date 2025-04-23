@@ -6,14 +6,11 @@ summary: " Wearing my favourite green corduroy trousers, Clarks shoes and
   disappeared into the dimly lit store. In the window was a handwritten list of
   that week’s top twenty singles and there at the very top, the number one
   record that week, was the record I intended to buy"
+featuredImage: /images/upload/price.jpg
 author: Alison M Thompson
 draft: true
 ---
-
-
-
-
- 
+![](/images/upload/price.jpg)
 
 I’ve been a big music fan all my life. I love going to gigs, I’ve been to Glastonbury Festival a few times, I’m a regular attendee at a more local festival, and while I was an indie rock chick, now in my fifties my tastes are more eclectic. But it wasn’t always that way.
 
@@ -33,12 +30,16 @@ In I crept, sweaty pound note in hand, desperate to buy the best song I’d ever
 
 The singer? Joe Dolce. The record? *Shaddup You Face.*
 
+![](/images/upload/docle.jpg)
+
 Of course, at that tender age I didn’t know the error of my ways. Back at home, I wrote the lyrics on a chalk board and pointed at them with a wooden spoon while I pretended my teddies were singing along. It was only years later that I realised that yes, Iwas one of *those* people who kept the mighty Ultravox off the number one spot.
 
 I still haven’t quite forgiven myself. 
 
-
-
 *Alison M Thompson is a music fan, editor, proofreader and writer from the UK.*
 
 *<https://www.theprooffairy.com/alison-m-thompson-author/>*
+
+
+
+*[<iframe width="560" height="315" src="https://www.youtube.com/embed/sFacWGBJ_cs?si=2Hm9AKXn7a0hsB8V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>](https://www.theprooffairy.com/alison-m-thompson-author/)*
