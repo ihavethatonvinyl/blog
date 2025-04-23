@@ -1,14 +1,14 @@
 ---
 title: Into the Woods With Sleater-Kinney
-date: 2025-04-22T19:53:00.000Z
+date: 2025-04-23T04:37:00.000Z
 summary: This was the band’s seventh album, and not only had they not become
   tired at this point, but I think this is the best they ever sounded. It had
   swagger. The opening note itself tells you everything you need to know about
   what’s coming. 
-featuredImage: /images/upload/sleater.jpg
-draft: true
+featuredImage: /images/upload/sk.jpg
+draft: false
 ---
-![](/images/upload/sleater.jpg)
+![](/images/upload/sk.jpg)
 
 I was introduced to Sleater-Kinney by my ex, who was a big fan. I’d heard of them, of course, but had never really listened. That all changed when my ex brought home a copy of the band’s *The Woods*. I became fixated on the album and Sleater-Kinnney. I did a deep dive through their catalog and spent a good portion of the next two weeks submerging myself in their music. They were one of the few bands my ex and I had in common at that point.
 
@@ -51,3 +51,7 @@ What usually happens at a point like this is  that I associate the music with t
 *The Woods* will be twenty years old in May. It’s been ten years since that night. Time marches on, and while it doesn’t really heal all wounds, it has a way of making them vague, like looking at an abstract painting. I remember the night with clarity, but what followed for the next two years is fuzzy and smudged. Which is fine. 
 
 I will never listen to Sleater-Kinney without thinking of that night. I long ago stopped feeling any guilt about it, and now I just look back at it as a microcosm of our marriage. I mostly shrug and say, *Well that sucked.* It’s fine that I associate *The Woods* with that event. This album makes me feel empowered. It makes me feel *good*. That’s a wild thing to me. By all rights I should want to throw it out the window, but it’s a testament to the power and the magic of *The Woods* that I haven’t.
+
+
+
+*Michele Catalano is a writer and retired civil servant who runs I Have That on Vinyl*
