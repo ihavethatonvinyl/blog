@@ -1,6 +1,6 @@
 ---
 title: The Day I Became a Music Aficionado
-date: 2025-04-22T19:51:00.000Z
+date: 2025-04-23T04:33:00.000Z
 summary: " Wearing my favourite green corduroy trousers, Clarks shoes and
   anorak, I hovered outside nervously, watching as people in fashionable togs
   disappeared into the dimly lit store. In the window was a handwritten list of
@@ -8,7 +8,7 @@ summary: " Wearing my favourite green corduroy trousers, Clarks shoes and
   record that week, was the record I intended to buy"
 featuredImage: /images/upload/price.jpg
 author: Alison M Thompson
-draft: true
+draft: false
 ---
 ![](/images/upload/price.jpg)
 
