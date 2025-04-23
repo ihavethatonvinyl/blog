@@ -28,7 +28,7 @@ Eventually, I plucked up the nerve to venture into the shop. Amidst the smoky fo
 
 In I crept, sweaty pound note in hand, desperate to buy the best song I’d ever heard, which I would treasure forever and play on my radiogram over and over again. It took me three attempts to find the courage to tell the leather-clad man behind the counter what I wanted. Despite his scornful sneer, I left the shop smiling, my most prized possession clutched securely in a red and white carrier bag. I felt so proud of myself. I was a music fan, and I wanted everyone to know I’d just bought my first ever record - and it was a banger!
 
-The singer? Joe Dolce. The record? *Shaddup You Face.*
+The singer? Joe Dolce. The record? *Shaddap You Face.*
 
 ![](/images/upload/docle.jpg)
 
