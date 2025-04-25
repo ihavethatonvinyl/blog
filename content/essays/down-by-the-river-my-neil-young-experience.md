@@ -9,8 +9,6 @@ featuredImage: /images/upload/pxl_20240513_135137995~2.jpg
 author: Donald Wells
 draft: false
 ---
-
-
 ![](/images/upload/pxl_20240513_135137995~2.jpg)
 
 On May 12th, I worked my first shift for Live Nation.  I walked up to Freedom Mortgage Pavilion, located on the Delaware River between The Battleship New Jersey and The Ben Franklin Bridge in Camden, NJ, unaware I would be having a surreal experience that evening.
@@ -38,5 +36,12 @@ After checking out, we got our mini tour poster- which I have to say is a pretty
 P.S. I told this story to friends and family the next day and got some interesting feedback.  My Dad told me I should probably quit because I was never going to top that! But I think the best was my buddy Daniel, who was also at the show, said that after all my years of listening to music and going to shows the Rock Gods were smiling down on me and giving me that experience. 
 
 Karma is real kids! 
+
+*Donald Wells is a full time music aficionado (and also runs a hardware 
+store).  He has been listening to new artists and going to live shows 
+for the last 30 years and he shares his love of music with his two young
+ adult children. He recently started a blog writing about his 
+experiences.  The Cresting Sound Wave is his love letter to music and 
+musicians.  You can follow him at @donwells.bsky.social*
 
 .
