@@ -1,6 +1,6 @@
 ---
 title: There's a New Wave Coming
-date: 2024-12-27T04:15:00.000Z
+date: 2025-04-25T07:36:00.000Z
 summary: It’s been said the music you listen to in high school is the music that
   stays your favorite forever, but I’m here as proof that this is not
   necessarily true. I graduated high school in 1980 and spent the next three
@@ -12,9 +12,6 @@ draft: false
 ![](/images/upload/img_5715.jpg)
 
 
-
-
-*Liner Notes is where I go through my collection one random album at a time and write about what each one means to me. Today, I have an essay about new wave music; so much of my collection falls into this genre. This is about my memories of these records - Michele*
 
 It’s been said the music you listen to in high school is the music that stays your favorite forever, but I’m here as proof that this is not necessarily true. I graduated high school in 1980 and spent the next three years cultivating an entirely new personality based around the music I was listening to.
 
