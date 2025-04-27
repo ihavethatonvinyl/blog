@@ -1,6 +1,6 @@
 ---
 title: On Vinyl Regret
-date: 2025-04-26T03:12:00.000Z
+date: 2025-04-27T05:01:00.000Z
 summary: I have always viewed my records as an extension of my person, a
   physical likeness of my taste shelved alphabetically by artist. A nerdy
   suburban teenager who spent entire afternoons scrolling tumblr, I carved out
@@ -9,7 +9,7 @@ summary: I have always viewed my records as an extension of my person, a
   safely housed in the milk crate on my carpeted bedroom floor. 
 featuredImage: /images/upload/susanna_vinyl.jpg
 author: Susanna Maize
-draft: true
+draft: false
 ---
 ![](/images/upload/susanna_vinyl.jpg)
 
