@@ -1,13 +1,13 @@
 ---
 title: The Horror and the Clash
-date: 2025-04-28T03:45:00.000Z
+date: 2025-04-28T04:26:00.000Z
 summary: I sat facing the house, with my back toward the canal. I didn’t want to
   think about what went on inside there, so I pressed play on the cassette and
   let the sounds of the Clash wash over me. I didn’t play it too loud; the
   neighbors probably called the cops every night on teenage revelers. I also
   didn’t want to hear the peals of laughter coming from the house. 
 featuredImage: /images/upload/clash.jpg
-draft: true
+draft: false
 ---
 ![](/images/upload/clash.jpg)
 
