@@ -1,6 +1,6 @@
 ---
 title: Jazz as a Working Metaphor for Life
-date: 2025-04-27T19:43:00.000Z
+date: 2025-04-28T04:22:00.000Z
 summary: "He left behind all the usual things: photobooks with the original
   negatives, clothing, a staggering wealth of Scotty Cameron putters. And for
   me, a large box of vinyl in different stages of wear and tear. There was no
@@ -10,7 +10,7 @@ summary: "He left behind all the usual things: photobooks with the original
   jazz again. "
 featuredImage: /images/upload/char1.jpg
 author: Charlee Remitz
-draft: true
+draft: false
 ---
 ![](/images/upload/char1.jpg)
 
