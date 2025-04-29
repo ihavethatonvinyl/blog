@@ -1,6 +1,6 @@
 ---
 title: Talking With Daniel Kohn
-date: 2025-04-29T04:02:00.000Z
+date: 2025-04-29T04:03:00.000Z
 draft: false
 summary: 'Daniel Kohn is the co-author of the forthcoming book "Tearing Down the
   Orange Curtain" How Punk Rock Brought Orange County to the World '
