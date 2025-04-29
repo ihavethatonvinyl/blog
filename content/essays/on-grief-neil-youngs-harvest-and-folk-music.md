@@ -1,13 +1,13 @@
 ---
 title: "On Grief, Neil Young's Harvest, and Folk Music "
-date: 2025-04-28T22:18:00.000Z
+date: 2025-04-29T04:00:00.000Z
 summary: " Grief can take many shapes. Thanks to therapy and pharmacological
   intervention, I’m finally figuring out the geometry of mine. I find myself
   wanting, more than anything, to discuss the things she left me – like her
   record collection, specifically her copy of Neil Young’s Harvest. "
 featuredImage: /images/upload/img_0673.jpeg
 author: Roger Feeley-Lussier
-draft: true
+draft: false
 ---
 ![](/images/upload/img_0673.jpeg)
 
