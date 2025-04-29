@@ -38,7 +38,7 @@ DK: Oh yes. Just go on Discogs and see how much that first Middle Class 7-inch g
 
 **IHTOV: Let's talk art and design. A lot of OC punk have iconic and bold album covers and logos. What are some of your favorites? Have you ever bought an album based solely on the artwork?** 
 
-DK: I have not, but my favorites are ones that capture the ethos of what you're about to listen to. So, Social Distortion's *Mommy Little Monster* and *Prison Bound* are great examples, as is No Doubt's *Tragic Kingdom*, T.S.O.L.'s *Dance With Me* and the Vandals' *Peace Through Vandalism*. The most famous, though, is probably *Smash*. That skeleton is still an essential part of what people associate with the Offspring.
+DK: I have not, but my favorites are ones that capture the ethos of what you're about to listen to. So, Social Distortion's *Mommy Little Monster* and *Prison Bound* are great examples, as is No Doubt's *Tragic Kingdom*, T.S.O.L.'s *Dance With Me* and the Vandals' *Peace Thru Vandalism*. The most famous, though, is probably *Smash*. That skeleton is still an essential part of what people associate with the Offspring.
 
 **IHTOV: What albums currently are keeping the blood pumping on OC punk?** 
 
