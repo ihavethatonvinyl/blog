@@ -9,7 +9,7 @@ summary: " So, why on earth do I still feel compelled to buy vinyl records? I
   scattered throughout the house. "
 featuredImage: /images/upload/img_6284.jpeg
 author: Mat Mills
-draft: true
+draft: false
 ---
 
 
