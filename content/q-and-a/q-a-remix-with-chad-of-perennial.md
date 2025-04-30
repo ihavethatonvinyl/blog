@@ -2,8 +2,10 @@
 title: Q&A Remix With Chad of Perennial
 date: 2025-04-29T20:10:00.000Z
 featuredImage: /images/upload/image1-6-.jpeg
-draft: true
+draft: false
 ---
+![](/images/upload/image1-6-.jpeg)
+
 **Have you ever bought a record just for the artwork?**
 
 Just recently we were record shopping and the cover for a compilation called *Wig Out! Freak Out!: Freakbeat & Mod Psychedelia* caught Chelsey’s eye. That mid-60s mod/garage rock sound is our favorite, but neither of us had any idea about this particular comp until we saw the very, very groovy cover design.
