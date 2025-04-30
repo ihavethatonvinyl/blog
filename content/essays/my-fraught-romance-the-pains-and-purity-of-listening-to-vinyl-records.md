@@ -1,6 +1,6 @@
 ---
 title: "My Fraught Romance: the pains and purity of listening to vinyl records"
-date: 2025-04-29T19:54:00.000Z
+date: 2025-04-30T03:49:00.000Z
 summary: " So, why on earth do I still feel compelled to buy vinyl records? I
   still do, pretty frequently. (My most recent purchases at the time of writing
   in Autumn 2024 were the beguiling Spell Blanket collected demos by Broadcast,
