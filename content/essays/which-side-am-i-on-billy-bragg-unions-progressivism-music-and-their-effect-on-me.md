@@ -7,7 +7,7 @@ summary: A young-ish Billy became politically aware and active in the late 70s.
   Like many young people of his age in England, it involved The Clash.
 featuredImage: /images/upload/billybragg.jpg
 author: Timothy Truxell
-draft: true
+draft: false
 ---
 ![](/images/upload/billybragg.jpg)
 
