@@ -1,7 +1,7 @@
 ---
 title: Which Side Am I On? Billy Bragg, unions, progressivism, music, and their
   effect on me
-date: 2025-04-30T19:58:00.000Z
+date: 2025-05-01T04:16:00.000Z
 summary: A young-ish Billy became politically aware and active in the late 70s.
   He was only a bit older than I was when I first heard that scratchy cassette.
   Like many young people of his age in England, it involved The Clash.
