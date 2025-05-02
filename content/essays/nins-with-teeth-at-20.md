@@ -1,6 +1,11 @@
 ---
 title: NIN's "With Teeth" at 20
 date: 2025-05-02T04:05:00.000Z
+summary: At the time Nine Inch Nails was one of those bands I had heard of, but
+  never listened to, only knowing their iconic 3 letter logo. So I figured now
+  was as good a time as any to hear what this band was all about. I played the
+  song, and playing along to the simple, but heavy riffs Trent Reznor laid down
+  awakened something in me
 featuredImage: /images/upload/pxl_20250430_143258304.raw-01.cover.jpg
 author: Tim Gavin
 draft: false
