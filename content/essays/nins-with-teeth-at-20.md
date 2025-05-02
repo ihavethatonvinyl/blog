@@ -1,9 +1,9 @@
 ---
 title: NIN's "With Teeth" at 20
-date: 2025-05-01T19:58:00.000Z
+date: 2025-05-02T04:05:00.000Z
 featuredImage: /images/upload/pxl_20250430_143258304.raw-01.cover.jpg
 author: Tim Gavin
-draft: true
+draft: false
 ---
 ![](/images/upload/pxl_20250430_143258304.raw-01.cover.jpg)
 
