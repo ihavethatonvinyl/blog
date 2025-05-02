@@ -1,6 +1,11 @@
 ---
 title: "Elsewhere: AOL, Catfishing, and Sarah McLachlan's Fumbling Towards Ecstasy "
-date: 2025-05-02T04:05:00.000Z
+date: 2025-05-02T04:16:00.000Z
+summary: I’ve been listening to a lot of heavy metal. Pantera, Slayer, things of
+  that nature. I have this vague anger hanging onto me that I can’t shake — and
+  honestly, I don’t know if I want to shake it. Everything else inside me feels
+  hollow, carved out, a void now filled by an adrenaline rush that keeps me from
+  sinking into myself
 featuredImage: /images/upload/img_7262.jpg
 draft: false
 ---
