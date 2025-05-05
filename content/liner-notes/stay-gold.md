@@ -1,16 +1,16 @@
 ---
 title: Stay Gold
-date: 2025-05-04T17:49:00.000Z
+date: 2025-05-05T03:58:00.000Z
 summary: "There was only one thing that was saving the summer from being a bust:
   my portable eight-track player. It was a bulky, awkwardly built piece of
   machinery, and anything played on it sounded like it was coming out of a small
   AM transistor radio. "
 featuredImage: /images/upload/tapes.png
-draft: true
+draft: false
 ---
 ![](/images/upload/tapes.png)
 
-*This essay is not about vinyl, but eight-tracks. It’s just a story revolving around music that I wanted to share with you.*
+*This essay is not about vinyl, but eight-tracks. It’s just a story revolving around music and physical media that I wanted to share with you.*
 
 I don’t know how or why the rivalry started. I was born into it. By the time I was 11 or so, I knew that the kids from the next town were bad, bad children and I should never associate with them. I heard this not from my parents, who remained completely unaware of the rivalry, but from the older siblings of my peers, who regaled us with stories of a rivalry so intense that I often imagined it would escalate into a bloody battle that would make headline news around the world. We’re talking Sharks and Jets, Crips and Bloods, Yankees and Red Sox.
 
