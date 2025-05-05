@@ -1,6 +1,6 @@
 ---
 title: Separation Sunday at 20
-date: 2025-05-04T07:12:00.000Z
+date: 2025-05-05T03:58:00.000Z
 summary: " It's very difficult for me to dislodge The Hold Steady or Separation
   Sunday from that time in my life; it’s one of those albums that’s a portal
   from who you were to who you became in the way that you can still do when
@@ -8,7 +8,7 @@ summary: " It's very difficult for me to dislodge The Hold Steady or Separation
   nice enough to buy you beer. "
 featuredImage: /images/upload/separation-sunday.png
 author: Cooper Lund
-draft: true
+draft: false
 ---
 ![](/images/upload/separation-sunday.png)
 
