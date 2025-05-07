@@ -1,6 +1,6 @@
 ---
 title: The Propagandhi-Recess Records Odds and Ends
-date: 2025-05-06T20:24:00.000Z
+date: 2025-05-07T04:29:00.000Z
 summary: Making a podcast about one band is certainly a strange hobby but it has
   been simultaneously quite fulfilling because through Propagandhi, I have
   learned about the police in Saskatchewan dropping off people in the frozen
@@ -9,7 +9,7 @@ summary: Making a podcast about one band is certainly a strange hobby but it has
   nuggets hidden within the lyrics. 
 featuredImage: /images/upload/img_9308.jpg
 author: Greg Soden
-draft: true
+draft: false
 ---
 ![](/images/upload/img_9308.jpg)
 
