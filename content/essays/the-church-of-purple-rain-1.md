@@ -1,6 +1,6 @@
 ---
 title: The Church of Purple Rain
-date: 2025-05-09T05:06:00.000Z
+date: 2025-05-09T06:02:00.000Z
 summary: "This is what music does, when it’s at its most holy: it doesn’t just
   score your memories, it reassembles them. It carves out hidden hallways
   between who you were and who you’ve become. And some days, if the light hits
