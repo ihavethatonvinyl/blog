@@ -1,6 +1,6 @@
 ---
 title: The Music My Mother Gave Me
-date: 2025-05-09T04:08:00.000Z
+date: 2025-05-09T04:11:00.000Z
 summary: " The first record I remember my mom playing for me instead of just
   putting something on passively was the original cast recording of Hair. She
   loved her show tunes; I had by age seven already memorized the songs she
