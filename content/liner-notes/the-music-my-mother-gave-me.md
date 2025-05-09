@@ -1,13 +1,13 @@
 ---
-title: The Music My Mother Gave ME
-date: 2025-05-08T17:45:00.000Z
+title: The Music My Mother Gave Me
+date: 2025-05-09T04:04:00.000Z
 summary: " The first record I remember my mom playing for me instead of just
   putting something on passively was the original cast recording of Hair. She
   loved her show tunes; I had by age seven already memorized the songs she
   played from The Music Man, South Pacific, West Side Story, and The Sound of
   Music."
 featuredImage: /images/upload/img_9451.jpg
-draft: true
+draft: false
 ---
 ![](/images/upload/img_9451.jpg)
 
