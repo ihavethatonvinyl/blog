@@ -1,6 +1,6 @@
 ---
 title: The Church of Purple Rain
-date: 2025-05-08T17:38:00.000Z
+date: 2025-05-09T04:03:00.000Z
 summary: "This is what music does, when it’s at its most holy: it doesn’t just
   score your memories, it reassembles them. It carves out hidden hallways
   between who you were and who you’ve become. And some days, if the light hits
@@ -8,7 +8,7 @@ summary: "This is what music does, when it’s at its most holy: it doesn’t ju
   corridors, barefoot, breath held, heart open."
 featuredImage: /images/upload/image0-6-.jpeg
 author: Maggie Downs
-draft: true
+draft: false
 ---
 ![](/images/upload/image0-6-.jpeg)
 
