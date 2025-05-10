@@ -30,8 +30,6 @@ My favorite song to remember is still “Since I Don't Have You” by the Skylin
 
 Anne and my friend Eleanor, and sometimes Karen and I used to go to the city to see rock and roll shows. We'd get up at 4 AM so my Dad could take us in when he left for work.  We'd go to Aunt Mary's house and she’d make us breakfast.  Then we’d take the train to Brooklyn. Skorous Theatre, or the Paramount in NYC, or many other venues, we’d get to see a movie and then the live show, usually hosted by Alan Freed.  We saw some of the greatest singers of the day, groups that  wound up spanning half a century, or more!  We missed a couple of acts but the one artist I'm sorry I never saw is Elton John, of all people.
 
- My other passion is Broadway. The last thing I listened to was *Phantom of the Opera*.
-
 I really got into Pink Floyd after they peaked.  It was probably late 80s-90s.  I listen to *Dark Side of the Moon* at least once every day. It’s my favorite.
 
  My other passion is Broadway. The last thing I listened to was *Phantom of the Opera*.
