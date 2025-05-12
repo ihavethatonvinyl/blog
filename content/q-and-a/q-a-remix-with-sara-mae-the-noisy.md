@@ -5,7 +5,7 @@ summary: My neighbor that I had a crush on gave me Led Zeppelin IV and I used to
   get home from angsty bike rides through the neighborhood and listen to it
   laying on my bedroom floor. Love that for 15-year-old me. 
 featuredImage: /images/upload/saramae.gif
-draft: true
+draft: false
 ---
 ![](/images/upload/saramae.gif)
 
