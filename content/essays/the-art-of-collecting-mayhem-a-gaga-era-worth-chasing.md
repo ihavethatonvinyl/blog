@@ -1,13 +1,13 @@
 ---
 title: "The Art of Collecting MAYHEM: A Gaga Era Worth Chasing"
-date: 2025-05-11T20:11:00.000Z
+date: 2025-05-12T04:02:00.000Z
 summary: " I never thought I’d be the person who owned multiple copies of the
   same album- but MAYHEM isn’t just any album. It’s Lady Gaga’s most ambitious
   album yet. This is the story of how I ended up with eleven vinyl variants- and
   why I’d do it all again."
 featuredImage: /images/upload/mayhem-square-crop-.jpg
 author: Keegan Campbell
-draft: true
+draft: false
 ---
 ![](/images/upload/mayhem-square-crop-.jpg)
 
