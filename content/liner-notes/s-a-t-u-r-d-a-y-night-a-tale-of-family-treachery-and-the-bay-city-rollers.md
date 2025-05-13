@@ -1,12 +1,12 @@
 ---
 title: "S-A-T-U-R-D-A-Y NIGHT: a tale of family treachery and the Bay City Rollers"
-date: 2025-05-12T18:23:00.000Z
+date: 2025-05-13T04:21:00.000Z
 summary: I thought they were cute; my friends thought they were funny-looking. I
   thought they were personable and fun, my older cousins called them freaks. I
   think I started listening to “Saturday Night” as a novelty, but it grew into
   such a personal anthem that I asked my mother to buy me the album. 
 featuredImage: /images/upload/screenshot-2025-05-12-at-6.22.22 pm.png
-draft: true
+draft: false
 ---
 ![](/images/upload/screenshot-2025-05-12-at-6.22.22 pm.png)
 
