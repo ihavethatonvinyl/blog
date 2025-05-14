@@ -1,12 +1,12 @@
 ---
 title: Preserving History By Mistake
-date: 2025-05-14T03:05:00.000Z
+date: 2025-05-14T04:00:00.000Z
 summary: " This wasn’t the band Caravan. Instead, this was an even more obscure
   release by the ‘60s psych rock band Salvation — worth over a hundred dollars
   in good condition"
 featuredImage: /images/upload/featureimage.jpg
 author: Bill Cooper
-draft: true
+draft: false
 ---
 ![](/images/upload/featureimage.jpg)
 
