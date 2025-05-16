@@ -1,6 +1,6 @@
 ---
 title: Q&A Remix With Jimmy Wilkens
-date: 2025-05-16T04:34:00.000Z
+date: 2025-05-16T04:36:00.000Z
 summary: " I’m very fortunate to know so many amazing & talented people who make
   music and whenever I’m given the opportunity to talk about them, I will. I
   don’t think Barely Civil gets talked about nearly enough, for example. I would
