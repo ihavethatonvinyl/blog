@@ -1,6 +1,6 @@
 ---
 title: "On Steve Albini: Words About Fucking Up"
-date: 2025-05-16T04:12:00.000Z
+date: 2025-05-16T04:36:00.000Z
 summary: My pilgrimage to Electrical Audio, the studio that Steve Albini built
   and owned for 26 years, was a tribute to the man and his influence on my adult
   life. Knowing Albini had engineered a record made it more likely that I'd
