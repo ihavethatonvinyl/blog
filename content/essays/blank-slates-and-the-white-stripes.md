@@ -1,6 +1,6 @@
 ---
 title: Blank Slates and The White Stripes
-date: 2025-05-18T20:32:00.000Z
+date: 2025-05-19T06:00:00.000Z
 summary: I was a teenager when Napster came out. We had Erol’s Internet, a
   dial-up provider run by the local video store chain, and if that sounds weird
   now, please know that it sounded just as weird in 1999. With our 28.8 kbps
@@ -8,7 +8,7 @@ summary: I was a teenager when Napster came out. We had Erol’s Internet, a
   two
 featuredImage: /images/upload/ws.png
 author: Davy Andrews
-draft: true
+draft: false
 ---
 ![](/images/upload/ws.png)
 
