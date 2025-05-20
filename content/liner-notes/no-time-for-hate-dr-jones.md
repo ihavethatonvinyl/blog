@@ -1,12 +1,12 @@
 ---
 title: No Time For Hate, Dr. Jones
-date: 2025-05-20T00:38:00.000Z
+date: 2025-05-20T04:30:00.000Z
 summary: " Everyone would know exactly what I thought of Modern Family. They
   would find out just how I felt about fancy martinis that weren’t really
   martinis. The Toronto Maple Leafs, Meat Loaf (the guy not the food), and DJ
   Madison on Lithium all fell under my wrath"
 featuredImage: /images/upload/haters.jpg
-draft: true
+draft: false
 ---
 
 
