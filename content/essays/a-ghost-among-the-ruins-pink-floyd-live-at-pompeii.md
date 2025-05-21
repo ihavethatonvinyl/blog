@@ -1,13 +1,13 @@
 ---
 title: "A Ghost Among the Ruins: Pink Floyd Live at Pompeii "
-date: 2025-05-20T22:42:00.000Z
+date: 2025-05-21T04:22:00.000Z
 summary: Memory and music walk hand-and-hand. Don’t believe me? Just ask the
   next ten people you run into if there is a song or album that reminds them of
   a particular time and/or place in their lives. I bet you’ll get ten different
   answers and ten unique stories
 featuredImage: /images/upload/img_7288.jpg
 author: Vincent T. Ciaramella
-draft: true
+draft: false
 ---
 ![](/images/upload/img_7288.jpg)
 
