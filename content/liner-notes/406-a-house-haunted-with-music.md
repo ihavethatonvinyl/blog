@@ -62,7 +62,7 @@ My husband had stopped working, stopped actively looking for a job. He was fired
 
 But home was fleeting because we couldn’t keep up with the mortgage. Not with only one of us working; not with my sister trying to keep up as a single mother. She moved to Rhode Island with my nephew. My father sold the house, and we agreed to move to my grandmother’s basement, a place I had spent so many years trying to escape. 406 was no more. 
 
-We would last three years in the basement before we bought the house. We lasted four more years in the house where I could not be myself before, at his insistence, we divorced. He had gotten sober. He didn’t need me anymore. I was devastated, but the breakup turned out to be the actual break in life that I needed. I learned how to be myself after he left. I expanded my record collection and turned up the volume on the National. I was finally home, far removed from 406 and the stranglehold that house had on me.
+We would last three years in the basement before we just bought the house. We lasted four more years in the house where I could not be myself before, at his insistence, we divorced. He had gotten sober. He didn’t need me anymore. I was devastated, but the breakup turned out to be the actual break in life that I needed. I learned how to be myself after he left. I expanded my record collection and turned up the volume on the National. I was finally home, far removed from 406 and the stranglehold that house had on me.
 
 \*\*\*\*
 
