@@ -34,7 +34,7 @@ We moved precariously through the years. Sometimes it would feel all right, and 
 
 It wasn’t until 2005 that I finally worked up the nerve to ask him to leave, to go back to Pennsylvania and his mother, who hated me and thought I was ruining him. The guy barely worked a day while we were together. He was mean and emotionally abusive and spiteful and often treated me with disdain. Who was ruining who?
 
-I drove him to the train station the day he finally packed his bags and moved out. We quietly listened to the CD that happened to be in the car; AFI’s *The Art of Drowning* became a signpost, an album I associated with freedom and relief, and with moving on. 
+I drove him to the train station the day he finally packed his bags and moved out. We quietly listened to the CD that happened to be in the car; AFI’s *The Art of Drowning* became a signpost, an album I associate with freedom and relief, and with moving on. 
 
 I never saw him again. I don’t know if he’s dead or alive, happy or unfulfilled. Sometimes, mostly when I’m listening to “The Ship Song,” I care. Mostly, I don’t.
 
