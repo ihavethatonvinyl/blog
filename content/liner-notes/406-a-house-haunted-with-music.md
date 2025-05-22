@@ -1,0 +1,78 @@
+---
+title: "406: A House Haunted With Music"
+date: 2025-05-21T23:21:00.000Z
+summary: I left my records in their milk crates and embraced the music he
+  brought to me. We listened to Fu Manchu, New Bomb Turks, Turbonegro, and the
+  Angry Samoans. The music was loud and fast and at times bombastic. It fit his
+  personality, matched the very essence of his being. I all but stopped
+  listening to Brand New and Taking Back Sunday; I had taken on his likes, his
+  bands, his ways. I no longer knew how to be me.
+featuredImage: /images/upload/4061.png
+draft: true
+---
+![](/images/upload/4061.png)
+
+We moved into the house—number 406—in May 2004. We had been living in a basement apartment in my grandmother’s house since 1990. I lived through an entire marriage and divorce in that basement, gave birth to my second child while living there, and welcomed a new partner into the house in 1999. After a while, we had to get out. We needed air. We needed space. 
+
+My father bought the mother/daughter house because my partner was not working—a recurring theme throughout this story—and we just couldn’t afford it. But he wanted more for my kids than a stuffy, small apartment in the basement of the house of his mother, who had passed away while I was living there. So we moved—my two kids, who were 11 and 14 at the time, my partner, my youngest sister and her husband, and me—dragging all our detritus with us, including the emotional baggage I was trying to escape. My sister and brother-in-law moved upstairs; we got the main floor.
+
+On move-in day, we unceremoniously dropped our belongings into the living room little by little, making many trips to the old apartment—just a few blocks away—to retrieve the belongings we wanted to keep. The furniture, of course, but also all the things that represented us; the graphic novels and video games, the CDs and records, the seemingly endless supply of comic book and Star Wars action figures, and a treasure trove of VHS and DVD movies. 
+
+We hooked up the computer first—to play music as we unpacked—while we marveled at just how much junk we had. We played Nick Cave and Queens of the Stone Age. We played a lot of Faith No More, our shared favorite. Our new neighbors surely heard “Midlife Crisis” or “The Gentle Art of Making Enemies” blasting from the house as we sorted our possessions. This, too, would become a recurring theme. 
+
+The house was the sort of nondescript two-family dormered ranch you see in a thousand neighborhoods around the country. There was a screened-in sunroom that we bricked up and turned into our shared office space. I used my space in that room for writing and editing my amateur photography; he used it for gaming. We painted the walls garish colors because he thought it would be “cool,” and while my dad objected to the colors, he ultimately relented. The living room was a deep orange with red accents; I hated it from the get-go, but my opinions rarely mattered in that relationship. I kept the peace by going along with everything. Even a room painted orange and red. 
+
+We eventually settled in, getting all our shit unpacked and put away. The kids claimed their rooms; we painted our bedroom brown (wtf??) and did not much else except furnish it. The living room and office were our domains. 
+
+The living room held the TV, the game consoles (Gamecube, Dreamcast), and the stereo, and had a large bay window that looked out onto the street. The office held two computers, a large CD collection, and a bevy of action figures placed on a shelf that ran the circumference of the room. We housed our comics and graphic novels on an Ikea bookshelf. It was here that I spent so much time pirating albums, listening to them on Winamp, and finding out that what I downloaded often didn’t match up with the name on the file. 
+
+In 2004, I was really getting into emo. Bands like Brand New and Taking Back Sunday were taking over my musical life, much to my partner’s chagrin. He was still heavily into nu-metal, and while I was as well, I was also branching out, discovering other genres. The office had a heavy wooden door separating it from the living room; very often, I would be listening to some emo album, and he would get up from his marathon *Shenmue* session and slam the door closed. He made me feel bad about the music I liked, and instead of cringing when he slammed the door—his hoped-for response—I just sighed and went on listening to my music, but at a lower volume. 
+
+We lived like this for a while, in those rooms with weird colors, separated by a door. I busied myself behind that door when I wasn’t at work—blogging, chatting, editing, writing. All the while a steady stream of music played; music I now associate with the painted brick walls and slate floor of the office and the back door that led out to a slanted walkway, which caused water to come into the room every time it rained. I listened to Dashboard Confessional and My Chemical Romance and learned to love the privacy of my earbuds and my beloved iPod, even though he got angry when I couldn’t be at his beck and call because I could not hear him. I did hear the angry knocks at the door as he bellowed about dinner or my kids or some other perceived slight.
+
+
+We moved precariously through the years. Sometimes it would feel all right, and on those nights we’d listen to Nick Cave together, huddled around the stereo, marveling at the romance and love within “(Are You) The One That I’ve Been Waiting For” or “The Ship Song.” We loved as hard as we fought, and in the end, that wasn’t enough. I was suffering from panic attacks on a daily basis. I had night terrors and sleep paralysis. I knew I was unhappy, and those nights with Nick Cave weren’t enough to quell the unhappiness. He needed more from me; I needed less from him. 
+
+It wasn’t until 2005 that I finally worked up the nerve to ask him to leave, to go back to Pennsylvania and his mother, who hated me and thought I was ruining him. The guy barely worked a day while we were together. He was mean and emotionally abusive and spiteful and often treated me with disdain. Who was ruining who?
+
+
+I drove him to the train station the day he finally packed his bags and moved out. We quietly listened to the CD that happened to be in the car; AFI’s *The Art of Drowning* became a signpost, an album I associated with freedom and relief, and with moving on. 
+
+I never saw him again. I don’t know if he’s dead or alive, happy or unfulfilled. Sometimes, mostly when I’m listening to “The Ship Song,” I care. Mostly, I don’t.
+
+\*\*\*\*
+
+The time between when my Nick Cave partner left and a new partner moved in—about a year and a half—was a time I look back on fondly. I felt free, unencumbered from the burden of constant anxiety attacks and from having someone in my face all the time, telling me that I wasn’t enough. Music drifted through the rooms of the house: Death Cab for Cutie from my daughter’s room; Van Halen and Zeppelin played on guitar in my son’s room. I moved my computer into the living room so I wasn’t behind a door all the time, and because the office had been flooding when it rained. I blasted music in my red living room. Clutch and Faith No More, but more bands and artists he hated; music he made fun of me for liking, that I couldn’t play loud in the house: Brand New, Taking Back Sunday, and Radiohead. Oh, how he hated Radiohead. 
+
+I was making online friends then, most from a forum site called Fark. I stayed up until all hours of the morning posting, laughing, making memes, and making friends. I had developed a bit of agoraphobia and only left the house to go to work, which I did with an alarming infrequency. I ate my sick and vacation days just so I didn’t have to go outside. I spent that time talking to people on Fark and falling in love with one specific user. We had bonded over a shared love of the band Clutch, and he introduced me to the bands he listened to a lot: GBH, Rich Kids on LSD, and the Subhumans. He loved punk, the weirder the better. 
+
+We spent hours and hours on the phone, and he would play music for me—MDC singing about John Wayne being a Nazi, TSOL singing about having their way with a corpse. I was no stranger to angry or bizarre lyrics, but the music he listened to, that he eagerly shared with me, was foreign to me. I embraced it, the way I always embrace the things my partners love. He sometimes returned the favor, enjoying Queens of the Stone Age and Nine Inch Nails with me, but drew a hard line in the sand at anything emo or pop. That he absolutely loved the song “Steal My Sunshine” was not lost on me. I never brought this up in our frequent “don’t play that while I’m home” arguments. 
+
+He moved here from California in late 2006; he moved in with me in April 2007, when my brother-in-law sadly passed away and my father insisted we needed a man in the house. Who was I to fight that? As much as I like the way we had our own lives in our own residences, the idea of being with him all the time appealed to me. I loved him deeply, soundly, and in a way that felt unforgiving. I was afraid to break what we had, to make a misstep or miss a cue. 
+
+I left my records in their milk crates and embraced the music he brought to me. We listened to Fu Manchu, New Bomb Turks, Turbonegro, and the Angry Samoans. The music was loud and fast and at times bombastic. It fit his personality, matched the very essence of his being. I all but stopped listening to Brand New and Taking Back Sunday; I had taken on his likes, his bands, his ways. I no longer knew how to be me.
+
+We played video games daily; cooperative games like Left 4 Dead, in which he would save my ass while yelling at me to stop shooting him, prompting the neighbors to ask if everything was okay. We traveled. We went to Barcelona twice, to California—home to his parents—dozens of times, to Memphis, to Chicago, and to Disney World to see my daughter at work. 
+
+We fixed up the house. We knocked down the door between the office and the living room. We redid the backyard and bought a gazebo and an outdoor dining set. We’d sit out there with my sister and nephew, talking about music, listening to our favorites, engaging in what I thought was social drinking. My sister had a boyfriend—a man who treated her well and who for all intents and purposes is now my brother-in-law—who would come down to Long Island for long backyard discussions about Frank Zappa or Zebra. Yes, Zebra. For a while, we made our house a home. For a while.
+
+Things unraveled around 2013, right after we had escaped to Reno to get married. I’ve written about this before. There was heavy drinking and suddenly not drinking; there were seizures and then detoxing in sterile hospital rooms. There were long stretches of days and nights spent watching him drink and smoke and insist that I go to the store and replenish his vices. Rather than have him get in his car drunk, I complied and enabled. I would tell him I had other errands to run as well, then I’d drive around my little town listening to Brand New, listening to the music that was mine and mine only, eschewing the mix CDs that contained all that Southern California punk rock he so admired, in favor of my own private music. 
+
+I’d get home and he’d be sprawled on the couch, hand outstretched, waiting for a beer to be placed in it. I’d go into the office and wish I had a door to close. Instead, I’d close myself off in our room and listen to the Von Bondies—a band we shared, an album we played constantly on our trips to California in our rental cars. I’d listen to the National, so much National, a band he despised; a band he couldn’t fathom anyone listening to willfully, that he knew was my favorite but still disparaged. I could hear my son’s guitar work emanating from his room. He’d outgrown the classic rock that he used to love and was now playing the Yeah Yeah Yeahs and Weezer, and that became the music that comforted me in that house. Just my son, maybe strumming David Bowie’s “Heroes,” his skill and grace on the guitar warming my soul.
+
+My husband had stopped working, stopped actively looking for a job. He was fired from an upper management position at a video security company,  where he was being groomed for vice-president. Whereas I once imagined a future in which I didn’t have to worry about money, I now had broken dreams that were snuffed out like a cigarette on a curb, and the smoldering stench of burned promises followed me around. The house I tried so hard to make a beautiful home was more like a confinement. I felt as if I was under house arrest. I had to stay home to watch him. I had to stay home because I was depressed. I had to stay home. I listened to Fugazi’s “Promises” on repeat, my mantra of “promises are shit” clinging to me, echoing in my head constantly. 
+
+But home was fleeting because we couldn’t keep up with the mortgage. Not with only one of us working; not with my sister trying to keep up as a single mother. She moved to Rhode Island with my nephew. My father sold the house, and we agreed to move to my grandmother’s basement, a place I had spent so many years trying to escape. 406 was no more. 
+
+We would last three years in the basement before we bought the house. We lasted four more years in the house where I could not be myself before, at his insistence, we divorced. He had gotten sober. He didn’t need me anymore. I was devastated, but the breakup turned out to be the actual break in life that I needed. I learned how to be myself after he left. I expanded my record collection and turned up the volume on the National. I was finally home, far removed from 406 and the stranglehold that house had on me.
+
+\*\*\*\*
+
+I have recently started walking four or five miles a day. It clears my head and gets me moving, and I’m really enjoying it. A few days ago, I decided to walk to the other side of town to my old block, to see the old 406 house and what had become of it. I didn’t want to stop and stare and draw attention to myself, but I did slow down a bit. I paused the audiobook I was listening to and cocked my head as if I could hear music coming from the house; Brand New and the National, Clutch and Queens of the Stone Age, mingling together to form a cacophony of sonic memories. 
+
+The house looked completely different. A portico in front, a new dormer, new siding, new windows. It was no longer the 406 I knew, even though I’d always refer to it in that colloquial way. The only things that brought me any recognition were the apple tree I planted, now standing tall and proud, the back fence we installed when we got a dog, and the crab grass-strewn lawn I used to mow. I thought about all the music I listened to in that house, and how so much of it was tainted, and how so much of it was glued to me. I started up my audiobook again, picked up my pace, and didn’t look back. I got off the street as fast as I could. I felt haunted, displaced. When I got home I put on *Boxer* by the National and turned it up as loud as it could go. There’s no one to tell me not to. 
+
+
+
+
+![](/images/upload/4062.jpg)
