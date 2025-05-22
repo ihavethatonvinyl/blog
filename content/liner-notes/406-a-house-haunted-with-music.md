@@ -1,6 +1,6 @@
 ---
 title: "406: A House Haunted With Music"
-date: 2025-05-21T23:21:00.000Z
+date: 2025-05-22T03:37:00.000Z
 summary: I left my records in their milk crates and embraced the music he
   brought to me. We listened to Fu Manchu, New Bomb Turks, Turbonegro, and the
   Angry Samoans. The music was loud and fast and at times bombastic. It fit his
@@ -8,7 +8,7 @@ summary: I left my records in their milk crates and embraced the music he
   listening to Brand New and Taking Back Sunday; I had taken on his likes, his
   bands, his ways. I no longer knew how to be me.
 featuredImage: /images/upload/4061.png
-draft: true
+draft: false
 ---
 ![](/images/upload/4061.png)
 
