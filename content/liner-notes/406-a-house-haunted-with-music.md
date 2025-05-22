@@ -22,7 +22,7 @@ We hooked up the computer first—to play music as we unpacked—while we marvel
 
 The house was the sort of nondescript two-family dormered ranch you see in a thousand neighborhoods around the country. There was a screened-in sunroom that we bricked up and turned into our shared office space. I used my space in that room for writing and editing my amateur photography; he used it for gaming. We painted the walls garish colors because he thought it would be “cool,” and while my dad objected to the colors, he ultimately relented. The living room was a deep orange with red accents; I hated it from the get-go, but my opinions rarely mattered in that relationship. I kept the peace by going along with everything. Even a room painted orange and red. 
 
-We eventually settled in, getting all our shit unpacked and put away. The kids claimed their rooms; we painted our bedroom brown (wtf??) and did not much else except furnish it. The living room and office were our domains. 
+We eventually settled in, getting all our shit unpacked and put away. The kids claimed their rooms; we painted our bedroom a deep, earthy brown and did not much else except furnish it. The living room and office were our domains. 
 
 The living room held the TV, the game consoles (Gamecube, Dreamcast), and the stereo, and had a large bay window that looked out onto the street. The office held two computers, a large CD collection, and a bevy of action figures placed on a shelf that ran the circumference of the room. We housed our comics and graphic novels on an Ikea bookshelf. It was here that I spent so much time pirating albums, listening to them on Winamp, and finding out that what I downloaded often didn’t match up with the name on the file. 
 
