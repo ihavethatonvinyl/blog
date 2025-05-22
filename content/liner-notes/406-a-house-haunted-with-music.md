@@ -14,7 +14,7 @@ draft: false
 
 We moved into the house—number 406—in May 2004. We had been living in a basement apartment in my grandmother’s house since 1990. I lived through an entire marriage and divorce in that basement, gave birth to my second child while living there, and welcomed a new partner into the house in 1999. After a while, we had to get out. We needed air. We needed space. 
 
-My father bought the mother/daughter house because my partner was not working—a recurring theme throughout this story—and we just couldn’t afford it. But he wanted more for my kids than a stuffy, small apartment in the basement of the house of his mother, who had passed away while I was living there. So we moved—my two kids, who were 11 and 14 at the time, my partner, my youngest sister and her husband, and me—dragging all our detritus with us, including the emotional baggage I was trying to escape. My sister and brother-in-law moved upstairs; we got the main floor.
+My father bought the mother/daughter house because my partner was not working—a recurring theme throughout this story—and we just couldn’t afford it. But dad wanted more for my kids than a stuffy, small apartment in the basement of the house of his mother, who had passed away while I was living there. So we moved in —my two kids, who were 11 and 14 at the time, my partner, my youngest sister and her husband, and me—dragging all our detritus with us, including the emotional baggage I was trying to escape. My sister and brother-in-law moved upstairs; we got the main floor.
 
 On move-in day, we unceremoniously dropped our belongings into the living room little by little, making many trips to the old apartment—just a few blocks away—to retrieve the belongings we wanted to keep. The furniture, of course, but also all the things that represented us; the graphic novels and video games, the CDs and records, the seemingly endless supply of comic book and Star Wars action figures, and a treasure trove of VHS and DVD movies. 
 
@@ -30,11 +30,9 @@ In 2004, I was really getting into emo. Bands like Brand New and Taking Back Sun
 
 We lived like this for a while, in those rooms with weird colors, separated by a door. I busied myself behind that door when I wasn’t at work—blogging, chatting, editing, writing. All the while a steady stream of music played; music I now associate with the painted brick walls and slate floor of the office and the back door that led out to a slanted walkway, which caused water to come into the room every time it rained. I listened to Dashboard Confessional and My Chemical Romance and learned to love the privacy of my earbuds and my beloved iPod, even though he got angry when I couldn’t be at his beck and call because I could not hear him. I did hear the angry knocks at the door as he bellowed about dinner or my kids or some other perceived slight.
 
-
 We moved precariously through the years. Sometimes it would feel all right, and on those nights we’d listen to Nick Cave together, huddled around the stereo, marveling at the romance and love within “(Are You) The One That I’ve Been Waiting For” or “The Ship Song.” We loved as hard as we fought, and in the end, that wasn’t enough. I was suffering from panic attacks on a daily basis. I had night terrors and sleep paralysis. I knew I was unhappy, and those nights with Nick Cave weren’t enough to quell the unhappiness. He needed more from me; I needed less from him. 
 
 It wasn’t until 2005 that I finally worked up the nerve to ask him to leave, to go back to Pennsylvania and his mother, who hated me and thought I was ruining him. The guy barely worked a day while we were together. He was mean and emotionally abusive and spiteful and often treated me with disdain. Who was ruining who?
-
 
 I drove him to the train station the day he finally packed his bags and moved out. We quietly listened to the CD that happened to be in the car; AFI’s *The Art of Drowning* became a signpost, an album I associated with freedom and relief, and with moving on. 
 
@@ -71,8 +69,5 @@ We would last three years in the basement before we bought the house. We lasted 
 I have recently started walking four or five miles a day. It clears my head and gets me moving, and I’m really enjoying it. A few days ago, I decided to walk to the other side of town to my old block, to see the old 406 house and what had become of it. I didn’t want to stop and stare and draw attention to myself, but I did slow down a bit. I paused the audiobook I was listening to and cocked my head as if I could hear music coming from the house; Brand New and the National, Clutch and Queens of the Stone Age, mingling together to form a cacophony of sonic memories. 
 
 The house looked completely different. A portico in front, a new dormer, new siding, new windows. It was no longer the 406 I knew, even though I’d always refer to it in that colloquial way. The only things that brought me any recognition were the apple tree I planted, now standing tall and proud, the back fence we installed when we got a dog, and the crab grass-strewn lawn I used to mow. I thought about all the music I listened to in that house, and how so much of it was tainted, and how so much of it was glued to me. I started up my audiobook again, picked up my pace, and didn’t look back. I got off the street as fast as I could. I felt haunted, displaced. When I got home I put on *Boxer* by the National and turned it up as loud as it could go. There’s no one to tell me not to. 
-
-
-
 
 ![](/images/upload/4062.jpg)
