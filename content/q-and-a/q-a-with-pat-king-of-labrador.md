@@ -1,10 +1,10 @@
 ---
 title: Q&A With Pat King of Labrador
-date: 2025-05-23T01:57:00.000Z
+date: 2025-05-23T04:30:00.000Z
 summary: I had been to the old Amoeba in Hollywood, but I wasn’t prepared for
   how vast their selection was. I froze up a bit, I’ll be honest.
 featuredImage: /images/upload/image00029.jpeg
-draft: true
+draft: false
 ---
 ![](/images/upload/image00029.jpeg)
 
