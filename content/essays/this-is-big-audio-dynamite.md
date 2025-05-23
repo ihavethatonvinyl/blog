@@ -1,12 +1,12 @@
 ---
 title: This is Big Audio Dynamite
-date: 2025-05-23T02:00:00.000Z
+date: 2025-05-23T04:32:00.000Z
 summary: I cannot stand to leave a copy of Big Audio Dynamite's groundbreaking
   yet sadly underappreciated debut This Is Big Audio Dynamite (1985) in a bin of
   used records. It would feel like leaving a baby kitten unattended.
 featuredImage: /images/upload/bad.jpg
 author: Zak Berrie
-draft: true
+draft: false
 ---
 ![](/images/upload/bad.jpg)
 
