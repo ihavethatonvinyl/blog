@@ -120,8 +120,6 @@ As someone who's making music, it's just like, oh, this could be around forever.
 
 *Part II will publish Wednesday.*
 
-
-
 *Ever since Owen’s parents taught him how to flip a record as a child
  he has been hooked on vinyl. Never one to get into arguments about 
 format; of what sounds the best, he just liked the way records sounded 
@@ -131,3 +129,14 @@ have so many great record stores to visit and discover all sorts of cool
 the guitar player of noisy rock band Weaklung, you can find him a few 
 times a week browsing the bins at Reckless in The Loop on his lunch 
 break.*
+
+
+
+*Martin Douglas has been a working music journalist since 2010. He has
+ written for publications such as Pitchfork, Bandcamp Daily, and 
+respected music blog POW, as well as many others. Martin currently lives
+ in North Seattle and works for KEXP, where he authors the long-running 
+Pacific Northwest music column “Throwaway Style” and was the co-host and
+ co-producer of the Webby-nominated podcasts Fresh off the Spaceship and
+ The Cobain 50. He makes productive use of his record collection by 
+spinning vinyl-only DJ sets around Seattle on occasion.*
