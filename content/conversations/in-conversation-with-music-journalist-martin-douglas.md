@@ -1,6 +1,6 @@
 ---
 title: In Conversation With Music Journalist Martin Douglas
-date: 2025-05-26T04:50:00.000Z
+date: 2025-05-26T04:55:00.000Z
 draft: false
 summary: I like being able to collect something. I like the physical medium. The
   thing I like most about vinyl is that it's a…I don't want to say a living,
