@@ -9,11 +9,7 @@ draft: false
 ---
 ![](/images/upload/sblues.png)
 
-
-
-
-
-The Simpsons Christmas Special premiered on December 17th, 1989. 
+The *Simpsons Christmas Special* premiered on December 17th, 1989. 
 
 I was, coincidentally, in 4th grade at the time, and so, by *my* reckoning, I am the same age as Bart Simpson should be. Unlike the canonical world of Bart’s future, Lisa Simpson never became president, Hilary Clinton hair or not. In fact, Nelson Muntz became president, lost his second nomination to Principal Skinner, and then won a second chance in 2024. And while *The Simpsons* did correctly assume Donald Trump *would* be president, in that first season of the show, people weren’t even really sure what *The Simpsons* was going to *be*. At the time, *The Simpsons* was on Thursdays, up against Bill “History’s Greatest Monster” Cosby, and *it wasn’t even winning*. 
 
