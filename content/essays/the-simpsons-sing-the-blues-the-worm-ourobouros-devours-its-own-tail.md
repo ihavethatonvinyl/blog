@@ -1,11 +1,11 @@
 ---
 title: The Simpsons Sing the Blues; the Worm Ourobouros Devours Its Own Tail
-date: 2025-05-25T16:28:00.000Z
+date: 2025-05-26T04:36:00.000Z
 summary: I bought “The Simpsons Sing The Blues” with my own allowance, $5 a
   week, so it took me a month to buy, and I chose to buy it on cassette.
 featuredImage: /images/upload/sblues.png
 author: "By Reverend Forrest.:Gummo.:"
-draft: true
+draft: false
 ---
 ![](/images/upload/sblues.png)
 
