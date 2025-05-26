@@ -1,7 +1,7 @@
 ---
 title: In Conversation With Music Journalist Martin Douglas
-date: 2025-05-25T16:36:00.000Z
-draft: true
+date: 2025-05-26T04:33:00.000Z
+draft: false
 summary: I like being able to collect something. I like the physical medium. The
   thing I like most about vinyl is that it's a…I don't want to say a living,
   breathing thing, but it is a thing that you can hold in your hands, and I'm
@@ -9,8 +9,9 @@ summary: I like being able to collect something. I like the physical medium. The
   putting it on the turntable and listening to it through this huge pair of
   speakers that I have
 featuredImage: /images/upload/martinandowen.jpg
+featuredImageAlt: Martin Douglas and Owen Brazas at Pitchfork Festival 2010
 ---
-![](/images/upload/martinandowen.jpg)
+![Martin Douglas and Owen Brazas at Pitchfork Festival 2010](/images/upload/martinandowen.jpg)
 
 *The following is a conversation between musician and IHTOV correspondent Owen Brazas and music journalist Martin Douglas of KEXP. It has been edited for clarity and length.*
 
@@ -129,8 +130,6 @@ have so many great record stores to visit and discover all sorts of cool
 the guitar player of noisy rock band Weaklung, you can find him a few 
 times a week browsing the bins at Reckless in The Loop on his lunch 
 break.*
-
-
 
 *Martin Douglas has been a working music journalist since 2010. He has
  written for publications such as Pitchfork, Bandcamp Daily, and 
