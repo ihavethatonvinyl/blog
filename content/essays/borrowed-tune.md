@@ -1,13 +1,13 @@
 ---
 title: Borrowed Tune
-date: 2025-05-27T22:15:00.000Z
+date: 2025-05-28T04:02:00.000Z
 summary: Today I call Ingrid while I walk. We’ve been friends since high school
   and though life has taken us to different places, we’ve remained close. She
   lives in Nashville now, working for Warner Music full-time, editing audio for
   video games part-time, and singing in between.
 featuredImage: /images/upload/ingrid.jpg
 author: Andy Millman
-draft: true
+draft: false
 ---
 ![](/images/upload/ingrid.jpg)
 
