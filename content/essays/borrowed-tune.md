@@ -43,6 +43,9 @@ When I steeled myself as best I could to make the calls I needed to make and pas
 
 Much of Ingrid’s music is available on the internet. There’s even a version of her singing “Borrowed Tune.” I’ve tried to listen to it since she died but haven’t made it past the first verse. Someday I’ll be able to get all the way through. For now I give myself time. I’m back in the mall again, doing my four laps, listening to podcasts instead of music because my nerves are too raw for music. I’m finding it takes effort to nod or smile to other walkers. Mostly I keep my head down. I have trouble following the podcasts because my thoughts always return to Ingrid. I replay our last conversation like a song I keep rewinding, but mostly the ending, her final words, words I’d heard her say a thousand times but only once for the last time. When spring comes I’ll take a break from the mall. I’ll walk to the lake, the one that Neil Young and Ingrid sang about, the one whose ice Joni Mitchell skated upon, and I’ll say a quiet thank you for the thaw. 
 
-
+*Andy Millman lives in Madison, Wisconsin, where he leads 
+writing groups for older adults. He appeared with Ingrid in a high 
+school production of "The Pajama Game," where she played the lead and he
+ played her father, who neither sung nor danced.* 
 
 *Ingrid Graudins was an award-winning singer and songwriter. Her version of Neil Young's song "Borrowed Tune" can be heard here: [ingrid graudins - "borrowed tune" by Neil Young at SPACE 1/23/2011](https://soundcloud.com/ingridg/ingrid-graudins-borrowed-tune-space-1-23-2011)*
