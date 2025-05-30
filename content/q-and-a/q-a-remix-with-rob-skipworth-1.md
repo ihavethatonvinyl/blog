@@ -1,11 +1,11 @@
 ---
 title: Q&A Remix With Rob Skipworth
-date: 2025-05-30T02:16:00.000Z
+date: 2025-05-30T04:08:00.000Z
 summary: I got a Louis Armstrong box set on Amazon that had been incorrectly
   priced at $12.  Found a Third Man Vault release at a Goodwill and got a $100
   Loretta Lynn set for 75 cents.
 featuredImage: /images/upload/image0-7-.jpeg
-draft: true
+draft: false
 ---
 ![](/images/upload/image0-7-.jpeg)
 
