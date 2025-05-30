@@ -5,11 +5,11 @@ summary: Being on the road with Perennial means I’m constantly visiting record
   stores. Every new city we play, every town we bring the sound to… we’re always
   finding a record shop on the way or near the venue to crate dig for hours.
   It’s routine at this point.
-featuredImage: /images/upload/prex-1.jpg
+featuredImage: /images/upload/img_9972.jpeg
 author: Ceej Wolf
 draft: false
 ---
-![](/images/upload/prex-1.jpg)
+![](/images/upload/img_9972.jpeg)
 
 Being on the road with Perennial means I’m constantly visiting record stores. Every new city we play, every town we bring the sound to… we’re always finding a record shop on the way or near the venue to crate dig for hours. It’s routine at this point. Here’s a few of my favorite record shops we’ve visited, what records I bought there and some stories from each (in no order in particular).
 
