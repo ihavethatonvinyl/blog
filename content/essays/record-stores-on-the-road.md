@@ -1,13 +1,13 @@
 ---
 title: Record Stores on the Road
-date: 2025-05-30T02:11:00.000Z
+date: 2025-05-30T04:06:00.000Z
 summary: Being on the road with Perennial means I’m constantly visiting record
   stores. Every new city we play, every town we bring the sound to… we’re always
   finding a record shop on the way or near the venue to crate dig for hours.
   It’s routine at this point.
 featuredImage: /images/upload/prex-1.jpg
 author: Ceej Wolf
-draft: true
+draft: false
 ---
 ![](/images/upload/prex-1.jpg)
 
