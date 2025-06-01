@@ -1,11 +1,11 @@
 ---
 title: "45s of my Youth: Teen Tragedy"
-date: 2025-05-31T19:01:00.000Z
+date: 2025-06-01T04:16:00.000Z
 summary: My younger sister and my cousins loved this song as much as I did. So
   we did what any tween kids would do at the time. We made up a sort of skit to
   go with it. We mouthed the lyrics and did coordinated gestures.
 featuredImage: /images/upload/bdb.jpg
-draft: true
+draft: false
 ---
 ![](/images/upload/bdb.jpg)
 
