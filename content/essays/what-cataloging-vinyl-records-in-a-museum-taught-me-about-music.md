@@ -1,13 +1,13 @@
 ---
 title: "What Cataloging Vinyl Records in a Museum Taught me About Music "
-date: 2025-06-01T20:37:00.000Z
+date: 2025-06-02T04:40:00.000Z
 summary: " Whether I’m holding Boston’s self-titled debut album, a new pressing
   of a Nick Drake record, or pre-ordering a more recent rock band’s colorful
   record, holding a vinyl record is like holding a renewed past in that
   moment. "
 featuredImage: /images/upload/1000000462-1-.jpg
 author: Garrett Carroll
-draft: true
+draft: false
 ---
 ![](/images/upload/1000000462-1-.jpg)
 
