@@ -1,12 +1,12 @@
 ---
 title: Good News For People Who Love Modest Mouse
-date: 2025-06-05T02:28:00.000Z
+date: 2025-06-05T02:58:00.000Z
 summary: "I’m here to talk about Modest Mouse. And I am here to defend Good News
   For People Who Love Bad News, their most popular album. It’s not my favorite
   Modest Mouse album—that title belongs to The Lonesome Crowded West—but it is a
   very, very good album. "
 featuredImage: /images/upload/img_6727.jpg
-draft: true
+draft: false
 ---
 ![](/images/upload/img_6727.jpg)
 
