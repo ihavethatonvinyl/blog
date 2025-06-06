@@ -1,11 +1,11 @@
 ---
 title: The Cut-Out Bin
-date: 2025-06-06T01:34:00.000Z
+date: 2025-06-06T04:30:00.000Z
 summary: " They all had a notch sliced near the corner of the record jacket.
   This is why the remainder section was nicknamed The Cut Out Bin."
 featuredImage: /images/upload/img20250509160054.jpg
 author: Joe Corey III
-draft: true
+draft: false
 ---
 ![](/images/upload/img20250509160054.jpg)
 
