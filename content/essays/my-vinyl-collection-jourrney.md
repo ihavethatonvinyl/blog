@@ -19,9 +19,7 @@ Occasionally, I ask myself: Why collect a format which, compared to the ubiquity
 
 In one regard, vinyl collecting signifies committedness among those of us raised in waning days of CDs and the early years of digital streaming. Investing in physical music demonstrates an appreciation for the artists who made that music possible. Vinyl enables one to grow intensively dedicated to music *as a hobby*, whatever that means for each individual. You go beyond the minimum of streaming which, for artists, [only result in pennies](https://www.digitalmusicnews.com/2024/12/23/billionaire-daniel-ek-shuts-down-spotify-unwrapped-calculator/).
 
-At the time of my first vinyl purchase, I was exploring music with fervor. Progressive rock was my then-current infatuation. Miraculously, I came across a copy of Yes’ *Close to the Edge*, my favorite album at the time. The record was used but undamaged, on sale for 10 bucks. I bought it without a second thought. 
-
-I cannot remember if I got the record before I owned my first crappy record player—a chicken and the egg type scenario. 
+At the time of my first vinyl purchase, I was exploring music with fervor. Progressive rock was my then-current infatuation. Miraculously, I came across a copy of Yes’ *Close to the Edge*, my favorite album at the time. The record was used but undamaged, on sale for 10 bucks. I bought it without a second thought. I cannot remember if I got the record before I owned my first crappy record player—a chicken and the egg type scenario. 
 
 ![](/images/upload/ah3.jpg)
 
