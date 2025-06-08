@@ -1,12 +1,15 @@
 ---
-title: The Joy in Disocvery
+title: The Joy in Discovery
 date: 2025-06-08T18:09:00.000Z
 summary: The cover was a young man with an acoustic guitar with the single word
   “Herman” in large colorful lettering with the album title, I’ve Made Up My
   Mind, underneath. 
+featuredImage: /images/upload/img_0972.jpg
 author: Ed Plunkett
 draft: true
 ---
+![](/images/upload/img_0972.jpg)
+
 It began in a record store. The day after Record Store Day 2025, my wife and I went to Spoonful Records in Columbus, Ohio. Our local shop. I was not a fan of the crowds of RSD but wanted to go after and see if anything was left over. My wife and I split up after we arrived.  I managed to find a copy of the Hindu Love Gods album and a few other items in the used bins and went over to my wife to see if she’d found anything. 
 
 Her hands were empty but she flipped to a record she was looking at and showed me. An older record, in very good condition. The cover was a young man with an acoustic guitar with the single word “Herman” in large colorful lettering with the album title, *I’ve Made Up My Mind*, underneath. 
@@ -28,8 +31,6 @@ His name, and variations of it are not common. Still, there was not much of a fo
 A couple of days later, Keith messaged me back. He is alive and well, living in the Los Angeles area and still making and loving music and his life. He told me he was writing a book about his life and that his Ovation 12 string was played by George Harrison when they had a two hour conversation. I’m waiting for that anecdote to appear in his book. He has released a few records since 1994, the most recent in 2022.
 
 His music is a bit more spiritual and his songwriting remains sound. His music career seems to have been a remarkable journey, even without mainstream success.  It’s been a joy to discover his work. 
-
-
 
 *Ed Plunkett is a musician and writer. He is the establisher of the band 
 Authority Control. He had been published in Columbus614, 68to05, Matter 
