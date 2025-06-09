@@ -1,12 +1,12 @@
 ---
 title: The Joy in Discovery
-date: 2025-06-08T18:09:00.000Z
+date: 2025-06-09T04:32:00.000Z
 summary: The cover was a young man with an acoustic guitar with the single word
   “Herman” in large colorful lettering with the album title, I’ve Made Up My
   Mind, underneath. 
 featuredImage: /images/upload/img_0972.jpg
 author: Ed Plunkett
-draft: true
+draft: false
 ---
 ![](/images/upload/img_0972.jpg)
 
