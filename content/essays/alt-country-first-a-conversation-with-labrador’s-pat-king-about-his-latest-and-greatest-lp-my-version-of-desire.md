@@ -58,7 +58,7 @@ If you must know, Pat actually grew up as the child of Rolling Stones fans in a 
 
 That sort of balance of unpretentious listening curiosity, paired with a robust and abandoned career in music journalism, keeps Labrador both exceptionally nuanced for nerdy ears yet deceptively approachable to normies.
 
-In his own telling on the podcast, Pat's path to songwriting is an odyssey that starts at a Vermont college, centered around a certain Deadhead professor's interest in Jerry Garcia's folk side projects. It goes on to sound like something out of Christopher Guest's *A Mighty Wind* to hear him describe it. "I was the high voice," in said ensemble, Pat giggles, which sounds like something out of early 90s Phish lore.
+In his own telling on the podcast, Pat's path to songwriting is an odyssey that starts at a high school on the Vermont/New York border, centered around a certain Deadhead art teacher's interest in Jerry Garcia's folk side projects. It goes on to sound like something out of Christopher Guest's *A Mighty Wind* to hear him describe it. "I was the high voice," in said ensemble, Pat giggles, which sounds like something out of early 90s Phish lore.
 
 He goes on to detail his starts and stops in DIY's indie rock underclass, starting with his freelance writing for "night-before" reviews for Bowery Presents in Brooklyn around a decade ago. It's a period that serves as great inspiration for many a chemically-driven evening that populates the Labrador lyrical universe to this point. He eventually finds his "best friends" in Perennial just as COVID sets in. Our discussion of mod music and its R&B influence seems plucked straight from Perennial guitarist Chad Jewitt's social media feeds.
 
