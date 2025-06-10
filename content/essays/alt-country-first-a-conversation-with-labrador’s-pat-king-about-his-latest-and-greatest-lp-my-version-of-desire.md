@@ -1,14 +1,17 @@
 ---
 title: 'Alt-Country First: A Conversation with Labrador’s Pat King about his
   latest and greatest LP, "My Version of Desire"'
-date: 2025-06-09T19:00:00.000Z
+date: 2025-06-10T01:44:00.000Z
 summary: Genre definitions are a child's game, but it's worth asking just what
   qualifies as "alt-country" these days anyway. Many of music's middle-class
   indie rock elite have made some sort of crossover album, often obliging their
   previously basement fanbases to lap steel draped in arena reverb.
+featuredImage: /images/upload/image_123650291.jpg
 author: Matt DeMello
 draft: true
 ---
+![](/images/upload/image_123650291.jpg)
+
 
 
 Genre definitions are a child's game, but it's worth asking just what qualifies as "alt-country" these days anyway. Many of music's middle-class indie rock elite have made some sort of crossover album, often obliging their previously basement fanbases to lap steel draped in arena reverb.
@@ -81,39 +84,10 @@ Besides living long enough to make a fifth album, if there's anything Pat shares
 
 *My Version of Desire* stands next to *Cosmo's Factory* and *Pleased to Meet Me* as weathered linchpins that stand for survival and consistency. Each are furtively introspective records that are asking what exactly is all this longevity even for while sparing enough time for the inevitable, and well deserved, victory lap. 
 
+<iframe src="https://iframe.iono.fm/e/1564577?layout=modern" width="100%" height="170" frameborder="0" referrerpolicy="origin" loading="lazy"></iframe>
 
+LINK: <https://iono.fm/e/15645770>
 
+*Matt DeMello is a composer and songwriter based in Peekskill, NY. Originally from the suburbs of Providence, RI, he grew up on a healthy diet of showtunes, hip-hop, and prog rock bands. He leads editorial content for Emerj Artificial Intelligence Research. He has hosted many a podcast in his time professionally, and can be heard hosting the 'AI in Business' podcast for Emerj and Captivity Scene. He is somehow[ best known](https://mattdemello.bandcamp.com/album/cassandra-abandoned-i-ii-marions-version) for a 2xLP+ "stoner Christmas rock opera" about Cassandra the Red-Nosed Reindeer leading a communist revolution of the North Pole in the War on Christmas, all because the fascist dictator Santa Claus deadnamed her.*  
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-p
+*Pat King (He/Him) is a songwriter, record nerd, publicist and reformed music writer who lives in the wonderful city of Philadelphia. To some, he is known as the leader of the Maximum Alt-Country band Labrador, whose new album 'My Version Of Desire' will be released on May 30th, 2025 via No Way Of Knowing and Safe Suburban Home Records.*
