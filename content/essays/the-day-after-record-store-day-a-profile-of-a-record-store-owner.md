@@ -6,7 +6,7 @@ summary: " Downtown Summit, New Jersey is a little less musical these days.
   has closed after 68 years of business."
 featuredImage: /images/upload/scotti.webp
 author: Mark Dempsey
-draft: true
+draft: false
 ---
 ![](/images/upload/scotti.webp)
 
