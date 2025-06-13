@@ -1,13 +1,13 @@
 ---
 title: "On “Don Juan’s Reckless Daughter” and Loving the Bloat "
-date: 2025-06-13T03:14:00.000Z
+date: 2025-06-13T04:21:00.000Z
 summary: " When I first heard Joni Mitchell’s polarizing and underdiscussed 1977
   double LP, Don Juan’s  Reckless Daughter, I didn’t much care for it. I
   appreciated its sprawling nature and orchestral  flourishes, but the songs
   themselves felt distant and obscure"
 featuredImage: /images/upload/djrd-banner.jpg
 author: Baxter Smith
-draft: true
+draft: false
 ---
 ![](/images/upload/djrd-banner.jpg)
 
