@@ -6,7 +6,7 @@ summary: "  Brian Wilson is dead. As many of us know, he leaves behind plenty of
   beloved LP: Pet Sounds."
 featuredImage: /images/upload/ps2.jpg
 author: Paul Bonanos
-draft: true
+draft: false
 ---
 ![](/images/upload/ps2.jpg)
 
