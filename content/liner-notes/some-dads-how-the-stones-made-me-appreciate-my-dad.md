@@ -1,6 +1,6 @@
 ---
 title: "Some Dads: How the Stones Made Me Appreciate My Dad"
-date: 2025-04-08T04:07:00.000Z
+date: 2025-06-15T08:01:00.000Z
 summary: " It’s no coincidence that Some Girls is my favorite Stones album. All
   of my from my childhood and youth are associated with music in one form or
   another, and I closely associate that album with my dad. My heart warms every
@@ -21,7 +21,7 @@ We have a good relationship. We always did, even when I rebelled in my teen year
 
 I’m 62 now, mostly removed from those praise-seeking days. Our relationship is on an even keel now; two adults talking baseball, mostly. I live across the street from my parents, having recently bought the house my father grew up in. We see each other often, and I treasure the time I spend with him now, even if we’re arguing about the Mets and Yankees.
 
-My dad is 85. You’d never know it if you met him; you’d spend a few minutes with him and swear he’s in his sixties. He’s fit, he’s healthy, he always appears to me as if he’s in the prime of his life. But I think about aging often, and I think too much, mostly at 3 a.m., of the inevitable. I’ve thought myself into a panic attack many times; that suffocating, anxious feeling of death hanging over you, that reaches you most often in the middle of the night but can grab you by surprise in the middle of the day.
+My dad is 84. You’d never know it if you met him; you’d spend a few minutes with him and swear he’s in his sixties. He’s fit, he’s healthy, he always appears to me as if he’s in the prime of his life. But I think about aging often, and I think too much, mostly at 3 a.m., of the inevitable. I’ve thought myself into a panic attack many times; that suffocating, anxious feeling of death hanging over you, that reaches you most often in the middle of the night but can grab you by surprise in the middle of the day.
 
 When these moments hit me, when I’m feeling like I don’t have enough time left with him, when I think that life is fleeting and I need to hold on to my memories of him even while we’re making more, I turn to the Stones. I put on “Far Away Eyes,” and I’m instantly comforted by the memory of him happily singing along in his office, unaware, or most likely unperturbed, that anyone was watching him. He sang to my siblings and meoften when we were young (“Daddy’s Little Girl” was particularly touching), despite his off kilter vocal styling. We would laugh and yell at him to not sing to us, please. But it was all in fun. We actually loved it when he sang. 
 
@@ -29,8 +29,6 @@ When these moments hit me, when I’m feeling like I don’t have enough time le
 
 I’m not a huge Stones fan. I think they have, at best, one or two good songs on each album, save for *Some Girls*, which is kind of perfect. I have other memories of this album, ones that don’t include my father, but “Far Away Eyes” will forever be the one I associate with his happiness. As time moves on, and we all get on in years and the inevitable marches toward us, we take what memories we have and hang on to them like amulets. I won’t always have my father, but I’ll always have this song, sung, in my head, not in Mick Jagger’s voice but in the off-key voice of my father. I wouldn’t have it any other way.
 
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VyK1bZZ7E-s?si=XZ5MUe5tYfv-Ahr9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
 
 *I Have That on Vinyl is a reader supported publication. If you enjoy what’s here please consider donating to the site’s writer fund:[ venmo](https://account.venmo.com/u/Michele-Catalano2659) //[ paypal](https://www.paypal.com/paypalme/goingitaloneny?country.x=US&locale.x=en_US)*. *Tips go toward paying writers, an editor and for site maintenance, You can also join the [Patreon](https://www.patreon.com/c/IHaveThatonVinyl).*
