@@ -1,6 +1,6 @@
 ---
 title: "Here and gone so fast: ‘Pet Sounds’ and my friend Tom"
-date: 2025-06-15T01:56:00.000Z
+date: 2025-06-15T04:24:00.000Z
 summary: "  Brian Wilson is dead. As many of us know, he leaves behind plenty of
   very well-known songs, a bunch of peculiar ones, and at least one essential,
   beloved LP: Pet Sounds."
