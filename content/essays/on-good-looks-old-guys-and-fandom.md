@@ -1,13 +1,13 @@
 ---
 title: On Good Looks, Old Guys, and Fandom
-date: 2025-06-15T20:53:00.000Z
+date: 2025-06-16T04:42:00.000Z
 summary: here aren’t exact metrics for this sort of thing, but by any you might
   name—hours spent listening to, shows attended, friends and strangers annoyed
   with unsolicited recommendations—the Austin, Texas indie outfit Good Looks is
   my favorite band
 featuredImage: /images/upload/bummer-year-cover.jpg
 author: Ryan Jones
-draft: true
+draft: false
 ---
 
 
