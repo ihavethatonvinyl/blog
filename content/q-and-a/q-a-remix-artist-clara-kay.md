@@ -1,11 +1,11 @@
 ---
 title: "Q&A Remix: Artist Clara Kay"
-date: 2025-06-15T20:57:00.000Z
+date: 2025-06-16T04:43:00.000Z
 summary: Q&A Remix is a frequent column on IHTOV in which people from all walks
   of life answer a set of questions about their vinyl collection. Today we
   welcome artist Clara Kay
 featuredImage: /images/upload/dsc09597-1-.jpg
-draft: true
+draft: false
 ---
 ![](/images/upload/dsc09597-1-.jpg)
 
