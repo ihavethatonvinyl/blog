@@ -1,8 +1,14 @@
 ---
 title: "Q&A Remix: Artist Clara Kay"
-date: 2025-06-15T01:59:00.000Z
+date: 2025-06-15T20:57:00.000Z
+summary: Q&A Remix is a frequent column on IHTOV in which people from all walks
+  of life answer a set of questions about their vinyl collection. Today we
+  welcome artist Clara Kay
+featuredImage: /images/upload/dsc09597-1-.jpg
 draft: true
 ---
+![](/images/upload/dsc09597-1-.jpg)
+
 *Q&A Remix is a frequent column on IHTOV in which people from all
 walks of life answer a set of questions about their vinyl collection.
 Today we welcome artist Clara Kay*
@@ -62,3 +68,11 @@ When I was younger, I was very precious with my records. I barely wanted to play
 **What’s the last record you played?**
 
 A Serato record! I used to DJ for fun, and I’m trying to get back into it now. I was re-familiarizing myself with the mixer’s hardware using Troye Sivan’s “Rush”. I learned how to DJ using real vinyl to start, but I think I’ll eventually make the switch over to digital for ease of travel.
+
+
+
+*Clara Kay (born Claire Hudson) is a singer-songwriter from Dallas, TX, now 
+based in Boston. After years of fronting rock bands and secretly writing
+ folk songs in her bedroom, she’s found her voice in the tension between
+ the two. Her music lives in the space where raw feeling meets sharp 
+storytelling. “On Purpose” is the first of many releases to come from her upcoming solo project.*
