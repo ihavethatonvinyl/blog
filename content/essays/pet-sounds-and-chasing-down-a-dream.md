@@ -1,6 +1,6 @@
 ---
 title: " Pet Sounds and Chasing Down a Dream"
-date: 2025-06-17T03:11:00.000Z
+date: 2025-06-17T04:25:00.000Z
 summary: On the day of the show, I made my way to Uncasville, CT; walked over to
   the place to get my ticket and then to the arena. A young woman was there
   waiting for me. “This way.” Holy crap this is it. I followed her, walking past
@@ -8,7 +8,7 @@ summary: On the day of the show, I made my way to Uncasville, CT; walked over to
   armchair.
 featuredImage: /images/upload/img_9525.jpg
 author: Nickolas Tsui
-draft: true
+draft: false
 ---
 ![](/images/upload/img_9525.jpg)
 
