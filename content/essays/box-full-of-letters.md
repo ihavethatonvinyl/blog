@@ -13,6 +13,8 @@ At the time I was a freelancer between paychecks, so I was making the walk of sh
 
 I’d haunted this shop for ages and knew all the guys who worked there. And it was very much a guy place. So I was surprised—embarrassed, really—to be facing someone younger, hipper, certainly cuter than my buddies. Don’t worry, I didn’t part with any real gems, mostly stuff I knew I could either live without or reacquire if needed. This being the early ‘90s, used records weren’t nearly as sought-after as they are today. Great for collecting; not so great for selling.
 
+![](/images/upload/img_7033.jpg)
+
 Small talk ensued, names were exchanged, I tried my best not to look like a broke-ass loser selling records. One of my buddies came over to complete the transaction. She looked on, not saying “Wow, nice records” or “You have great taste” or anything at all really.
 
 I left with cash in my pocket and that dull buzz in my stomach. You know how sometimes you meet someone and just have that feeling? I had that feeling. 
