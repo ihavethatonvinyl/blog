@@ -1,9 +1,9 @@
 ---
 title: Box Full of Letters
-date: 2025-06-18T03:26:00.000Z
+date: 2025-06-18T04:38:00.000Z
 featuredImage: /images/upload/img_7033.jpg
 author: Scott O'Kelley
-draft: true
+draft: false
 ---
 ![](/images/upload/img_7033.jpg)
 
