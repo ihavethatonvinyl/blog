@@ -5,7 +5,7 @@ featuredImage: /images/upload/img_7033.jpg
 author: Scott O'Kelley
 draft: false
 ---
-![](/images/upload/img_7033.jpg)
+![]()
 
 We met in a used record store. I was a customer; she was the clerk. 
 
@@ -76,7 +76,5 @@ On the drive down I played A.M., listened to “Box Full of Letters.” A lot. 
 *Guess I’ll give ‘em back*
 
 I cried. I felt good. Probably cried some more. Definitely smiled.
-
-
 
 *Scott O'Kelley is currently a counselor, educator, and state mental health director, who used to work in record stores. Now he just fantasizes about it. A lifelong music fan, he's been buying and listening to records since the Nixon administration.*
