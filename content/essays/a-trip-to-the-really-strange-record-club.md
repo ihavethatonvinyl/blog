@@ -1,13 +1,13 @@
 ---
 title: A Trip to The Really Strange Record Club
-date: 2025-06-19T21:34:00.000Z
+date: 2025-06-20T04:03:00.000Z
 summary: There aren’t a lot of places in London where you can go for a pint and
   expect to hear a 1950s record called ‘My Pussy Belongs to Daddy’, but
   Dreamhouse Records is one of them– at least it is when the Really Strange
   Record Club is in session
 featuredImage: /images/upload/screenshot-2025-06-19-at-9.35.57 pm.png
 author: Kate Bugos
-draft: true
+draft: false
 ---
 ![](/images/upload/screenshot-2025-06-19-at-9.35.57 pm.png)
 
