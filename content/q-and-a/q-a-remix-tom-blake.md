@@ -1,11 +1,11 @@
 ---
 title: "Q&A Remix: Tom Blake"
-date: 2025-06-19T21:32:00.000Z
+date: 2025-06-20T04:01:00.000Z
 summary: Q&A Remix is a frequent column on IHTOV in which people from all walks
   of life answer a set of questions about their vinyl collection. Today we
   welcome author, poet, and music journalist Tom Blake
 featuredImage: /images/upload/img_1777.jpeg
-draft: true
+draft: false
 ---
 ![](/images/upload/img_1777.jpeg)
 
