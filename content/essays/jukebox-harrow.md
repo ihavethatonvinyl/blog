@@ -1,13 +1,13 @@
 ---
 title: Jukebox Harrow
-date: 2025-06-21T19:23:00.000Z
+date: 2025-06-22T04:17:00.000Z
 summary: " I need as many song titles as I can get from the old jukebox at Fox
   and Hounds from the early 90s. I have some names, but I need more. All
   contributions are welcome. You will receive nothing in return but thanks from
   me and a grateful nation."
 featuredImage: /images/upload/screenshot-2025-06-21-at-7.28.55 pm.png
 author: Jim Parisi
-draft: true
+draft: false
 ---
 ![](/images/upload/screenshot-2025-06-21-at-7.28.55 pm.png)
 
