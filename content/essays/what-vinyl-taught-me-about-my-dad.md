@@ -1,13 +1,13 @@
 ---
 title: What Vinyl Taught Me About My Dad
-date: 2025-06-23T02:54:00.000Z
+date: 2025-06-23T04:23:00.000Z
 summary: Now, when I say this collection was eclectic, I mean there was
   everything from The Beatles, Santana, Anne Murry, Miriam Makeba, to the World
   of Strauss, and Bollywood and more. I flipped through every box, each record,
   unaware of just how passionate about music my dad truly was. 
 featuredImage: /images/upload/mom-and-dad-chilling.jpg
 author: Saffina Jinnah
-draft: true
+draft: false
 ---
 ![](/images/upload/mom-and-dad-chilling.jpg)
 
