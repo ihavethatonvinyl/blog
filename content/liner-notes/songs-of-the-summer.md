@@ -4,7 +4,7 @@ date: 2025-06-25T03:57:00.000Z
 summary: "The only redeeming thing about summer is music. Some songs just sound
   different when you’re driving with the windows down on Ocean Parkway. "
 featuredImage: /images/upload/listening-to-music-in-the-car-puts-them-in-a-better-mood-79961b58-44cf-4035-941b-00788a403749.webp
-draft: true
+draft: false
 ---
 ![](/images/upload/listening-to-music-in-the-car-puts-them-in-a-better-mood-79961b58-44cf-4035-941b-00788a403749.webp)
 
