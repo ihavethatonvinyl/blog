@@ -1,6 +1,6 @@
 ---
 title: MIchael, Muppets, and Memories
-date: 2025-06-27T02:48:00.000Z
+date: 2025-06-27T06:13:00.000Z
 summary: The boys found the record player in my mother’s basement in the toy
   room turned guest bedroom next to the stuffed animals. When I was a child in
   the 1980s she had one of those tall silver stereo cabinets with a glass door
@@ -8,7 +8,7 @@ summary: The boys found the record player in my mother’s basement in the toy
   Fire, Sesame Street, The Muppets, and “Purple Rain” by Prince.
 featuredImage: /images/upload/mupp.jpg
 author: Caleb Coy
-draft: true
+draft: false
 ---
 ![](/images/upload/mupp.jpg)
 
