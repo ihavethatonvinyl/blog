@@ -1,5 +1,5 @@
 ---
-title: "Introducing: The IHTOV Listener’s Club for Patreon Members"
+title: "Introducing: The IHTOV Listening Club for Patreon Members"
 date: 2025-06-28T07:07:00.000Z
 summary: "Join us at the Patreon as we embark on a new treat for members. We’re
   going to listen collectively to an album (on our own) and come back to the
