@@ -15,7 +15,7 @@ The first Saturday of every month I put up a poll of five albums within a theme.
 
 It might be an album you are already familiar with, giving you the chance to listen again and perhaps gain some new perspective on it. It might be an album you have never heard of, and you’ll be able to impart a new listener’s voice to the discussion. It is my hope this will be much like a book club, in which we talk about, dissect, and analyze, but mostly give our takes on the music and perhaps messages within. 
 
-The first Listener’s Club will kick off on July 5th with a poll. To start, we’re going to choose from some of my favorite albums. In the future, you will get to have a say in what we choose to listen to. 
+The first Listener’s Club will kick off on July 5th with a poll. We're going to be choosing albums that are self titled.
 
 This is an exclusive to Patreon members. [You can join the Patreon](https://www.patreon.com/c/IHaveThatonVinyl) for as little as $5 a month. With that, you get all the Patreon posts, extra content, and a free sticker, as well as frequent open discussions and access to the Listener’s Club. 
 
