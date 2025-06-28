@@ -4,10 +4,10 @@ date: 2025-06-28T07:07:00.000Z
 summary: "Join us at the Patreon as we embark on a new treat for members. We’re
   going to listen collectively to an album (on our own) and come back to the
   Patreon to discuss it. Here’s how it works:"
-featuredImage: /images/upload/screenshot-2025-06-27-at-6.22.14-pm.png
+featuredImage: /images/upload/screenshot-2025-06-28-at-9.44.56-am.png
 draft: false
 ---
-![](/images/upload/screenshot-2025-06-27-at-6.22.14-pm.png)
+![](/images/upload/screenshot-2025-06-28-at-9.44.56-am.png)
 
 Join us at the Patreon as we embark on a new treat for members. We’re going to listen collectively to an album (on our own) and come back to the Patreon to discuss it. Here’s how it works:
 
