@@ -44,9 +44,7 @@ I put the disc on the turntable and lowered the needle.  
 
 Well, damn. This was improvisation undertaken with more daring than any other musician I'd ever heard, including Ornette Coleman. Whoever he was, Bhimsen Joshi was no ordinary singer. There was serious crazy at work here, combined with an inner rigor that kept things from going completely off the rails. 
 
-Most of my friends from youth group were into the Grateful Dead (peace be upon them), Joni Mitchell, or some other facet of the white hippie scene. A few people knew a little about jazz, but nobody from my peer group was ready for Bhimsen Joshi. One or two called it "soothing," which  
-
-puzzled me; all I could hear were the juddering, multi octave melodies, sometimes careening to an obvious resolution, sometimes just...hanging there in mid-air. Not soothing at all; I thought this guy sounded possessed.  
+Most of my friends from youth group were into the Grateful Dead (peace be upon them), Joni Mitchell, or some other facet of the white hippie scene. A few people knew a little about jazz, but nobody from my peer group was ready for Bhimsen Joshi. One or two called it "soothing," which  puzzled me; all I could hear were the juddering, multi octave melodies, sometimes careening to an obvious resolution, sometimes just...hanging there in mid-air. Not soothing at all; I thought this guy sounded possessed.  
 
 I'd go into used record stores and buy any piece of Indian classical music I could find. I learned to avoid Indian pop music, mostly  film soundtracks that didn't scratch my itch. Once or twice I found another Bhimsen Joshi record, always on the same substandard  vinyl that attracted clicks, pops, and scratches like an overripe banana draws fruit flies. Once I went to the "world music" shelf at  Looney Tunes in Boston, located the plastic divider labeled "India," and found "Sounds of The Indianapolis 500," a disc of racecar  noises. To this day I regret not buying it. Ahem. 
 
