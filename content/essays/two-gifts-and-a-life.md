@@ -1,6 +1,6 @@
 ---
 title: Two Gifts And A Life
-date: 2025-06-28T20:23:00.000Z
+date: 2025-06-29T04:59:00.000Z
 summary: "   During Junior year, I befriended the late-night jazz DJ on the
   local public radio station. Steve started his show at 11 o'clock and 
   continued into the wee hours. A lonely night owl, I began calling with
@@ -8,7 +8,7 @@ summary: "   During Junior year, I befriended the late-night jazz DJ on the
   this day."
 featuredImage: /images/upload/screenshot-2025-06-28-at-8.21.05 pm.png
 author: Warren Senders
-draft: true
+draft: false
 ---
 ![](/images/upload/screenshot-2025-06-28-at-8.21.05 pm.png)
 
