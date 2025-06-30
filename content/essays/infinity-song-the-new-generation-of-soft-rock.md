@@ -1,13 +1,13 @@
 ---
 title: Infinity Song:The New Generation of Soft Rock
-date: 2025-06-29T21:53:00.000Z
+date: 2025-06-30T04:28:00.000Z
 summary: Pure Talent, Raw Passion and Self Discovery are not just words used to
   describe Infinity Song’s latest album “Metamorphosis”, but are emotions and
   actions the album implores you to explore, this body of work that channels the
   raw emotions of growing and figuring out who you're meant to be. 
 featuredImage: /images/upload/infinity-song-vinyl.webp
-author: Oluwatobi aka Tobi Toshh
-draft: true
+author: " Tobi Toshh"
+draft: false
 ---
 ![](/images/upload/infinity-song-vinyl.webp)
 
