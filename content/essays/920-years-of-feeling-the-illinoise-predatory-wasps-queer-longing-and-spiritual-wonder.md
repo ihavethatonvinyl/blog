@@ -1,5 +1,5 @@
 ---
-title: "920 Years of Feeling the Illinoise: Predatory Wasps, Queer Longing, and
+title: "20 Years of Feeling the Illinoise: Predatory Wasps, Queer Longing, and
   Spiritual Wonder"
 date: 2025-07-04T04:22:00.000Z
 summary: " I’ve never asked Ben if he read Pitchfork back then, but it seems
