@@ -1,6 +1,6 @@
 ---
 title: Leo Sayer and the Saviors of Rock and Roll
-date: 2025-07-05T20:44:00.000Z
+date: 2025-07-06T04:04:00.000Z
 summary: We listen to prog rock and punk rock and never pop rock or disco or,
   god forbid, Journey. We think guitar solos are passé but drum solos rock the
   house. We think Peter Gabriel is a genius and bands like Kansas need to be
@@ -8,7 +8,7 @@ summary: We listen to prog rock and punk rock and never pop rock or disco or,
   years later, when we laugh about David Lee Roth from the safe distance of many
   years.
 featuredImage: /images/upload/leosayer.jpg
-draft: true
+draft: false
 ---
 ![](/images/upload/leosayer.jpg)
 
