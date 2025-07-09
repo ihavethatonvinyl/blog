@@ -1,6 +1,6 @@
 ---
 title: Mystery Prize Inside (My Favorite Inserts)
-date: 2025-07-08T20:05:00.000Z
+date: 2025-07-09T04:48:00.000Z
 summary: "Cracker Jacks, cereal boxes in the 90’s, Kinder Eggs. What makes these
   things appealing, aside from a diabetic coma-inducing levels of sugar, is that
   it comes with a prize inside. A cheap harmonica, a branded figurine, X-ray
@@ -9,7 +9,7 @@ summary: "Cracker Jacks, cereal boxes in the 90’s, Kinder Eggs. What makes the
   losing your health but who needs it). Records are the same way. "
 featuredImage: /images/upload/20250531_123411.jpg
 author: Jason Bombach
-draft: true
+draft: false
 ---
 ![](/images/upload/20250531_123411.jpg)
 
