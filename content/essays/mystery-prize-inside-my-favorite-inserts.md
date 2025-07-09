@@ -1,0 +1,36 @@
+---
+title: Mystery Prize Inside (My Favorite Inserts)
+date: 2025-07-08T20:05:00.000Z
+summary: "Cracker Jacks, cereal boxes in the 90’s, Kinder Eggs. What makes these
+  things appealing, aside from a diabetic coma-inducing levels of sugar, is that
+  it comes with a prize inside. A cheap harmonica, a branded figurine, X-ray
+  specs, you name it, it could be inside what was already a treat. Just a little
+  something extra. A prize for winning at enjoying your life (and mostly likely
+  losing your health but who needs it). Records are the same way. "
+featuredImage: /images/upload/20250531_123411.jpg
+author: Jason Bombach
+draft: true
+---
+![](/images/upload/20250531_123411.jpg)
+
+Cracker Jacks, cereal boxes in the 90’s, Kinder Eggs. What makes these things appealing, aside from a diabetic coma-inducing levels of sugar, is that it comes with a prize inside. A cheap harmonica, a branded figurine, X-ray specs, you name it, it could be inside what was already a treat. Just a little something extra. A prize for winning at enjoying your life (and mostly likely losing your health but who needs it). Records are the same way. These objects which are already made for pure enjoyment sometimes have an extra something inside to enhance the experience or give context to what you’re hearing. It could be as simple as a lyric sheet or it could be a whole other sensory experience. The excitement! I’m gonna go over some of my personal favorites from my collection and talk about what makes a good insert. Let’s dive in or open up in this case I guess. 
+
+  Let’s start with the most common of inserts, the lyric sheet. As I talked about in my [previous article](https://ihavethatonvinyl.com/essays/what-makes-good-album-art/), an insert with lyrics and credits isn’t necessary but it is nice. Especially when you listen to heavier music like me, it’s sometimes nice to make sure, before the hooky riff gets to you, that the band aren’t a bunch of Nazis. The lyric sheet can be as simple as one page or sprawl out into a full zine like *Not So Quiet On The Western Front*. I guess it depends on how mysterious you want to be. It doesn’t have to be just lyrics either. I have a spoken word record by the comic book artist Alan Moore called *Unearthed* that has a full dot matrix print out of the script, in case you want to follow along.
+
+  Another favorite insert of mine is the fold out poster. The only reason I’d ever get a bigger house is to hang up more art. I have tons of posters and prints lying around aching to adorn a wall but my 700sqft is all used up. It’s no surprise either when you can get something as large as my Joyce Manor poster or the newsprint poster inside my copy of *Minimum Rock’n’Roll* by Chain and The Gang. With two folds, this thing folds out to be the size of a small toddler. To get the same poster in a CD case, it’s be more origami than poster. The poster is also the perfect combo for the young listener. Before you get older and end up possibly having to share your space with someone who doesn’t share your taste in decor, there’s nothing better to tack to your walls than art from your records. Let everyone know how cool you are and that your tastes are perfect.
+
+
+
+As I said, most inserts I feel are optional. They are just a nice bonus to go with the main attraction, your music. But there is one type of insert I think should be obligatory and that is the humble download code. I started collecting records in the era of the iPod, a device I have a deep love of ([as you can read here](https://amadcap.tumblr.com/post/694056462233812992/defense-of-a-device-that-does-just-one-thing)). While records obviously sound better and have an overall more enriching experience, having your whole collection (plus some if you were sailing the internet seas, or so I hear) in your pocket, is how this lifelong graveyard shift worker in a household of light sleepers was able to listen to so much music. Having whatever you could find at your fingertips in your car, over the speakers at work, or out on walks, meant having a digital copy of a record was mostly how I listened to it. That might be sacrilege on a site dedicated to vinyl but it’s true and I think labels knew it to be true to. So it was a genius ploy to include with your record a code to download the MP3’s and enjoy your new record on the go. You didn’t have to choose between quality and convenience. Have both! 
+
+  Sadly, as with a lot of the music listening experience, streaming has seemed to ruin this and I think that’s a shame. But that would be a whole other article if I get started on that. Needless to say, I think we should bring back the download card. If I can only listen to your record at home on my stereo and on Spotify with ads breaking in, I’m just not gonna listen to it much, even if I love it. 
+
+![](/images/upload/20250531_123054.jpg)
+
+  So far we’ve covered the basic types of inserts you’ll find in a record. In fact, now that I’m looking back, they’ve all just been bits of paper with writing on them to varying degrees of complexity. But believe it or not, you can be more creative than that. There are some inserts that can change the rest of the artwork, like the Wooden Shjips album *Back to Land* that highlights different parts of the insert depending on how you put it in the sleeve. This interaction between insert and cover opens the door to all types of audience participation. Blur the lines. Maybe put a pack of stickers inside and let everyone decorate the cover as they see fit. (I’m sure I had a record like that but I can’t recall by who for the life of me.)
+
+  Jack White’s Third Man Records is the gold standard for odd inserts (for better or worse) and as a long time member of their Vault subscription, I’ve had a lot of interesting things tumble out of a record sleeve. There have been postcards, film prints, patches and other, smaller records. But I think my favorite is the replica trout mask in their reprint of *Trout Mask Replica*. Stealing the idea from the cut outs of The Beatles in *St. Peppers*, freak out your friends by telling them they've become fast and bulbous. I love this not only because it’s a solid bit, but because of how tactile it is. In a similar vein, the slowcore band [deathcrash](https://deathcrash.bandcamp.com/album/less-2) has a build it yourself cardboard sculpture to go with their second record *Less* that is a miniature version of the one on the cover. It’s great to have an art project to fidget with while listening to a record.
+
+The only real limitation on what you can insert into the packaging of a record is thickness. Although, now that I say that, I doubt you’d want to have any liquids sloshing around in there and any white powders might get you a visit from the Feds. Other than that, go crazy. Life is full of surprises. Why shouldn’t your records also be! Until next time, good luck out there.
+
+*Jason Bombach is an aging left wing punk who makes music under the name [History History](https://historyhistory.bandcamp.com/), writes, and shoots film. But mostly he scrubs toilets for money and is an organizer for the IWW. Check out his YouTube channel [Death to The Algorithm](https://www.youtube.com/@DeathtotheAlgorithm) or don’t. Yell at him on Bluesky at [thecurmudgeon.bsky.social](https://bsky.app/profile/thecurmudgeon.bsky.social)*
