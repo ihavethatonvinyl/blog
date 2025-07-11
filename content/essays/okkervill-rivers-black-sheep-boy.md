@@ -1,5 +1,5 @@
 ---
-title: Okkervill River's Black Sheep Boy
+title: "Love at the Abbey Pub: Okkervill River's Black Sheep Boy"
 date: 2025-07-10T22:04:00.000Z
 summary: "The music itself deserves attention on it’s own, but one literally
   cannot listen to Okkervil River without diving into the lyrics. In this album,
