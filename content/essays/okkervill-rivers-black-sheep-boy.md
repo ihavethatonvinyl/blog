@@ -1,6 +1,6 @@
 ---
 title: "Love at the Abbey Pub: Okkervill River's Black Sheep Boy"
-date: 2025-07-10T22:04:00.000Z
+date: 2025-07-11T05:48:00.000Z
 summary: "The music itself deserves attention on it’s own, but one literally
   cannot listen to Okkervil River without diving into the lyrics. In this album,
   alone, Will has cobbled together some of the best word play and poetry that
@@ -8,7 +8,7 @@ summary: "The music itself deserves attention on it’s own, but one literally
   in their tracks by. "
 featuredImage: /images/upload/okk.jpg
 author: Penelope Khole
-draft: true
+draft: false
 ---
 ![](/images/upload/okk.jpg)
 
