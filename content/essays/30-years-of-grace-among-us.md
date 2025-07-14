@@ -1,6 +1,6 @@
 ---
 title: 30 Years of "Grace" Among Us
-date: 2025-07-14T03:34:00.000Z
+date: 2025-07-14T04:17:00.000Z
 summary: "  Needle dropping on the gold vinyl. Slow spinning, soft humming. A
   moment of silence. Then, out of those golden lines, a golden voice: Jeff
   Buckley, for the first time, sang through the speakers in my office, bouncing
@@ -8,7 +8,7 @@ summary: "  Needle dropping on the gold vinyl. Slow spinning, soft humming. A
   vinyl."
 featuredImage: /images/upload/grace-gold.001.jpeg
 author: " Erik Avilez"
-draft: true
+draft: false
 ---
 ![](/images/upload/grace-gold.001.jpeg)
 
