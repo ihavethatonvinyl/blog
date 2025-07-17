@@ -1,16 +1,16 @@
 ---
 title: "Falling Through the Stars: Mike Doughty's \"Haughty Melodic\" and a Lost
   Friendship"
-date: 2025-07-16T17:14:00.000-04:00
+date: 2025-07-17T03:54:00.000-04:00
 summary: In 2005. I joined an online forum called Fark dot com, whose logo was a
   squirrel with giant balls. I treated the site with all the seriousness it
   deserved, which is to say, none.
 featuredImage: /images/upload/hm.jpg
-draft: true
+draft: false
 ---
+
+
 ![](/images/upload/hm.jpg)
-
-
 
 In 2005 I joined an online forum called Fark dot com, whose logo was a squirrel with giant balls. I treated the site with all the seriousness it deserved, which is to say, none. I didn't join the forum to make friends or talk politics or anything that might be worth my time; I joined because the people on it were funny as hell and laughing my way through my otherwise tumultuous life was a good way to spend time. 
 
@@ -77,7 +77,6 @@ My husband, my partner of 14 years, left me, suddenly and shockingly. I emailed 
 *Don't fall through the stars, don't fall through them*
 
 After my husband left, I experienced a series of medical ailments that required hospitalization and going on sick leave from work. My emails to and from M were now short and stilted. “How are you?” “Fine, kids are good. Hope all is well.” Like emails 10 years after graduation between college roommates who keep in touch only because they feel obligated. And that was just it—I had become an obligation to M. So I stopped texting to the void. I stopped sending emails to an uninterested party. I stopped hoping our friendship would survive this. I stopped listening to *Haughty Melodic*. 
-
 
 She fell through the stars. 
 
