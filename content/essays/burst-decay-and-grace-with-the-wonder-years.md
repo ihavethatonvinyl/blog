@@ -6,7 +6,7 @@ summary: "Generally speaking, those questions assume a static interaction: going
   is not what The Wonder Years do, though, and it never really has been."
 featuredImage: /images/upload/twy.bnd3.jpg
 author: Timothy Jackson
-draft: true
+draft: false
 ---
 ![](/images/upload/twy.bnd3.jpg)
 
