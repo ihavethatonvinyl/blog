@@ -28,15 +28,6 @@ It’s not just semantics with bridge words, though. The band has gotten better 
 
 That’s what happens on a song-by-song basis. There is something larger at play, too. After a half hour and change, and the time to process it all, you will start to see how the differences stack up. Words like “reinterpretation” and “reshape” give way to ones like “repurpose” and “renew.” Small changes combine to be of large, meaningful consequence. You start to feel like you can extend yourself the same grace and love in a way you thought was only in the past, tiny piece by tiny piece. 
 
-What I want to tell you is how much I want to cry each time I listen to these songs. 
-
-[The Wonder Years are always trying to give you your money’s worth⁠. If you’ve followed them at all through their history you know the distinct efforts they make to offer you something else, in addition to any new merch. More than anything, they act with intent and offer conviction. 
-
-The thing about The Wonder Years is they’re always trying to give you your money’s worth. If you’ve followed the band at all through their history, you know they’re doing unique things almost every tour and album cycle. Beyond merch, they’ve played four release shows in 24 hours. They’ve opened to sound checks before shows. They’ve offered record bundles with releases for people in different price tiers and are constantly trying to make sure listeners all over the world have a domestic webstore so they can get their work without being price gouged.]
-
-
-
-
 
 
 *Tim Jackson is a writer from New Jersey who did most of his growing up in Philadelphia. He lives in Warren county with his wife, dog, and plants.*
