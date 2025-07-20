@@ -9,10 +9,11 @@ summary: "  My current vinyl collection comprises 52 albums that belonged to my
   late 2020 my ex-husband decided these records should reside with me and so
   they reside with me. I loved my mother-in-law very much. I loved her so much I
   let her die without knowing that her son had left me. "
+featuredImage: /images/upload/img_8774.jpeg
 author: Laura Lippman
 draft: true
 ---
-
+![](/images/upload/img_8774.jpeg)
 
 My current vinyl collection comprises 52 albums that belonged to my late mother-in-law and most of it sucks.
 
@@ -77,3 +78,7 @@ It was the clear-eyed Sondheim, working from within a genre so many deride as co
 *I’ve done it three or four times.* 
 
 Me?  I’m stopping at two.
+
+
+
+*Laura Lippman is a New York Times bestselling writer who has published 30 books to date: 25 novels, a novella, two short story anthologies, an essay collection and a children’s book. Her latest book, Murder Takes a Vacation, was published last month. She lives in Baltimore and New Orleans with her daughter.*
