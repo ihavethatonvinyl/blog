@@ -1,6 +1,6 @@
 ---
 title: My Mother-in-Law’s Records
-date: 2025-07-21T04:17:00.000-04:00
+date: 2025-07-21T04:24:00.000-04:00
 summary: "  My current vinyl collection comprises 52 albums that belonged to my
   late mother-in-law and most of it sucks. “Sucks” is too harsh. It includes a
   smattering of classical and opera, a few out-and-out duds (Andy Williams), and
