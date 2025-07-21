@@ -79,6 +79,4 @@ It was the clear-eyed Sondheim, working from within a genre so many deride as co
 
 Me?  I’m stopping at two.
 
-
-
 *Laura Lippman is a New York Times bestselling writer who has published 30 books to date: 25 novels, a novella, two short story anthologies, an essay collection and a children’s book. Her latest book, Murder Takes a Vacation, was published last month. She lives in Baltimore and New Orleans with her daughter.*
