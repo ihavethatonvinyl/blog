@@ -7,9 +7,12 @@ summary: I was born in spring 1961, in Brooklyn NY. My parents, in their early
   jazz albums which I found ignorable when dad played them. Mom and Dad were
   born just a little too early for rock’n’roll generally, but there were two
   albums in our house that I have always seen as my primal touchstones. 
+featuredImage: /images/upload/nancykay-jocko2025-1.jpeg
 author: NancyKay Shapiro
-draft: true
+draft: false
 ---
+![](/images/upload/nancykay-jocko2025-1.jpeg)
+
 I was born in spring 1961, in Brooklyn NY. My parents, in their early 30s, had a small assortment of records, infrequently added-to. There were some cast albums, a record of James Bond movie themes, , and some classical and jazz albums which I found ignorable when dad played them. Mom and Dad were born just a little too early for rock’n’roll generally, but there were two albums in our house that I have always seen as my primal touchstones. 
 
 One was the soundtrack to the Beatles’ first film, *A Hard Day’s Night*. (Dad was ostensibly too old for rock’n’roll, nonetheless he bought each Beatles album as it came out, mainly for me, but he did listen to them.) 
@@ -25,7 +28,5 @@ I can *just about* grasp the very fuzzy edge of memory of hearing these songs as
 My folks had what I guess would’ve been called a hi-fi at the time: a turntable connected to a box that lit up and had vacuum tubes visible inside behind a grill; this in turn powered a single speaker about the size of a milk crate. This set-up lived in the dining room of our house in Flatbush, and was audible throughout the first floor—kitchen, dining room, living room. When I was allowed to listen to records, I’m pretty sure I had to earn the right to operate the turntable by myself; at first one of the grown-ups would have to appear at record’s end and flip it over. (Of course one or the other of them was always close by.)
 
 When I began writing this I thought I’d discuss the individual tracks on the record in more detail, but now I find myself pondering memory. I’ve learned that the more one accesses a given memory, the flimsier it becomes. Do I *truly* recall my state of being as a pre-literate pre-toddler? The memories tend to be kind of static; settings rather than scenes. I often sat underneath the baby grand piano while at play with a record on; it seemed like a bespoke shelter for little me (no one played it). I was excited by music but still years away from developing taste and beginning to buy 45s myself. Still ignorant of race let alone of racial discrimination, I didn’t understand the ‘difference’ between the Jocko compilation album and that Beatles LP. There were a thousand differences and more, of course.
-
-
 
 *NancyKay Shapiro grew up on Long Island, lives in Manhattan, and is ruled by a small blonde dog and an ever leaping and bounding vinyl & book collection. She used to be a copywriter; now is a thrilled retiree.*
