@@ -1,6 +1,6 @@
 ---
 title: Coldplay's "The Scientist" and Break Up Grief
-date: 2025-07-23T15:54:00.000-04:00
+date: 2025-07-24T05:35:00.000-04:00
 summary: Enter Coldplay. I distinctly remember the day I listened. It was
   February, one month after he left. I was still new to feeling alone, to
   feeling both rage and sorrow. I was stumbling in the dark, unable to find a
