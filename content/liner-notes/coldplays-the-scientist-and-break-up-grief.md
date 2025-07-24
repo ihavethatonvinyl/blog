@@ -7,8 +7,11 @@ summary: Enter Coldplay. I distinctly remember the day I listened. It was
   light switch. I needed to highlight my emotions, to let them shine, to
   actually feel my feelings. It was the only way through. I don’t know why I
   picked Coldplay.
+featuredImage: /images/upload/img_0201.jpg
 draft: true
 ---
+![](/images/upload/img_0201.jpg)
+
 The only Coldplay album I own is *A Rush of Blood to the Head*. I was never a huge fan of theirs, but my daughter went through a big Coldplay phase, and I must have bought the album during that time period. I’m a big fan of playing music everyone in the house will like, and this was especially true when Natalie was living with me.
 
 Shortly after my marriage ended one winter day in 2021, I decided to pull the album out. I was looking for *something*. I was looking for a song thåt would finish me. I had been crying on and off, feeling depressed and lonely and like life was never going to be the same again. It wasn’t. It would never be the same. Fourteen years of love and companionship were slipping away from me, leaving me bereft. I didn’t know what to do with my feelings; I didn’t know how to articulate them or find my way around them. I didn’t *want* to feel. I wanted to be numb forever, to protect myself from what might happen if I let my emotions go.
@@ -16,7 +19,6 @@ Shortly after my marriage ended one winter day in 2021, I decided to pull the al
 Enter Coldplay. I distinctly remember the day I listened. It was February, one month after he left. I was still new to feeling alone, to feeling both rage and sorrow. I was stumbling in the dark, unable to find a light switch. I needed to highlight my emotions, to let them shine, to actually feel my feelings. It was the only way through. I don’t know why I picked Coldplay. I had the National, my constant companion through all the harrowing times that led up to the separation. I had Boygenius. I had so much sad music to listen to, yet something led me to this album I never really listened to before, and had just as an accessory. 
 
 I sort of paid attention, drifiting emotionally while scrolling on my phone, as the first three songs played. Nice album. Good music.
-
 
 And then came “The Scientist.” From the first piano notes, I was pulled in. Before Chris Martin even sang a word, the song had a *tone*. I was alert. I was paying attention. I pulled up the words and read along as I listened. And I let the lyrics and the music move me. *Oh take me back to the start.*
 
@@ -63,3 +65,7 @@ Not to the start of our relationship, not even to a spot where it was good, beca
 “The Scientist” can be read a lot of ways. I prefer to read it my way, to embrace it as my “let go” song, to see it as a way to relieve myself of the tears that want to get out so badly.  Every time I feel like crying, every time I think of him and how much of a shame it was for us to part, I put the album on. I let the first three songs play out, waiting for that climax, those first notes, the pained voice. 
 
 This is my song. I’m going back to the start.
+
+
+
+*I Have That on Vinyl is a reader supported publication. If you enjoy what’s here please consider donating to the site’s writer fund:[ venmo](https://account.venmo.com/u/Michele-Catalano2659) //[ paypal](https://www.paypal.com/paypalme/goingitaloneny?country.x=US&locale.x=en_US)*. *Tips go toward paying writers, an editor and for site maintenance, You can also join the[ Patreon](https://www.patreon.com/c/IHaveThatonVinyl).*
