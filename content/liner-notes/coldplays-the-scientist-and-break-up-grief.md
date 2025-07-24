@@ -50,7 +50,7 @@ If only. If only everything was circular and led back to where we started. If on
 
 *It’s such a shame for us to part*
 
-Such a cruel thing to happen, Especially when you don’t know why it happened, or even how. One minute he was here, sitting on our couch, in our living room, in our house, and the next he was gone, out the door for good, a disappearing act that would rival most magicians. I was left with a house that suddenly seemed cavernous. Filling that house with his music a month later seemed like the only way to combat all that. Feel my feelings. Experience my emotions. Listen to “The Scientist” enough times to have it make a room inside my heart, enough times to learn all the words, to take them in and spit them out as my own, to match what Martin was singing with what I was feeling.
+Such a cruel thing to happen, Especially when you don’t know why it happened, or even how. One minute he was here, sitting on our couch, in our living room, in our house, and the next he was gone, out the door for good, a disappearing act that would rival most magicians. I was left with a house that suddenly seemed cavernous. Filling that house with this music a month later seemed like the only way to combat all that. Feel my feelings. Experience my emotions. Listen to “The Scientist” enough times to have it make a room inside my heart, enough times to learn all the words, to take them in and spit them out as my own, to match what Martin was singing with what I was feeling.
 
 I owe so much to this song, this whole album. So much is said about Coldplay—especially this week—and not a lot of it is good. But I will forever treasure “The Scientist” as a piece of art. The way the words wind themselves around me, forming a rope that squeezes my heart, extracting every last emotion from it.
 
@@ -65,7 +65,5 @@ Not to the start of our relationship, not even to a spot where it was good, beca
 “The Scientist” can be read a lot of ways. I prefer to read it my way, to embrace it as my “let go” song, to see it as a way to relieve myself of the tears that want to get out so badly.  Every time I feel like crying, every time I think of him and how much of a shame it was for us to part, I put the album on. I let the first three songs play out, waiting for that climax, those first notes, the pained voice. 
 
 This is my song. I’m going back to the start.
-
-
 
 *I Have That on Vinyl is a reader supported publication. If you enjoy what’s here please consider donating to the site’s writer fund:[ venmo](https://account.venmo.com/u/Michele-Catalano2659) //[ paypal](https://www.paypal.com/paypalme/goingitaloneny?country.x=US&locale.x=en_US)*. *Tips go toward paying writers, an editor and for site maintenance, You can also join the[ Patreon](https://www.patreon.com/c/IHaveThatonVinyl).*
