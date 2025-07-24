@@ -8,7 +8,7 @@ summary: Enter Coldplay. I distinctly remember the day I listened. It was
   actually feel my feelings. It was the only way through. I don’t know why I
   picked Coldplay.
 featuredImage: /images/upload/img_0201.jpg
-draft: true
+draft: false
 ---
 ![](/images/upload/img_0201.jpg)
 
