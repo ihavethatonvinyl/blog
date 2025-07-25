@@ -1,11 +1,11 @@
 ---
 title: Q&A Remix With Alexei Shishkin
-date: 2025-07-24T14:53:00.000-04:00
+date: 2025-07-25T04:17:00.000-04:00
 summary: "Q&A Remix is a frequent column on IHTOV in which people from all walks
   of life answer a set of questions about their vinyl collection. Today we
   welcome musician Alexei Shishkin "
 featuredImage: /images/upload/alexei.jpg
-draft: true
+draft: false
 ---
 *Q&A Remix is a frequent column on IHTOV in which people from all walks of life answer a set of questions about their vinyl collection. Today we welcome* *musician Alexei Shishkin* 
 
