@@ -41,7 +41,7 @@ Few albums evoke a sense of place quite like the 1963 release, *Live at the Apol
 
 *Mr. Dynamite, the amazing Mr. Please Please himself, the star of the show James Brown and The Famous Flames!*
 
-Yeah, that James Brown. And that would be the Apollo Theater on 125th Street in Harlem, New York City. Perhaps the greatest monument of Black music in the United States, if not the world. 
+Yeah, that James Brown. And that would be the Apollo Theater on 125th Street in Harlem, New York City. Perhaps the greatest monument to Black music in the United States, if not the world. 
 
 Entire books have been written about *Live at the Apollo* but in the spirit of the album itself (just over 30 minutes long), I will keep the history brief. Brown was already known and beloved throughout Black America in 1962 but hadn’t quite broken through on the pop charts. He decided to record his midnight show at the Apollo on October 24, 1962 and release it as a live album.
 
@@ -65,7 +65,7 @@ As is the case with every used record I’ve acquired, my *Live at the Apollo* h
 
 As I mentioned, the vinyl is generally in great shape, which makes me wonder how often this treasure was played. Or maybe it was just very well taken care of. 
 
-In any event, my copy of *Live at the Apollo* has its own personal history, which I enhanced this week when I returned the record to the source of its creation, the mother house itself, the Apollo Theater. 
+My copy of *Live at the Apollo* has its own personal history, which I enhanced this week when I returned the record to the source of its creation, the mother house itself, the Apollo Theater. 
 
 We had started our afternoon at the Cloisters, a museum that I love. High above the Hudson River, the Cloisters (a branch of the Metropolitan Museum of Art) is filled with medieval art, much of it religious. Regardless of one’s spiritual bent, visiting the Cloisters can be an ethereal and haunting experience. 
 
@@ -77,6 +77,6 @@ I have been on 125th Street twice before, just to see the Apollo from my car. Bu
 
 After taking the necessary photos in front of the Apollo, we grabbed something to eat and then made one more stop, at the nearby Marcus Garvey Park, site of the 1969 concert series brilliantly resurrected by Questlove in his Academy Award-winning documentary film, *Summer of Soul*. 
 
-We will hopefully return to the area sometime soon, to tour the Apollo and to hit up Ulysses S. Grant’s nearby tomb, which was closed (Donna and I have been there; Chris has not). But in the meantime, we headed home happy to have had an extraordinarily soulful afternoon. Because soul—in many senses of the word--is where you find it and we found it in the Washington Heights and Harlem neighborhoods in New York City this week.
+We will hopefully return to the area sometime soon, to tour the Apollo and to hit up Ulysses S. Grant’s nearby tomb, which was closed (Donna and I have been there; Chris has not). But in the meantime, we headed home happy to have had an extraordinarily soulful afternoon. Because soul—in many senses of the word--is where you find it and we found it in the Washington Heights and Harlem neighborhoods in New York City.
 
-*Rich Wilhelm is a writer and record collector who lives in Royersford, Pennsylvania. Rich is the news editor for the communications department at ASTM International. He has written extensively for Cool and Strange Music Magazine, [PopMatters](https://www.popmatters.com/author/richwilhelm), and his own website, [The Dichotomy of the Dog](https://dichotomy-of-the-dog.beehiiv.com/?_gl=1*iyco31*_gcl_aw*R0NMLjE3NDA2OTAzODIuRUFJYUlRb2JDaE1JM09ici11RGtpd01WV1MzVUFSMkhRaVRZRUFBWUFTQUFFZ0lYVmZEX0J3RQ..*_gcl_au*MTAzMDk3MDY2NC4xNzQwNjkwMzgw*_ga*NzQ4MzYxMjAxLjE3NDA2OTAzODA.*_ga_E6Y4WLQ2EC*MTc0MDgyMDYxNy4yLjEuMTc0MDgyMzI1NC42MC4xLjEwOTc5ODYyNDU.). Rich is also a certified volunteer tour guide at Laurel Hill Cemetery in Philadelphia, Pennsylvania. Rich can be found on social media at Bluesky (@rfwilhelm.bsky.social).*
+*Rich Wilhelm is a writer and record collector who lives in Royersford, Pennsylvania. Rich is the news editor for the communications department at ASTM International. He has written extensively for Cool and Strange Music Magazine, [PopMatters](https://www.popmatters.com/author/richwilhelm), and his own website, \[The Dichotomy of the Dog](https://dichotomy-of-the-dog.beehiiv.com/?_gl=1*iyco31*_gcl_aw*R0NMLjE3NDA2OTAzODIuRUFJYUlRb2JDaE1JM09ici11RGtpd01WV1MzVUFSMkhRaVRZRUFBWUFTQUFFZ0lYVmZEX0J3RQ..*_gcl_au*MTAzMDk3MDY2NC4xNzQwNjkwMzgw*_ga*NzQ4MzYxMjAxLjE3NDA2OTAzODA.*_ga_E6Y4WLQ2EC*MTc0MDgyMDYxNy4yLjEuMTc0MDgyMzI1NC42MC4xLjEwOTc5ODYyNDU.). Rich is also a certified volunteer tour guide at Laurel Hill Cemetery in Philadelphia, Pennsylvania. Rich can be found on social media at Bluesky (@rfwilhelm.bsky.social).*
