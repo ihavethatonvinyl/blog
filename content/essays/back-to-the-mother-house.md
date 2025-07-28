@@ -1,6 +1,6 @@
 ---
 title: Back to the Mother House
-date: 2025-07-28T03:42:00.000-04:00
+date: 2025-07-28T04:24:00.000-04:00
 summary: " Entire books have been written about Live at the Apollo but in the
   spirit of the album itself (just over 30 minutes long), I will keep the
   history brief. Brown was already known and beloved throughout Black America in
@@ -9,7 +9,7 @@ summary: " Entire books have been written about Live at the Apollo but in the
   album."
 featuredImage: /images/upload/image1-7-.jpeg
 author: "Rich Wilhelm "
-draft: true
+draft: false
 ---
 ![](/images/upload/image1-7-.jpeg)
 
