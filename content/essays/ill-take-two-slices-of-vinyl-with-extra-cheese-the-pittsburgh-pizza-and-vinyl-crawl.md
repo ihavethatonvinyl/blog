@@ -1,7 +1,7 @@
 ---
 title: "I'll Take Two Slices of Vinyl With Extra Cheese: The Pittsburgh Pizza
   and Vinyl Crawl"
-date: 2025-07-30T02:48:00.000-04:00
+date: 2025-07-30T03:55:00.000-04:00
 summary: The instructions are simple. Pick any vinyl shop to start. Shop, but
   don’t blow your budget all at once. You have more stops to make! After you
   make your choice of vinyl, proceed to the first pizza shop on your list for A
@@ -9,7 +9,7 @@ summary: The instructions are simple. Pick any vinyl shop to start. Shop, but
   only does whole pies, order a small and split it among your party.
 featuredImage: /images/upload/img_2878-1-.jpg
 author: Vincent T. Ciaramella
-draft: true
+draft: false
 ---
 ![](/images/upload/img_2878-1-.jpg)
 
