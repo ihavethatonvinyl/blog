@@ -1,12 +1,12 @@
 ---
 title: The Record Store That Raised Me
-date: 2025-07-31T16:24:00.000-04:00
+date: 2025-08-01T04:57:00.000-04:00
 summary: Rick’s wasn’t just a record store. It was my church, my classroom, my
   after-school program, and—maybe most importantly—my first real sense of
   belonging.
 featuredImage: /images/upload/img_1667.jpeg
 author: Lauren Bennett
-draft: true
+draft: false
 ---
 
 
