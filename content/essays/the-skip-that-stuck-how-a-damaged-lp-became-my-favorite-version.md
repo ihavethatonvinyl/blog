@@ -1,6 +1,6 @@
 ---
 title: "The Skip That Stuck: How a Damaged LP Became My Favorite Version"
-date: 2025-08-03T20:17:00.000-04:00
+date: 2025-08-04T04:47:00.000-04:00
 summary: "  I was seventeen when I bought a scratched record called Rumours by
   Fleetwood Mac, found in a dusty record bin at a thrift shop in Nairobi. It was
   not a collector's dream; it was misshapen at the edges, the cover was
@@ -8,7 +8,7 @@ summary: "  I was seventeen when I bought a scratched record called Rumours by
   sandstorm. Yet, there was something in it which attracted me. "
 featuredImage: /images/upload/oldscratch.jpg
 author: Mary Wanjiru
-draft: true
+draft: false
 ---
 ![](/images/upload/oldscratch.jpg)
 
