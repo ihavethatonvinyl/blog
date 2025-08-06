@@ -1,6 +1,6 @@
 ---
 title: Heavy is the Head That Crate Digs 
-date: 2025-08-05T23:12:00.000-04:00
+date: 2025-08-06T04:15:00.000-04:00
 summary: Every trip to a record store is intentionless for me. I walk in with
   absolutely zero goal. I feel about record shopping the way a lot of people
   talk about weekends. You never know what a trip to the store will bring. It’s
@@ -8,7 +8,7 @@ summary: Every trip to a record store is intentionless for me. I walk in with
   risk, high reward, a challenge for anyone identified as Anxious. 
 featuredImage: /images/upload/byron_2.jpg
 author: " Ilana Michelle Carmi "
-draft: true
+draft: false
 ---
 ![](/images/upload/byron_2.jpg)
 
