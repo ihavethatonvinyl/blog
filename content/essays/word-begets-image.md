@@ -38,8 +38,8 @@ We are all recordings. These very words, echoes of myself, of as much substance 
 
 Word begets image, and image is Virus.
 
-\[EMBEDDED LINK TO “WORD IS VIRUS”]
 
-<https://www.youtube.com/watch?v=FzsGFDAq6jc&list=RDFzsGFDAq6jc&start_radio=1>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FzsGFDAq6jc?si=Gb7wrYDq4O8o331t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 *David Kane is a writer & performer living in Los Angeles. He has published fiction, poetry, and comics in Cosmic Pulp Zine. He has written essays for Exploits Magazine,[ psychopomp.com](https://psychopomp.com/scorn/), and Beauty of Horror. He produces original absurdist theatre, frequently performing as his character,[ Dr. Bendigan](https://doompunkdispatch.com/film/). David’s collection of strange tales,[ Drippy Trippy Doom](https://doompunkdispatch.com/drippy-trippy-doom/), is available to purchase[ here](https://shop.ingramspark.com/b/084?params=PjjaPaamcZ8JxuaCaUBcRwGuwrNWHNaU20OiGckJVTz). You can find more of David’s work at[ doompunkdispatch.com](http://doompunkdispatch.com).*
