@@ -1,13 +1,13 @@
 ---
 title: "Soundtrack of My Life: Memories Spun on a Vinyl Record"
-date: 2025-08-15T02:47:00.000-04:00
+date: 2025-08-15T04:09:00.000-04:00
 summary: My true reunion with vinyl came nearly two decades later, in my early
   twenties. Even as technology kept evolving, I saw the vinyl revival. It felt
   as remarkable as the movies I loved—a moment to pause, live fully in the
   present. The sound, too, stood out; the contrast with digital was undeniable.
 featuredImage: /images/upload/3-in-1.jpg
 author: Sofia Ribeiro Willcox
-draft: true
+draft: false
 ---
 
 
