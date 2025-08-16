@@ -1,6 +1,6 @@
 ---
 title: Elvis, My Mother, And Me
-date: 2025-03-23T04:19:00.000Z
+date: 2025-08-16T03:35:00.000-04:00
 summary: '"The news of Elvis’s death spread around the neighborhood. It was as
   if my mother’s sobbing set off some kind of Bat signal, and you could hear
   wails of anguish coming from housewives all down the block."'
