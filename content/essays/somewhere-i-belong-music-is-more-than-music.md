@@ -1,6 +1,6 @@
 ---
 title: "Somewhere I Belong: Music is More Than Music"
-date: 2025-08-17T20:27:00.000-04:00
+date: 2025-08-18T04:51:00.000-04:00
 summary: We often overlook how much community can come from music. Not only from
   performing music, but being part of the crowd or fanbase. It feels like we’ve
   stopped taking chances to connect and have just embraced the idea that we’re
@@ -8,7 +8,7 @@ summary: We often overlook how much community can come from music. Not only from
   concert to start.
 featuredImage: /images/upload/lp1.jpg
 author: Clare Godwin
-draft: true
+draft: false
 ---
 ![](/images/upload/lp1.jpg)
 
