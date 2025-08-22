@@ -52,11 +52,11 @@ It’s fascinating how an album changes as you do. What was once a musical treas
 
 Sometimes, in the dark of night when I couldn’t sleep, I would imagine the end. The end of us, the end of happiness, the end of contentment. I never really thought he was mine forever; he just isn’t that kind of guy. But I guess I thought I could give him reasons to stay. Still, I conjured up all kinds of scenarios of how he would leave me eventually, and of the three things Mike Kinsella sings about, I got none. I listen to this song now and my love for it is accompanied by a subtle pain, something I’ve grown used to.
 
-*[Not dead](https://genius.com/22186875/American-football-but-the-regrets-are-killing-me/Not-dead-yet-but-the-regrets-are-killing-me-but-the-regrets-are-killing-me-but-the-regrets-are-killing-me-but-the-regrets)*
+*Not dead*
 
-*[Yet](https://genius.com/22186875/American-football-but-the-regrets-are-killing-me/Not-dead-yet-but-the-regrets-are-killing-me-but-the-regrets-are-killing-me-but-the-regrets-are-killing-me-but-the-regrets)*
+*Yet*
 
-*[But the regrets (Are killing me)](https://genius.com/22186875/American-football-but-the-regrets-are-killing-me/Not-dead-yet-but-the-regrets-are-killing-me-but-the-regrets-are-killing-me-but-the-regrets-are-killing-me-but-the-regrets)*
+*But the regrets (Are killing me)*
 
 He hated American Football and all emo music, so it was a surprise that he bought the album for me. I knew enough to play it when he was out of the house, and as he was out of the house often for AA meetings, I had plenty of time to spend with the record. It became familiar, a comfort. *Look at this devastating love*, I’d say. *How terrible for them. Glad that’s not me.*
 
