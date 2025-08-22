@@ -88,6 +88,6 @@ There are no preventive measures you can take for having your heart broken, exce
 
 *Was never meant*
 
+*I Have That on Vinyl is a reader supported publication. If you enjoy what’s going on here please consider donating to the site’s writer fund:[ venmo](https://account.venmo.com/u/Michele-Catalano2659) //[ paypal.](https://www.paypal.com/paypalme/goingitaloneny?country.x=US&locale.x=en_US)*
 
-
-*I Have That on Vinyl is a reader supported publication. If you enjoy what’s going on here please consider donating to the site’s writer fund:[ venmo](https://account.venmo.com/u/Michele-Catalano2659) //[ paypal](https://www.paypal.com/paypalme/goingitaloneny?country.x=US&locale.x=en_US)*
+[consider joining a thriving community at the  IHTOV patreon](https://www.patreon.com/c/IHaveThatonVinyl)
