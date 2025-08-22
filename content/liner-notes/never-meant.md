@@ -14,7 +14,7 @@ It’s the Facebook memories that are doing me in this morning. There we are, ce
 
 Four in the morning is a good time to think about the past, to ruminate and obsess and regret. It’s also a good time to put on LP1 and let those emotions run through you like a freight train. Reminiscing construed as hobby. It’s what I do. 
 
-I remember putting the record on that the day he left and once again being swept up by just how powerful the lyrics are, how profound. They are heat-seeking missiles aimed at my heart. I'm smiling in the picture. It’s probably the last time we were really happy together, that smile one of last vestiges of a relationship that was stretched too thin to last. Those lyrics couldn’t hurt me then; I was too confident in the love I had to have my heart punctured by emotions that belonged to someone else. But oh, how it hurts now.
+I remember putting the record when he gave it to me and once again being swept up by just how powerful the lyrics are, how profound. They are heat-seeking missiles aimed at my heart. I'm smiling in the picture. It’s probably the last time we were really happy together, that smile one of last vestiges of a relationship that was stretched too thin to last. Those lyrics couldn’t hurt me then; I was too confident in the love I had to have my heart punctured by emotions that belonged to someone else. But oh, how it hurts now.
 
 *Not to be overly (overly)*
 
