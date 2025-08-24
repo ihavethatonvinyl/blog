@@ -9,8 +9,8 @@ summary: "I was six the first time it caught me off guard. Dad's battered
   part!\" We'd air-guitar the glitch like it was written that way, our off-time
   strums cementing the skip into family gospel."
 featuredImage: /images/upload/zep22.jpg
-author: Josephh Wales
-draft: true
+author: Joseph Wales
+draft: false
 ---
 ![](/images/upload/zep22.jpg)
 
