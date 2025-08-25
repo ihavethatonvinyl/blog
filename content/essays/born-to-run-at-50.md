@@ -1,6 +1,6 @@
 ---
 title: Born to Run at 50
-date: 2025-03-10T04:07:00.000Z
+date: 2025-08-25T03:52:00.000-04:00
 summary: '"So, where did my love for Bruce come from? It started after I left
   New Jersey to go to college and grew more intense when I moved to Texas to be
   with my wife, Ali. I wanted a piece of home, and his music fed my need for
