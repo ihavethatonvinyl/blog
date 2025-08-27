@@ -1,6 +1,6 @@
 ---
 title: Don't Be Denied
-date: 2025-08-26T21:08:00.000-04:00
+date: 2025-08-27T04:10:00.000-04:00
 summary: When I laid on the grass at Oldchella listening to Neil Young, I
   forgot. I forgot that at least 45% of Americans were about to elect Donald
   Trump. I forgot that I had run my own losing campaign into debt. I forgot
@@ -8,7 +8,7 @@ summary: When I laid on the grass at Oldchella listening to Neil Young, I
   indelible mark. I just listened and discovered something new.
 featuredImage: /images/upload/img_9536.jpg
 author: Albert Tarples
-draft: true
+draft: false
 ---
 ![](/images/upload/img_9536.jpg)
 
