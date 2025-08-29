@@ -10,7 +10,7 @@ summary: "I was six the first time it caught me off guard. Dad's battered
   strums cementing the skip into family gospel."
 featuredImage: /images/upload/zep22.jpg
 author: Joseph Wales
-draft: false
+draft: true
 ---
 ![](/images/upload/zep22.jpg)
 
