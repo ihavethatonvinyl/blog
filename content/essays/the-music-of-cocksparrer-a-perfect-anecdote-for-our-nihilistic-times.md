@@ -1,6 +1,6 @@
 ---
 title: "The Music of Cocksparrer: A Perfect Anecdote for Our Nihilistic Times"
-date: 2025-08-31T20:47:00.000-04:00
+date: 2025-09-01T04:02:00.000-04:00
 summary: In the past year, I've become more impressed with Cocksparrer’s music.
   Their band name is slang (Cockney Sparrow) for someone from London’s East End.
   The band has been making music since the mid-70’s originally. After early
@@ -8,7 +8,7 @@ summary: In the past year, I've become more impressed with Cocksparrer’s music
   subgenre–street punk. Music by working class people, for working class people.
 featuredImage: /images/upload/img_4316.jpeg
 author: Dan Chambers
-draft: true
+draft: false
 ---
 ![](/images/upload/img_4316.jpeg)
 
