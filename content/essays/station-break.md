@@ -7,7 +7,7 @@ summary: "   Hello, and thank you for visiting IHTOV. The site is on a little
   of essays and interviews for when we come back."
 featuredImage: /images/upload/paper.i_have_that_on_vinyl.6.png
 author: Michele Catalano
-draft: false
+draft: true
 ---
 ![](/images/upload/paper.i_have_that_on_vinyl.6.png)
 
