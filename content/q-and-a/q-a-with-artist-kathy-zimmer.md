@@ -56,3 +56,7 @@ I’ve been in such a Beach Boys phase since Brian Wilson died. *Feel Flows*.
 NYC-based indie singer/songwriter Kathy Zimmer, together with her band Eric Sanderson and Tom Zovich (of Augustines and Pela) released two new singles entitled “Butterfly” and “Next Level” in June 2025. Last year saw the release of an EP, Debris, and a single “I Am a Queen Already”.The flavor of the music is a lovely, shapeshifting voice singing descriptive lyrics set to indie rock: something different.
 
  *A native of really rural Nebraska, Kathy Zimmer holds a Master’s Degree from the Cleveland Institute of Music but has been a New Yorker for a while now. A 12”vinyl record of two EPs entitled White Noise/Sparkling Smileisavailable for purchase at her shows. Eric Sanderson and Tom Zovichhave toured extensively with Augustines and Pela. The story of Augustines can be seen in the movie RISE: The Story of Augustines. Rock n’ Reel Magazine has declared Zimmerthe “latter day Joan Baez.”The Roots Music Report proclaims, “At various turns enchanting, haunting and soothing—and at times a bit of all of these—Ms. Zimmer’s sophisticated song crafting never fails to charm.*
+
+
+
+*<iframe width="560" height="315" src="https://www.youtube.com/embed/Bkok2IfJrmc?si=WlyZI_4WtxXKHtil" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>*
