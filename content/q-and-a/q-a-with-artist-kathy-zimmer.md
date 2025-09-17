@@ -1,11 +1,11 @@
 ---
 title: Q&A With Artist Kathy Zimmer
-date: 2025-09-17T03:37:00.000-04:00
+date: 2025-09-17T04:39:00.000-04:00
 summary: Q&A Remix is a frequent column on IHTOV in which people from all walks
   of life answer a set of questions about their vinyl collection. Today we
   welcome recording artist Kathy Zimmer
 featuredImage: /images/upload/image0-9-.jpeg
-draft: true
+draft: false
 ---
 ![](/images/upload/image0-9-.jpeg)
 
