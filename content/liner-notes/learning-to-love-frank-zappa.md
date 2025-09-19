@@ -13,10 +13,6 @@ draft: false
 ---
 ![](/images/upload/zappa.jpg)
 
-
-
-
-
 My brother-in-law, Matt, joined my family 14 years ago and made quick work of endearing himself to us. He is more than a brother-in-law. He is the brother I never had and always wanted. And he’s more than happy to fill that role. He’s there for me. He’s a confidante. He makes me laugh. He makes sure I’m being good to myself. And mostly, he treats my sister like a queen. He is also the biggest Frank Zappa fan I know.
 
 One of the things that joined us together is music. We both have a passion for it; we both tend to dive into our favorites a lot and talk about them to whoever will listen. Thankfully for Matt and me, we have each other for that. 
@@ -32,6 +28,8 @@ When my sister and I lived together, back when I was first getting to know Matt,
 Matt was the most animated in our conversations about all things Zappa. He is a Zappa scholar, a walking Wikipedia of Frank Zappa facts. He didn’t just put on some music for me and say, here, listen. He schooled me. He educated me. Zappa’s career and life were so interesting to me, and I was always grateful for these discussions. I learned a lot, which made me want to dig deeper and deeper into his catalog. Some of it was not for me, but the ones that I did enjoy, I fell in love with.
 
 A few months ago, Matt gifted me his entire [Rykodisk](https://en.wikipedia.org/wiki/Rykodisc) Zappa CD set. I accepted this gift as a treasure, as something he was  entrusting to me. I found a place for the collection right on my vinyl cubes and protected it from my cats with bookends. And then I proceeded to listen to one disc a day, making mental notes and texting Matt about them. I didn’t listen in any specific order; I went strictly on vibes.
+
+![](/images/upload/img_9157.jpg)
 
 As I went through them, I discovered new things about Zappa to love. I finally heard what a brilliant musician he is and how, despite some real goofy lyrics, he could be profound and powerful with his words. 
 
