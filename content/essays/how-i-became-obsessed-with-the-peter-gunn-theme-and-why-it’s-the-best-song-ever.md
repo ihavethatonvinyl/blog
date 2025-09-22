@@ -1,6 +1,6 @@
 ---
 title: How I Became Obsessed With the Peter Gunn Theme and Why It’s the Best Song Ever
-date: 2025-09-22T02:40:00.000-04:00
+date: 2025-09-22T04:13:00.000-04:00
 summary: "I may be foggy on the exact chronology, but you get the idea: A
   musical obsession and collectible quest were taking hold. Spawned by Henry
   Mancini, probably the least likely musical muse for a punky art student in the
@@ -9,7 +9,7 @@ summary: "I may be foggy on the exact chronology, but you get the idea: A
   everywhere."
 featuredImage: /images/upload/img_6927.jpg
 author: Scott O'Kelley
-draft: true
+draft: false
 ---
 ![](/images/upload/img_6927.jpg)
 
