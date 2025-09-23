@@ -1,6 +1,6 @@
 ---
 title: "Analogue Meets Digital: The World of the Vinyl DJ YouTuber"
-date: 2025-09-22T19:44:00.000-04:00
+date: 2025-09-23T04:29:00.000-04:00
 summary: " when a thumbnail of a familiar looking two turntable set up came up
   on my feed, I was intrigued. The channel, Analog Mixtape aka Mark Garitson, is
   part of a growing niche on YouTube of vinyl only DJ sets. There are several
@@ -9,7 +9,7 @@ summary: " when a thumbnail of a familiar looking two turntable set up came up
   it. "
 featuredImage: /images/upload/1000009626.jpg
 author: Jason Bombach
-draft: true
+draft: false
 ---
 ![](/images/upload/1000009626.jpg)
 
