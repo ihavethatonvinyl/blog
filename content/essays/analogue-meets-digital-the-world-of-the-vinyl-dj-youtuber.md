@@ -7,9 +7,12 @@ summary: " when a thumbnail of a familiar looking two turntable set up came up
   channels dedicated to people spinning rare records, niche genres or just
   straight bangers on vinyl as if it was a warehouse party and I personally love
   it. "
+featuredImage: /images/upload/1000009626.jpg
 author: Jason Bombach
 draft: true
 ---
+![](/images/upload/1000009626.jpg)
+
  I watch a lot of YouTube. From the [histories of early 20th century illustrators](https://youtube.com/@petebeard?si=5j1S-8a-MgyLi_HR) to [in-depth analysis of the Weird Al Show](https://youtu.be/sgswsGnu8gA?si=-pHn9TkxXQDW_tmY) to [UK panel shows](https://youtube.com/@ozmartian2?si=qK9I-lRi-nUFBFbI) and hate watching Grand Designs (rich people have no taste), YouTube continues to be my go to time waster. But lest you think I’m spending all my time in front of a screen, rotting away, fear not. I clean for a living, so half the time I’m listening to YouTube (often at x2 speed, which has ruined my brain) and rotting away while also working. So when a thumbnail of a familiar looking two turntable set up came up on my feed, I was intrigued. The channel, [Analog Mixtape](https://youtube.com/@analogmixtape?si=SF9amOsdJg3VFkvG) aka Mark Garitson, is part of a growing niche on YouTube of vinyl only DJ sets. There are several channels dedicated to people spinning rare records, niche genres or just straight bangers on vinyl as if it was a warehouse party and I personally love it. 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VLnnAu0JNA4?si=2qXMCde7VYtUt1oe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -24,7 +27,7 @@ draft: true
 
 **P&C:** *We're both big music lovers. During the big vinyl comeback of 2007-2008, we started bringing records from Europe and Japan. In the beginning, Pablo was more interested in electronic music and experimental genres like krautrock. Chelo, musician and producer, had a musical curiosity that was closer to psychedelic albums and alternative genres like shoegaze.*
 
- * At some point, we began getting together to listen to and share our own material. This is how the first mixes began, followed by the sets, and eventually our first live performance, which was facilitated by contact with the local underground scene. As the project consolidated, our vinyl purchases increased exponentially, thus starting our large collection.*
+  *At some point, we began getting together to listen to and share our own material. This is how the first mixes began, followed by the sets, and eventually our first live performance, which was facilitated by contact with the local underground scene. As the project consolidated, our vinyl purchases increased exponentially, thus starting our large collection.*
 
 **Mark:** *I started collecting records when I was really young. My collection started with stuff I’d get from my dad and uncles. My grandfather was a jazz musician and I got a great 50s and 60s jazz collection from him. That is how I was introduced to it and I’ve just never stopped all these years. As far as DJing goes, I was just always the guy that had records and if you came over to my house, I would play records for everybody. I was the DJ at my brother‘s wedding before I even had equipment. I had to borrow turntables and I used some extra house speakers I had laying around. It’s just something I was always drawn to.*
 
@@ -32,11 +35,11 @@ draft: true
 
 **Jona:** *As the name suggests, Yawaraka Jazz focuses exclusively on jazz. “Yawaraka” is a Japanese word that conveys softness, warmth, and comfort. It reflects the kind of jazz I want to share— music that feels good to live with.*
 
- * Most of my records come from Judgment Records. When I’m looking for unique Japanese jazz, I often visit Universound in Koenji. If neither store has what I need, I order from trusted record shops across Japan.*
+  *Most of my records come from Judgment Records. When I’m looking for unique Japanese jazz, I often visit Universound in Koenji. If neither store has what I need, I order from trusted record shops across Japan.*
 
 **P&C:** *We have a clear predilection for the 70s German experimental music scene, also known as Krautrock, which is our trademark sonic signature. In general, we enjoy anything atmospheric, psychedelic, and trippy.*
 
- * Our musical research approach is very old-school: we read books and talk to people. We really enjoy going to record stores in person, taking the time to dig through all the bins, and talking to the shop people. Of course, we use the internet too; searching the deepest corners of the web for lost gems, rarities, links, and all sorts of elements that allow us to chart a path.*
+  *Our musical research approach is very old-school: we read books and talk to people. We really enjoy going to record stores in person, taking the time to dig through all the bins, and talking to the shop people. Of course, we use the internet too; searching the deepest corners of the web for lost gems, rarities, links, and all sorts of elements that allow us to chart a path.*
 
 **Mark:** *I’m not really genre specific but my main interests are Jamaican reggae 45s and garage and punk rock. I spend a lot of time on Discogs “digging” for early Jamaican records. There are a couple of really great sellers on there that have amazing inventories that you can go through. I’m introduced to a lot of new stuff just by going through those records and listening to sound clips. That’s my main resource for buying those records because where I live in the Midwest they’re very hard to find. For the punk side of things I’m really lucky to have a couple of great record shops near me. Feel it records in Cincinnati and BlindRage records in Dayton always have something cool. Tremendo Garaje on instagram and YouTube is a great spot to find out about new punk and garage records too.* 
 
@@ -56,7 +59,7 @@ draft: true
 
 **P&C:** *It's something we've been dreaming about for a long time. The possibility of doing a set from the comfort of our living room was incredibly tempting, and at one point, we thought, "It's like going back to our roots, to our get-togethers, only this time we'll film it."*
 
- * So one day we made up our minds: we bought a six-pack, set up the camera, put the pothos plant over there, and that's how it all began.*
+  *So one day we made up our minds: we bought a six-pack, set up the camera, put the pothos plant over there, and that's how it all began.*
 
 **Mark:** *I started the channel just for the fun of it. I had watched  a lot of other vinyl DJs on YouTube and thought it was cool. I had the records already and it was just a new way to interact with my collection. It’s a great way to reconnect with records I hadn’t thought of or played for awhile.* 
 
@@ -70,9 +73,9 @@ draft: true
 
 **P&C:** *We consider it part of the process. We know there's a chance the set we recorded could end up blocked due to copyright issues, and the only way to check is to upload it to a secondary YouTube channel first. In cases where the material is copyright blocked, we usually re-record the set, removing or replacing the track in question.*
 
- * We've only had this problem three times since the beginning of the channel, with the tracks: "Glass" by Yukihiro Takahashi, "You're Gonna Miss Me" by The 13th Floor Elevators, and "Cavern" by Liquid Liquid.*
+  *We've only had this problem three times since the beginning of the channel, with the tracks: "Glass" by Yukihiro Takahashi, "You're Gonna Miss Me" by The 13th Floor Elevators, and "Cavern" by Liquid Liquid.*
 
- * It's important for us to make it clear that the channel has no monetization, so all the ads played by YouTube go directly to the copyright owners.*
+  *It's important for us to make it clear that the channel has no monetization, so all the ads played by YouTube go directly to the copyright owners.*
 
 **Mark:** *The copyright claims are only a problem if you're trying to make money on your videos. I don’t monetize my videos and the copyright holder actually gets paid from my channel views. I did have one video taken down because the system mistook a reggae song for a Rolling Stones song though. It’s not perfect but the artist get paid.* 
 
