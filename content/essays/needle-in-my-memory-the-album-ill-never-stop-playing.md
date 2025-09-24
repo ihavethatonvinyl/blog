@@ -8,7 +8,7 @@ summary: " It has been to me that anchor, friend, and in most respects, the
   and my history."
 featuredImage: /images/upload/fmr.jpg
 author: Mary Wanjiru
-draft: true
+draft: false
 ---
 ![](/images/upload/fmr.jpg)
 
