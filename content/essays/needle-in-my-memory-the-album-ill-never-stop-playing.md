@@ -1,10 +1,16 @@
 ---
 title: "Needle in My Memory: The Album I'll Never Stop Playing"
 date: 2025-09-24T01:34:00.000-04:00
+summary: " It has been to me that anchor, friend, and in most respects, the
+  soundtrack to my life. It is the one I listened to as a teenager, and the one
+  that I keep reaching out to the shelf to this very day, some twenty-five years
+  later. I have played it so often that it carries grooves etched with the music
+  and my history."
+featuredImage: /images/upload/fmr.jpg
 author: Mary Wanjiru
 draft: true
 ---
-
+![](/images/upload/fmr.jpg)
 
 Other albums are like old friends; they are pleasant to listen to when they go through our lives, but they are quickly forgotten when a new film soundtrack comes into our lives. Some albums remain, and they penetrate our everyday routines and intimate experiences so that they are part of our memory. For me, that album is *Rumours* by Fleetwood Mac. It has been to me that anchor, friend, and in most respects, the soundtrack to my life. It is the one I listened to as a teenager, and the one that I keep reaching out to the shelf to this very day, some twenty-five years later. I have played it so often that it carries grooves etched with the music and my history.
 
@@ -25,3 +31,12 @@ People often ask why I am not tired of it. After all, music is supposed to be ex
 The album continues to rotate on my turntable many years after my initial play. I sometimes play it to celebrate, console, and remember. It has become my accompanying song not to one of the chapters of life but of life. It has taken over my joys, sorrows, doubts, and hopes, and somehow, every time, it gives me back something transformed so that it becomes edible, nay, or even divine.
 
 The name of the album, Needle in My Memory, is quite fitting because this album has left its mark on the memories of my life. The music remains long after I've moved homes, changed jobs, and said goodbyes. The ritual remains. And so does the comfort of knowing that whenever I lower the needle on Rumours by Fleetwood Mac, I am not simply listening, I am remembering.
+
+
+
+*Mary
+Wanjiru is a Kenyan author and storyteller passionate about memory, music, and
+little moments that make us who we are. She spends her time in her older vinyl
+record search, hand journaling, and long morning moods with a cup of strong tea
+when not writing. Her art investigates the connections in nostalgia, sound, and
+identity. This is her maiden contribution to I Have That On Vinyl.*
