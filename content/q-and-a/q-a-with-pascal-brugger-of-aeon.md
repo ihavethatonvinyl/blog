@@ -348,14 +348,14 @@ So I
 will definitely keep on collecting records and other things I like and 
 try to share them with people (even if that makes my loved one’s angry).
 
- What does the future hold for aeon?
+ **What does the future hold for aeon?**
 
 Well, 2025 was really the year of collabs and I still hope to release 2 more before the end of it.
 
 One 
 is a political satire, a more noisy oriented album with finnish artist 
 Astral Zombie. The second is something I never tried, a dark synth pop 
-EP with English artist SNS Sensation. He’s
+EP with english artist SNS Sensation. He’s
  a big Pet Shop Boys fan and wrote great lyrics for the 2 songs we 
 already have, so it’s exciting.
 
@@ -371,4 +371,4 @@ And most of all (what a surprise), to release at least one of my piece on vinyl.
 
 *But above all, he’s the man behind ‘aeon’, a ‘bittersweet and sometimes dissonant’ electronic music project. With a punk attitude, he’s crafting sounds with minimal tools against the flood of disposable pop music.*
 
-*Through the years ‘aeon’ has made multiple collaborations and released albums/EPs/Singles by itself or with little labels, that you can find here \[ <https://linktr.ee/aeon_music> ].*
+*Through the years ‘aeon’ has made multiple collaborations and released albums/EPs/Singles by itself or with little labels, that you can find here [ <https://linktr.ee/aeon_music> ].*
