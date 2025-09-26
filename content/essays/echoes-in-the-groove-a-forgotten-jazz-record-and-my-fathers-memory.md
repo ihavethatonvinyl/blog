@@ -1,13 +1,13 @@
 ---
 title: "Echoes in the Groove: A Forgotten Jazz Record and My Father's Memory"
-date: 2025-09-26T03:47:00.000-04:00
+date: 2025-09-26T04:01:00.000-04:00
 summary: "  Sound becomes something bigger than sound in life. It turns into
   memory, existence, and even curing. Several years after my father had died, I
   happened to find an outdated vinyl record, hidden away in the back of a box in
   the attic. It was the Blue Train by John Coltrane, which had been his record."
 featuredImage: /images/upload/nostalgic-music-memories-stockcake.jpg
 author: MaryAnnDave
-draft: true
+draft: false
 ---
 ![](/images/upload/nostalgic-music-memories-stockcake.jpg)
 
