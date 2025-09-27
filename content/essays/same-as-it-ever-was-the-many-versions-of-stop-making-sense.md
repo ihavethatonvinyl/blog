@@ -1,6 +1,6 @@
 ---
 title: Same As It Ever Was? The Many Versions of Stop Making Sense
-date: 2025-09-26T23:46:00.000-04:00
+date: 2025-09-27T04:27:00.000-04:00
 summary: The Talking Heads album Stop Making Sense is one of my favorite live
   albums. So much that I have developed an obsessive relationship with it. I
   would argue that this is not entirely my fault. Had Talking Heads actually
@@ -8,7 +8,7 @@ summary: The Talking Heads album Stop Making Sense is one of my favorite live
   would never have developed.
 featuredImage: /images/upload/img_3594.jpeg
 author: Paul Prescott
-draft: true
+draft: false
 ---
 ![](/images/upload/img_3594.jpeg)
 
