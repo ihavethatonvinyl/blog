@@ -1,9 +1,9 @@
 ---
 title: Q&A With BRNDA's Leah Gage and Dave Lesser
-date: 2025-09-28T22:34:00.000-04:00
+date: 2025-09-29T04:09:00.000-04:00
 summary: "  Today on Q&A, we're featuring Leah Gage and Dave Lesser of BRNDA"
 featuredImage: /images/upload/527b0891.jpeg
-draft: true
+draft: false
 ---
 
 
