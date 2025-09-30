@@ -5,14 +5,7 @@ summary: "  Today on Q&A, we're featuring Leah Gage and Dave Lesser of BRNDA"
 featuredImage: /images/upload/527b0891.jpeg
 draft: false
 ---
-
-
-
-
-*Today on Q&A, we're featuring Leah Gage and Dave Lesser of **BRNDA***
-
-
-
+\*Today on Q&A, we're featuring Leah Gage and Dave Lesser of **BRNDA***
 
 ![](/images/upload/527b0891.jpeg)
 
@@ -93,3 +86,5 @@ We’ll be on tour in October! Our label Crafted Sounds is partnering with Gover
 *All of the members of BRNDA (Dave Lesser and Mark Mcinerney on guitar, Leah Gage on Drums, Nick Stavely on Bass) lend their vocal talents to Total Pain. The album is a twelve-course meal of witty writing, flute solos, and hypnotic talk-singing that leaves the listener excited to put it on again and understand the trip they’ve just taken.*
 
 *Total Pain blends 60s Art Nouveau with Punk, leaving the salt from 2021 behind and embracing the voyeurism of the zoo to create a brand new side to the ever-evolving BRNDA, a band for active listening and analysis, not passive background ambiance.*
+
+*[You can see BRNDA's tour dates here](https://brendatheband.com/shows)*
