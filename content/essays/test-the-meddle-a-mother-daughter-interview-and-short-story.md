@@ -1,13 +1,13 @@
 ---
 title: "Test the Meddle: a mother-daughter interview and short story"
-date: 2025-09-30T21:01:00.000-04:00
-summary: ",,,there was a smudge of blue: my mom’s copy of Pink Floyd’s Meddle. I
+date: 2025-10-01T05:23:00.000-04:00
+summary: "...there was a smudge of blue: my mom’s copy of Pink Floyd’s Meddle. I
   held it aloft and she lit up: “I used to listen to that all the time in my
   first apartment!” For this piece, I called her up to talk about the album and
   about the time she stabbed a guy."
 featuredImage: /images/upload/meddle.jpg
 author: Scarey Mulligan
-draft: true
+draft: false
 ---
 ![](/images/upload/meddle.jpg)
 
