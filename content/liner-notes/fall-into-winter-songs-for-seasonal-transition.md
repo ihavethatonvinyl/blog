@@ -7,7 +7,7 @@ summary: "The weather forecast for next week looks like this: hoodies, boots,
   like the day is over by five as the autumn shadows make themselves known.
   There’s only one thing to do when this happens. Let’s play some records."
 featuredImage: /images/upload/records.webp
-draft: true
+draft: false
 ---
 ![](/images/upload/records.webp)
 
