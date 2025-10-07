@@ -1,10 +1,10 @@
 ---
-title: Q&A With Musiciand  Leilani Patao
-date: 2025-10-06T19:56:00.000-04:00
+title: Q&A With Musician Leilani Patao
+date: 2025-10-07T05:07:00.000-04:00
 summary: Q&A is a recurring feature on IHTOV where people answer some standard
-  questions about their collection. Today we welcom artist Leilani Patao
+  questions about their collection. Today we welcome artist Leilani Patao
 featuredImage: /images/upload/leilani.jpeg
-draft: true
+draft: false
 ---
 ![](/images/upload/leilani.jpeg)
 
