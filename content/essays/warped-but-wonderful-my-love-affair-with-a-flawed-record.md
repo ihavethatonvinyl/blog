@@ -1,6 +1,6 @@
 ---
 title: "Warped but Wonderful: My Love Affair with a Flawed Record"
-date: 2025-10-09T22:46:00.000-04:00
+date: 2025-10-10T04:58:00.000-04:00
 summary: There is a special thrill about going through an old dusty pile of
   vinyl. Sometimes you get just what you want, now and then you stumble across a
   long-trusted hidden treasure, and sometimes you find something that you really
@@ -8,7 +8,7 @@ summary: There is a special thrill about going through an old dusty pile of
   discovered when I was still a small collector.
 featuredImage: /images/upload/warped-vinyl-record-repair-1.webp
 author: David Chege
-draft: true
+draft: false
 ---
 ![](/images/upload/warped-vinyl-record-repair-1.webp)
 
