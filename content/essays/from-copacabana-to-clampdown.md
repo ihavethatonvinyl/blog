@@ -1,6 +1,6 @@
 ---
 title: From Copacabana to Clampdown
-date: 2025-10-12T22:38:00.000-04:00
+date: 2025-10-13T05:09:00.000-04:00
 summary: I have a lot of memories from when I was a kid of riding in my dad’s
   Buick station wagon while we listened to oldies on the radio. He wasn’t one to
   sing along, but he had this incredible, encyclopedic knowledge of the pop
@@ -9,7 +9,7 @@ summary: I have a lot of memories from when I was a kid of riding in my dad’s
   the music just felt dated to me, I loved to listen to him talk about it.
 featuredImage: /images/upload/image0-10-.jpeg
 author: Jon Waltz
-draft: true
+draft: false
 ---
 ![](/images/upload/image0-10-.jpeg)
 
