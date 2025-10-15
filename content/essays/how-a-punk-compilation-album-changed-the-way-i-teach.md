@@ -10,7 +10,7 @@ featuredImage: /images/upload/samlogan.jpg
 author: Sam Logan
 draft: false
 ---
-![](/images/upload/samlogan.jpg)
+![Michael Flordelis, College of Health, Oregon State University](/images/upload/samlogan.jpg "Michael Flordelis, College of Health, Oregon State University")
 
 > **“Teaching is punk rock.”—Athena of The Dread**
 
