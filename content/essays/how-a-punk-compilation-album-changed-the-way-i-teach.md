@@ -8,7 +8,7 @@ summary: Punk spoke to me—its rawness, vulnerability, and noisy sonic waves th
   justice, and resisting normativity. 
 featuredImage: /images/upload/samlogan.jpg
 author: Sam Logan
-draft: true
+draft: false
 ---
 ![](/images/upload/samlogan.jpg)
 
