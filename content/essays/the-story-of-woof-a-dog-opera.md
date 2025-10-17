@@ -1,6 +1,6 @@
 ---
 title: The Story of Woof! A Dog Opera
-date: 2025-10-16T20:02:00.000-04:00
+date: 2025-10-17T04:56:00.000-04:00
 summary: Jake is a vinyl head, so, like anybody who makes music, he has always
   dreamed of getting his own music pressed onto vinyl. Woof! was the perfect
   project to press onto vinyl. Two succinct acts, ideally placed for flipping
@@ -8,7 +8,7 @@ summary: Jake is a vinyl head, so, like anybody who makes music, he has always
   Room in Columbia, SC, and pressed by Kindercore in Athens, GA (RIP). 
 featuredImage: /images/upload/screenshot-2025-10-16-at-8.03.28 pm.png
 author: Billy Francis
-draft: true
+draft: false
 ---
 ![](/images/upload/screenshot-2025-10-16-at-8.03.28 pm.png)
 
