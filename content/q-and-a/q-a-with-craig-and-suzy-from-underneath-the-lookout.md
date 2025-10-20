@@ -9,10 +9,7 @@ draft: false
 ---
 ![](/images/upload/d8e35eb4-0f26-4824-9f9c-f63fa8928c59.jpeg)
 
-
-
 *Q&A is a regular column at IHTOV where people answer a list of questions about their favorite records. Today we welcome, from England, Craig and Suzy of Underneath the Lookout*
-
 
 **Tell us a little about your own music**
 
@@ -28,8 +25,6 @@ Suzy: We also both like electronic/dance too - as a teenager I listened to dance
 
 Suzy: Jamiroquai has always been a huge influence for my trumpet playing, use of ‘real instruments’ and possibly even the structure of songs too - for example, Main Vein is like two songs in one and without even realising. We have an UTL track that has different parts to it a bit like that. I just got the anniversary vinyl release of A Funk Odyssey and it’s beautiful - the colour splatter and pattern on the records is so cool and reflects the original CD artwork.
 
- 
-
 Suzy: I also love the way that pop artists like Billie Eilish and Charlie Puth not only perform but write music. And Lady Gaga - she’s a massive influence for me - I love that she’s a pianist like me. I need more Gaga vinyl for sure! 
 
 CRAIG: I have everything from heavy skacore like Redeemon to the video game Fallout soundtrack. Also a good bit of jungle and drum n bass. My Dad has also given me a lot of his old two tone and dub records from over the years - some of them are older than me.
@@ -39,9 +34,6 @@ CRAIG: I have everything from heavy skacore like Redeemon to the video game Fall
 Suzy: It has to be a record or band I like first, but I’d say I’m more likely to buy a record if the artwork or the vinyl colour/pattern is cool or it’s a limited edition record. I buy fewer vinyl records than digital media, so I prefer it when something about the record makes it feel special.
 
 CRAIG: I agree with Suzy - it has to be a record or band first, but I did get Pendulum’s EP Elemental on vinyl. I only usually get albums, but it was on one of those picture discs that makes a little animation when you play it. Very cool.
-
-
-
 
 **What is your most memorable vinyl buying/receiving experience?** 
 
@@ -66,7 +58,6 @@ CH - I definitely have genre choices in seasonal periods. Over spring and summer
 
 Suzy: I was actually thinking about this the other day because the thought of listening to My Chemical Romance in the summer just doesn’t feel right! I’d say Sing the Sorrow and December Underground by AFI and most of MCR’s albums are autumn/winter. Spring/Summer - maybe something like The Skints - Part and Parcel or FM. Gentleman’s Dub Club - On a Mission is a summer choice in my opinion, and Turnstile - Never Enough because 2025 was unofficially ‘Turnstile Summer’.
 
-
 **What is/are your white whale records, something you have your eye on but haven’t been able to get?**
 
 Craig: I recently managed to get a first pressing of Rancid’s Life Won’t Wait which was pretty hard to come by in the UK. I also managed to get a copy of Dan Andriano in the Emergency Room on vinyl, which I was quite pleased about. I would really like Pendulum’s InSilico and Immersion on vinyl but they were only ever released in like a limited run box set thing and it’s in the £1000’s now on eBay. 
@@ -81,26 +72,18 @@ Suzy: I remember at uni there was a trend to buy vinyl and I was quite dismissiv
 
 Criag: It has only been something I’ve really got into since I started making music. My dad was also buying records again and was like “look I got The Skints” on vinyl, or Prince Fatty - I was like “I should really start collecting music again”. I think the first record I got was JB Conspiracy’s latest album Beginnings and that only came out in 2021. 
 
-
-
 **What’s your favorite record to listen to on headphones?**
 
 Craig: If they’ve got good bass, anything dubby that I can put on and work to. I need certain types of music to help me concentrate otherwise I want to play around on my guitar or keyboard instead. 
-
-
 
 **Tell us a little about your favorite record store**
 Craig: In Frome, Somerset we have Raves from the Graves which is an indie record shop. I used to get all my CDs from there back in the day like Blink 182, Less Than Jake and The Offspring. 
 
 Suzy: I don’t go to any in person anymore but I try to buy from independent ones if I’m buying stuff online - like Banquet Records in London. I just bought a record online from Assai in Scotland as they had the specific thing I wanted and it was sold out everywhere else. When I first got into vinyl I was living in Durham and I loved Concepts (RIP) - that was where we went to get records and gig tickets. They even did a few in store acoustic sessions at one point. Steel Wheels in Newcastle was also a great record shop.
 
-
-
 **What’s the weirdest record you own?** 
 
 Suzy: Not sure that it’s weird, but I have a luminous green Transplants 7”!
-
-
 
 Craig: I’ll buy that off you! Umm, I would probably say my Sounds of Apocalypse, Fallout vinyl, only because its genre doesn’t fit with the rest. I also have Caravan Palace on vinyl which doesn’t really fit with the other records…but I love them. 
 
@@ -110,8 +93,6 @@ Craig: I can’t say that I have. I do remember listening to CDs in HMV back in 
 
 Suzy: Not vinyl, but I got into Jamiroquai after hearing the first album being played in a shop as a kid. I still have the CD and now I have some of the vinyl too - including re-releases, but not the full collection. The originals aren’t worth much as they released them in large batches as far as I know.
 
-
-
 **How has your record collection and appreciation for vinyl evolved over the years, and what has influenced your tastes?**
 
 Craig: My collection hasn’t been going that long but it’s got bigger. I have two small children, so at the moment I have to keep them in a vinyl crate so they don’t ruin them. I’ve tried to make an effort to start and get older albums that mean a lot to me from my teenage years or new albums that I absolutely love, and also records of bands that my friends are in. 
@@ -120,19 +101,17 @@ Suzy: At first I would just buy 7 inch singles as I couldn’t afford to buy alb
 
 **Name the top three records you own that could describe you or your vibe**
 
-
 Craig:
-1) Sonic Boom Six - RE:Generation
-2) The Skints - Part & Parcel 
-3) Stop The Presses - Got It
+
+1. Sonic Boom Six - RE:Generation
+2. The Skints - Part & Parcel 
+3. Stop The Presses - Got It
 
 Suzy: 
-1) Hard To Imagine The Neighbourhood Ever Changing by The Neighbourhood. I love this album so much - I even found the location on the cover and got my photo taken there in LA. 
-2) My Chemical Romance – I'm Not Okay (I Promise) red 7” - always a scene kid at heart <3
-3) Girls Talk / Time will destroy everything - Garbage with Brody Dalle (Record Store Day release) - I have looked up to both of them for years and I aspire to be as cool.
 
-
-
+1. Hard To Imagine The Neighbourhood Ever Changing by The Neighbourhood. I love this album so much - I even found the location on the cover and got my photo taken there in LA. 
+2. My Chemical Romance – I'm Not Okay (I Promise) red 7” - always a scene kid at heart <3
+3. Girls Talk / Time will destroy everything - Garbage with Brody Dalle (Record Store Day release) - I have looked up to both of them for years and I aspire to be as cool.
 
 **What’s the last record you played?**
 
@@ -148,6 +127,8 @@ Craig: Yeah, I have a big old list to check off!
 
 Craig: I would say we have only just started. We released a couple of songs towards the end of last year. We’ll have an album out….at some point. I did say summer for that, but *life* happens and we keep writing more stuff. We are aiming to release at least one, maybe a couple more tracks before the year’s out, as we build up to the album, which has about…11 tracks at the moment. It’s taken a while but it’s just the two of us working together remotely, at opposite ends of the UK. I am really excited about the songs we have written and how they have all come together. I’m excited to share them with everyone.
 
-*Underneath the Lookout is reggae/ska/punk/dub/dance from the North and South of England, by Craig (Common Sense Kid) and Suzy (aka Suzyska, previously of Copasetics).*
+
+
+*Underneath the Lookout is a reggae/ska/punk/dub/pop band from the North and South of England, by Craig (Common Sense Kid) and Suzy (aka Suzyska, previously of Copasetics). They’re currently busy finishing their debut album which will be out next year. Their third single, Daydream, was released last week (14th October) and is available on Bandcamp, iTunes, Spotify - all the usual places. You can find Underneath the Lookout on Bluesky, Instagram and Facebook.* 
 
 *<iframe width="560" height="315" src="https://www.youtube.com/embed/EiCOZD68ED8?si=h4wh9rcwtGo1s42l" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>*
