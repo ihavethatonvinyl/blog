@@ -1,11 +1,11 @@
 ---
 title: "The 45s of My Youth: You Don't Have to Say You Love Me"
-date: 2025-10-21T00:02:00.000-04:00
+date: 2025-10-21T00:54:00.000-04:00
 summary: " A woman’s voice kicks in, sweet and sorrowful. It gives me chills. It
   is my introduction to Dusty Springfield’s “You Don’t Have to Say You Love Me,”
   and it changes me."
 featuredImage: /images/upload/dusty.jpg
-draft: true
+draft: false
 ---
 ![](/images/upload/dusty.jpg)
 
