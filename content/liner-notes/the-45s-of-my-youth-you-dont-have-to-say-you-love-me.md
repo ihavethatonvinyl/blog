@@ -37,27 +37,55 @@ It is 3 a.m. I’m still the middle-of-the-night person I was at ten. Most of th
 
 I’m six days out from my husband leaving me, suddenly, abruptly, without notice, whatever words you want to use instead of *abandoned*. I’m depressed, sad, angry, hurt, in shock, and a thousand other emotions that cycle through my brain and body each and every day. I’m listening to a steady diet of my wallowing songs, going through the National and the Mountain Goats and Pedro the Lion; rambling my way through lyrics that cut me, that make me cry harder and wallow deeply. It’s what I need to do. I am trying to purge myself of feelings. And then, for whatever reason, I decide it’s a good time to listen to my favorite Dusty Springfield song. It’s been a while, and it just calls to me there in the middle of the night, like a ghost come back to gently haunt me for my own good.
 
-*When I said I needed you
-You said you would always stay
-It wasn't me who changed but you
-And now you've gone away
-Don't you see that now you've gone
-And I'm left here on my own
-That I have to follow you
-And beg you to come home?*
+*When I said I needed you*
+
+
+*You said you would always stay*
+
+
+*It wasn't me who changed but you*
+
+
+*And now you've gone away*
+
+
+*Don't you see that now you've gone*
+
+
+*And I'm left here on my own*
+
+
+*That I have to follow you*
+
+
+*And beg you to come home?*
 
 I burst into tears. I know I would never go so far as to beg him to come home; I hate him at this moment and would not want it. But the lyrics, the way Dusty is singing, twist my arm and scream at me to call my ex, text him, ask him to come back.
 
 I don’t. *Yet*. I let the song go on as I gently sob into my pillow.
 
-*You don't have to say you love me
-Just be close at hand
-You don't have to stay forever
-I will understand
-Believe me, believe me
-I can't help but love you
-But believe me
-I'll never tie you down*
+*You don't have to say you love me*
+
+
+*Just be close at hand*
+
+
+*You don't have to stay forever*
+
+
+*I will understand*
+
+
+*Believe me, believe me*
+
+
+*I can't help but love you*
+
+
+*But believe me*
+
+
+*I'll never tie you down*
 
 There’s the pleading, the sacrificing, the settling. It terrifies me. And then those five words pop into my head: *Why would you do that*? When I first said those words, I was speaking to Dusty, who is the embodiment of the song. Now I’m asking them of myself. Because my phone is in my hand, and I have his text open, the one where he asked me if he could stop by and get some things he left. He sent it this morning, and I still haven’t answered him because I want so much to see him, to hear him, to possibly touch him, breathe in his air. But I know it’s not the right thing. *Why would you do that*?
 
