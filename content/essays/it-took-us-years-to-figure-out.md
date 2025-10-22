@@ -76,3 +76,11 @@ Thus reassured, yet still unable to listen to a physical copy like in the old da
 It turns out you can put a price on love.
 
 *Jim Parisi is a freshly unemployed editor who lives in Occupied Washington, D.C., with his long-suffering wife, Beth, and Dolce, a spicy mix of boxer, pit bull, and Australian cattle dog. (Their two kids, Aidan and Nora, have flown the coop.) He writes the occasional essay for[ ihavethatonvinyl.com](http://ihavethatonvinyl.com), and his fiction has appeared in The Good Life Review, FlashFlood Journal, and (coming soon) The Bluebird Word. Much of his free time is spent coaching Little League softball. He grew up in New Jersey but urges readers not to hold that against him.*
+
+Also by Jim Parisi:
+
+[Jukebox Harrow](https://ihavethatonvinyl.com/essays/jukebox-harrow/)
+
+[](https://ihavethatonvinyl.com/essays/jukebox-harrow/) [You're My Favorite Thing](https://ihavethatonvinyl.com/essays/youre-my-favorite-thing/)
+
+[Name Your Joy](https://ihavethatonvinyl.com/essays/name-your-joy/)
