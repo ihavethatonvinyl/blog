@@ -21,7 +21,7 @@ When Liam mentioned that a Fountains of Wayne song makes him think of his wife, 
 
 I immediately texted Beth to find out if she had an opinion about “our song.” She replied five minutes later: *I've Been Waiting?* I told her that's what I was thinking. She said it always makes her think of me; I said it always makes me think of her. Thirty-two-and-a-half years after the fact, we had our song.  (She then texted that the fridge was open—an alert from our intrusive, big brother-ish smart appliance. But let’s forget about that mundane scene from a marriage firmly in middle age and focus on the early magic.)
 
-The song in question, “I’ve Been Waiting,” appears on Matthew Sweet's power-pop masterpiece, *Girlfriend*. That abum, one of the most consequential records of my life, came out on October 22, 1991. My relationship with Beth, equally consequential, began a mere eight days later, on October 30. 
+The song in question, “I’ve Been Waiting,” appears on Matthew Sweet's power-pop masterpiece, *Girlfriend*. That album, one of the most consequential records of my life, came out on October 22, 1991. My relationship with Beth, equally consequential, began a mere eight days later, on October 30. 
 
 I wish I remembered how I spent what was in retrospect my last week and a day as a single person. But nothing comes to mind. All I'm left with is the vague, unsettling feeling that those days were nothing out of the ordinary for newly 26-year-old me. It was just a regular week. I went to work (where Beth also worked), went out after work (with Beth also in attendance; more on that later), hung out with my friends, did whatever else it was I did when not at work. It’s as if I had no idea what was going to hit me the following week. 
 
