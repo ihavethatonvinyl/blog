@@ -67,13 +67,13 @@ And “I’ve Been Waiting” still evokes fond memories of our early days toget
 
 The rest of you can find another song to call your own. “I’ve Been Waiting” belongs to Beth and me.
 
-[Postscript: In anticipation of writing this essay, I thought it would be fitting to pick up a copy of *Girlfriend* on vinyl. I knew that I still owned the CD from the early nineties, but this website isn't called ihavethatoncd.com. I wanted the vinyl. A quick look at all the usual online sources for vinyl either turned up empty or yielded "out of stock" designations, except for one deluxe vinyl edition that went for a cool $150. I was fully committed to doing justice to the album in this essay, but a man has to have boundaries.]
+[Postscript: In anticipation of writing this essay, I thought it would be fitting to pick up a copy of *Girlfriend* on vinyl. I knew that I still owned the CD from the early nineties, but this website isn't called ihavethatoncd.com. I wanted the vinyl. A quick look at all the usual online sources for vinyl either turned up empty or yielded "out of stock" designations, except for one deluxe vinyl edition that went for a cool $150. I was fully committed to doing justice to the album in this essay, but a man has to have boundaries.
 
 I then decided that the CD would work perfectly well for my purposes and set out to find *Girlfriend* among the boxes and racks of CDs in my basement. Beth had recently bought me a desktop CD player for my birthday. So for the first time in maybe 15 or 20 years, I would be able to play the album in a non-streaming format. Alas, the disc in question was nowhere to be found, leading me to wonder if I ever owned it, which made me wonder to Beth (facetiously…I think) that if I couldn't locate my copy of this record that played such an important role in our relationship, perhaps everything we thought we had was a sham built on a faulty foundation. Beth disabused me of my fanciful thoughts, assuring me that we definitely owned a copy at one time, but my haphazard storage and cataloging were to blame for its disappearance. 
 
 Thus reassured, yet still unable to listen to a physical copy like in the old days, I went online to snag a used CD, several of which were available at a reasonable price. For a mere $6.80, not $150, I have been reunited with the record that brought us so much joy and played such a pivotal role in our life together.
 
-It turns out you can put a price on love.
+It turns out you can put a price on love.]
 
 *Jim Parisi is a freshly unemployed editor who lives in Occupied Washington, D.C., with his long-suffering wife, Beth, and Dolce, a spicy mix of boxer, pit bull, and Australian cattle dog. (Their two kids, Aidan and Nora, have flown the coop.) He writes the occasional essay for[ ihavethatonvinyl.com](http://ihavethatonvinyl.com), and his fiction has appeared in The Good Life Review, FlashFlood Journal, and (coming soon) The Bluebird Word. Much of his free time is spent coaching Little League softball. He grew up in New Jersey but urges readers not to hold that against him.*
 
