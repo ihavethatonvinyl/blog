@@ -1,6 +1,6 @@
 ---
 title: It Took Us Years to Figure Out
-date: 2025-10-21T19:48:00.000-04:00
+date: 2025-10-22T04:42:00.000-04:00
 summary: The next two tracks—“I’ve Been Waiting” (more on that later) and
   “Girlfriend,” the breakthrough single, which puts the power in power pop and
   features Quine’s blistering guitar—take over where “Divine Intervention” left
@@ -9,7 +9,7 @@ summary: The next two tracks—“I’ve Been Waiting” (more on that later) an
   uptempo songs with sad and bitter breakup songs...
 featuredImage: /images/upload/mswt.jpg
 author: Jim Parisi
-draft: true
+draft: false
 ---
 ![](/images/upload/mswt.jpg)
 
