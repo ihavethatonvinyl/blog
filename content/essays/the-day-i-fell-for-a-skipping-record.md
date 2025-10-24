@@ -1,6 +1,6 @@
 ---
 title: The Day I Fell for a Skipping Record
-date: 2025-10-24T03:44:00.000-04:00
+date: 2025-10-24T06:49:00.000-04:00
 summary: "  The first record I had was not new. It wasn’t even mine at first. It
   was bequeathed to me: Fleetwood Mac's Rumours, the type of album that all
   relatives of everyone used to play in their living room when they were
@@ -8,7 +8,7 @@ summary: "  The first record I had was not new. It wasn’t even mine at first. 
   vinyl had more scratches than lights."
 featuredImage: /images/upload/fmr2.jpg
 author: "Peter Mwaniki "
-draft: true
+draft: false
 ---
 ![](/images/upload/fmr2.jpg)
 
