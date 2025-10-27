@@ -1,6 +1,6 @@
 ---
 title: Nova Mob - The Last Days of Pompeii - Rough Trade 1991
-date: 2025-10-27T02:58:00.000-04:00
+date: 2025-10-27T05:11:00.000-04:00
 summary: Before they called it grunge, before Seattle, before Subpop, there was
   Minneapolis in the mid-80’s. Young men in baggy clothes in basements,
   suffering through long cold winters with aggressive, chaotic hardcore,
@@ -9,7 +9,7 @@ summary: Before they called it grunge, before Seattle, before Subpop, there was
   and frenetic of the 80’s Minneapolis bands was Husker Du.
 featuredImage: /images/upload/nova-mob.jpg
 author: Tim Foley (aka T.J. Wolfsbane)
-draft: true
+draft: false
 ---
 ![](/images/upload/nova-mob.jpg)
 
