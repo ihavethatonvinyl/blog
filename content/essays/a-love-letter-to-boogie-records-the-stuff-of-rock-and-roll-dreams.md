@@ -10,7 +10,7 @@ summary: Boogie Records occupied a triangular peninsula that pointed like an
   rock and roll dreams. 
 featuredImage: /images/upload/boogie.jpg
 author: Kathy Passero
-draft: true
+draft: false
 ---
 ![](/images/upload/boogie.jpg)
 
