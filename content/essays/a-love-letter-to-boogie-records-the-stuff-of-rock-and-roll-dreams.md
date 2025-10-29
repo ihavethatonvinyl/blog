@@ -8,11 +8,11 @@ summary: Boogie Records occupied a triangular peninsula that pointed like an
   resembled an isosceles triangle or, perhaps more fitting, the planchette for a
   Ouija board. The entrance was at the narrow point. Beyond it lay the stuff of
   rock and roll dreams. 
-featuredImage: /images/upload/boogie.jpg
+featuredImage: /images/upload/boogie2.webp
 author: Kathy Passero
 draft: false
 ---
-![](/images/upload/boogie.jpg)
+![](/images/upload/boogie2.webp)
 
 Boogie Records occupied a triangular peninsula that pointed like an arrowhead into the intersection of Stadium Drive and West Michigan Avenue, two wide and busy roads at the bottom of the hilly neighborhood where I grew up near Kalamazoo College. Like the parcel of land it sat on, the store itself resembled an isosceles triangle or, perhaps more fitting, the planchette for a Ouija board. The entrance was at the narrow point. Beyond it lay the stuff of rock and roll dreams. 
 
