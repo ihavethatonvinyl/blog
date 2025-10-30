@@ -1,6 +1,6 @@
 ---
 title: A Trans Halloween Playlist
-date: 2025-10-30T02:35:00.000-04:00
+date: 2025-10-30T04:50:00.000-04:00
 summary: Halloween is rapidly approaching, and with it comes a sense of
   haphazard openness—a sense that anyone can present how they want to, that we
   can celebrate the things that frighten us, that any costume or event is
@@ -8,7 +8,7 @@ summary: Halloween is rapidly approaching, and with it comes a sense of
   to know that this sounds like something else. 
 featuredImage: /images/upload/dclicks.webp
 author: mk zariel
-draft: true
+draft: false
 ---
 ![](/images/upload/dclicks.webp)
 
