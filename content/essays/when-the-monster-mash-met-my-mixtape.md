@@ -1,6 +1,6 @@
 ---
 title: When the Monster Mash Met My Mixtape
-date: 2025-10-30T02:31:00.000-04:00
+date: 2025-10-30T04:51:00.000-04:00
 summary: I’ve always measured October not by the calendar but by the sound of
   eerie synths, offbeat laughter, and the occasional thunderclap that sneaks
   through my speakers. The first sign of Halloween for me isn’t the plastic
@@ -8,7 +8,7 @@ summary: I’ve always measured October not by the calendar but by the sound of
   familiar crackle announces spooky season is officially open.
 featuredImage: /images/upload/1001914808.jpg
 author: Drex
-draft: true
+draft: false
 ---
 ![](/images/upload/1001914808.jpg)
 
