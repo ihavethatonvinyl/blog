@@ -1,6 +1,6 @@
 ---
 title: Welcome to my Nightmare
-date: 2025-10-31T02:45:00.000-04:00
+date: 2025-10-31T06:06:00.000-04:00
 summary: " Let’s be clear – Freddy vs. Jason is not a good movie. It’s not
   wretched, but it’s not good. But it is a lot of fun, and has some decent
   horror movie sequences scattered throughout. Again, even as an aspiring film
@@ -8,7 +8,7 @@ summary: " Let’s be clear – Freddy vs. Jason is not a good movie. It’s not
   wanted to have a good time and not be at work on the farm."
 featuredImage: /images/upload/fvj.jpg
 author: Travis Cook
-draft: true
+draft: false
 ---
 ![](/images/upload/fvj.jpg)
 
