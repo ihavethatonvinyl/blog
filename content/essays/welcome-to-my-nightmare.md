@@ -65,3 +65,5 @@ That’s probably why I’ve remained so fond of *Freddy vs. Jason*, and of its 
 I usually break out my battered DVD copy of *Freddy vs. Jason* around Halloween, as a treat to myself. Now, I can also throw on the blood-colored vinyls of the soundtrack, lean back and remember what it was like to be young and stupid once more.
 
 *Travis Cook is a writer, as well as a former/erstwhile musician, actor, director, and general jack of all trades/master of none. He enjoys watching baseball (go Reds), movies, movie trivia at the Music Box Theatre, and spending time with his dog, Mr. Robot. He is a graduate of BGSU and is currently workings towards a Masters in Writing at DePaul University. He and his wife live in Chicago.*
+
+[Previously by Travis Cook: The Search for Desert Life](https://ihavethatonvinyl.com/essays/four-days-searching-for-this-desert-life/)
