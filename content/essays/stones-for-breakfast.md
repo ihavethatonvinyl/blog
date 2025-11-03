@@ -1,6 +1,6 @@
 ---
 title: Stones for Breakfast
-date: 2025-11-02T20:09:00.000-05:00
+date: 2025-11-03T05:19:00.000-05:00
 summary: " I got to see Elvis on November 25th, 1956 — one day before my twelfth
   birthday —  at the Louisville Armory. His paternal grandparents lived in
   Louisville. Two days before the show, teenagers ripped up all the grass on
@@ -8,7 +8,7 @@ summary: " I got to see Elvis on November 25th, 1956 — one day before my twelf
   cherish.  "
 featuredImage: /images/upload/cid_clip_image001.jpg
 author: Michael Sales
-draft: true
+draft: false
 ---
 ![](/images/upload/cid_clip_image001.jpg)
 
