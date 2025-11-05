@@ -1,6 +1,6 @@
 ---
 title: From Copacabana to Clampdown
-date: 2025-11-04T20:53:00.000-05:00
+date: 2025-11-05T06:37:00.000-05:00
 summary: Every other Friday after he got off work, we would drive across town to
   meet my mom. I would get out of dad’s car, having just listened to something
   like The Lovin’ Spoonful or The Guess Who, and get into my mom’s Fiat 124
@@ -11,7 +11,7 @@ summary: Every other Friday after he got off work, we would drive across town to
   of the weekend. Let the good times roll.
 featuredImage: /images/upload/image0-11-.jpeg
 author: John Waltz
-draft: true
+draft: false
 ---
 ![](/images/upload/image0-11-.jpeg)
 
