@@ -10,7 +10,7 @@ summary: "  In the year 1956 there was a new force in the music world. The
   mostly on 78 rpm records."
 featuredImage: /images/upload/elvis.jpg
 author: Jac Roberson
-draft: true
+draft: false
 ---
 ![](/images/upload/elvis.jpg)
 
