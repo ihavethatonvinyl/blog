@@ -1,6 +1,6 @@
 ---
 title: The 45 That Survived the House Fire
-date: 2025-11-12T04:58:00.000-05:00
+date: 2025-11-12T05:05:00.000-05:00
 summary:  During the days that followed we searched the ruins in search of items
   to salvage. It was a thoroughly hopeless state of affairs. There was no longer
   the old soul and the Motown singles that my father used to love as a child.
