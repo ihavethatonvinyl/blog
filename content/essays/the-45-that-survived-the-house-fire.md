@@ -7,7 +7,7 @@ summary:  During the days that followed we searched the ruins in search of item
   They were crated into a box of wood beside the record player and vaporized
   into a piece of unknown metal.
 featuredImage: /images/upload/mygirl.jpg
-author: Margie Peter
+author: Maggie Peter
 draft: false
 ---
 ![](/images/upload/mygirl.jpg)
@@ -40,4 +40,4 @@ It is peculiar that something so shredded is worth more than something so spotle
 
 When they want to know my dearest record, I indicate something apart from the rarest issue or the most valuable discovery. I am referring to a small black disc that has a scorched label and an irregular edge; it never plays, yet it amplifies the music more than all the other discs in the house. Some of the songs never actually come to an end. They simply do not cease to discover new ways to be heard.
 
-*Margie Peter is a Kenyan author who addresses the themes of remembrance, music, and self. Her works tend to be the results of her life experiences, as she tries to find out how sound and narration can make the memories that time has tried to forget come back to her. She reflects on the emotionalism of things, the strength of persistence in defeat, and the strength of nostalgia, which cannot be explained. She uses her time between the writing; she is rooting in crates, finding old vinyl that is still playing as it scratches between the recordings.*
+*Maggie Peter is a Kenyan author who addresses the themes of remembrance, music, and self. Her works tend to be the results of her life experiences, as she tries to find out how sound and narration can make the memories that time has tried to forget come back to her. She reflects on the emotionalism of things, the strength of persistence in defeat, and the strength of nostalgia, which cannot be explained. She uses her time between the writing; she is rooting in crates, finding old vinyl that is still playing as it scratches between the recordings.*
