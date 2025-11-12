@@ -6,13 +6,11 @@ summary:  During the days that followed we searched the ruins in search of item
   the old soul and the Motown singles that my father used to love as a child.
   They were crated into a box of wood beside the record player and vaporized
   into a piece of unknown metal.
-featuredImage: /images/upload/the-45-that-survived.png
+featuredImage: /images/upload/mygirl.jpg
 author: Margie Peter
 draft: false
 ---
-![](/images/upload/the-45-that-survived.png)
-
-
+![](/images/upload/mygirl.jpg)
 
 When I was eight years old, our house where we lived caught fire, leaving it as ashes. The fire started in the kitchen, and within a short time, it spread to the small rooms and destroyed curtains, furniture, and photographs. And before daylight, there was a black object, which was fattening where our house had been, and traced against the white sky. The smell I will never overcome is the smell of smoke and wet ash, the smell of the terminations.
 
@@ -41,7 +39,5 @@ It is peculiar that something so shredded is worth more than something so spotle
  I put the record out of its sleeve and do it late at night in my palm. Big enough not to be forgotten, too big to lose. The outlines are jagged where they are needed, the lines are irregular, and it absorbs and reflects light to make it almost divine. It acts as a reminder that we are defined by what we possess and develop, although this may no longer be in use; documents that survived the house fire have shown their eternal worth. The cracks will not matter; the documents will be there. It is an act of retention, a rite of retention of something that has lost its fullness.
 
 When they want to know my dearest record, I indicate something apart from the rarest issue or the most valuable discovery. I am referring to a small black disc that has a scorched label and an irregular edge; it never plays, yet it amplifies the music more than all the other discs in the house. Some of the songs never actually come to an end. They simply do not cease to discover new ways to be heard.
-
-
 
 *Margie Peter is a Kenyan author who addresses the themes of remembrance, music, and self. Her works tend to be the results of her life experiences, as she tries to find out how sound and narration can make the memories that time has tried to forget come back to her. She reflects on the emotionalism of things, the strength of persistence in defeat, and the strength of nostalgia, which cannot be explained. She uses her time between the writing; she is rooting in crates, finding old vinyl that is still playing as it scratches between the recordings.*
