@@ -13,6 +13,8 @@ draft: false
 ---
 ![Training new hires Nippy & Jacko in '87!](/images/upload/goodvibes_1987.jpg "Training new hires Nippy & Jacko in '87!")
 
+*photo: Training new hires Nippy & Jacko in '87!*
+
 In 1986, my father laid it down: Get a job, this week. Perhaps a paper route like many other boys had? I just couldn't see it; first, it was so typical, and second, you had to get up at the crack of dawn—even in the dead of winter. 
 
 I discussed the issue with my friend Hughie, who was one of the only boys in public school who had been kind to me in the past.  After enjoying Fribbles at Friendly's restaurant in Sherwood Plaza, a strip mall off Route 9, we walked a few doors down to the Good Vibrations record store, the place where I felt most at home. Good Vibrations was a thirteen-store chain in Massachusetts owned and run by hippies and their selection was top-notch. As I perused the twelve-inch maxis, I suddenly realized that I could solve my job dilemma by working there. I summoned all my bravado and approached the punk behind the register and asked for an application, filled it out on the spot, and handed it back.
