@@ -11,10 +11,7 @@ featuredImage: /images/upload/goodvibes_1987.jpg
 author: Joe O'Donnell
 draft: false
 ---
-![](/images/upload/goodvibes_1987.jpg)
-
-
-
+![Training new hires Nippy & Jacko in '87!](/images/upload/goodvibes_1987.jpg "Training new hires Nippy & Jacko in '87!")
 
 In 1986, my father laid it down: Get a job, this week. Perhaps a paper route like many other boys had? I just couldn't see it; first, it was so typical, and second, you had to get up at the crack of dawn—even in the dead of winter. 
 
@@ -30,7 +27,7 @@ My coworkers were all older than me, which I loved. Laura, the assistant manager
 
 Matt was the heavy-metal guy of our crew, who spoke in a Cockney accent even though he was from Worcester. He wore full makeup and leather every day, including tight pants with a massive bulge straight out of *Spinal Tap*. Sarah, a teenaged Black girl who worked at Vibes that summer before she headed to Ithaca College and would return on holidays. She and Laura had been neighbors and friends since childhood. 
 
-There were some albums we all agreed were amazing: *Savage* by the Eurythmics, *Shelter* by Lone Justice, *Welcome Home* by ‘Til Tuesday, and of course Crowded House’s self-titled debut. Matt, however, never veered from his metal obsessions, and I heard Megadeath, Iron Maiden, and Cinderella so many times I could play all their songs on air guitar. Matt really lost his shit when Capitol Records asked for our cooperation in breaking in a new band called Poison and their debut album *Look What the Cat Dragged In* by doing an in-store album signing. I thought they looked scary and sounded uglier than that, but politically I needed to work it. My number-one obsession and comebacks queen Tina Turner was on Capitol and making friends with the promo guys could mean tons of free Tina swag for me. 
+There were some albums we all agreed were amazing: *Savage* by the Eurythmics, *Shelter* by Lone Justice, *Welcome Home* by ‘Til Tuesday, and of course Crowded House’s self-titled debut. Matt, however, never veered from his metal obsessions, and I heard Megadeath, Iron Maiden, and Cinderella so many times I could play all their songs on air guitar. Matt really lost his shit when Capitol Records asked for our cooperation in breaking in a new band called Poison and their debut album *Look What the Cat Dragged In* by doing an in-store album signing. I thought they looked scary and sounded uglier than that, but politically I needed to work it. My number-one obsession and comeback queen Tina Turner was on Capitol and making friends with the promo guys could mean tons of free Tina swag for me. 
 
 A few weeks later, Poison rolled up in a white limo to the store’s back door and trash dumpsters. Matt was so excited his accent kept slipping in and out. The band had two requests: unlimited Diet Pepsi and a fan on their faces to keep their hair blowing back at full volume. When they walked in, I couldn't help but compare their pockmarked faces and shredded hair to the airbrushed drag queens from their album cover that was plastered all over the store’s walls. These guys were dirtbags. After they signed autographs for their fifteen or so fans, we went out back by the limo and Laura and I smoked a joint with them. I decided they were pretty cool, after all, but I definitely didn't think they would become the hottest band in the world—which they did, and in just a few weeks.
 
