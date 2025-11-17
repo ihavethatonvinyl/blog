@@ -1,6 +1,6 @@
 ---
 title: The Record I Bought for a Ghost
-date: 2025-11-16T22:33:00.000-05:00
+date: 2025-11-17T05:45:00.000-05:00
 summary: "When my uncle passed away, his last hiss was heard on his turntable,
   and the dry rattle of the night in Nairobi left no memories behind him. The
   battered box under his floorboards contained his vinyl records, which he
@@ -11,7 +11,7 @@ summary: "When my uncle passed away, his last hiss was heard on his turntable,
   lacked."
 featuredImage: /images/upload/expensive.jpg
 author: Bright Douglas
-draft: true
+draft: false
 ---
 ![](/images/upload/expensive.jpg)
 
