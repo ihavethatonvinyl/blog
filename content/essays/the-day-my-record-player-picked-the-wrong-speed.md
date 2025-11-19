@@ -1,6 +1,6 @@
 ---
 title: The Day My Record Player Picked the Wrong Speed
-date: 2025-11-18T23:05:00.000-05:00
+date: 2025-11-19T04:53:00.000-05:00
 summary: "This was my automatic reply because I flicked the switch, which now
   was not at the 33 setting. Snapped off, vanished. I sighed, and thought I
   would go digital; however, there was something there: curiosity, maybe, or
@@ -8,7 +8,7 @@ summary: "This was my automatic reply because I flicked the switch, which now
   longer felt irritated at the conclusion of “Spanish Bombs”. I was mesmerized."
 featuredImage: /images/upload/turnt.jpg
 author: Atieno Raphael
-draft: true
+draft: false
 ---
 ![](/images/upload/turnt.jpg)
 
