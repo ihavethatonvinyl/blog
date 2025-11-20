@@ -1,0 +1,40 @@
+---
+title: From Copacabana to Clampdown
+date: 2025-11-05T06:37:00.000-05:00
+summary: Every other Friday after he got off work, we would drive across town to
+  meet my mom. I would get out of dad’s car, having just listened to something
+  like The Lovin’ Spoonful or The Guess Who, and get into my mom’s Fiat 124
+  where she was listening to Styx or The Cars. It always took my brain a few
+  minutes to adjust. Her music was more energetic and full of life. The guitars
+  were fuzzy and the drums were right there in the foreground. It was exciting
+  music, and it meant an end to the drudgery of the school week. The beginning
+  of the weekend. Let the good times roll.
+featuredImage: /images/upload/image0-11-.jpeg
+author: John Waltz
+draft: false
+---
+![](/images/upload/image0-11-.jpeg)
+
+I have lots of memories from when I was a kid of riding in my dad’s Buick station wagon while we listened to oldies on the radio. He wasn’t one to sing along, but he had this incredible, encyclopedic knowledge of the pop music of the fifties and sixties that he was always sharing. He knew all the band names, who the different members were, and why they broke up. And while the music just felt dated to me, I loved to listen to him talk about it. To this day, I’ll occasionally surprise myself when I remember some random bit of trivia he told me decades ago.
+
+Every other Friday after he got off work, we would drive across town to meet my mom. I would get out of dad’s car, having just listened to something like The Lovin’ Spoonful or The Guess Who, and get into my mom’s Fiat 124 where she was listening to Styx or The Cars. It always took my brain a few minutes to adjust. Her music was more energetic and full of life. The guitars were fuzzy and the drums were right there in the foreground. It was exciting music, and it meant an end to the drudgery of the school week. The beginning of the weekend. Let the good times roll.
+
+My parents had grown up in neighboring, smallish towns on the border of Maryland and Pennsylvania, but while my dad would’ve happily spent his whole life there, Mom always longed for the city, and when a job opportunity opened up for her in the DC suburbs, she leapt at the chance. Dad grudgingly went along, but it was probably the biggest thing that led to the end for their already troubled marriage. The early seventies weren’t an easy time for teen parents, not that any time really is. But they struggled and argued and fought a lot. They divorced when I was eight and, in a weird twist for those times, I ended up living primarily with my dad, while my mom settled for visitation every other weekend. Their separation hadn’t been a good one and pick-ups and drop-offs were often tense.
+
+I can look back now and see that much of their personalities were reflected in their musical tastes. My dad’s music was rooted in the past, in the pop music of the sixties. He never said as much, but I got the impression he thought music had stopped being good the day the Beatles broke up. That’s certainly all he ever listened to. But Mom’s was more adventurous, like the rock music of the seventies. There was always some new song she was listening to, something by Rush or Steely Dan. I was still young enough that I didn’t really have any music of my own, no way to access it outside of whatever my parents were listening to.
+
+Eventually, my stepparents arrived on the scene, adding more depth to the music in my life. They also added something totally new: music in the house. Surely my mom and dad had a radio around prior to them each getting remarried, but I don’t have any memories of listening to it. But I do have a very distinct memory of my stepmom’s chunky 8-track tape player churning out an endless loop of *Barry Manilow Live*. There were also tapes of The Carpenters and Linda Ronstadt. I remember the picture of her in roller skates on the cover of *Living in the USA* calling to my preteen hormones in a way I couldn’t quite understand in the moment.
+
+One thing I absolutely understood, though, was how cool my stepdad’s stereo system was. Big, solid, metal-faced components with knobs and switches I could only guess the function of, wooden speakers so big and heavy looking they could accurately be called furniture. And vinyl. So, so much vinyl. Rows and rows of albums from bands both familiar and not, and he almost always had something playing. He listened to a lot of Pink Floyd, which was melodic but also had guitars that growled and screamed. He listened to Yes and Captain Beefheart, which were, respectively, weird and accessible and weirdly opaque. 
+
+I wouldn’t be allowed to touch any of his gear or records until I was much older, but if I wanted to listen to something, my stepdad was usually pretty good about letting me. He would set everything up, gently close the acrylic cover, and while walking away remind me to “not fucking touch anything.” The music I listened to expanded incredibly quickly and I remember starting to form opinions of my own about what I was hearing. I thought *Dark Side of the Moon* was incredible in how cool and out there it was compared to other music, but *Animals* was a better album, more fun to listen to. Queen had quite a few good songs, but they could all be found on *Greatest Hits*.
+
+For my fourteenth birthday, my parents all got together and bought me my own stereo system. It was a hodgepodge of used components, a Sony integrated amplifier, Realistic speakers, and the real standout, a Philips 212 turntable. It was a perfect setup for my basement bedroom and I started spending most of my time there. There was a tiny window up by the ceiling and I snaked a wire up there connected to an antenna and that was good enough to bring in DC101 and Baltimore’s 98Rock. The first two albums I ever bought for myself were Duran Duran’s *Seven and the Ragged Tiger* and U2’s *Under a Blood Red Sky*. Whatever money I saved up from birthdays and Christmas and doing odd jobs and chores got funneled into records. My collection grew. 
+
+And then I met Jaki, my first girlfriend. She was tall, strikingly pretty, and had short, wavy blonde hair with a braided rat tail that hung down across her shoulder. She had each ear pierced multiple times and had a way of dressing that was unique to her and completely indescribable. She was strong and so fully her own person and didn’t give a fuck about what other people thought. And she liked me. She made me feel wanted in a way I hadn’t realized I was missing from the rest of my life. I loved her in that way that only teenagers can, with every atom in my body. And she listened to The Clash.
+
+Jaki was my gateway to what would come to be known as alternative music, to New Wave, to punk. She introduced me to The Smiths and The Cure and WHFS in Baltimore. She loaned me her copy of Depeche Mode’s *Some Great Reward* and would tenderly whisper the lyrics to “Somebody” in my ear when we made out. I’ve read that everyone’s musical taste gets locked in during their early teens. I don’t think that’s 100% true, but the music I was listening to during the year or so Jaki and I were a couple is certainly the stuff I remember most fondly. Even after we broke up, I continued listening to alternative music, rather than retreating to the music my parents preferred.
+
+I joined the Navy right out of high school, mostly because I didn’t have anything better to do but also my family didn’t have the means to send me to college. Besides, it was the late eighties; it’s not like we were in a war or anything. While figuring out where to keep my clothes and other stuff, I left all my records with my stepdad for safe keeping. He decided a couple years later that CDs were the superior format, so he sold all his vinyl and mine along with it. One of these days, I might find it in my heart to forgive him.
+
+*Jon Waltz is a Maryland expat living in Missouri. He spends his spare time watching baseball and listening to classic alternative music, though rarely at the same time. He can be found at [JonWithTattoos.bsky.social](https://bsky.app/profile/jonwithtattoos.bsky.social)*
