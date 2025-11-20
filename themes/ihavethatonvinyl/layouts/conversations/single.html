@@ -5,13 +5,11 @@
   <h5><em>Published on {{ .Date.Format "Jan 2, 2006" }}</em></h5>
   {{- if .Params.featuredImage }}
   <div class="featuredImage">
-    <img
-      src="{{ .Params.featuredImage }}"
-      alt="{{ .Params.featuredImageAlt }}"
-      title="{{ .Params.featuredImageCap }}"
-    />
+    <img src="{{ .Params.featuredImage }}" alt="{{ .Params.featuredImageAlt }}"
+      title="{{ .Params.featuredImageCap }}" />
   </div>
   {{- end }} {{ .Content }}
 </div>
 <div id="newreleases">{{ partial "new-releases.html" . }}</div>
+<div id="comments">{{ partial "comments.html" . }}</div>
 {{ end }}

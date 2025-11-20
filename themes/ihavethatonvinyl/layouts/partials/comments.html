@@ -1,0 +1,32 @@
+<div id="cusdis_thread" data-host="https://cusdis.com" data-app-id="50f94d0c-da2b-4ac6-b041-87e6d9c0e559"
+    data-page-id="{{ .Page.File.UniqueID }}" data-page-url="{{ .Page.Permalink }}" data-page-title="{{ .Title }}"></div>
+<script async defer src="https://cusdis.com/js/cusdis.es.js"></script>
+<script>
+    const observer = new MutationObserver(e => {
+        e.forEach(e => {
+            if (e.addedNodes.length == 0) return;
+            const t = e.addedNodes[0];
+            if (t.tagName !== "IFRAME") return;
+            const n = `
+                .dark {
+                  background: black;
+                }
+              `;
+            t.srcdoc = t.srcdoc.replace("</style>", n + "</style>")
+        })
+    });
+    observer.observe(document.getElementById("cusdis_thread"),
+        { childList: !0, subtree: !0 }),
+        window.addEventListener("load", function () {
+            let e = document.querySelector("#cusdis_thread iframe");
+            if (e) {
+                let t = new MutationObserver(() => {
+                    let t = e.contentWindow.document.body.scrollHeight;
+                    e.style.height = t + "px";
+                    const n = e.contentWindow.document.documentElement.style.colorScheme;
+                    n === "auto" && (e.contentWindow.document.documentElement.style.colorScheme = "dark")
+                });
+                t.observe(e.contentWindow.document.body, { childList: !0, subtree: !0 })
+            }
+        })
+</script>

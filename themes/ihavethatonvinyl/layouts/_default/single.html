@@ -1,8 +1,9 @@
 {{ define "main" }}
 <div id="liner-notes">{{ partial "liner-notes.html" . }}</div>
 <div id="featured">
-  <h2>{{ .Title  }}</h2>
+  <h2>{{ .Title }}</h2>
   {{ .Content }}
 </div>
 <div id="newreleases">{{ partial "new-releases.html" . }}</div>
+<div id="comments">{{ partial "comments.html" . }}</div>
 {{ end }}
