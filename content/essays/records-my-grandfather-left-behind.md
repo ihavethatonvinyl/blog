@@ -8,7 +8,7 @@ summary: "I had just attained twelve years, with no idea about what actually was
   that: this was not just an inheritance, but initiation."
 featuredImage: /images/upload/img_3028.jpeg
 author: "Abraham Aondoana "
-draft: true
+draft: false
 ---
 ![](/images/upload/img_3028.jpeg)
 
