@@ -6,7 +6,7 @@ summary: Christmas music is for the day after Thanksgiving, not the day of.
   the right dinner playlist for a family get-together in 2025 a little tricky. 
 featuredImage: /images/upload/lawoman.jpg
 author: Ashley Archambault 
-draft: true
+draft: false
 ---
 
 
