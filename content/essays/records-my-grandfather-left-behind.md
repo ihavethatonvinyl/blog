@@ -1,6 +1,6 @@
 ---
 title: Records My Grandfather Left Behind
-date: 2025-11-26T04:12:00.000-05:00
+date: 2025-11-26T05:08:00.000-05:00
 summary: "I had just attained twelve years, with no idea about what actually was
   a vinyl record. The turntable was almost broken, when I placed the first
   record - Sam Cooke “A Change is Gonna Come” my room filled with a fragile
