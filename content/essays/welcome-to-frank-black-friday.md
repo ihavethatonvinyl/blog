@@ -1,6 +1,6 @@
 ---
 title: Welcome to Frank Black Friday 
-date: 2025-11-27T20:24:00.000-05:00
+date: 2025-11-28T04:46:00.000-05:00
 summary: Oh, you don’t know about Frank Black Friday? Read on to learn all about
   Frank Black Friday and more as PopMatters pals Rich Wilhelm and Chris Ingalls
   present an oral history of how their separate 30-year relationships with
@@ -9,7 +9,7 @@ summary: Oh, you don’t know about Frank Black Friday? Read on to learn all abo
   relationship.
 featuredImage: /images/upload/c2578532-7c11-494a-b770-d6167e916102.jpg
 author: " Rich Wilhelm and Chris Ingalls"
-draft: true
+draft: false
 ---
 ![](/images/upload/c2578532-7c11-494a-b770-d6167e916102.jpg)
 
