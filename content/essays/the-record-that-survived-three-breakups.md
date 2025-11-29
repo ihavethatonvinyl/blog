@@ -1,6 +1,6 @@
 ---
 title: The Record That Survived Three Breakups
-date: 2025-11-28T19:15:00.000-05:00
+date: 2025-11-29T06:37:00.000-05:00
 summary: "The matte-black sleeve of Disintegration by The Cure shows signs of
   wear, like a scar I openly displayed, and I have carried it throughout my
   twenties. It initially came out when I left my first apartment: I put the
@@ -10,7 +10,7 @@ summary: "The matte-black sleeve of Disintegration by The Cure shows signs of
   outgrew."
 featuredImage: /images/upload/the-record-that-survived.png
 author: Mary Francies
-draft: true
+draft: false
 ---
 
 
