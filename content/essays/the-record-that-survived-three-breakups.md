@@ -8,13 +8,11 @@ summary: "The matte-black sleeve of Disintegration by The Cure shows signs of
   strap, creating a tatty hole. Since then, the casualties have been adding up:
   cracks, holes, frayed edges, a footnote, a place I left, a version of myself I
   outgrew."
-featuredImage: /images/upload/the-record-that-survived.png
+featuredImage: /images/upload/curedis.jpg
 author: Mary Francies
 draft: false
 ---
-
-
-![](/images/upload/the-record-that-survived.png)
+![](/images/upload/curedis.jpg)
 
 The matte-black sleeve of Disintegration by The Cure shows signs of wear, like a scar I openly displayed, and I have carried it throughout my twenties. It initially came out when I left my first apartment: I put the record in a battered tote bag, and the edge got stuck on the metal lock of the strap, creating a tatty hole. Since then, the casualties have been adding up: cracks, holes, frayed edges, a footnote, a place I left, a version of myself I outgrew.
 
