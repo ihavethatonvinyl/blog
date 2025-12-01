@@ -7,7 +7,7 @@ summary: Nirvana's Nevermind has three versions I own. Practically speaking, it
   life, reflecting various versions of myself when I acquired them.
 featuredImage: /images/upload/nirvana.jpg
 author: Margaret Muiruri
-draft: false
+draft: true
 ---
 ![](/images/upload/nirvana.jpg)
 
