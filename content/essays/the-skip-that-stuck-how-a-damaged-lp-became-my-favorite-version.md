@@ -8,7 +8,7 @@ summary: "  I was seventeen when I bought a scratched record called Rumours by
   sandstorm. Yet, there was something in it which attracted me. "
 featuredImage: /images/upload/oldscratch.jpg
 author: Mary Wanjiru
-draft: false
+draft: true
 ---
 ![](/images/upload/oldscratch.jpg)
 
