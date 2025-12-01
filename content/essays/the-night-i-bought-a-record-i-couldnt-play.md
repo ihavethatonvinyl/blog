@@ -9,7 +9,7 @@ summary: The store was of a previous era. The interior was snug and hot and
   titles.
 featuredImage: /images/upload/record.png
 author: Margaret Muiruri
-draft: false
+draft: true
 ---
 ![](/images/upload/record.png)
 
