@@ -8,7 +8,7 @@ summary: "This was my automatic reply because I flicked the switch, which now
   longer felt irritated at the conclusion of “Spanish Bombs”. I was mesmerized."
 featuredImage: /images/upload/turnt.jpg
 author: Atieno Raphael
-draft: false
+draft: true
 ---
 ![](/images/upload/turnt.jpg)
 
