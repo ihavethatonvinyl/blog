@@ -8,7 +8,7 @@ summary: There is a special thrill about going through an old dusty pile of
   discovered when I was still a small collector.
 featuredImage: /images/upload/warped-vinyl-record-repair-1.webp
 author: David Chege
-draft: false
+draft: true
 ---
 ![](/images/upload/warped-vinyl-record-repair-1.webp)
 
