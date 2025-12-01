@@ -9,7 +9,7 @@ summary: "  The neon streetlights were shining, and it smelt like corn was
   speakers, and in the corner, as you would say, asleep, a turntable."
 featuredImage: /images/upload/turntablebroke.jpg
 author: Carena Josep
-draft: false
+draft: true
 ---
 ![](/images/upload/turntablebroke.jpg)
 
