@@ -8,7 +8,7 @@ summary: "  The first record I had was not new. It wasn’t even mine at first. 
   vinyl had more scratches than lights."
 featuredImage: /images/upload/fmr2.jpg
 author: "Peter Mwaniki "
-draft: false
+draft: true
 ---
 ![](/images/upload/fmr2.jpg)
 
