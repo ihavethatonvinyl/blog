@@ -10,7 +10,7 @@ summary: "The matte-black sleeve of Disintegration by The Cure shows signs of
   outgrew."
 featuredImage: /images/upload/curedis.jpg
 author: Mary Francies
-draft: false
+draft: true
 ---
 ![](/images/upload/curedis.jpg)
 
