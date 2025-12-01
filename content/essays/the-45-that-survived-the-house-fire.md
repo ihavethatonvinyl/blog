@@ -8,7 +8,7 @@ summary:  During the days that followed we searched the ruins in search of item
   into a piece of unknown metal.
 featuredImage: /images/upload/mygirl.jpg
 author: Maggie Peter
-draft: false
+draft: true
 ---
 ![](/images/upload/mygirl.jpg)
 
