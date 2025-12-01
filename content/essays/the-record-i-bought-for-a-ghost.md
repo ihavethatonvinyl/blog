@@ -11,7 +11,7 @@ summary: "When my uncle passed away, his last hiss was heard on his turntable,
   lacked."
 featuredImage: /images/upload/expensive.jpg
 author: Bright Douglas
-draft: false
+draft: true
 ---
 ![](/images/upload/expensive.jpg)
 
