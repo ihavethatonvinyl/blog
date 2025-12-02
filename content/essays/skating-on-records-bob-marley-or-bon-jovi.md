@@ -1,6 +1,6 @@
 ---
 title: "Skating on Records: Bob Marley or Bon Jovi?"
-date: 2025-12-01T19:43:00.000-05:00
+date: 2025-12-02T05:33:00.000-05:00
 summary: My father loves music but maybe more than the music itself, he loves
   the ritual of slipping a disc out of its jacket, blowing delicately on it to
   rid it of dust particles before placing it tenderly on the player. I see the
@@ -11,7 +11,7 @@ summary: My father loves music but maybe more than the music itself, he loves
   realizing it. 
 featuredImage: /images/upload/image0-12-.jpeg
 author: Krystal Sital
-draft: true
+draft: false
 ---
 ![](/images/upload/image0-12-.jpeg)
 
