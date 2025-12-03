@@ -1,6 +1,6 @@
 ---
 title: "Hold the Line: a breakup story starring Toto"
-date: 2025-12-03T05:01:00.000-05:00
+date: 2025-12-03T05:04:00.000-05:00
 summary: Everyone was singing it. The old, the young, the toothless, the drunk,
   the surfing Santa. It was almost robotic, in a sense..
 featuredImage: /images/upload/toto-hold-the-line-columbia.jpg
