@@ -1,7 +1,7 @@
 ---
 title: Nate Patrin on Traffic's "The Low Spark of High Heeled Boys"
 slug: traffic-the-low-spark-of-high-heeled-boys
-date: 2024-12-16T14:25:46-0500
+date: 2025-12-03T04:55:00.000-05:00
 summary: One of the things I miss the most about my early years of crate digging
   was the thrilling feeling of displacement I felt every time I stumbled across
   an unfamiliar old secondhand LP with an unconventional sleeve[...]
