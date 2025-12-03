@@ -10,6 +10,7 @@ author: Nate Patrin
 draft: false
 ---
 ![img-1734377146768117000.jpg](/images/upload/img-1734377146768117000.jpg)
+
 One of the things I miss the most about my early years of crate digging was the
 thrilling feeling of displacement I felt every time I stumbled across an
 unfamiliar old secondhand LP with an unconventional sleeve. I'm not just talking
@@ -68,6 +69,7 @@ got a combination of visual ingenuity and discographic excellence that stands up
 next to contemporaries like Hipgnosis, Shusei Nagaoka, and even John Berg.
 
 ![img-1734377146869591000.jpg](/images/upload/img-1734377146869591000.jpg)
+
 But the question remains: what does an album in a sleeve like this *sound* like,
 and what kind of band would concoct it? Flip the LP over and the photo on the
 back and you'll see an incarnation of Traffic that was drastically shaken up
@@ -205,10 +207,10 @@ play tricks on you.
 
 - - -
 
-Nate Patrin is a native of St. Paul, Minnesota, who has been writing about music
+*Nate Patrin is a native of St. Paul, Minnesota, who has been writing about music
 and its role in culture for over two decades. His work has previously appeared in sites and publications including
-Pitchfork, Stereogum, Bandcamp Daily, City Pages, Maggot Brain, The Shfl, and many more. His first book, *Bring
-That Beat Back: How Sampling Built Hip-Hop*, was published by University of Minnesota Press in 2020. His second,
-*The Needle and the Lens: Pop Goes to the Movies from Rock 'n' Roll to Synthwave*, was also published by
+Pitchfork, Stereogum, Bandcamp Daily, City Pages, Maggot Brain, The Shfl, and many more. His first book, Bring
+That Beat Back: How Sampling Built Hip-Hop, was published by University of Minnesota Press in 2020. His second,
+The Needle and the Lens: Pop Goes to the Movies from Rock 'n' Roll to Synthwave, was also published by
 University of Minnesota Press in 2023, and has been nominated for a 2024
-Minnesota Book Award. He can be found on Bluesky at [@natepatrin.bsky.social](https://bsky.app/profile/natepatrin.bsky.social)
+Minnesota Book Award. He can be found on Bluesky at [@natepatrin.bsky.social](https://bsky.app/profile/natepatrin.bsky.social)*
