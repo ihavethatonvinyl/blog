@@ -1,6 +1,6 @@
 ---
 title: "Hold the Line: a breakup story starring Toto"
-date: 2025-03-03T05:02:00.000Z
+date: 2025-12-03T05:01:00.000-05:00
 summary: Everyone was singing it. The old, the young, the toothless, the drunk,
   the surfing Santa. It was almost robotic, in a sense..
 featuredImage: /images/upload/toto-hold-the-line-columbia.jpg
@@ -78,4 +78,4 @@ I broke up with Bobby the night I got home. I said nothing of “Hold the Line.�
 
 I’ve carefully avoided the Toto song until now. And I have no one but myself to blame that it’s careening through my brain at the moment, bringing back all kinds of memories of surfing Santas, lit up palm trees and the worst Christmas of all time.
 
-*[](https://www.paypal.com/paypalme/goingitaloneny?country.x=US&locale.x=en_US)I Have That on Vinyl is a reader supported publication. If you enjoy what’s going on here please consider donating to the site’s writer/editor fund: [venmo](https://account.venmo.com/u/Michele-Catalano2659) // [paypal](https://www.paypal.com/paypalme/goingitaloneny?country.x=US&locale.x=en_US)*
+[](https://www.paypal.com/paypalme/goingitaloneny?country.x=US&locale.x=en_US)
