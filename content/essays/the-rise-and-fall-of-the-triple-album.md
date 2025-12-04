@@ -1,6 +1,6 @@
 ---
 title: The Rise and Fall of the Triple Album
-date: 2025-12-03T17:44:00.000-05:00
+date: 2025-12-04T05:09:00.000-05:00
 summary: Recently, Jeff Tweedy released a triple album, Twilight Override, 30
   tracks gathered in one place. The announcement made me think back to when I
   was a kid, in the record store, caressing the hefty Yessongs album with the
@@ -10,7 +10,7 @@ summary: Recently, Jeff Tweedy released a triple album, Twilight Override, 30
   well-earned bliss or buyer’s remorse.
 featuredImage: /images/upload/yessongs.jpg
 author: Tim Foley (aka T.J. Wolfsbane)
-draft: true
+draft: false
 ---
 ![](/images/upload/yessongs.jpg)
 
