@@ -4,7 +4,7 @@ date: 2025-12-05T05:03:00.000-05:00
 summary: Q&A is an occasional series where people talk to us about their record
   collections. Today we welcome musician Will Sisskind.
 featuredImage: /images/upload/will.jpg
-draft: false
+draft: true
 ---
 
 
