@@ -1,8 +1,8 @@
 ---
-title: Q&A With Music Writer/Musicians Will Sissking
+title: Q&A With Music Writer/Musician Will Sisskind
 date: 2025-12-05T05:03:00.000-05:00
 summary: Q&A is an occasional series where people talk to us about their record
-  collections
+  collections. Today we welcome musician Will Sisskind.
 featuredImage: /images/upload/will.jpg
 draft: false
 ---
