@@ -1,10 +1,10 @@
 ---
 title: Q&A With Music Writer/Musicians Will Sissking
-date: 2025-12-05T04:21:00.000-05:00
+date: 2025-12-05T05:03:00.000-05:00
 summary: Q&A is an occasional series where people talk to us about their record
   collections
 featuredImage: /images/upload/will.jpg
-draft: true
+draft: false
 ---
 
 
