@@ -9,8 +9,6 @@ draft: false
 ---
 ![](/images/upload/pitchbanner.jpg)
 
-
-
 *I Have That on Vinyl is no longer a paying outlet, at least not for the time being. I run this site myself and broke the bank trying to pay people but it's just not feasible. I hope you will still think about submitting your stories and taking part in IHTOV, spreading the good word about music and vinyl.* 
 
 Here are some things I’m looking for: personal narrative essays about a specific record, about collecting vinyl, about your favorite record store or why you buy variants or how you came to love a certain record. I want stories about your first purchase or your first visit to a record store. I want to hear about your passion for vinyl, for music, for collecting. I want odd stories about novelty records, and lamentations on greatest hits volumes and box sets. 
@@ -23,7 +21,7 @@ The most important thing I want to stress is you do not have to be a great write
 
 **What I am not looking for**: **anything written with the help of AI (I run everything through a detector), AI images, or any more stories about records that skip or broken turntables.** 
 
-**Also: I pay through Venmo or Paypal only, and Paypal only if your name matches the email address.** 
+
 
 Essays should be between 800-1200 words though I am not married to that length, depending on the subject. Pitch me at michele.catalano at gmail, with IHTOV PITCH in your header. 
 
