@@ -2,9 +2,10 @@
 title: ABOUT IHTOV
 date: 2024-12-17T01:12:00.000-05:00
 summary: A Little About IHTOV
-draft: true
+featuredImage: /images/upload/aboutpage.jpg
+draft: false
 ---
-
+![](/images/upload/aboutpage.jpg)
 
 
 
