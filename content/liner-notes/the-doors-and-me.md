@@ -1,6 +1,6 @@
 ---
 title: The Doors and Me
-date: 2025-02-05T22:27:00.000Z
+date: 2025-12-08T18:39:00.000-05:00
 summary: The Doors are one of those bands you discovered intrinsically back in
   the 70s. No older cousin passed them down to you, no friends said, “Hey, you
   have to listen to this.” They were just on the radio a lot
