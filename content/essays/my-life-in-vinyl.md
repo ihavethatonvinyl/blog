@@ -1,6 +1,6 @@
 ---
 title: My Life in Vinyl
-date: 2025-12-07T20:09:00.000-05:00
+date: 2025-12-08T05:20:00.000-05:00
 summary: My husband has been saying vinyl records are going to make a comeback.
   “You wait and see. We’re not getting rid of our albums.” Yeah, I’ve been
   trying to get him to sell those albums on eBay for a couple of decades or to a
@@ -10,7 +10,7 @@ summary: My husband has been saying vinyl records are going to make a comeback.
   first birthday. 
 featuredImage: /images/upload/7217615594699006923.jpeg
 author:  Sharon Riddick Hoggard
-draft: true
+draft: false
 ---
 ![](/images/upload/7217615594699006923.jpeg)
 
