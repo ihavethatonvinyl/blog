@@ -1,6 +1,6 @@
 ---
 title: Black Oak Arkansas and Their Self-Titled Debut
-date: 2025-12-09T21:41:00.000-05:00
+date: 2025-12-10T05:11:00.000-05:00
 summary: Let’s see…gray beard? Check. Slightly overweight? Check. Bad left knee?
   Check. The inability to find new music that hits like it did 30 years ago.
   Sadly, for this aging Gen Xer, check. Before you think of me as some
@@ -10,7 +10,7 @@ summary: Let’s see…gray beard? Check. Slightly overweight? Check. Bad left k
   However
 featuredImage: /images/upload/img_3549.jpeg
 author: Vincent T. Ciaramella
-draft: true
+draft: false
 ---
 ![](/images/upload/img_3549.jpeg)
 
