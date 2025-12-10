@@ -1,5 +1,5 @@
 ---
-title: Black Oak Arkansas and Their Self-Titled Debut
+title: "Hot and Nasty: Black Oak Arkansas and Their Self-Titled Debut"
 date: 2025-12-10T05:11:00.000-05:00
 summary: Let’s see…gray beard? Check. Slightly overweight? Check. Bad left knee?
   Check. The inability to find new music that hits like it did 30 years ago.
