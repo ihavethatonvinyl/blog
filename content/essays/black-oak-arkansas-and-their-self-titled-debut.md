@@ -26,6 +26,14 @@ Let’s see…gray beard? Check. Slightly overweight? Check. Bad left knee? Chec
 
 Black Oak Arkansas’ self-titled debut came into existence in that space between the acid trip of the late 1960s and the ear-splitting arena rock concerts that were just a distant rumble of thunder on the time horizon. Clocking in at just a smidge over 32 minutes, Black Oak Arkansas takes its listeners on a southern rock journey that predates Lynard Skynard’s (Pronounced 'Lĕh-'nérd 'Skin-'nérd)by 2 years. The six-man band, complete with a singer who sounds like he ate a bowl of gravel every day before school beginning in kindergarten, takes you on an auditory pilgrimage down a dirt lane in “The Natural State” before ending in gridlock on the 405. While none of the tracks from this album ended up on the Dazed and Confused soundtrack, *Lord Have Mercy on My Soul* would end up on mine. Other bangers on this piece of wax include *Hot and Nasty*, *When Electricity Came to Arkansas*, and the cover *Singing the Blues* (Melvin Endsley). Forewarning, if you’re looking for *Sweet Home Alabama* Part II or *Flirtin' with Disaster* (Slight Return), you will be disappointed, though Molly Hatchet has more in common with Black Oak Arkansas than Skynard. However, Black Oak Arkansas’ sound is more country than *Gator Country*. This relic of the early 70’s is a perfect addition to Enzo’s and my collection. To sum it up, Arkansas may have Little Rock. However, Black Oak, Arkansas has A LOT OF ROCK!
 
-
-
 *Vincent T. Ciaramella is a high school Psychology teacher by trade, Vince is also a published author with ten books and multiple articles under his belt including published works through SABR (Society for American Baseball Research), IBRO (International Boxing Research Organization), and History Magazine. His latest book is “A Shooting Star Across the Silver Screen- Olive Thomas: A Biography.” When not writing or teaching, Vince and his vinyl hunting partner and vinyl collector himself, Enzo Ciaramella, are out looking for some more titles to add to their collections.*
+
+
+
+*Previously by Vincent:*
+
+*[Pittsburgh Vinyl Crawl](https://ihavethatonvinyl.com/essays/ill-take-two-slices-of-vinyl-with-extra-cheese-the-pittsburgh-pizza-and-vinyl-crawl/)*
+
+*[Captain Beyond](https://ihavethatonvinyl.com/essays/captain-beyond-and-the-hunt-for-obscure-70s-vvinyl/)*
+
+*[Pink Floyd Live at Pompeii ](https://ihavethatonvinyl.com/essays/a-ghost-among-the-ruins-pink-floyd-live-at-pompeii/)*
