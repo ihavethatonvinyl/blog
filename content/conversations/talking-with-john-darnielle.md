@@ -1,6 +1,6 @@
 ---
 title: "Talking With John Darnielle "
-date: 2025-02-08T15:16:00.000Z
+date: 2025-12-12T04:55:00.000-05:00
 draft: false
 summary: So This feels like an errand of middle age to me, understanding that,
   the stuff that thrilled and fed you, if it's actual stuff, its mission going
@@ -92,4 +92,4 @@ They make their own joy from it. It's really making sense of your life and const
 
 *John Darnielle is a father of two from Durham, North Carolina. He writes books and makes records.*
 
-> *I Have That on Vinyl is a reader supported publication. If you enjoy what's going on here please consider donating to the site's writer fund: [venmo](https://account.venmo.com/u/Michele-Catalano2659) // [paypal](https://www.paypal.com/paypalme/goingitaloneny?country.x=US&locale.x=en_US)*
+> *I Have That on Vinyl is a reader supported publication. If you enjoy what's going on here please consider a donation [venmo](https://account.venmo.com/u/Michele-Catalano2659) // [paypal](https://www.paypal.com/paypalme/goingitaloneny?country.x=US&locale.x=en_US)*
