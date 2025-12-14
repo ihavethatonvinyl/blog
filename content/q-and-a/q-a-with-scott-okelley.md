@@ -4,7 +4,7 @@ date: 2025-12-14T04:59:00.000-05:00
 summary: Q&A is an occasional column where people from all walks of life answer
   questioins about their record collection
 featuredImage: /images/upload/img_8427.jpg
-draft: true
+draft: false
 ---
 
 
