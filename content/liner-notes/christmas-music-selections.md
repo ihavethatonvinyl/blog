@@ -1,6 +1,10 @@
 ---
 title: Christmas Music Selections
-date: 2024-12-21T17:56:00.000Z
+date: 2025-12-14T04:55:00.000-05:00
+summary: " My listening covers a wide expanse; I love the standards (the
+  Drifter’s version of “White Christmas” tops my chart), but I also love a
+  treasure trove of covers of those classics (Bright Eyes has an "
+featuredImage: /images/upload/img_7947.jpg
 draft: false
 ---
 I’m a sucker for Christmas music. I start listening right after Halloween and will usually let it linger until New Year’s Day. My listening covers a wide expanse; I love the standards (the Drifter’s version of “White Christmas” tops my chart), but I also love a treasure trove of covers of those classics (Bright Eyes has an amazing Christmas album with covers) and original holiday songs by a variety of rock, punk, emo, alternative bands and musicians (Sufjan Stevens does it best). 
