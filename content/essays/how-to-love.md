@@ -1,12 +1,12 @@
 ---
 title: How To Love
-date: 2025-12-15T03:00:00.000-05:00
+date: 2025-12-15T05:14:00.000-05:00
 summary: My girlfriend gifting me that album is what etched her into my
   childhood memories of What’s The 411?, of riding around in the car with my
   mom, in my eternal crush on Mary J. Blige, of youth, of how fleeting time is.
 featuredImage: /images/upload/mjb.jpg
 author: Robby Seabrook III
-draft: true
+draft: false
 ---
 ![](/images/upload/mjb.jpg)
 
