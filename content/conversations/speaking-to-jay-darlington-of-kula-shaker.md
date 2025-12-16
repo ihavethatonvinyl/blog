@@ -5,7 +5,12 @@ draft: true
 summary: IHTOV correspondent Owen Brazas spoke at length with Jay Darlington of
   Kula Shaker. This is a three parter. Part 2 will be posted Thursday, Part 3 on
   Saturday.
+featuredImage: /images/upload/kula.jpeg
 ---
+![](/images/upload/kula.jpeg)
+
+
+
 *IHTOV correspondent Owen Brazas spoke at length with Jay Darlington of Kula Shaker. This is a three parter. Part 2 will be posted Thursday, Part 3 on Saturday.*
 
 *This interview has been edited for clarity and length.* 
@@ -79,7 +84,5 @@ JD: Guilty pleasures and all that.
 IHTOV: Well, you gotta have a little ELP or Yes.
 
 JD: Yeah, yeah, the full spectrum is that?  So, I mean, like you say, we're really lucky now, unfortunate in some ways, and it's just all your fingertips now, and also that whole thing with with AR going, if you like, Oh, you've looked at this, if you like them, you're really like this, yeah, that's kind of taken away, you know, what we have with the friends going, Oh, my brother gave me this cassette. Should we listen to it? You know, I've got you a copy of it, you know. Is that, you know? 
-
-
 
 *Stay tuned for Parts 2 and 3*
