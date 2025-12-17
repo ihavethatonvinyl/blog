@@ -1,9 +1,9 @@
 ---
 title: First Anniversary
-date: 2025-12-16T17:47:00.000-05:00
+date: 2025-12-17T04:50:00.000-05:00
 summary: On the first anniversary of IHTOV
 featuredImage: /images/upload/turntable.jpg
-draft: true
+draft: false
 ---
 ![](/images/upload/turntable.jpg)
 
@@ -22,3 +22,9 @@ One year. I still can’t believe it has lasted this long. And it’s thanks to 
 I want to make some improvements to the site in the coming year, mostly cosmetic changes to make the experience better. I have some special things planned as well. And as always, it will continue to be blog-like, with no ads, no popups, just words from everyday people.
 
 I hope to go at least another year doing this. I hope you continue to stick around.
+
+
+
+*Thank you to the following people, who have been instrumental in keeping IHTOV running:*
+
+![](/images/upload/screenshot-2025-12-17-at-4.48.10 am.png)
