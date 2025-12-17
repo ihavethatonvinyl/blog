@@ -1,7 +1,7 @@
 ---
-title: Speaking to Jay Darlington of Kula Shaker
-date: 2025-12-16T16:59:00.000-05:00
-draft: true
+title: Talking to Jay Darlington of Kula Shaker
+date: 2025-12-17T06:01:00.000-05:00
+draft: false
 summary: IHTOV correspondent Owen Brazas spoke at length with Jay Darlington of
   Kula Shaker. This is a three parter. Part 2 will be posted Thursday, Part 3 on
   Saturday.
