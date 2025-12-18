@@ -1,6 +1,6 @@
 ---
 title: Open Hand
-date: 2025-12-17T19:17:00.000-05:00
+date: 2025-12-18T05:25:00.000-05:00
 summary: Vinyl records are like watches – there’s no real need for them anymore,
   but try telling that to a collector. Do and you’ll discover as many reasons to
   collect as there are collectors. As an elder millennial who grew up spinning
@@ -9,7 +9,7 @@ summary: Vinyl records are like watches – there’s no real need for them anym
   only-the-sentimental-hits approach. 
 featuredImage: /images/upload/img_1060.jpeg
 author: Elliott Bueler
-draft: true
+draft: false
 ---
 ![](/images/upload/img_1060.jpeg)
 
