@@ -1,7 +1,10 @@
 ---
 title: A Zine About a Website About Records
 date: 2025-12-19T10:12:00.000-05:00
-summary: Jason Bombach on the forthcoming IHTOV zine
+summary: I Have That on Vinyl is a website in the original sense of the word. It
+  doesn’t have an algorithm, you don’t have to have an account, it’s not selling
+  your data to Palantir or whatever, just records and stories about records.
+  IHTOV is old school internet.
 featuredImage: /images/upload/thezinecover.jpg
 author: Jason Bombach
 draft: false
