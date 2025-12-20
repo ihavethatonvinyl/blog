@@ -1,6 +1,6 @@
 ---
 title: "I Dream Of Christmas "
-date: 2025-12-19T20:02:00.000-05:00
+date: 2025-12-20T05:19:00.000-05:00
 summary: Music is one of the ways we all connect to Christmas. No matter what
   religion we are or what we celebrate, we can’t escape knowing all the lyrics
   to "Santa Claus Is Comin' to Town. The Christmas industrial complex has been
@@ -8,7 +8,7 @@ summary: Music is one of the ways we all connect to Christmas. No matter what
   for a few weeks out of every year.
 featuredImage: /images/upload/screenshot-2025-12-19-at-8.06.17 pm.png
 author: Eliel Lucero
-draft: true
+draft: false
 ---
 ![](/images/upload/screenshot-2025-12-19-at-8.06.17 pm.png)
 
@@ -22,7 +22,7 @@ Over the next few seasons Troy’s religion would only come a handful of times, 
 
 And why don’t you listen to my favorite song of the episode too. It features the comedic stylings of the great Alison Brie.
 
-Music is one of the ways we all connect to Christmas. No matter what religion we are or what we celebrate, we can’t escape knowing all the lyrics to "Santa Claus Is Comin' to Town. The Christmas industrial complex has been diabolically brilliant about spreading Christmas music out of every speaker for a few weeks out of every year. The songs become ear worms that burrow deep into our consciousness and incept themselves in our waking dreams. Whether we hate them or love them, the reach of holiday music is inescapable. So much so that we’ve invented '[Whamageddon](https://www.npr.org/2023/12/14/1219428677/this-is-whamageddon-the-game-where-you-avoid-a-certain-christmas-song)', a game whose point is to see who can make it the longest without listening to “Last Christmas”.
+Music is one of the ways we all connect to Christmas. No matter what religion we are or what we celebrate, we can’t escape knowing all the lyrics to "Santa Claus Is Comin' to Town." The Christmas industrial complex has been diabolically brilliant about spreading Christmas music out of every speaker for a few weeks out of every year. The songs become ear worms that burrow deep into our consciousness and incept themselves in our waking dreams. Whether we hate them or love them, the reach of holiday music is inescapable. So much so that we’ve invented '[Whamageddon](https://www.npr.org/2023/12/14/1219428677/this-is-whamageddon-the-game-where-you-avoid-a-certain-christmas-song)', a game whose point is to see who can make it the longest without listening to “Last Christmas”.
 
 I love Christmas songs old and new. The big day is less than two weeks away, and I’m all wrapped up in golden garland, waiting for Santa’s visit. On this Sunday morning I want to share one of my new favorite Christmas albums by a returning champion to Sunday Morning Records. Norah Jones’ *I Dream Of Christmas* was released on October 15, 2021 to a world that was still learning how to go back outside. As a Norah Jones fan I ordered it immediately and have kept it on heavy rotation every Holiday Season since. I’ve wrote about my love of Norah back in March when Cowboy Carter dropped, in[ “The Road To Jolene”](https://sundaymorningrecords.substack.com/p/the-road-to-jolene). She’s a big deal to me.
 
@@ -63,7 +63,5 @@ The Spotify track listing and the record track list are different because the st
 **What Are You Doing New Year's Eve?** Is the only standard on this album that I had no connection to. It’s great for the last song, as the ushering in of New Years Eve is one of Christmas’ most important jobs. Take us out of the year with a bang, before the dread of January begins. Great song, great vibe, great way to end a perfect album. What are you all doing on New Year’s Eve?
 
 Thanks so much for joining me on this very special Christmas edition of Sunday Morning Records.
-
-
 
 *Eliel Lucero is a native NY poet, writer and DJ. Their work appears in various journals and compilations. Eliel has DJed for thirty years with a focus on global dance music on vinyl. They live in Brooklyn with their wife and two dogs.*
