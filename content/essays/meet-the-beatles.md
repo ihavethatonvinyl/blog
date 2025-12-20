@@ -19,12 +19,21 @@ We were huge Beatlemaniacs and already owned their previous releases. I spent mo
 
 Before the concert, we bought the album, *Meet the Beatles*, at Wallich’s. Passing up The Rolling Stones, The Dave Clark Five, and even Herman’s Hermits, we’d make a beeline for the Beatles display racks, find our treasure, and race home with wild anticipation. Carefully removing the cellophane, she put the record on the hi-fi in the living room. We’d sing and dance together until we collapsed in exhaustion. Marsha’s favorite song from *Meet the Beatles* was "All My Loving."
 
-*Close your eyes and I’ll kiss you \
-Tomorrow I’ll miss you 
-Remember I’ll always be true 
-And then while I'm away 
-I'll write home every day 
-And I'll send all my loving' to you.*
+*Close your eyes and I’ll kiss you *
+
+*Tomorrow I’ll miss you* 
+
+
+*Remember I’ll always be true* 
+
+
+*And then while I'm away* 
+
+
+*I'll write home every day* 
+
+
+*And I'll send all my loving' to you.*
 
 She’d cry remembering her first High School love. 
 
