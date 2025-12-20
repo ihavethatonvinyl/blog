@@ -63,3 +63,7 @@ The Spotify track listing and the record track list are different because the st
 **What Are You Doing New Year's Eve?** Is the only standard on this album that I had no connection to. It’s great for the last song, as the ushering in of New Years Eve is one of Christmas’ most important jobs. Take us out of the year with a bang, before the dread of January begins. Great song, great vibe, great way to end a perfect album. What are you all doing on New Year’s Eve?
 
 Thanks so much for joining me on this very special Christmas edition of Sunday Morning Records.
+
+
+
+*Eliel Lucero is a native NY poet, writer and DJ. Their work appears in various journals and compilations. Eliel has DJed for thirty years with a focus on global dance music on vinyl. They live in Brooklyn with their wife and two dogs.*
