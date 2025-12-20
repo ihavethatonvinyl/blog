@@ -1,6 +1,6 @@
 ---
 title: Meet the Beatles
-date: 2025-12-19T19:59:00.000-05:00
+date: 2025-12-20T05:13:00.000-05:00
 summary: "We were huge Beatlemaniacs and already owned their previous releases.
   I spent most of my allowance on vinyl. Marsha and I sometimes combined our
   money to shop for albums at Wallich's Music City in the heart of Hollywood.
@@ -9,7 +9,7 @@ summary: "We were huge Beatlemaniacs and already owned their previous releases.
   instruments, and even TVs. "
 featuredImage: /images/upload/mtb.jpg
 author: Stephanie Blank
-draft: true
+draft: false
 ---
 ![](/images/upload/mtb.jpg)
 
