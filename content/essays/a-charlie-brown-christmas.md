@@ -1,13 +1,13 @@
 ---
 title: A Charlie Brown Christmas
-date: 2025-12-21T02:38:00.000-05:00
+date: 2025-12-21T06:52:00.000-05:00
 summary: ...when I saw A Charlie Brown Christmas peeking back at me from a crate
   of well-loved vinyl in that flea market stall, I grabbed it and ran to Daddy
   before someone else could take it. Daddy gave me the $1 bill to give to the
   man and my prize was all mine. 
 featuredImage: /images/upload/charliexmas.jpg
 author: Tara McCook
-draft: true
+draft: false
 ---
 ![](/images/upload/charliexmas.jpg)
 
