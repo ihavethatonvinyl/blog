@@ -1,7 +1,7 @@
 ---
 title: "A Christmas Not So Merry: Dark Mark Does Christmas"
 date: 2025-12-21T06:52:00.000-05:00
-summary: "n 2012 Lanegan self-released a tour-only Christmas EP under the
+summary: "In 2012 Lanegan self-released a tour-only Christmas EP under the
   moniker of “Dark Mark.” In 2020, it was expanded to a full album and reissued
   again independently.  The album Dark Mark Does Christmas is a journey through
   the spiritual and the bleak, very reminiscent of Scrooge standing in front of
