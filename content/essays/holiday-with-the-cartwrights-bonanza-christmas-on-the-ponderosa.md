@@ -1,6 +1,6 @@
 ---
 title: "Holiday with the Cartwrights: Bonanza Christmas On The Ponderosa"
-date: 2025-12-22T06:07:00.000-05:00
+date: 2025-12-22T06:12:00.000-05:00
 summary: "What was my favorite Christmas album from my youth? I could act cool
   and claim a holiday song collection by Elvis, Dean Martin or even the Beach
   Boys. That would be a massive lie. My parents didn’t own any of those albums
