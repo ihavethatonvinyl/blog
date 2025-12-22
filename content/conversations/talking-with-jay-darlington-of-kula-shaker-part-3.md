@@ -1,7 +1,7 @@
 ---
 title: Talking With Jay Darlington of Kula Shaker, Part 3
-date: 2025-12-22T02:15:00.000-05:00
-draft: true
+date: 2025-12-22T06:07:00.000-05:00
+draft: false
 summary: Part 3 of an extensive interview with Jay Darlington
 featuredImage: /images/upload/kula-shaker_3_credit_-ami-jay.png
 ---
