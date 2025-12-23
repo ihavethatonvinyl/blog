@@ -1,6 +1,6 @@
 ---
 title: Christmas in the Heart, and on My Turntable
-date: 2025-12-23T02:46:00.000-05:00
+date: 2025-12-23T05:26:00.000-05:00
 summary: "Two of my earliest memories of recorded music are: 1) hearing Bob
   Dylan’s voice; and 2) listening to Christmas records. It never occurred to me
   that these threads would intertwine but in 2009, they did, in the form of
@@ -8,7 +8,7 @@ summary: "Two of my earliest memories of recorded music are: 1) hearing Bob
   been the same since then. "
 featuredImage: /images/upload/dylan-christma.jpg
 author: Rich Wilhelm
-draft: true
+draft: false
 ---
 ![](/images/upload/dylan-christma.jpg)
 
