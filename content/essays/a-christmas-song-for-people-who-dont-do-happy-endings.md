@@ -1,6 +1,6 @@
 ---
 title: A Christmas Song for People Who Don't Do Happy Endings
-date: 2025-12-23T19:28:00.000-05:00
+date: 2025-12-24T05:18:00.000-05:00
 summary: I can’t resist the Pogues’ “Fairytale of New York.” Now, that’s just
   tragedy song porn. From the opening piano chords, I can literally feel my
   chest sink. Then rise when it turns into an Irish jig and Kirsty MacColl jumps
@@ -8,8 +8,8 @@ summary: I can’t resist the Pogues’ “Fairytale of New York.” Now, that�
   someone,” with MacColl replying, “Well, so could anyone,” I’m committed to at
   least five more consecutive listens.
 featuredImage: /images/upload/img_1353.jpg
-author: my Carlson Gustafson
-draft: true
+author: Amy Carlson Gustafson
+draft: false
 ---
 ![](/images/upload/img_1353.jpg)
 
