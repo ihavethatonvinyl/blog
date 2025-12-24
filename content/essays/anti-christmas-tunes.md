@@ -1,6 +1,6 @@
 ---
 title: Anti-Christmas Tunes
-date: 2025-12-23T19:20:00.000-05:00
+date: 2025-12-24T05:17:00.000-05:00
 summary:  But let’s face it, there’s a lot to be bummed about. There’s the rise
   of fascism, genocide, climate catastrophe, and you want me to get excited
   about a fresh pair of socks and some dry ass ham? I work midnights, so I don’t
@@ -9,7 +9,7 @@ summary:  But let’s face it, there’s a lot to be bummed about. There’s th
   choose to wallow in.
 featuredImage: /images/upload/1000010593.jpg
 author: Jason Bombach
-draft: true
+draft: false
 ---
 ![](/images/upload/1000010593.jpg)
 
