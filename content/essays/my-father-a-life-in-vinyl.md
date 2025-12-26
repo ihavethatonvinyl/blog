@@ -1,6 +1,6 @@
 ---
 title: "My Father: A Life in Vinyl "
-date: 2025-12-26T04:19:00.000-05:00
+date: 2025-12-26T05:01:00.000-05:00
 summary: In some ways, he won the ultimate prize, becoming friends with people
   he grew up listening to. Being famous among famous people. He got to visit,
   and live in places he grew up dreaming about like London, New York, and
@@ -10,7 +10,7 @@ summary: In some ways, he won the ultimate prize, becoming friends with people
   his family.
 featuredImage: /images/upload/tower.png
 author: Hayley Annikki Voudouris
-draft: true
+draft: false
 ---
 ![tower records, sacramento](/images/upload/tower.png "photo by michele catalano")
 
