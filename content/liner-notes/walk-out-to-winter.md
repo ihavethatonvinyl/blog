@@ -1,8 +1,13 @@
-+++
-title = "WALK OUT TO WINTER: falling in love with—and to—Aztec Camera's High Land, Hard Rain"
-slug = 'walk-out-to-winter'
-draft = false
-+++
+---
+title: "WALK OUT TO WINTER: falling in love with—and to—Aztec Camera's High
+  Land, Hard Rain"
+slug: walk-out-to-winter
+date: 2025-12-26T05:00:00.000-05:00
+summary: As I do when it snows this hard, I place Aztec Camera's High Land, Hard
+  Rain on the turntable and settle in. It's my favorite album of all time, a
+  title I gave it just a few weeks ago.
+draft: false
+---
 
 ![my original 1983 copy](/images/upload/unnamed.jpg "my original 1983 copy")
 
