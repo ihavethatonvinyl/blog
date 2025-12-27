@@ -1,5 +1,5 @@
 ---
-title: Vinly Memories
+title: Vinyl Memories
 date: 2025-12-27T05:47:00.000-05:00
 summary: There are some LP’s I’ve played so much they are part of my DNA; there
   are some I don’t remember having.  I’m sure I could find them all on Spotify,
