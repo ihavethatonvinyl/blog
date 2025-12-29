@@ -1,6 +1,6 @@
 ---
 title: Gene Joins the Band – The Dave Brubeck Quartet in Europe
-date: 2025-12-28T20:44:00.000-05:00
+date: 2025-12-29T06:46:00.000-05:00
 summary: "My grandfather’s brother David was born, raised, and lived out his
   life in Buffalo, New York. A prizefighter in his younger days, a confirmed
   bachelor drifting through life, he enjoyed the nightlife and loved jazz. I
@@ -11,7 +11,7 @@ summary: "My grandfather’s brother David was born, raised, and lived out his
   as The Dave Brubeck Quartet in Europe."
 featuredImage: /images/upload/brubeck-album.jpg
 author: Tim Foley (aka T.J. Wolfsbane)
-draft: true
+draft: false
 ---
 ![](/images/upload/brubeck-album.jpg)
 
