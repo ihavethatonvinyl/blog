@@ -1,6 +1,6 @@
 ---
 title: There Are Break-up Albums and Then There’s Transatlanticism
-date: 2025-12-30T21:28:00.000-05:00
+date: 2025-12-31T05:20:00.000-05:00
 summary: "I headed west on 15th Street and got on the West Side Highway with the
   late afternoon winter sun creeping down towards the Palisades. Over a gust of
   humming white noise, the album’s opening track exploded into crashing guitars
@@ -8,7 +8,7 @@ summary: "I headed west on 15th Street and got on the West Side Highway with the
   this is the new year / and I don’t feel any different.”"
 featuredImage: /images/upload/dcfc.jpg
 author: Steve McPherson
-draft: true
+draft: false
 ---
 ![](/images/upload/dcfc.jpg)
 
