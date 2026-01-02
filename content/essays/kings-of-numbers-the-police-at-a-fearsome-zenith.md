@@ -1,6 +1,6 @@
 ---
 title: "Kings of Numbers: The Police at a Fearsome Zenith"
-date: 2026-01-02T04:12:00.000-05:00
+date: 2026-01-02T05:50:00.000-05:00
 summary: The Police are a controversial band, artistically speaking. There are
   toes I'm treading on, among people whose opinions I value, by vouching for
   them. They've heard it all before on the brilliance of the band, and are
@@ -8,7 +8,7 @@ summary: The Police are a controversial band, artistically speaking. There are
   all before in that direction. I'm naturally writing for both parties here.
 featuredImage: /images/upload/thepolice.jpg
 author: Calum Cranberry
-draft: true
+draft: false
 ---
 ![](/images/upload/thepolice.jpg)
 
