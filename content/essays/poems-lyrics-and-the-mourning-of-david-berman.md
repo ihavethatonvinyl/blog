@@ -1,8 +1,9 @@
 ---
 title: Poems, Lyrics, and The Mourning of David Berman
 date: 2025-01-05T05:23:00.000Z
-draft: true
+featuredImage: /images/upload/img_6179.jpg
 author: "Michele "
+draft: false
 ---
 ![](/images/upload/img_6179.jpg)
 
