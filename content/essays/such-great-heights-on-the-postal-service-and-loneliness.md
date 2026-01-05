@@ -1,6 +1,6 @@
 ---
 title: "Such Great Heights: on the Postal Service and Loneliness"
-date: 2026-01-05T02:02:00.000-05:00
+date: 2026-01-05T05:19:00.000-05:00
 summary: "There are albums in my life that act as a therapeutic friend who I
   only see a couple times a year, but is always there to pick up lost pieces of
   me. They don’t put me back together, they gingerly place the pieces in my hand
@@ -9,7 +9,7 @@ summary: "There are albums in my life that act as a therapeutic friend who I
   loneliest. "
 featuredImage: /images/upload/258670e0-6ba5-4f07-a8ac-7de1e0dae0ee_1_105_c.jpeg
 author: Eliel Lucero
-draft: true
+draft: false
 ---
 ![](/images/upload/258670e0-6ba5-4f07-a8ac-7de1e0dae0ee_1_105_c.jpeg)
 
