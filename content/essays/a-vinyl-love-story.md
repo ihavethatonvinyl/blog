@@ -6,11 +6,11 @@ summary: " Like all the best New York love stories, I met my partner Ryan in
   morning. I only had around 12 records in my collection at the time, most of
   them albums from my high school years circa 2012-2014 (think Lana Del Ray’s
   Born to Die and Bastille’s Bad Blood). "
-featuredImage: /images/upload/herrera-vinyl-1.jpg
+featuredImage: /images/upload/herrera-vinyl-2.jpg
 author: Ryan Herrera
-draft: true
+draft: false
 ---
-![]()
+![](/images/upload/herrera-vinyl-1.jpg)
 
 Like all couples, my partner and I have a lot in common, most notably our first name. Yup, you read that right—we’re both named Ryan. But besides a shared Irish first name, there’s been another major tether throughout our relationship: our love of collecting vinyl.
 
@@ -31,7 +31,5 @@ In 2024, we made the decision to move in together after three years of dating. N
 Earlier this year, we made another major move, this time across the pond to East Yorkshire in Northern England. Moving our collection was no easy feat, and we explored several options for the best way to transport our prized possessions. After seeing estimates of over $1,000 per box through traditional carriers like FedEx, we decided to go a more specialized route. Ryan got in touch with an English company that specializes in helping people abroad relocate to the area, so we packed up most of our collection in padded boxes and sent them on their way. After a few weeks of waiting with bated breath and a lost tracking scare, we were grateful to see the majority of our records arrived unscathed. Ryan did lose a couple signed vinyls along the way, but we expected a few casualties with a transition like this.
 
 Today, our record collection is the centerpiece of our living room and our greatest joy. Ryan’s collection is at 149 records as I write this, and I’m not too far behind at 138 records. It’s almost become our second child, and when you look at the colorful array of sleeves on the shelves, you can see our individual and shared histories as we’ve evolved over the years. In a world as chaotic and uncertain as the one we live in today, everyone deserves to put on a record and dance their struggles away, and I’m so grateful to get to do that with my partner every day.	
-
-
 
 *Ryan Herrera is a fiction writer from North Carolina. His writing has appeared on Cracked and on the adult website Cybersocket. He graduated from UNC-Chapel Hill with a BA in Journalism and will received an MA in Writing from Johns Hopkins University in 2025. He lived in New York City for 7 years as an advertising professional and now resides in East Yorkshire, England.*
