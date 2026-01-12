@@ -1,6 +1,6 @@
 ---
 title: "Bob Weir: The God of Gaps"
-date: 2026-01-11T20:43:00.000-05:00
+date: 2026-01-12T05:45:00.000-05:00
 summary: That’s what I’ve always admired about him – in a band that was not
   afraid of taking chances on stage, he was the guy who was willing to take the
   swings that the other guys weren’t. and was willing to be a polarizing figure
