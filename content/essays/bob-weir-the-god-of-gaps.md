@@ -9,7 +9,7 @@ summary: That’s what I’ve always admired about him – in a band that was no
   4. 
 featuredImage: /images/upload/weir.jpg
 author: Cooper Lund
-draft: true
+draft: false
 ---
 ![](/images/upload/weir.jpg)
 
