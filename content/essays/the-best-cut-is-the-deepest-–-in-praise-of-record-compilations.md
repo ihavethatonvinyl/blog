@@ -10,7 +10,7 @@ summary: For every band’s best or most popular album, there is a compilation
   stuff.
 featuredImage: /images/upload/img_5954.jpeg
 author: Adam Steiner
-draft: true
+draft: false
 ---
 
 
