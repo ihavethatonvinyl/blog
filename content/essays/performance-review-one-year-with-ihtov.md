@@ -7,7 +7,7 @@ summary: " on that otherwise forgettable Sunday night in captivity, a post
   uncharacteristically, to hit send on a reply."
 featuredImage: /images/upload/img_2852.jpeg
 author: Jim Parisi
-draft: true
+draft: false
 ---
 ![](/images/upload/img_2852.jpeg)
 
