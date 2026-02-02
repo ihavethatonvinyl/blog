@@ -1,5 +1,5 @@
 ---
-title: Performance Review - One Year With IHTOV
+title: "More Than I Bargained For: My Year With IHTOV"
 date: 2026-02-01T18:40:00.000-05:00
 summary: " on that otherwise forgettable Sunday night in captivity, a post
   popped up that would somehow, improbably knock me out of my post-op ennui. A
