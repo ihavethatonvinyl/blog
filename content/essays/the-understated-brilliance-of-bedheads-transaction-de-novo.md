@@ -12,7 +12,7 @@ draft: false
 ---
 ![](/images/upload/transactiondenovoalbum.jpg)
 
-![](/images/upload/transactiondenovoalbum.jpg)
+![]()
 
 In recent years, there has been a swell of slowcore revival and neo-slowcore bands springing up, thanks in part to TikTok and burgeoning interest in the formerly niche genre by Zoomers. One band that’s inspired many of them, yet still seems to float under the radar, is Bedhead, a 90s group from Wichita Falls, Texas. Understated, like their name and minimalist album art indicate, the quintet was fronted by brothers Matt and Bubba Kadane and released three gorgeous, totally (and tonally) clean, and impeccably constructed albums before calling it quits. This will focus on their last and arguably best album, *Transaction de Novo*, recorded and engineered by the legendary Steve Albini and released February 10, 1998 through Trance Syndicate.
 
@@ -57,7 +57,5 @@ The album closes with “Psychosomatica” and “The Present.” As alluded to,
 Bedhead was only active between 1988 and 1998, and recorded between ‘92 and ‘98. For comparison, fellow Numero Group signees, Duster (originally active 1996-2000) has over 3 million monthly Spotify listeners, while Bedhead has just over 40,000. Of course, Spotify listenership is a notoriously dubious metric and Duster reunited in 2018 so they benefit from recent tours and three post-revival album releases, which is one more than they released during their original run. Still, there’s also been a recent slowcore comeback including bands such as fellow Texans Teethe (who add a Wednesday-esque pedal steel guitar to their sound), Philadelphia’s 22° Halo, and Boston’s Horse Jumper of Love. Even much larger acts Lana del Rey, Ethel Caine, Snail Mail, Alex G, and Cigarettes After Sex clearly take cues from slowcore. 
 
 When discussing the resurgence of this sound, Kadane told me, “Maybe there’s a longing on a part of these new fans for some of what we were going for — deliberateness, emotional connection, music that justified itself by being more than accompaniment to lyrics, intricacy, subtlety.” He humbly continued, “I don’t know if we achieved any of these things. But I do get the sense that some younger people long for them, so maybe renewed interest is a kind of affirmation.” To me, Bedhead undoubtedly achieved all of these things, making deeply patient but emotional, well-constructed but understated music. A band and genre that weren’t terribly well known at their original peak have more influence and staying power than anyone in the 90s likely imagined.
-
-
 
 *Born in Durham, NC and raised outside of Baltimore, MD, Chase has spent the last 18 years in Philadelphia, PA and Brooklyn, NY. He holds a Master of Advanced Studies in American Media & Popular Culture and currently works as a Content Manager with past experience in the film, food, and beverage spaces. Under the name Cult Posture, he has a monthly residency on[ CAMP RADIO](https://listen.camp/), where his next show will be 2/24 at 8pm EST. You can also find him on[ Instagram](https://www.instagram.com/chshrrsn) or[ Letterboxd](https://letterboxd.com/chshrrsn/).*
