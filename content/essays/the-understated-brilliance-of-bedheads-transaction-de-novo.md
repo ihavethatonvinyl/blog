@@ -6,6 +6,7 @@ summary: "  In recent years, there has been a swell of slowcore revival and
   interest in the formerly niche genre by Zoomers. One band that’s inspired many
   of them, yet still seems to float under the radar, is Bedhead, a 90s group
   from Wichita Falls, Texas."
+featuredImage: /images/upload/transactiondenovoalbum.jpg
 author: Chase Harrison
 draft: false
 ---
