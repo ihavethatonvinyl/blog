@@ -1,0 +1,36 @@
+---
+title: All Vinyl, All the Time - Capitol Hill’s Revolver Bar
+date: 2026-02-11T06:41:00.000-05:00
+summary: "Tucked away on the edge of Capitol Hill is a small unassuming bar.
+  Warm red light emanates from the doorway, beckoning you in on a cold wet
+  Seattle evening. Stepping through the door of Revolver Bar is like stepping
+  into the 70s, complete with a midcentury modern starburst clock and retro TVs
+  adorning either end of the bar. Revolver Bar has a simple motto: all vinyl,
+  all the time. Opened in 2014, Revolver has been spinning vinyl for the Seattle
+  masses for eleven years, and I was lucky enough to work there for the last
+  two. "
+featuredImage: /images/upload/7bc00c27-b06e-4230-bc12-8a3f9405a868_1_105_c.jpeg
+author: Mack Reed
+draft: false
+---
+![](/images/upload/7bc00c27-b06e-4230-bc12-8a3f9405a868_1_105_c.jpeg)
+
+Tucked away on the edge of Capitol Hill is a small unassuming bar. Warm red light emanates from the doorway, beckoning you in on a cold wet Seattle evening. Stepping through the door of [Revolver Bar](https://www.revolverbarseattle.com/) is like stepping into the 70s, complete with a midcentury modern starburst clock and retro TVs adorning either end of the bar. Revolver Bar has a simple motto: all vinyl, all the time. Opened in 2014, Revolver has been spinning vinyl for the Seattle masses for eleven years, and I was lucky enough to work there for the last two. 
+
+My love affair with Revolver Bar started around 2019 when I lived in my first solo apartment, right above the bar. I would finish up work for the day, slam my laptop shut, and walk downstairs for a shot and a beer and a place to read my book. I slowly became friends with all the bartenders; stopping in for a night cap after I got off my shift at the restaurant up the street, hanging out on the patio on a summer afternoon, celebrating my birthday at the big corner table three years in a row. And then an opportunity to work the door opened up, the regular door guy was on tour with his band and they needed someone to check IDs for the night. I jumped at the opportunity, which quickly became a full time gig, and then before I knew it, I was bartending four nights a week at my favorite spot in Seattle. 
+
+More intimidating than learning the cocktail menu was learning the vinyl collection. Nearly 3,000 albums were tucked away in shelves behind the bar, organized by decades all the way back to the 60s. On my first day behind the bar, my manager told me, “Just pick something you don’t know and put it on, it’s the best way to get to know everything.” Immediately disobeying her advice, I picked Weezer’s sophomore masterpiece, *Pinkerton*, as my first record. There were no real rules when it came to picking music, except for if the owner was there, you better be playing old school rock and roll. Every bartender had their own niche they picked from when they were behind the bar, some leaned punk, some skewed hip hop; I liked to go all over, disco one night, 90s emo the next. 
+
+![](/images/upload/screenshot-2026-02-11-at-6.39.20 am.png)
+
+On the weekends when it was really busy behind the bar and our hands were too sticky to be flipping records and making sure they got back in their covers, we had DJs spin from their personal collections all night long. Each DJ brought their own flair and crowd of dancers, anything from soul to goth new wave to y2k pop. My personal favorite was DJ Ryan Fresh who played 90s and 2000s pop hits on Saturday nights. Singing along with everyone from behind the bar to Usher’s “U Don’t Have to Call” is a memory I will never forget, *so tonight I’ma do what a single man does, and that’s parrtyyyy!* 
+
+As I got more and more comfortable behind the bar, I let myself have more and more fun with the music. Monday nights were for records I brought from my personal collection; hip hop, disco, and shoe gaze…a classic combination. I was spinning Ovlov’s *Buds* late one Monday when just a few regulars were left and one of my favorite, most quiet regulars started singing along. After *Buds*, I put on Atmosphere’s *Lucy Ford* and again, he started to sing along. We talked music for the rest of the night, learned we’d both been to the same concert ten years prior, and have remained close friends ever since that night.
+
+Tuesday happy hour shifts were for fun, upbeat indie rock, Wet Leg, Weezer, The Strokes, anything to draw in the post work yuppies. Friday and Saturday nights that we didn’t have a DJ were extra fun because there were two bartenders who got to pick the music. The weekends obviously brought college kids and a younger crowd to the bar, so we liked to bring in some of our favorite party hits. I found a copy of The Pussy Cat Dolls self titled debut that got a lot of plays before Nicole Scherzinger donned her MAGA hat in an Instagram photo. Avril Lavigne’s seminal debut *Let Go* got a lot of airtime, the entire bar often erupting into the chorus of Complicated together. On Friday nights I bartended with my best friend, we would usually go album for album and get to build off of each other’s energy. We had a pretty good routine in place of banger after banger, always ending the night with Princess Nokia’s *1992 Deluxe*, singing along to Tomboy as the lights went up and the crowd thinned out. It was always fun to see people’s faces light up as they ordered their drinks and we switched the album, “No way! You have this on vinyl?!” 
+
+Revolver Bar was the musical mecca of Capitol Hill, and perfectly situated to be the number one spot to pregame any concert downtown. I worked the happy hour shift before the Amyl and the Sniffers show on their last tour, and it was amazing. The bar was full of regulars, everyone buzzing with that pre-concert excitement. I knew I had a responsibility to curate the vibe to keep them all excited. I pulled an array of riot girl hits, Sleater Kinney’s *Dig Me Out*, Bikini Kill’s singles comp album, and Le Tigre’s self-titled. I threw in some other classics, Rage Against the Machine’s self-titled, Alanis Morisette’s *Jagged Little Pill*, Fiona Apple’s *When The Pawn*… I knew I’d fulfilled my responsibility when Lisa LeClair, famed DJ at Seattle’s KEXP and all around lovely human being, came up before she left and told me how much fun she’d had and how perfectly ready she was for the show. 
+
+My time at Revolver Bar came to an end when I moved out of Seattle and across the country. I had a final shift, Mack’s Last Monday, where I brought in a hefty bag of records from my personal collection, spun my favorites for all my friends, and ended the night, of course, with Weezer’s sophomore masterpiece, *Pinkerton.* I’m so eternally grateful for my time at Revolver, I made lifelong friendships, I danced my heart out, and I now fully understand the importance of music in creating connection and community. My knowledge of music has grown, my record collection has certainly grown, and I will carry a piece of that little retro dive bar with me wherever I go, forever.
+
+*Mack Reed is an artist, writer, and dreamer. You can find her work at[ www.thewalkreport.com](http://www.thewalkreport.com) and reach her at [mackreedwriting@gmail.com](mailto:mackreedwriting@gmail.com)*
