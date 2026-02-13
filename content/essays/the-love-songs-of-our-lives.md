@@ -10,11 +10,7 @@ draft: true
 ---
 ![](/images/upload/kissme.jpg)
 
-
-
 *I asked readers of IHTOV to write blurbs about their favorite love songs, and the response was great. Enjoy these little verses about songs of love.* 
-
-
 
 ***Every Little Thing She Does Is Magic - The Police***
 
@@ -31,10 +27,7 @@ Then, like the sun bursting through the clouds, the chorus launches. The music i
 
 *\~\~\~\~\~\~\~\~\~\~\~\~\~\~~*
 
-
-
 ***Van Helsing Boombox - Man Man***
-
 
 ***by Kory Adams***
 
@@ -90,7 +83,6 @@ There’s really nothing I’d rather do—now or in the future then—than be w
 
 ***Be My Baby - The Ronettes/Travis***
 
-
 ***By NancyKay Shapiro***
 
 The poignancy of Spector’s big production sound on the Ronettes is well-established. For me, there something incredibly tender in both the simple lyric, the punchy soundscape, and Ronnie’s girlish vocals on this track: she’s impossibly young and sweet, earnest, sincere, passionate.
@@ -109,7 +101,6 @@ I could hear each version of the song every day for the rest of my life and not 
 
 ***Help Me Make it Through the Night - Kris Kristofferson***
 
-
 ***by Adam Jay***
 
 Kris Kristofferson died in late 2024 and received the best afterlife any of us can hope for; universal appreciation. It's not hard to understand why. He's arguably one of the best American songwriters of the 20th century, maybe even top 5. He wrote songs that became huge hits (for other artists, mostly) and became a movie star (it's easy to see why watching him play with The Highwaymen, where he is absurdly handsome compared to the other age and drug-weathered members of the super group). His song "Help Me Make It Through the Night" was a hit for his then-wife Rita Coolidge, and the two of them sang it together on The Old Grey Whistle Test. It's a beautiful version, sung by two beautiful people, in love with each other and their music. An additional lyric, "I don't want to sleep alone" (often missing from other versions, presumably to avoid scandalizing Bible-and-flag country audiences) is added at the end. It's heartbreakingly vulnerable. And they won't, at least not tonight.
@@ -120,7 +111,6 @@ Kris Kristofferson died in late 2024 and received the best afterlife any of us c
 
 ***Alison's Starting to Happen - The Lemonheads***
 
-
 ***By Jim Parisi***
 
 It’s about that feeling of meeting someone and not being able to think about anyone else, before it works out or goes to hell or works out then goes to hell; that feeling of going about your life, then—bam!—a lightning bolt or Cupid’s arrow or, as the song says, an earthquake forms under your feet; that feeling of not knowing what’s missing until you find “the puzzle piece. . .that makes the sky complete”;  that feeling of not caring if it works out or goes to hell or works out then goes to hell, because your life is topsy-turvy and nothing that happened before that feeling matters. Insert your choice of name in the title. That feeling is universal.
@@ -130,7 +120,6 @@ It’s about that feeling of meeting someone and not being able to think about a
 \~\~\~\~\~\~\~\~\~\~\~\~\~\~
 
 ***The Idea of Growing Old - The Features*** 
-
 
 ***By Mark Arbonies***
 
@@ -162,7 +151,6 @@ I first heard this song when I was falling in love with my girlfriend, Sara. It�
 
 ***Good Enough – Evanescence***
 
-
 ***by Bryan Schultheiss***
 
 You could hardly go anywhere in 2003 without hearing Amy Lee’s powerful voice on the radio. Evanescence's *Fallen* rose to radio royalty behind Lee's vocals and a post-grungy alt rock backing that gave "Bring Me to Life" such widespread appeal, as well as the huge success of the softer "My Immortal," a ballad that showed impressive range for the band and Lee in particular.
@@ -177,7 +165,6 @@ The track begins with gentle piano and an orchestral accompaniment, settling us 
 
 ***Disappear - Bad Daughter***
 
-
 ***by Claudia Santos*** 
 
 Sierra Kusterbeck knows a bad relationship when she sees one. In 2017 the singer nearly chased me out of a bar when my partner at the time tried to make us leave before all the bands had played. Seeing failings in your own day-to-day, however, is much harder. Valentine’s is two days short of being the anniversary of Sierra’s second country attempt. “Disappear” opens like a tragic performance in the scorching heat staring down a dust storm. She does her best to paint her subject as undeniably loveable and yet can come up with nothing but pain in her recounts of them. A breezy listen of the track would lead you to believe it is, in fact, sweet. This, of course, up to the point of the narrator being disappointed every single time.  All the while a tragic waltz continues to dance like swirling sands around you with the one leading it gets increasingly exacerbated the entire time. The solo section plays like an ascension, where the realization is, hopefully, to pull the wool from your eyes and get out while you can.
@@ -188,24 +175,19 @@ Sierra Kusterbeck knows a bad relationship when she sees one. In 2017 the singer
 
 ***One More Minute - Weird Al Yankovic***
 
-
 ***by Eric Stephen***
 
 ‘One More Minute’ by Weird Al Yankovic is not exactly a standard love song in that it’s more comedic than anything, but it’s also an original song that was instrumental for cementing my love for Yankovic as an artist. The structure itself is quite traditional, with a 1950s doo-wop style about getting over a breakup, but takes a turn into the absurd with “I’m stranded all alone in the gas station of love, but I have to use the self-service pumps.” 
 
 Mrs. Jackson, my seventh-grade English teacher, picked one student to sing a memorized song at the beginning of class most days that school year, such that I sang two songs. ‘One More Minute’ was one of my choices, and she made me stop mid-song because the lyrics were “too vulgar.” Luckily, she later relented and let me finish the song. Mrs. Jackson must’ve felt the love too.
 
-
-
 *Eric Stephen writes about Dodgers baseball[ at True Blue LA](https://www.truebluela.com/), and co-hosts[ the Three-Inning Save podcast](https://www.threeinningsave.com/).*
 
 *\~\~\~\~\~\~\~\~\~\~\~\~\~\~*
 
-*The Fourteenth of February - Billy Bragg*
+***The Fourteenth of February - Billy Bragg***
 
-
-*by Hattie Cooke*
-
+***by Hattie Cooke***
 
 “Almost twenty years ago my dear friend Rob played this song to me in his living room, after a particularly painful break up with his then long-term girlfriend. I sat on his sofa, half drunk, watching him sing along with Billy’s rounded vowels, flicking his indie boy fringe out of his tear-filled eyes. I was barely 18 and had never seen a man really cry before. In the unexpectedness of the moment, the song itself passed me by, but the next day I went looking for it on limewire. I wanted to listen again.
 
@@ -222,7 +204,6 @@ There was something achingly beautiful in the juxtaposition of Bragg’s deliver
 *\~\~\~\~\~\~\~\~\~\~\~\~\~\~*
 
 ***Of Crows And Crowns - Dustin Kensrue***
-
 
 ***by Dan S.***
 
@@ -247,7 +228,6 @@ My love is ever where you are"
 *\~\~\~\~\~\~\~\~\~\~\~\~\~\~*
 
 ***Apartment Story - The National***
-
 
 ***by Michele Catalano***
 
