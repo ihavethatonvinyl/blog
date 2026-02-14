@@ -14,7 +14,6 @@ draft: false
 
 ***Every Little Thing She Does Is Magic - The Police***
 
-
 ***by Liam Cannon***
 
 Everyone who’s ever been in love knows that feeling evoked when the chorus launches. You can picture it. You’re doing something semi-mindless, then suddenly, without warning, something specific about your love’s habits, quirks, or personality appears in your mind. The guy in the song calls it a “little thing,” but it could be anything.  Maybe it's their contagious laugh, the outfit they always wear, or how they play with the dog.
@@ -226,6 +225,22 @@ My love is ever where you are"
 *Dan S. is a husband, father, and mediocre online poster*
 
 *\~\~\~\~\~\~\~\~\~\~\~\~\~\~*
+
+*Stand By Me by Ben E. King* 
+
+*by S.J. Rayburn*
+
+My high school boyfriend sang this song to me on the football field after marching band practice. He got our friend Andy to play sax. Before I go on I want to be clear that it *worked*. It's one of the most romantic things anyone has ever done for (at?) me. Unequivocally swept off my feet, an all-time memory to this day. 
+
+But singing to your girlfriend and making your friend help you is a yearning move, and this is not a yearning song.
+
+As a child, when it crackled over the radio on the oldies station (104.3 WOMC), I felt the kind of stuff you sort out later and it's weird to imagine how you could have felt these things so deeply without really knowing about them but you did. I felt the determination to work through the unknown. I felt the relief of solidarity. It's about belonging and resolve; knowing that the people you're with will make the struggle easier to face, people you can count on to help you clean up. The love that humanity has for itself. Ultimately It's about trust of biblical proportions.
+
+I've been thinking about this song a lot, about how the sky is kind of falling and the mountains are literally crumbling into the sea but acts of love and solidarity will save us. There's a video of a group of musicians in Minneapolis belting it on the street and that's what I mean, that's the love that humanity has for itself.
+
+*S.J.Rayburn is a musician and artist based in Hamtramck, Michigan. She thinks you should go listen to your favorite song as soon as possible.*
+
+\~\~\~\~\~\~\~\~\~\~\~\~\~\~
 
 ***Apartment Story - The National***
 
