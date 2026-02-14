@@ -226,9 +226,9 @@ My love is ever where you are"
 
 *\~\~\~\~\~\~\~\~\~\~\~\~\~\~*
 
-*Stand By Me by Ben E. King* 
+***Stand By Me by Ben E. King*** 
 
-*by S.J. Rayburn*
+***by S.J. Rayburn***
 
 My high school boyfriend sang this song to me on the football field after marching band practice. He got our friend Andy to play sax. Before I go on I want to be clear that it *worked*. It's one of the most romantic things anyone has ever done for (at?) me. Unequivocally swept off my feet, an all-time memory to this day. 
 
