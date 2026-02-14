@@ -14,8 +14,8 @@ draft: false
 
 ***Every Little Thing She Does Is Magic - The Police***
 
- **
-*by Liam Cannon***
+
+***by Liam Cannon***
 
 Everyone who’s ever been in love knows that feeling evoked when the chorus launches. You can picture it. You’re doing something semi-mindless, then suddenly, without warning, something specific about your love’s habits, quirks, or personality appears in your mind. The guy in the song calls it a “little thing,” but it could be anything.  Maybe it's their contagious laugh, the outfit they always wear, or how they play with the dog.
 
