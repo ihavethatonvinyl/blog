@@ -21,7 +21,7 @@ Everyone who’s ever been in love knows that feeling evoked when the chorus lau
 
 The song begins with a completely opposite focus on the guy’s struggle to express his love. The music is midtempo, and the instruments combine with the lyrics to mimic the swirling anxious feeling you get when wondering if your feelings are being reciprocated.
 
-Then, like the sun bursting through the clouds, the chorus launches. The music is uptempo with a sing-a-long melody and lyrics. The guy still can’t express those feelings to the person he loves, but he manages to find a way to tell you, the listener. You find yourself overwhelmed with an indescribable emotion—part longing, sentimentality, amusement, joy, and sometimes even bewilderment.  You might smile to yourself, laugh out loud, or even tear up.  In the song he calls it “magic,” but we all know it’s love.
+Then, like the sun bursting through the clouds, the chorus launches. The music is uptempo with a sing-along melody and lyrics. The guy still can’t express those feelings to the person he loves, but he manages to find a way to tell you, the listener. You find yourself overwhelmed with an indescribable emotion—part longing, sentimentality, amusement, joy, and sometimes even bewilderment.  You might smile to yourself, laugh out loud, or even tear up.  In the song he calls it “magic,” but we all know it’s love.
 
 *Liam Cannon, a records manager, lives in south Florida, with his lovely wife, Ann, and their neighborhood celebrity dog, Clover.* 
 
@@ -113,7 +113,7 @@ Kris Kristofferson died in late 2024 and received the best afterlife any of us c
 
 ***By Jim Parisi***
 
-It’s about that feeling of meeting someone and not being able to think about anyone else, before it works out or goes to hell or works out then goes to hell; that feeling of going about your life, then—bam!—a lightning bolt or Cupid’s arrow or, as the song says, an earthquake forms under your feet; that feeling of not knowing what’s missing until you find “the puzzle piece. . .that makes the sky complete”;  that feeling of not caring if it works out or goes to hell or works out then goes to hell, because your life is topsy-turvy and nothing that happened before that feeling matters. Insert your choice of name in the title. That feeling is universal.
+It’s about that feeling of meeting someone and not being able to think about anyone else, before it works out or goes to hell or works out then goes to hell; that feeling of going about your life, then—bam!—a lightning bolt or Cupid’s arrow or, as the song says, an earthquake forms under your feet; that feeling of not knowing what’s missing until you find “the puzzle piece ... that makes the sky complete”;  that feeling of not caring if it works out or goes to hell or works out then goes to hell, because your life is topsy-turvy and nothing that happened before that feeling matters. Insert your choice of name in the title. That feeling is universal.
 
 *Jim Parisi last had that feeling in late 1991, at least that’s what he tells Beth, his long-suffering wife*. 
 
