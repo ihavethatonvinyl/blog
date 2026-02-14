@@ -1,12 +1,12 @@
 ---
 title: The Love Songs Of Our Lives
-date: 2026-02-13T17:51:00.000-05:00
+date: 2026-02-14T04:58:00.000-05:00
 summary: " I asked readers of IHTOV to write blurbs about their favorite love
   songs, and the response was great. Enjoy these little verses about songs of
   love. "
 featuredImage: /images/upload/kissme.jpg
 author: Michele Catalano
-draft: true
+draft: false
 ---
 ![](/images/upload/kissme.jpg)
 
