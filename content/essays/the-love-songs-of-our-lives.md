@@ -242,6 +242,50 @@ I've been thinking about this song a lot, about how the sky is kind of falling a
 
 \~\~\~\~\~\~\~\~\~\~\~\~\~\~
 
+***Mr Bojangles - Jerry Jeff Walker/Nitty Gritty Dirt Band***
+
+***By Matt Carter***
+
+Today is Valentine’s Day. It’s the most romantic day of the year. It’s the day where you buy your significant other flowers and chocolate and wine and have mediocre sex right before you go to bed at 8:30. Young men propose to their future ex-wives today. It’s the February tradition, because February has literally nothing else going on except school vacation and seasonal affective disorder.
+
+I’ll stop there. I’m here to talk about love songs. 
+
+There is a love song that never fails to leave me in tears. It’s not difficult to make me weep. I cry when I see a nice play in a hockey game. I cry when I see a duck make friends with a goat. I'm a weeper and I’m not ashamed of it. But this love song, which is absolutely a love song, makes me weep every time. My girl makes fun of me for it.
+
+The song is about two guys sitting in the county jail. One of them is young, the other old. Love songs don’t always have to be about a man and a woman or a man and a man or any other combination of whatever. Sometimes love songs are just about love. And there is so much love in this song that I can’t get through it without breaking down.
+
+Anyway…two guys sitting in the county jail. There isn’t much backstory about the young guy, only that he is “down and out”, but there is still a feeling of hope there. And the old guy feels it too, because he is entertaining the other residents of the jail with his dancing and his stories of life. He isn't unhappy with his current situation because “most the time I spend behind these county bars”.
+
+The song was originally written by Jerry Jeff Walker but made famous by the Nitty Gritty Dirt Band, which might be the greatest band name in existence.
+
+So the old guy is entertaining the young guy and whoever else is in the jail and probably the guards as well with his stories and his dancing, but at one point in the song he recalls his dog who has been dead for two decades:
+
+*He spoke through tears of 15 years*
+
+*How his dog and him traveled about*
+
+*The dog up and died*
+
+*He up and died*
+
+*After 20 years he still grieves*
+
+Valentine’s Day is about loving your person, but the love you give to a dog and receive from a dog can’t be replicated. I’ve had five and I loved all of them in a way that I have never loved anything else. Happy Valentine’s Day.
+
+*I heard someone ask him please, please*
+
+*Mr. Bojangles*
+
+*Mr.Bojangles*
+
+*Dance*
+
+
+
+*Matt Carter lives in Rhode Island with his Lisa, two boys and the best dog that ever lived. He tries occasionally but fails regularly.*
+\~\~\~\~\~\~\~\~\~\~\~\~\~\~
+
+
 ***Apartment Story - The National***
 
 ***by Michele Catalano***
