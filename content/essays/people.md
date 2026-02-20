@@ -1,6 +1,6 @@
 ---
 title: People!
-date: 2026-02-20T04:25:00.000-05:00
+date: 2026-02-20T04:57:00.000-05:00
 summary: "People! All I know about them has been gleaned from a few scattered
   blog posts across the internet: Formed by brothers Geoff and Robert Levin in
   1966, People!’s star started rising in San Jose when a local DJ known as
@@ -8,7 +8,7 @@ summary: "People! All I know about them has been gleaned from a few scattered
   turning them into a beloved act in the Bay Area. "
 featuredImage: /images/upload/screenshot-2026-02-20-at-4.29.40 am.png
 author: Jody Amable
-draft: true
+draft: false
 ---
 ![](/images/upload/screenshot-2026-02-20-at-4.29.40 am.png)
 
