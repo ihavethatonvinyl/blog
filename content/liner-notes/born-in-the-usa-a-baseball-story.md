@@ -14,7 +14,7 @@ draft: false
 
 I
 
-On June 4, 1984, I was working at the record store that day. I remember because it was the day Springteen released *Born in the USA.* The crowd was frenzied, the store was trashed, the record sold out by midmorning. This is not the story I want to tell about this album, however. I’m just setting the stage.
+June 4, 1984. I was working at the record store that day. I remember because it was the day Springsteen released *Born in the USA.* The crowd was frenzied, the store was trashed, the record sold out by mid morning. This is not the story I want to tell about this album, however. I’m just setting the stage.
 
 II
 
@@ -61,8 +61,6 @@ IX
 The game went to extra innings. Only four of us were left, including Hank. My father had long gone inside to fall asleep watching the game in his recliner. My mother and sisters were sleeping. The occasional firework went off, even though it was around 1 a.m., because my neighbors are assholes. Speaking of assholes, we sang “Glory Days” when the Mets tied it up again. I no longer cared who won.
 
 In the 17th inning, Mets manager Davey Johnson and Met outfielder Daryll Strawberry both got ejected from the game. I was close to ejecting these people from my house, but I couldn’t give up now. I was going to see this game through.
-
-
 
 ![](/images/upload/camp.jpg)
 
