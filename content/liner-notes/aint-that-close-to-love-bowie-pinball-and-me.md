@@ -7,8 +7,6 @@ summary: "We would throw a few quarters into the jukebox (three plays for twenty
 featuredImage: /images/upload/bally.jpg
 draft: false
 ---
-
-
 ![](/images/upload/bally.jpg)
 
 Pinball Palace was a small, almost hidden place, tucked between the Jerry Lewis movie theater and a specialty bra shop. From the outside, it looked forbidden and dangerous, two things that combined to point a beckoning finger at me. I was around 13 when I first entered the Palace, a tagalong to an older friend who was going there just to score a nickel bag.
@@ -27,7 +25,7 @@ I decided that I should buy a fairly new release. When I spied David Bowie’s *
 
 \*\**
 
-I was shy that first day at the Palace, hanging back while Gina did her business with a guy at the change counter. Gina had little interest in pinball itself. The Palace was a means to and end for her. When she was done, we went behind the movie theater to smoke a joint, then snuck in the back door of the theater. They were showing *Shampoo.* We watched Warren Beatty, naked on the floor, humping the daylights out the poor girl underneath him (all I can remember is that a person was watching them through a window), and I said something like “Now that’s what I call fucking!” I was embarrassed to be there. Gina sat gaping at the screen, taking in every word, every movement, probably taking notes in her head. All I could think about was going back to Pinball Palace, to the clanging of the machines, to Bowie on the jukebox.
+I was shy that first day at the Palace, hanging back while Gina did her business with a guy at the change counter. Gina had little interest in pinball itself. The Palace was a means to and end for her. When she was done, we went behind the movie theater to smoke a joint, then snuck in the back door of the theater. They were showing *Shampoo.* We watched Warren Beatty, naked on the floor, humping the daylights out the poor girl underneath him (all I can remember is that a person was watching them through a window), and he said something like “Now that’s what I call fucking!” I was embarrassed to be there. Gina sat gaping at the screen, taking in every word, every movement, probably taking notes in her head. All I could think about was going back to Pinball Palace, to the clanging of the machines, to Bowie on the jukebox.
 
 The next Saturday, Gina took me with her for another buy. This time, I brought quarters. While Gina flirted with her dealer, I made the walk towards the machine in the far corner. The Bally Wizard.
 
