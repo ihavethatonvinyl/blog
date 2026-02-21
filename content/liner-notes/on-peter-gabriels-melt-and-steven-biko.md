@@ -1,5 +1,5 @@
 ---
-title: On Peter Gabriel's "Melt" and Steven Biko
+title: On Peter Gabriel's "Melt" and Steve Biko
 date: 2026-02-21T05:38:00.000-05:00
 summary: "The song they are playing is called “Games Without Frontiers.” I like
   it immediately. There’s really never been anything Gabriel I didn’t like, so
