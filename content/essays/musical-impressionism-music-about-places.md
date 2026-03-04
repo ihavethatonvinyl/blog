@@ -43,3 +43,7 @@ While the mood of a particular place is the broad brush to paint with in musical
 ![]()
 
 *Eric Gaines makes music as Nova Robotics Initiative and runs the “record label” Rusted Gear Records. Eric writes, records, and self-produces all of his music, which is always “pay what you want” on bandcamp or available on the regular streaming services. Eric’s record collection stands at 1400 records. His favorite record in the collection is a first pressing of Neil Young’s On The Beach. His golden ticket record is an original pressing of They Might Be Giants’ self-titled first record (while not rare or expensive, he’s never seen one in person). Eric can be found on BlueSky @rustedgearrecs.bsky.social.*
+
+
+
+*Previously by Eric Gaines: [Collecting Cal Tjader](https://ihavethatonvinyl.com/essays/collecting-cal-tjader-or-how-i-learned-to-stop-worrying-and-love-jazz/)*
