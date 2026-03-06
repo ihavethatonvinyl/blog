@@ -10,7 +10,7 @@ summary: I have a litany of albums that take me through those treacherous
 featuredImage: /images/upload/beyes.jpg
 draft: false
 ---
-
+![](/images/upload/beyes.jpg)
 
 It’s 2020, we are in the midst of the pandemic, locked down in our houses, our workplaces closed. My then-husband buys me a turntable to give me something to do with my time. 
 
@@ -39,7 +39,6 @@ But it’s “Ode to Joy” that brings me the catharsis I’m looking for. Ever
 *The sun came up with no conclusions*
 
 *Flowers sitting in their beds*
-
 
 *The city’s cemetery’s humming*
 
