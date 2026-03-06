@@ -7,7 +7,7 @@ summary: In high school, during my prime obsessive music nerd years, I should
   in like a stubborn mule. Punk? New Wave? Short hair and suits? Absolutely not.
   As anyone with a functioning brain knew, today’s music sucked.
 featuredImage: /images/upload/gary-ingalls-photo.jpg
-author: By Gary Ingalls
+author: Gary Ingalls
 draft: false
 ---
 
