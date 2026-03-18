@@ -1,6 +1,6 @@
 ---
 title: I Can't Wait for you to Hear This Someday
-date: 2026-03-18T03:32:00.000-04:00
+date: 2026-03-18T07:28:00.000-04:00
 summary: My shopping strategy at this point is well established. I head over to
   the least crowded area and immediately start flipping through the bins,
   frantically in search of something. I’m never really sure what. I spent the
@@ -10,7 +10,7 @@ summary: My shopping strategy at this point is well established. I head over to
   actually going to listen to. I don’t need to own it just to own it. 
 featuredImage: /images/upload/james-son_vinyl_shopping.jpeg
 author: James Weiskittel
-draft: true
+draft: false
 ---
 ![](/images/upload/james-son_vinyl_shopping.jpeg)
 
