@@ -1,0 +1,30 @@
+---
+title: '"Houdini" by the Melvins'
+date: 2026-03-20T06:35:00.000-04:00
+summary: " As an avid 90s music listener, one band I always felt that’s been
+  overlooked, despite being a prominent band in the alternative rock and grunge
+  world, was The Melvins. Their fifth and most popular release from 1993,
+  Houdini, co-produced by legendary 90s figure and Nirvana frontman Kurt Cobain,
+  is an album I highly recommend for any other alternative rock listener to
+  indulge themselves in. "
+featuredImage: /images/upload/houdini-ihtov.jpeg
+author: "Giovanni Mori "
+draft: false
+---
+![](/images/upload/houdini-ihtov.jpeg)
+
+As an avid 90s music listener, one band I always felt that’s been overlooked, despite being a prominent band in the alternative rock and grunge world, was The Melvins. Their fifth and most popular release from 1993, *Houdini*, co-produced by legendary 90s figure and Nirvana frontman Kurt Cobain, is an album I highly recommend for any other alternative rock listener to indulge themselves in. With heavy as hell songs like “Hooch,” “Night Goat,” and their most popular song to date “Honey Bucket,” as well as slower songs like “Lizzy,” “Hag Me,” and “Sky Pup,” and their cover of “Goin Blind” from Kiss, the album is full of surprises - even by rock and metal standards - in its runtime of nearly an hour. 
+
+The riffs are creative and original, opening avenues for Drop D tuning guitar players didn’t even know were possible. The opening drum fill in “Hooch,” with a snare that sounds like a shotgun, feels like you’re already dropped in the middle of it without any warning, and the percussive chugs on the guitars underneath senseless lyrics like “You sink-a my swan, rolly a get a worst in, maybe minus way far central, poor forty duck a pin,” are enough to raise any listener’s eyebrows, but is still often the song I would use when introducing somebody to the band for the first time. 
+
+“Night Goat” is a moody and all around brilliantly terrifying song when it comes to the minor key instrumental and squeals that sound like they were ripped out of vocalist Buzz Osborne. “Lizzy” is a good mix of calm and collected before diving back into what the band is known for: big and crushing chords and sludge riffs. “Honey Bucket,” the band’s most popular tune to date, is an unforgiving mesh of lightning fast punk with that muddiness that comes with sludge. “Hag Me” is the biggest slowburn of the heaviest and loudest chords you will ever hear, and is seven minutes of pure aggressive doom metal. “Sky Pup” is a tune that dives more into the weirdness of the band that seemingly throws every dissonant and out of place note at you which feels messy in a good way, and also features Cobain on guitar as listeners can hear his iconic chorus sound. “Joan of Arc” is interesting because this tune only has one chord nearly the whole entire song, but each instrument still works its hardest, and Osborne is singing his loudest and quite possibly highest notes from his discography, making do with less and turning it into more. 
+
+One other bonus song towards the end of the album, instead of the ten minute drum and percussion instrumental “Spread Eagle Beagle” (also featuring Cobain), the record’s thirteenth and final track was a cover of “Rocket Reducer No. 62 (Rama Lama Fa Fa Fa)” from the old school punk band MC5. The Melvins, who have been known to cover many artists throughout their career in nearly each of their releases, really have a way of turning other artist’s and band’s songs into dark and brooding sludge metal goodness, so much so to the point where if listeners didn’t know any better, they would likely assume the song to originally belong to The Melvins, which I’ve admittedly done quite a few times.
+
+On a more personal level, I, along with a good friend of mine, Mark, used to visit record stores often, and we always had this unofficial tradition of looking for Melvins records or CDs we didn’t have as we trudged our way through the band's massive discography, which at the time was (and probably still is) the largest catalogue I’ve ever seen from a band with currently twenty-eight studio albums, and dozens of EPs and singles, some of which are unaccessible on streaming services. 
+
+Our Melvins collection gravitated more toward CDs, which still only scratched the surface of their discography without breaking the bank, but my *Houdini* record always held a place in my heart that we not only played front to back, but also jammed along to with our guitars. As players, we always found it super fun to jam through albums in full as a true mastery to the music, and for each album we owned, we just let loose on songs we knew how to play really well, while also sometimes scrambling on our fretboards trying to play the correct notes by ear to songs we didn’t know as well. Of course, it may also be worth mentioning that we couldn’t simply go back to a certain song or section on the record, or at least not as easily as we can in today’s world on our phones by touching and dragging our finger across a screen, the record wouldn’t wait for us and would just unforgivingly keep playing. 
+
+*Houdini* still sits with my collection, and I’ll still occasionally look past the creepy childlike illustrations used for the album art and think back to each song, wondering if I still remembered deep in the crevices of my mind how to play them, I guess there’s only one way to find out.
+
+*Giovanni Mori is a musician from Pittsburgh PA, he teaches guitar and is involved in many creative musical projects and bands in the local scene as guitarist for Eye Candy and Griffen Handshake, as well as vocalist for Chub Clampion. Giovanni also has his own blog site, [forthemusicman.com](http://forthemusicman.com), where he reviews albums and concerts, as well as conducts interviews with artists either based in, or passing through his city. For Pittsburgh’s classical music station, WQED, Giovanni produces interviews and spots for their Voice of the Arts Podcast which can be found on <https://www.wqed.org/podcast-series/voice-of-the-arts/>.*
