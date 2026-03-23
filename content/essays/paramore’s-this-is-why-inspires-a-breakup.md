@@ -1,13 +1,13 @@
 ---
 title: Paramore’s "This is Why" Inspires a Breakup
-date: 2026-03-23T04:36:00.000-04:00
+date: 2026-03-23T05:05:00.000-04:00
 summary: It’s January 2023. I sat listening to This is Why’s debut while working
   from home. Hayley’s words pierced straight into my psyche. It felt like a part
   of my soul lifted, hearing those lyrics for the first time—an admission. An
   epiphany. 
 featuredImage: /images/upload/par.webp
 author: Shelby Catalano
-draft: true
+draft: false
 ---
 ![](/images/upload/par.webp)
 
