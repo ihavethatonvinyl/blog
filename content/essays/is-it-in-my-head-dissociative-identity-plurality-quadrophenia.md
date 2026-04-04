@@ -31,6 +31,8 @@ As the fourth track *Cut My Hair* decrees, the mods in *Quadrophenia*’s univer
 
 The name “quadrophenia” partly comes from the new technology that allowed four speakers to be tied together to create a quadrophonic image (a predecessor to 5.1 surround sound). Pete Townsend combined the words “quadrophonic” and “schizophrenia” to make the album title’s portmanteau- q*uadrophenia*. Jimmy is portrayed as a schizophrenic depressive in both the record and subsequent film adaptation. I can’t speak for *Quadrophenia*’s portrayal of schizophrenia, but what I *can* speak for is how dissociative identity disorder (DID) is conveyed as a plot device, metaphor and ultimately a statement on subculture. 
 
+*Quadrophenia* avoids feeling like a Pete Townsend project more than a Who project, something I appreciate compared to *The Wall*. *The Wall* had Roger Waters’ all-encompassing vision, while Pete’s approach (a meta inclusion of The Who’s other members) prove to be one of the strongest aspects of the record. Roger Daltrey, John Entwhistle and Keith Moon’s contributions were not just in the performances on this record, but also in their leitmotifs. Each band member makes up a different part of Jimmy, a composite of a very confused individual seeking purpose in his young adult life. The themes of each member are as follows:
+
 *Bell Boy* – Keith Moon
 
 *Helpless Dancer* – Roger Daltrey
