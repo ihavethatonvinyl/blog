@@ -41,7 +41,7 @@ The name “quadrophenia” partly comes from the new technology that allowed fo
 
 *Love Reign O’er Me* – Pete Townsend
 
-*
+
 
 The record is very explicit that Jimmy is broken into four distinct personalities. Four different *alters* complete with different desires, all clashing due to their individual wants and needs not being met. All four personalities are stuck in a very lonely and volatile system, stuck between conformity and individualism.
 
