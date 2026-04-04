@@ -1,6 +1,6 @@
 ---
 title: Is It in My Head? Dissociative Identity, Plurality & Quadrophenia
-date: 2026-04-03T21:28:00.000-04:00
+date: 2026-04-04T05:33:00.000-04:00
 summary: It’s sometime in fall 2015. A teen is standing along a reservoir dam a
   bike ride away from their house. They’ve got a journal full of poems about the
   guy in Germany they’re in love with. The twilight shines over the water, gloom
@@ -11,7 +11,7 @@ summary: It’s sometime in fall 2015. A teen is standing along a reservoir dam 
   endless trails of the forest. “Can you see the real me?”
 featuredImage: /images/upload/quadro.jpg
 author: Ceej Wolf
-draft: true
+draft: false
 ---
 ![](/images/upload/quadro.jpg)
 
