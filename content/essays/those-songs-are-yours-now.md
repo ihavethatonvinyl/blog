@@ -8,11 +8,11 @@ summary: "  It’s 2007 and I’m laying on some shitty guy’s awful mattress o
   The Shins, I thought you liked them” god damnit, The Shins. Of course it’s The
   Shins. That’s why it sounds like a jamboree on a spaceship hosted by a very
   sad but enthusiastic man, which is your favorite style of music."
-featuredImage: /images/upload/shins.jpg
+featuredImage: /images/upload/1000005058.jpg
 author: SJ Rayburn
 draft: false
 ---
-![](/images/upload/shins.jpg)
+![](/images/upload/1000005058.jpg)
 
 It’s 2007 and I’m laying on some shitty guy’s awful mattress on the floor and he has music on the laptop. It sounds familiar, *really* familiar. I’m pretty sure I know who it is, but I ask anyway- “who is this?” He stops what he’s doing and laughs at me. “You don’t know?” he says, relishing it. “It’s The Shins, I thought you liked them” *god damnit, The Shins. Of course it’s The Shins. That’s why it sounds like a jamboree on a spaceship hosted by a very sad but enthusiastic man, which is your favorite style of music.*
 
