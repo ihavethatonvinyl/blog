@@ -1,6 +1,6 @@
 ---
 title: He Told Me To Wash This Way
-date: 2026-04-06T20:38:00.000-04:00
+date: 2026-04-07T05:00:00.000-04:00
 summary: "  My older brother started it. Dave taught me about Rush in the 1970s
   and let me sit in his room listening to the Marantz stereo setup. I’d kick
   back with 2112 and read about the temples of Syrinx and its great computers,
@@ -11,7 +11,7 @@ summary: "  My older brother started it. Dave taught me about Rush in the 1970s
   beanbag chair; how did you know?"
 featuredImage: /images/upload/ihtov-hansen-wash-this-way-1.jpg
 author: Glenn Hansen
-draft: true
+draft: false
 ---
 ![](/images/upload/ihtov-hansen-wash-this-way-1.jpg)
 
