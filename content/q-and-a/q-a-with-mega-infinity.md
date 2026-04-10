@@ -223,3 +223,5 @@ May 23: Bridgeport, CT @ The Stack (Park City QF Ska Fest)
 May 29: Massapequa, NY @ Massapequa VFW Hall (Harmonic Convergence Record Release Show)
 
 May 30th: Ambler, PA @ The Yard
+
+![](/images/upload/img_8397.jpeg)
