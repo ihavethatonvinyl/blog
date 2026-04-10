@@ -1,5 +1,5 @@
 ---
-title: "Q&A With Mega Infinity "
+title: Q&A With Mega Infinity
 date: 2026-04-10T05:19:00.000-04:00
 summary: Q&A is a sometimes feature here at IHTOV, where someone is given a set
   of questions about their record collection. Today's guests are all from the
