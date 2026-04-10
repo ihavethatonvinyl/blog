@@ -7,6 +7,8 @@ summary: Q&A is a sometimes feature here at IHTOV, where someone is given a set
 featuredImage: /images/upload/screenshot-2026-04-10-at-4.44.00 am.png
 draft: false
 ---
+![](/images/upload/mione.png)
+
 *Q&A is a sometimes feature here at IHTOV, where a person (or persons) is given a set of questions about their record collection. Today's guests are all from the great band Mega Infinity.*
 
 **Mega Infinity is:** 
