@@ -1,16 +1,15 @@
 ---
 title: "Q&A With Mega Infinity "
-date: 2026-04-10T04:44:00.000-04:00
+date: 2026-04-10T05:19:00.000-04:00
 summary: Q&A is a sometimes feature here at IHTOV, where someone is given a set
   of questions about their record collection. Today's guests are all from the
   great band Mega Infinity.
 featuredImage: /images/upload/screenshot-2026-04-10-at-4.44.00 am.png
-draft: true
+draft: false
 ---
-*Q&A is a sometimes feature here at IHTOV, where someone is given a set of questions about their record collection. Today's guests are all from the great band Mega Infinity.*
+*Q&A is a sometimes feature here at IHTOV, where a person (or persons) is given a set of questions about their record collection. Today's guests are all from the great band Mega Infinity.*
 
 **Mega Infinity is:** 
-
 
 **Rich**: Rich DiLeo. Drummer for Mega Infinity since 2023. Long time music lover. Long time karaoke king!
 
@@ -26,18 +25,13 @@ I’m probably the most novice of the record collectors in the band. My collecti
 
 **Rich**: “Abraxas” - Santana 1970.
 
-
-
 ![](/images/upload/miabraxis.png)
 
- 
 The cover is evocative, speaking to both the beauty of and the abstract nature of real life and fantasy. I could barely read the title when I first picked it up, but the art resonated with me. Then I realized what songs were on this album. Sure, who hadn’t heard “Oye Como Va” but the rest of that album drew me in. It spins on my turntable frequently. 
 
 **Gabi**: I don’t do this super often but the first one that comes to mind is this little, untitled EP by the Norwegian electronic artist, Lindstrøm. Something about the artwork was so appealing to me! Very minimalist - looks like a big glob of toothpaste or something. The music is pretty sweet too! To be honest, I don’t even remember where or when I picked this one up, but it was definitely a situation where I took a leap of faith based on the artwork. This is a nice reminder to get more adventurous the next time I’m record shopping!
 
 ![](/images/upload/mifirstq.png)
-
-
 
 **What is your most memorable vinyl buying/receiving experience?** 
 
@@ -48,8 +42,6 @@ The cover is evocative, speaking to both the beauty of and the abstract nature o
 **Gabi**: Usually on family trips I would try and find record stores nearby to keep myself entertained. There weren't a huge number of cool record shops where I grew up so I welcomed any opportunity I had to go record shopping when I was out of town. On a family trip in high school we passed through Princeton, New Jersey where I wandered into Princeton Record Exchange - a really sick music store! It was one of the largest I had ever been to before. It was one of the first times I had been in a record shop that carried records by almost any artist I could think of. Sadly, I was a broke teenager and only had 4 dollars in my pocket. Although I knew I probably wouldn’t be able to afford any records, I was stoked to just be in there, flipping through section after section. I could spend hours in record stores just exploring! As I was getting ready to head out, I spotted a record that looked familiar on one of the random shelves. Around this time in my life, I was getting really into 90’s emo and emo revival stuff. I was totally shocked when I saw a copy of Cap’n Jazz’s first album **“Burritos, Inspiration Point, Fork Balloon Sports, Cards in the Spokes, Automatic Biographies, Kites, Kung Fu, Trophies, Banana Peels We’ve Slipped on, and Egg Shells We’ve Tippy Toed Over“** colloquially referred to as **“Shmap’n Shmazz”**. I knew that this record was long out of print and original pressings were pretty hard to come by, and yet here it was! The craziest part? It was being sold for $3.99! The only reason I could see it being sold for so cheap is because the record sleeve was in pretty fair condition. It had been slightly water damaged or something. Upon inspecting the actual record, however, it looked playable! So I bought it with what little money I had and left that record shop feeling like I just won the lottery! I even kept the price tag on the sleeve so I would always remember one of the coolest and craziest finds I ever had in the wild. It’s a great record too! Super raw, full of screamy, poetic rippers. 
 
 ![](/images/upload/micapnjazz.png)
-
-
 
 **What’s the most treasured album in your collection and why?** 
 
@@ -65,10 +57,7 @@ In 2024 I went on a solo trip to Brooklyn to see them on their farewell tour, an
 
 ![](/images/upload/mi-misery.png)
 
-
-
 **Rich**: ”Happy Anniversary Charlie Brown” - Various Artists 1989 
-
 
 It’s not a record of monetary value. Hell, I bought it for $5. No, this record is of sentimental value. To you, this record probably looks like a weird compilation of jazz and blues artists who were paid some amount of money to play music about…. The Peanuts cartoons? Yeah, it *is* that. However, to me, this record is long car drives to Williams Lake. It’s the road trips to see my grandparents in Florida. It’s my dad wearing cheap sunglasses singing the BB King track “Joe Cool” while going 65 down the highway in our 1997 Chevy minivan. These are all of my childhood memories in one album. 
 
@@ -78,20 +67,15 @@ It’s not a record of monetary value. Hell, I bought it for $5. No, this record
 
 ![](/images/upload/mi-nmh.png)
 
-
-
 **What one record in your collection would you be most eager to share with new friends?**
 
-**Mike:** I tend to love recommending recent releases that are on heavy rotation for me, and one that has been getting a lot of play on my turntable is **Space Monkey Mafia’s** new album** *Death of the Party****.* It’s such a brilliant ska punk album with strikingly relevant political lyrics on topics like wealth inequality, wonderful horn arrangements, killer instrumental performances and showstopping vocals. I think it’s got something for everyone, with elements of swing, pop, big band, and even metal, and it does it all perfectly. I think it’s a great record to showcase the sheer talent and creativity of the modern ska landscape, a genre some music fans foolishly write off before even giving new ska a try. 
+**Mike:** I tend to love recommending recent releases that are on heavy rotation for me, and one that has been getting a lot of play on my turntable is **Space Monkey Mafia’s** new album **\*Death of the Party\****.* It’s such a brilliant ska punk album with strikingly relevant political lyrics on topics like wealth inequality, wonderful horn arrangements, killer instrumental performances and showstopping vocals. I think it’s got something for everyone, with elements of swing, pop, big band, and even metal, and it does it all perfectly. I think it’s a great record to showcase the sheer talent and creativity of the modern ska landscape, a genre some music fans foolishly write off before even giving new ska a try. 
 
 Another strong recommendation I’d love to mention would be ***Your Neighborhood*** by **The Toxhards**, an incredibly exciting, theatrical, versatile and masterfully written rock opera by one of my favorite modern rock bands at the moment. One of my favorite records of 2025, this one has gotten a TON of play on my turntable lately. I think many different types of music fans will find something to love about it. 
 
 **Rich**: “Impera” - Ghost 2022
 
 ![](/images/upload/mighost.png)
-
-
-
 
 I love Ghost. My bandmates will not be shocked to see an entry from their catalog on my list.  Since hearing the initial demos on myspace in 2010 I’ve been hooked on their music, through good and the “less good”. I always want more people to listen to Ghost, and while Skeleta is a great album and a personal favorite, I find Impera to me more accessible in its stylistic choices, and the approach to the genre. It has opened some friends of mine to the band, and got them hooked like me. If you have Ghost, you have everything.
 
@@ -116,18 +100,13 @@ Summer - Summer can mean many things, but one genre that pops up in my mind is t
 
 Spring: **Get Warmer** by Bomb the Music Industry! BTMI is one of my most hugely influential bands. Jeff’s music is basically what inspired me to play in bands! This record is one of my favorites in the BTMI discography. It’s the first Bomb record I ever listened to and it’s a perfect “god I’m so sick of Winter, I cannot wait for warmer weather” kind of record. 
 
-
-
 Summer: **Menos El Oso** by Minus the Bear. This record is sooooo Summery! Each song makes you feel like you’re on an exotic summer vacation, spending days on the beach, driving with the windows down, exploring new places. Minus the Bear is one of my most favorite bands and I think this is their best album front-to-back. It’s full of incredibly catchy guitar hooks and really creative songwriting. 
 
 Autumn: **Með Suð Í Eyrum Við Spilum Endalaust** by Sigur Rós. Another one of my most favorite bands in the whole wide world! Sigur Rós changed how I thought about music forever. This is one of their most upbeat and poppier records albums, but it’s still incredibly atmospheric.
 
- 
-
 Winter: **Apollo: Atmospheres & Soundtracks** by Brian Eno. I’m a huuuuge ambient music fan, and Brian Eno’s ambient works are genre-defining. This album truly does make you feel like you’re hibernating on a snowy planet, safe yet completely isolated. This is another record I own that I consider a prized possession, since my copy is signed by Brian Eno himself! I found it on a whim at Rough Trade Records pop-up shop at Pitchfork’s OctFest in 2019. 
 
 **What is/are your white whale records, something you have your eye on but haven’t been able to get?**
-
 
 **Mike**: For a while, the Misery Signals albums Controller and Of Malice and the Magnum heart were my ultimate white whale records but I was able to get those on their farewell tour. I’d also love to get a copy of their second album **Mirrors** to complete their discography, as that’s the only one I don’t have! That one is also super rare and hard to find. As I mentioned earlier, most of their early career discography was long out of print.
 
@@ -143,17 +122,13 @@ Winter: **Apollo: Atmospheres & Soundtracks** by Brian Eno. I’m a huuuuge ambi
 
 **What’s your favorite record to listen to on headphones?**
 
-
 **Mike**: I almost always listen to my turntable hooked up to my floor speaker system, but when I first got my turntable set up when I lived with my parents I did listen to a few records with headphones plugged into the turntable. One that stood out was ***Assorted Works* by The World Is a Beautiful Place & I’m No Longer Afraid to Die**, a great compilation of early releases, splits, and singles by the band, which held songs that got me into the band in the early 2010s. The swelling dynamics and ethereal post rock guitars just sounded so incredible when I was locked in with my headphones.
 
 **Gabi**: Without a doubt, any album by Godspeed You! Black Emperor. **Lift Yr Skinny Fists like Antennas to Heaven** in particular was always my favorite to listen to with headphones because of it’s extensive use of samples and GY!BE’s trademark noisy and droning atmospheres. Listening to post-rock records with headphones allows you to really immerse yourself in the long-form dynamics of the music, especially GY!BE with their pieces often hitting the 20 minute mark. It’s so nice to hear the subtle crackle of the vinyl when things get quiet.
 
 ![](/images/upload/migybe.png)
 
-
-
 **Rich**: “2112” Rush 1976
-
 
 The synth bit in the beginning always gives a funny tingling in my brain, but Rush is the reason I love progressive music, and 2112 is my favorite album from their era of epic concepts. Every moment is memorized in my brain, like driving and knowing the way home. I still miss Neil. His playing behind the drums, and the words Geddy sang every night.
 
@@ -172,8 +147,6 @@ Mike**: Looney Tunes** will always be my favorite record store. A Long Island st
 ![](/images/upload/misu.png)
 
 **Rich**: Transformers The Move OMPST - Various Artists 1986 (2015 - 30th anniversary edition)  
-
-
 
 I’m a weird guy, so all my records are weird to me. The record that stands out the most in my collection is this Transformers The Movie soundtrack.. Now I’m nostalgic for Transformers, sure. This record though was not a music purchase, but an art purchase. The interior of this double LP is filled with amazing artwork of the classic Transformers characters that I immediately said “Thats rad as fuck” and bought it. 
 
@@ -204,9 +177,6 @@ I’m a weird guy, so all my records are weird to me. The record that stands out
 
 ![](/images/upload/migatherum.png)
 
-
-
-
 **Rich**: “ A Christmas Together” John Denver & The Muppets 1979
 I was brought up on the classics, in that I was raised on classical music, jazz standards, and Billy Joel. But was taught to never take life too seriously, and to never be afraid to find the joy or the funny in everyday life. The Muppets are the epitome of that mantra in my life.
 
@@ -231,8 +201,6 @@ This falls into the same category as the Streetlight album for sure, but this is
 **What’s the last record you played?**
 
 **Mike**: The last record I spun was **311’s *Self Titled album*** (or Blue Album); 30th anniversary special edition on blue smoke vinyl. Since 3/11 day I’ve been on a huge 311 kick, and once those get going they are hard to stop for me. One of my favorite podcasts (Hardlore) also did a great episode with Nick Hexum for 311 day, and it gave me an even deeper appreciation for the band I already loved after learning more about their unique songwriting approach, influences, history, and work ethic. In our household we have been observing the holiday for an extended amount of time!
-
-
 
 **Rich**: “The Best Of The Specials”  - The Specials  2019 Compilation 
 
