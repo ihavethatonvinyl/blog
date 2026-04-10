@@ -1,6 +1,6 @@
 ---
 title: The Joy of Promo Albums in the ‘80s
-date: 2026-04-09T22:47:00.000-04:00
+date: 2026-04-10T05:19:00.000-04:00
 summary: My original plan was to become a DJ at WKNC-FM when I arrived at N.C.
   State in the Fall of 1984. I thought there’d be nothing cooler than to play my
   kind of music on the turntables and give away prizes to the fifth caller. I
@@ -9,7 +9,7 @@ summary: My original plan was to become a DJ at WKNC-FM when I arrived at N.C.
   application so I could get my FCC license.
 featuredImage: /images/upload/image-4-.png
 author: Joseph Corey III
-draft: true
+draft: false
 ---
 ![](/images/upload/image-4-.png)
 
