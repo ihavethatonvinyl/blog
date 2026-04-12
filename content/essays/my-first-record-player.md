@@ -49,15 +49,11 @@ Pure Prairie League “Two Lane Highway” (from Two Lane Highway) 
 
 Deep Purple “Smoke on the Water” (from Made in Japan) 
 
-**[Playlist on Apple Music ](<https://music.apple.com/us/playlist/my-first-record-player/pl.u-e98l3zpCWer8xb >)**
-
-
+**[Playlist on Apple Music  https://music.apple.com/us/playlist/my-first-record-player/pl.u-e98l3zpCWer8xb](<https://music.apple.com/us/playlist/my-first-record-player/pl.u-e98l3zpCWer8xb >)**
 
 **Bio** 
 
 *Jonathan Lee is a writer, artist, photographer and sometime skateboarding enthusiast who resides on the coast of North Carolina. His work has been published in the print publications No Depression and Mojo as well as online at Guitartown, Welfare Music, Fresh Dirt, Clink Magazine, Miles of Music, and Candid Slice. He periodically shares his musings on music on his blog, [The Company I Keep](<https://companyikeep.blogspot.com/?m=0 >).* 
-
-
 
 **Bluesky** 
 
