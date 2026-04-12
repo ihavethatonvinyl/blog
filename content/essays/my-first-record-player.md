@@ -17,8 +17,6 @@ draft: false
 
 During The Great Purge of 2019 I had to part with many things I didn’t want to part with, one being my first record player, a mid-70s portable model made by RCA. It hadn’t been used in years and was just collecting dust. The only value it had was sentimental. In the late 90s I’d seen one identical to it as part of a rock n’ roll themed exhibit at the North Carolina Museum of Art in Raleigh. If you’ve never seen one, it folds up with the speakers in the back and a built-in handle on top. You can swing the speakers out or detach them for more separation.
 
- 
-
 The sides of my speakers were adorned with decals that came with Grand Funk Railroad’s *We’re An American Band* album from 1973. Mine is one of the original transparent yellow vinyl pressings. I decorated the interior with stickers from Kiss’s *Rock n’ Roll Over* album from 1976. The one I saw at the exhibit had the interior gutted. In its place was a diorama of a teenager’s bedroom from the 70s replete with a blacklight and blacklight posters. It was in the folded up position so you were only afforded a small peek inside. It is one of the most beautiful and imaginative works of art I’ve ever seen. 
 
 In memory of my friend Jon Hinson, who we lost in a 4-wheeler accident in 1976 at the age of 37, I’d always wanted to put the live version of Deep Purple’s “Smoke on the Water” from *Made In Japan* from 1972 on the turntable and then set off a couple strategically placed M-80s underneath it, blowing the turntable and the record to Kingdom Come. Unless you knew Jon, you might not understand. He loved both the song and explosives, especially those he created himself. I could not think of a more fitting tribute to someone I loved so dearly. He was like a brother to me. 
@@ -37,7 +35,9 @@ Still, I liked having my own record player in my room and the ability to take it
 
 **Playlist/Soundtrack** 
 
-Grand Funk Railroad “We’re An American Band” (from We’re An American Band) Kiss “Black Diamond” (from Alive!) 
+Grand Funk Railroad “We’re An American Band” (from We’re An American Band)
+
+ Kiss “Black Diamond” (from Alive!) 
 
 Kiss “I Want You” (from Rock n’ Roll Over) 
 
@@ -49,7 +49,9 @@ Black Sabbath “The Wizard” (from Black Sabbath) 
 
 Pure Prairie League “Two Lane Highway” (from Two Lane Highway) 
 
-David Lindley and El Rayo-X “She Took Off My Romeos” (from El Rayo-X) Deep Purple “Smoke on the Water” (from Made in Japan) 
+David Lindley and El Rayo-X “She Took Off My Romeos” (from El Rayo-X) 
+
+Deep Purple “Smoke on the Water” (from Made in Japan) 
 
 **Playlist on Apple Music** 
 
