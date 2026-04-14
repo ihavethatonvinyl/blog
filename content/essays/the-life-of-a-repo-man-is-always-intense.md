@@ -1,0 +1,44 @@
+---
+title: The Life Of A Repo Man Is Always Intense
+date: 2026-04-14T18:32:00.000-04:00
+summary: "...thanks to the video store, we were watching all sorts of messed up
+  stuff that we were too young for: Bloodsucking Freaks, Ghost Story,  Kentucky
+  Friend Movie, Attack Of The Killer Tomatoes and Sssssss. Inevitably, that
+  landed us on Repo Man"
+featuredImage: /images/upload/repo.jpg
+author: John Ore
+draft: true
+---
+![](/images/upload/repo.jpg)
+
+When I was 14, the thing I loved most besides going to the record store was going to the video store. Before Netflix, that’s how we discovered movies, and it was mostly like going to see Randall at RST Video in *Clerks*. This was before Blockbuster was a thing, so my brother, my father and I would go to the local video store to browse walls of videocassettes housed in generic black plastic cases hidden behind the box for whatever the actual movie was. 
+
+Back then, choosing a movie was largely based on the box and the vibe. Like movie posters, the box had to do a lot of heavy lifting, selling 90 minutes of gross-out teen comedy, slasher gore, sci-fi or buddy cop adventure. Thanks to our father, we were budding movie nerds. Sure, we saw all of the blockbusters in the theater – I threw up in the car after seeing Jaws 2 when I was 8 years old – but our dad introduced us to the things he liked via VHS. He’s the one who turned us on to Michael Caine’s debut in *Zulu*, the Corleone family in *The Godfather* and *Godfather 2*, and whatever the hell Elvira was watching on Elvira’s Movie Macabre. 
+
+As a result, and thanks to the video store, we were watching all sorts of messed up stuff that we were too young for: *[Bloodsucking Freaks](https://letterboxd.com/film/the-incredible-torture-show/)*, *Ghost Story*,  *Kentucky Friend Movie,* *Attack Of The Killer Tomatoes* and *[Sssssss](https://letterboxd.com/film/sssssss/)*. Inevitably, that landed us on *Repo Man*.
+
+*Repo Man* arrived at a moment in our lives where we were certainly finding ourselves musically. Our first real concert – beyond seeing my grade school math teacher roadie for his friends [Melvin and the Meateaters](https://www.concertarchives.org/bands/melvin-and-the-meateaters) at some community theater – was Duran Duran at the LA Forum on the 1984 Sing Blue Silver tour. This was soon followed by Simple Minds at the Hollywood Palladium and U2 at the LA Sports Arena. While we grew up during the KROQ era in Southern California, even then this music was considered transgressive. Our classmates were into classic rock and reggae, so they made fun of us for wearing Duran Duran or KROQ shirts to school. I’ll never forget one upperclassman asking me if I was “punk” derisively. I was thrilled. 
+
+The movie itself is right up our alley: so weird and subversive and full of incredible dialog, camp, low-grade special effects and absurdity. Emilio Estevez’s Otto and his fellow punks were the ridiculous anti-heroes we loved immediately. When we saw him in *The Breakfast Club* the next year, our dad – already wary of where our tastes were heading – asked us which character we liked the most. Hoping for Estevez’s Andrew Clark, he was visibly disappointed when we went with Judd Nelson’s John Bender. Already on the fringe, the soundtrack to the movie was the choose-your-own-adventure we’d been waiting for.
+
+Oh man, the music. 
+
+Already familiar with Suicidal Tendencies “Institutionalized” from heavy KROQ airplay, we were immediately swept up by the title track, “Repo Man.” I had no idea who Iggy Pop was at the time, and never realized that the Sex Pistols’ Steve Jones and Blondie’s Nigel Harrison and Clem Burke featured on it. It was heavy and raw and brooding yet familiar enough superimposed over the opening credits and dayglo map that lead into an opening scene that was silly and weird. We were hooked.
+
+This is how we discovered Black Flag, via the rollicking “TV Party” and Fear via the rallying “Let’s Have A War”. The Circle Jerks cameo on a lounge version of "When the Shit Hits the Fan" was a fake-out: it took subsequent re-watches to latch onto their ripping “Coup D’Etat” when Otto reunites with Duke at the house party and joins a mosh pit. Punk was fun and irreverent and easy to identify with, That was plenty.
+
+We started buying more records. We started going to more shows. We started patrolling Melrose Ave. in Hollywood, discovering Warbabies and Vinyl Fetish and Retail Slut to buy boots, records, army surplus coats and creepers. My first vivid memory of a real mosh pit was in January 1986, seeing the improbable triple bill of Doggy Style, The Dickies and Toy Dolls at the Hollywood Palladium. I naively joined the circle pit that had formed, gaining more confidence with each successful trip around, learning the etiquette of helping people back to their feet when they fell. Then Doggy Style played their singalong “Donut Shop Rock”, heaving boxes of stale donuts into the crowd and spraying everyone with bottles of Sprite. The pit became a slick gooey mess, and our boots turned into ice skates. Falling now was out of the question.
+
+Later we’d haunt the legendary Fender’s Ballroom in Long Beach, too young for the bar and way too young for the fights that regularly broke out. Our parents had no idea. When Fishbone played in the gym during our high school homecoming my sophomore year, I already felt more in the know than my fellow classmates cosplaying what they thought a mosh pit should look like. I’d already been in the real thing. 
+
+The next year, after dozens of shows at Fender’s, I found myself at the front of the stage for Dag Nasty’s set. Uniform Choice, Phantasm and Nuclear Assault had opened, so everyone was already revved up moshing and stage diving. I jumped on the stage yet again, joined by a few others, and leapt into the crowd, face to the low ceiling. Like countless other times, the crowd caught me and I briefly surfed with their arms under my back and legs. Then, someone jumped on top of me. Then another.
+
+I can’t blame the crowd, they just couldn’t hold us. I fell straight to the hard wood floor, landing on my back with two full-sized humans on top of me. We popped up, laughed, and pushed our way back to the front. I didn’t think anything of it. Until the next morning, when I woke up sore. Soon, I started limping. Then I couldn’t get out of bed. Just trying to sit up sent shooting pain through my lower back into my legs. 
+
+My brother and my dad found a scrap 2x8 board in the garage and slid me onto it to stretcher me to the car. At the doctor’s office, after an X-ray, the doctor asked me if I’d fallen 20 feet onto concrete. No, I told him: 6 feet onto a wooden floor. I’d broken my sacrum, the bone that connects your spine to your pelvis. It took me three weeks before I could go back to school, and I walked with a cane for a month. 
+
+I thought about that a lot when, 32 years later, my brother and I found ourselves at the front of the stage during Youth Of Today’s set at Market Hotel in Brooklyn. With stage divers throwing themselves on us and past us, we had to be some of the oldest fans “Screaming For Change” with Ray and Porcelly. Arguably too old. But it was instinct that drew us to the front. I also thought about it when my friend punctured a lung stage diving to Frozen Soul at St. Vitus in 2023. I thought about it, from a safe distance, watching people chuck full beers into the pit at the Cock Sparrer show last weekend. I think about it when my sciatica flares up. 
+
+I still have my original vinyl copy of R*epo Man: Music from the Original Motion Picture.* I look at the [record collection](https://ihavethatonvinyl.com/essays/record-collecting-and-sibling-rivalry/) around it, the original releases of Fear: T*he Record,* Youth Of Today’s *Break Down The Walls*, the Dead Kennedy’s *Frankenchrist* (with the original [H.R. Geiger poster](https://www.decibelmagazine.com/2022/02/14/you-ever-go-by-the-name-h-r-giger-inside-the-frankenchrist-raid/)). It’s also surrounded by Run DMC and Handsome Boy Modeling School and Taylor Swift and Slowdive and Cigarettes After Sex and Beach House and Siouxsie and the Banshees and Mavis Staples and Dr. Octagon and Japan. My taste continues to evolve, but it’s rooted in Duran Duran, weird shit like The Plugz’s “Reel Ten”, and Dag Nasty. Forty-plus years later, I can’t wait for my kids to find their Repo Man.
+
+*John Ore is a Brooklyn, NY-based vinyl enthusiast, writer and beer-league ice hockey player who works in product and technology by day. He’s written for The Awl, Deadspin, Jezebel, and Slate. He posts a lot of #nowspinning photos on his[ Bluesky](https://bsky.app/profile/clarencerosario.bsky.social) account. When he’s not digging in crates for original first pressings, he’s walking his dog or bass fishing in upstate lakes. You can occasionally find him behind the bar as well, but his favorite seat at the bar is on the corner.*
