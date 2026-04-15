@@ -3,7 +3,7 @@ title: The Life Of A Repo Man Is Always Intense
 date: 2026-04-15T05:48:00.000-04:00
 summary: "...thanks to the video store, we were watching all sorts of messed up
   stuff that we were too young for: Bloodsucking Freaks, Ghost Story,  Kentucky
-  Friend Movie, Attack Of The Killer Tomatoes and Sssssss. Inevitably, that
+  Fried Movie, Attack Of The Killer Tomatoes and Sssssss. Inevitably, that
   landed us on Repo Man"
 featuredImage: /images/upload/repo.jpg
 author: John Ore
@@ -15,7 +15,7 @@ When I was 14, the thing I loved most besides going to the record store was goin
 
 Back then, choosing a movie was largely based on the box and the vibe. Like movie posters, the box had to do a lot of heavy lifting, selling 90 minutes of gross-out teen comedy, slasher gore, sci-fi or buddy cop adventure. Thanks to our father, we were budding movie nerds. Sure, we saw all of the blockbusters in the theater – I threw up in the car after seeing Jaws 2 when I was 8 years old – but our dad introduced us to the things he liked via VHS. He’s the one who turned us on to Michael Caine’s debut in *Zulu*, the Corleone family in *The Godfather* and *Godfather 2*, and whatever the hell Elvira was watching on Elvira’s Movie Macabre. 
 
-As a result, and thanks to the video store, we were watching all sorts of messed up stuff that we were too young for: *[Bloodsucking Freaks](https://letterboxd.com/film/the-incredible-torture-show/)*, *Ghost Story*,  *Kentucky Friend Movie,* *Attack Of The Killer Tomatoes* and *[Sssssss](https://letterboxd.com/film/sssssss/)*. Inevitably, that landed us on *Repo Man*.
+As a result, and thanks to the video store, we were watching all sorts of messed up stuff that we were too young for: *[Bloodsucking Freaks](https://letterboxd.com/film/the-incredible-torture-show/)*, *Ghost Story*,  *Kentucky Fried Movie,* *Attack Of The Killer Tomatoes* and *[Sssssss](https://letterboxd.com/film/sssssss/)*. Inevitably, that landed us on *Repo Man*.
 
 *Repo Man* arrived at a moment in our lives where we were certainly finding ourselves musically. Our first real concert – beyond seeing my grade school math teacher roadie for his friends [Melvin and the Meateaters](https://www.concertarchives.org/bands/melvin-and-the-meateaters) at some community theater – was Duran Duran at the LA Forum on the 1984 Sing Blue Silver tour. This was soon followed by Simple Minds at the Hollywood Palladium and U2 at the LA Sports Arena. While we grew up during the KROQ era in Southern California, even then this music was considered transgressive. Our classmates were into classic rock and reggae, so they made fun of us for wearing Duran Duran or KROQ shirts to school. I’ll never forget one upperclassman asking me if I was “punk” derisively. I was thrilled. 
 
