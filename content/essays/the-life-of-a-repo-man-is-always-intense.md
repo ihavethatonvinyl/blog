@@ -7,7 +7,7 @@ summary: "...thanks to the video store, we were watching all sorts of messed up
   landed us on Repo Man"
 featuredImage: /images/upload/repo.jpg
 author: John Ore
-draft: true
+draft: false
 ---
 ![](/images/upload/repo.jpg)
 
