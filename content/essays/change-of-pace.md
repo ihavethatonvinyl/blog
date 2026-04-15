@@ -1,13 +1,13 @@
 ---
 title: "Change of Pace "
-date: 2026-04-14T18:27:00.000-04:00
+date: 2026-04-15T05:42:00.000-04:00
 summary: I Have that on Vinyl is now a year and a half old. 300 essays, 150
   pieces from me, 60 interviews. I published pieces at a frenetic pace for a
   year, then slowed down to one a day, then to every other day. And now IHTOV
   changes again. 
 featuredImage: /images/upload/hours.jpg
 author: Michele Catalano
-draft: true
+draft: false
 ---
 ![](/images/upload/hours.jpg)
 
