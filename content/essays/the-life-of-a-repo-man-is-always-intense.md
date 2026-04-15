@@ -1,6 +1,6 @@
 ---
 title: The Life Of A Repo Man Is Always Intense
-date: 2026-04-14T18:32:00.000-04:00
+date: 2026-04-15T05:42:00.000-04:00
 summary: "...thanks to the video store, we were watching all sorts of messed up
   stuff that we were too young for: Bloodsucking Freaks, Ghost Story,  Kentucky
   Friend Movie, Attack Of The Killer Tomatoes and Sssssss. Inevitably, that
