@@ -4,7 +4,7 @@ body {
   margin: 1rem;
   max-width: 768px;
   font-family: "Montserrat", Arial, Helvetica, sans-serif;
-  font-size: 16px;
+  font-size: 14px;
   font-weight: 500;
 }
 
@@ -77,6 +77,10 @@ main {
   text-align: center;
 }
 
+#featured>hr {
+  width: 50%;
+}
+
 header>a>img {
   width: 60vw;
   height: auto;
@@ -94,7 +98,7 @@ div.featuredImage>img {
 }
 
 .featureSummary {
-  font-size: 18px;
+  font-size: 14px;
 }
 
 #list-page {
