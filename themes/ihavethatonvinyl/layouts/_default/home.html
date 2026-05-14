@@ -1,21 +1,19 @@
 {{ define "main" }}
 <div id="liner-notes">{{ partial "liner-notes.html" . }}</div>
 <div id="featured">
+  <h1>May 2026</h1>
   {{ $collection := where .Site.RegularPages "Type" "ne" "liner-notes" }}
-  {{ if gt (len $collection) 0 }}
-    {{ $page := index $collection 0 }}
-    {{ with $page }}
-      <h2>NOW PLAYING: {{ .Title | upper }}</h2>
-      {{ if .Params.featuredImage }}
-      <div class="featuredImage">
-      <img src="{{ .Params.featuredImage }}" alt='{{ default "Featured Image" .Params.featuredImageAlt }}' title='{{ default "Featured Image" .Params.featuredImageCap }}' />
-      </div>
-      {{ end }}
-      <div class="featureSummary">{{ .Summary }}</div>
-      <h4><em><a href="{{ .RelPermalink }}">Read More...</a></em></h3>
+  {{ $pages := $collection.Limit 3 }}
+  {{ range $pages }}
+    <h2>{{ .Title | upper }}</h2>
+    {{ if .Params.featuredImage }}
+    <div class="featuredImage">
+    <img src="{{ .Params.featuredImage }}" alt='{{ default "Featured Image" .Params.featuredImageAlt }}' title='{{ default "Featured Image" .Params.featuredImageCap }}' />
+    </div>
     {{ end }}
-  {{ else }}
-    <h2>No featured interviews at the moment. Check back soon!</h2>
+    <div class="featureSummary">{{ .Summary }}</div>
+    <h4><em><a href="{{ .RelPermalink }}">Read More...</a></em></h4>
+    <hr/>
   {{ end }}
 </div>
 <div id="newreleases">{{ partial "new-releases.html" . }}</div>
