@@ -1,6 +1,6 @@
 ---
 title: Zero Boys
-date: 2026-05-14T21:52:00.000-04:00
+date: 2026-05-15T06:26:00.000-04:00
 summary: " If you’re lucky, at a young, impressionable age you’ll listen to an
   album that will change your life. If you’re luckier, those around you will
   respond with complete befuddlement. I say this because of my experience with
@@ -9,7 +9,7 @@ summary: " If you’re lucky, at a young, impressionable age you’ll listen to 
   me."
 featuredImage: /images/upload/img_4968.jpeg
 author: Bob Cook
-draft: true
+draft: false
 ---
 ![](/images/upload/img_4968.jpeg)
 
