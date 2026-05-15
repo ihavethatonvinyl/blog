@@ -1,0 +1,77 @@
+---
+title: "Magnolia Electric Co.-Songs: Ohia"
+date: 2026-05-14T22:00:00.000-04:00
+summary: I grew up in a small, beaten-down town, one that is both part of the
+  Rust Belt and part of Appalachia; what this means is that one can find their
+  misery often doubled. It’s one of those rare pockets of America that exists in
+  the public eye as pure myth— the red barn and golden cornfield, the football
+  captain and prom queen, the abandoned trailer park with the tattered American
+  flag—but the reality is much stranger and sadder than the iconography. Perhaps
+  no artist manages to capture these images, both their loneliness and their
+  mythic quality, more than the late musician Jason Molina. 
+featuredImage: /images/upload/songs.jpg
+author: "Ebonee Rice-Nguyen "
+draft: true
+---
+
+
+
+![](/images/upload/songs.jpg)
+
+I grew up in a small, beaten-down town, one that is both part of the Rust Belt and part of Appalachia; what this means is that one can find their misery often doubled. It’s one of those rare pockets of America that exists in the public eye as pure myth— the red barn and golden cornfield, the football captain and prom queen, the abandoned trailer park with the tattered American flag—but the reality is much stranger and sadder than the iconography. Perhaps no artist manages to capture these images, both their loneliness and their mythic quality, more than the late musician Jason Molina. 
+
+ 
+
+Jason Molina knew about loneliness and he knew about despair. Molina was born in the rust belt, and grew up in a little town in Ohio called Lorain, a town Molina described as “a burnt-out shipbuilding and steel making town”. His father was a middle school teacher and he grew up with his two siblings in a single-wide trailer on Lake Erie. He began playing guitar at 10 and for decades crafted his upbringing spent in industrial Ohio and West Virginia into a discography that haunts. When I miss home, truly miss home, not just the beautiful green summer days, but also those hard, stale winters and long nights that feel like going nowhere, I listen to Molina. Molina did not grow up in Appalachia but his music carries that mythic tone of Appalachian storytelling combined with the dark grit of the Rust Belt. His songs are full of dark deaths and rural symbolism: the long, dark stretch of road, the pale, lonely moon, the hungry jaws of night. All of it cloaked in his eternal shades of blue and grey, the colors of steel, iron, long shifts, sunless days and bouts of depression. 
+
+ 
+
+Molina died in 2013, only thirty-nine years old. In the decade after recording *Magnolia Electric Co*. he suffered from alcohol addiction. The bottom line is cruel: he drank himself to death. But at the time of recording, Molina was sharp-eyed and sharp-tongued, singularly focused on producing something singular and spectral. It is easy to read into *Magnolia Electric Co.* and think of the whole album as a dark omen of Molian’s end, but the truth is more complicated than that. According to Erin Osmon's 2017 biography, *Jason Molina: Riding With the Ghost*, Jason Molina's mother was a severe alcoholic, causing Molina to have an isolated childhood. As he grew older, similar compulsions reared their ugly head. When friends asked the musician what was wrong or why he was acting odd, the musician would answer, saying he had “a virus around his heart.” Perhaps these details from Molina’s biography explain his piercing familiarity with darkness, perhaps he saw his own life veering in the direction of his mother’s. We can speculate all we want but what we know to be true is that Molina was no stranger to struggle— his mother’s battle with alcoholism,  his own bouts with depression and alcoholism, the ceaseless drudgery of factory life— and for that his songs are heavy, full-bodied things. 
+
+*Magnolia Electric Co.* was not Molina’s last album before his death, but it served as the centerpiece of his musical career. In the album Molina seems to abandon his former hesitations, shifting away from slow-core and towards rock populism. Maybe it was this evolution that fully cleaved Molina from comparisons to Neil Young and Will Oldham. In *Magnolia Electric Co.* Molina is full-throated, honest and bone-tired. There is an intensity to the album, one that echoes a monologue given staring down the barrel of a gun.
+
+ 
+
+*Magnolia Electric Co.* begins with “Farewell Transmission." The track starts with a mournful guitar, the chord progression bringing to mind wide open prairies filled with dust. The strumming is even, unhurried. Molina’s voice is full but weathered; raw. The drums are processional, a steady but tired march, the crawl across the desert, the slow walk towards the funeral pyre. As the song fades, Molina croons, “long dark blues,” so slowly it sounds like a lonely wind weaving through tree branches; it turns to incantation.
+
+ 
+
+Perhaps more than any track of Molina’s “Transmission” provides us with a glimpse into his upbringing, painting us an empty industrial landscape. At the end of the first chorus, “Now they’ll be working in the cold grey rock/ Now they’ll be working in the hot mil steam/ Now they’ll be working in the concrete.” Iron, steel, concrete, and coal, those endless grey shades of manual labor. Molina takes us to the inner workings of the rust belt, regions where he spent the majority of his life– Ohio, Chicago, Southern Indiana, West Virginia. All places he called home but places he watched decompose due to economic decline and urban decay.  He became quite familiar with the endless toil of long shifts in factories that don’t care if you live or die. One begins to wonder how one copes in such conditions.
+
+Alongside all of this are those strange, mystical glimpses into that supernatural symbolism that enraptured the musician. Molina was heavily inspired by Appalachian gothic and rural folklore, using such fables to carve out the shape of the Rust Belt’s desolation and Appalachia’s rural isolation in his songs. He talks of trains, moons, wolves, birds, and, above all, ghosts—things that are always leaving as well as lingering. Ghosts seemed to be Molina’s eternal subject; they followed him wherever he went. In “Farewell Transmission” he cries: “I’ll streak his blood across my beak/Dust my feathers with his ash/ I can feel his ghost breathing down my back.” 
+
+ 
+
+If “Farewell Transmission” is the slow crawl through the desert, “I’ve Been Riding with the Ghost,” is kicking the horse into gear. There is a desperate frenzy to the track, a relentlessness that conjures the feeling of speeding down a highway, fleeing some dark force biting at your heels. Yet Molina isn’t fleeing, he’s keeping the dark company: “About my past mistakes/ I’ve been trying to make a change/I’ve been riding with a ghost/ I’ve been doing whatever he told me.” In this track, we are introduced to Molina’s eternal struggle between past behavior and the desire for change through the figure of the ghost. “He” becomes a pivotal character, one that haunts the whole album. We get a sense that Molina is at his mercy the whole time.
+
+ 
+
+“Just Be Simple,” the third track on *Magnolia Electric Co.* centers around a mournful steel guitar, giving the whole song a ghostly ache. Molina calls out: “You’ll never hear me talk about one day getting out/ Why put a new address on the same old loneliness.” Right out of the gates, Molina confesses both defeat and despair, the cold pillars of the album. The “He” returns : “how there’s no difference in who he was once/ And who he’s become/ I think he’s been letting me win/ And I think he’s doing it again/ Thanks for letting me win.” There’s that “He” again, that phantom presence that sits on Molina’ shoulders— death, god, despair, depression, addiction, his past self— we don’t get a clear answer but just the sense that Molina is up against something he can’t escape from. In these lines, Molina frames winning like it's losing and makes blessings sound like just surviving another day. The end of the track accumulates into almost a manifesto with Molina crying out “I ain’t looking for no easy way out/ This whole life has been about/ Try and try and try…To be simple again/ Just be simple again.” One wonders just how far back it stopped being simple for the singer.
+
+
+
+The tracks “Just Be Simple” and “Almost Was Good Enough” almost serve as mirror opposites of each other. While in “Just Be Simple,” the speaker maintains that he isn’t searching for a way out, the singer in “Almost Was” claims the way out is an impossibility. The previous mentions of making a change and getting better make more sense; Molina was hoping for a miracle but knew one wouldn't come. In “Almost Was” he croons: “C’mon did you really believe’ That everyone makes it out?” Again, that “He” appears, talking low in Molina’s ear, taunting him. At the end of this mournful threnody he cries out, “Almost no one makes it out/ No one makes it out/ You’re talking to one now.” 
+
+ 
+
+Perhaps I am drawn to *Magnolia Electric Co*. because the narrative of being “good enough” to “make it out” is one I am all too familiar with. Towns like Molina and I’s are ripe with superstition and swollen with religion; life gets boiled down into the good and bad, luck and misfortune. There is the belief that one’s life is the accumulation of one’s choices, that circumstance and situation have nothing to do with success, but rather if one has the grit and the perseverance one can make it out unscathed. “Make it out” holds a heavy weight—make it out of the town itself, yes but also make it out of those dark undercurrents of small town life— dead-end jobs, abusive relationships, addiction, depression, unhealthy pasts— the ghosts of rural life. Growing up, I’d heard tales of classmates and neighbors who fell on hard times, but the conversation surrounding them was always that it was up to them to make a change, to turn it all around. That explains why listening to *Magnolia Electric. Co* sounds like drowning; we get the sense that whatever demons Molina was facing, he was facing alone. The end lyrics to the song land heavily: “For once, almost was good enough/ Almost was good enough.” Hope hinges on the almost; Molina perhaps thought he was the exception, that he could defeat whatever dark spirit was haunting him. 
+
+ 
+
+Alongside this, is the conviction that sometimes despite doing everything right there are those destined for despair. We hear this most in “The Old Black Hen.” Behind that heart-breaking violin and aching mandolin is the belief that sometimes a bad luck streak lasts a lifetime: “Time for the Bad Luck Lullaby/ You know the one it’s the same one you sung/ When you worked on the Revelations/ Now sing it over the cradle of the child who’s born next.” Despite the track being sung by Larence Peters, Molina is speaking directly to us. He croons about a life that veers so off-track one starts to think they’re born with a curse, that doom and suffering can be passed down and can’t be fought off, that no matter how much you fight it, eventually the darkness comes to collect. If you’ve spent time in a small town, you know about this; how there are certain family names that one steers clear of, different crowds you avoid running around with for fear of catching whatever misfortune seems to follow them.
+
+ 
+
+The themes of being “good enough” and “getting out” return again in “John Henry Split My Heart.” The tale of John Henry is an Appalachian legend, one I grew up with. John Henry was hired as a steel driver for a railroad company. The railroad company brought in a steam drill that was said to drill faster than any man. John Henry faced it down, beat the steam drill by the pure strength of his body and then promptly died of exhaustion. It makes sense why Molina would find inspiration in this tale. The endless toil of manual labor— a story he was all too familiar with— mirrors the musician's familiarity with depression and addiction. There is the belief that one can do everything right, that one can briefly make it out, but sometimes, the way out may just do you in.
+
+ 
+
+It’s easy to look for omens of Molina’s death in *Magnolia Electric Co.* because the album is swollen with Appalachian iconography but they are not harbingers of Molina’s own end. Rather, they are born from the strange mysticism that shapes life in a small town, places where one can feel so stuck you look to signs and symbols for direction. The last track on the album, “Hold On Magnolia” is the slowest and most instrumentally barren. He sings: “Hold on Magnolia…No one has to be that strong/ But if you’re stubborn like me/ I know what you’re trying to be.” Here, we get a recognition of Molina’s effort to hold on, to persevere and come out the other side. There is something particularly male about his language here, strength and stubbornness being cited as the exit strategy to escape the darkness but the eventual confession that it just isn’t enough. In the last lines, he seems to accept defeat: “Hold on Magnolia/ I think its almost time/ it’s almost time.” It goes without saying how similar Magnolia and Molina sound. 
+
+ 
+
+Molina had spoken about his life in that small town in Ohio. In an interview for *The Believer* he stated: “Lorain is profoundly important to my music. It is the environment where I learned to walk away from the darkness. It is a place of water and storms and falling red sky and lightning. I learned to write music there about the world because out there it was immense and sudden. I learned that misery is not to capture but to learn about. Lorain and I have an unspoken agreement to always remain in each other’s lives. It is a hard place.” The singer seems to capture how many feel about their small home towns. There is an acknowledgement, the tilt of a chin as you pass by, that despite the harshness and instability of such places they are formative and sometimes essential. 
+
+But Molina’s record isn’t solely about departures or leaving, it’s also about staying and being stuck in a hard place but believing that if one can just make one small change things will get better. To those who may not come from regions like Molina’s or mine, his death seems ominous, sinister, and foreboding, but deaths like his are unfortunately common. They are cruel and senseless and almost never peaceful; lives lost behind the wheel, heads blown off in bedrooms at the end of a shotgun, overdoses, hunting accidents, and drinking oneself to a slow death. Almost all the victims are men. After, there is no talk about patterns and cycles and systems or places, instead there is talk about bad luck and poor choices and promises to make a lasting change. The deaths are always framed as sudden and unexpected; there are no mentions of depression or addiction. Instead, like the speaker in *Magnolia Electric Co*., we get the sense that whatever shadows one was dealing with, it was dealt with in solitude, a battle that was lost in silence. Nobody mentions that oftentimes, it’s the only way these individuals can truly manage to “make it out.” All of this is to say, Jason Molina knew a thing or two about not being able to say good-bye to the place you call home, even if it's the very thing that's killing you.
+
+*Ebonee Rice-Nguyen is a writer currently based in South Korea. She writes about music, art, and film. She is at work on a collection of essays about her time in Korea. You can contact her at ejrice1314@gmail.com*
