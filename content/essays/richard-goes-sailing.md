@@ -1,13 +1,13 @@
 ---
 title: Richard Goes Sailing
-date: 2026-05-14T21:54:00.000-04:00
+date: 2026-05-15T06:26:00.000-04:00
 summary: In 1963, Richard Wright was an architecture student who wanted to be in
   a band. He joined a group of guys, switched from guitar to keyboards, dropped
   out of school. The band called itself the Tea Set, then changed its name to
   Pink Floyd
 featuredImage: /images/upload/wet-dream-photo.jpg
 author: Tim Foley (aka T.J. Wolfsbane)
-draft: true
+draft: false
 ---
 ![](/images/upload/wet-dream-photo.jpg)
 
