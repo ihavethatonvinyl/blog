@@ -23,7 +23,7 @@ I’ll presume most of you reading this have no idea what I’m talking about. �
 
 **Settling a music debate on Walkman Day**
 
-It’s spring 1985, and I’m sitting in the back of Mr. Seal’s chemistry class, engaged in a passionate (read, yelling) musical debate with my classmates. As I recall, it centered on my love of The Psychedelic Furs, with the debate being everybody telling how much they sucked.
+It’s spring 1985, and I’m sitting in the back of Mr. Seal’s chemistry class, engaged in a passionate (read, yelling) musical debate with my classmates. As I recall, it centered on my love of The Psychedelic Furs, with the debate being everybody telling me how much they sucked.
 
 As it happens, because it was a Spirit Week, for one day Carmel (Ind.) High School lifted its ban on students wearing Walkmans. That made it possible for Lou Silverman, later an all-Big Ten wrestler at Indiana and a [longtime high school wrestling coach](https://www.facebook.com/IndianaWR/posts/congratulations-to-indiana-wrestling-alum-lou-silverman-on-his-retirement-from-a/634086371858084/), who had not said a word during our discussion, to spin around, hold up a cassette, and being truly sick of our shit loudly declare:
 
