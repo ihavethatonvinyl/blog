@@ -1,6 +1,6 @@
 ---
 title: "Magnolia Electric Co.-Songs: Ohia"
-date: 2026-05-14T22:00:00.000-04:00
+date: 2026-05-15T06:27:00.000-04:00
 summary: I grew up in a small, beaten-down town, one that is both part of the
   Rust Belt and part of Appalachia; what this means is that one can find their
   misery often doubled. It’s one of those rare pockets of America that exists in
@@ -11,7 +11,7 @@ summary: I grew up in a small, beaten-down town, one that is both part of the
   mythic quality, more than the late musician Jason Molina. 
 featuredImage: /images/upload/songs.jpg
 author: "Ebonee Rice-Nguyen "
-draft: true
+draft: false
 ---
 
 
