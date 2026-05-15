@@ -35,8 +35,7 @@
   <meta property="og:type" content="website">
 {{- end }}
 
-{{- $thumb := .Params.featuredImage }}
-{{- with $thumb }}
+{{- with or .Params.featuredImage "/images/og-logo.png" }}
   <meta property="og:image" content="{{ . | absURL }}">
 {{- end }}
 
