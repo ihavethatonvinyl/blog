@@ -1,9 +1,9 @@
 {{ define "main" }}
 <div id="liner-notes">{{ partial "liner-notes.html" . }}</div>
 <div id="featured">
-  <h1>May 2026</h1>
+  <h1>June 2026</h1>
   {{ $collection := where .Site.RegularPages "Type" "ne" "liner-notes" }}
-  {{ $pages := $collection.Limit 3 }}
+  {{ $pages := $collection.Limit 4 }}
   {{ range $pages }}
     <h2>{{ .Title | upper }}</h2>
     {{ if .Params.featuredImage }}
