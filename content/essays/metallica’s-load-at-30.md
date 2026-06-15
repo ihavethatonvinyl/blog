@@ -1,6 +1,6 @@
 ---
 title: Metallica’s Load at 30
-date: 2026-06-14T17:59:00.000-04:00
+date: 2026-06-15T05:49:00.000-04:00
 summary: Load came out the summer between my freshman and sophomore years of
   high school. I remember when the first single, “Until It Sleeps,” came out a
   few months before, and I really liked it, but I did notice how different it
@@ -9,7 +9,7 @@ summary: Load came out the summer between my freshman and sophomore years of
   song and hated the album before it even came out.
 featuredImage: /images/upload/load.jpeg
 author: "Mike Rastiello "
-draft: true
+draft: false
 ---
 ![](/images/upload/load.jpeg)
 
