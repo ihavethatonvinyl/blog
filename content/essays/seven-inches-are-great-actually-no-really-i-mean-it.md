@@ -8,12 +8,11 @@ summary: "I have a lot of friends who love vinyl, but few who embrace the humble
   single enforces focused listening. And that handful (or less!) of minutes can
   be the perfect amount time to sit and appreciate an appealing or unusual
   sleeve"
+featuredImage: /images/upload/malkmus-guns-1.jpg
 author: D. Mayo-Wells
 draft: false
 ---
-
-
-
+![](/images/upload/malkmus-guns-1.jpg)
 
 I have a lot of friends who love vinyl, but few who embrace the humble 7” 45-RPM single. The frequent complaint is brevity: You can’t do anything while you’re playing singles, because you have to change or flip the record every few minutes.
 
@@ -50,7 +49,6 @@ The Icicle Works career would eventually encompass Duran-Wannabee romantic pop a
 A typically slinky baseline from Dave Allen (later of Gang of Four) and typically dense and opaque lyrics from this post-punk outfit. The clattery b-side eventually showed up on the remaster of *Care*. The sleeve feels like the poster of some imaginary movie I’d love to see.
 
 **Alcopop Records - The Wit and Wisdom of Nigel Farage (2015)**
-
 
 The weirdest 45” I know of, the A-side is completely blank, and the b-side is an odd and unmusical remix (of what I am not quite sure). But, y’know, fuck the tories.
 
@@ -107,7 +105,5 @@ Both of these tunes are on the LP from this project featuring Open Mike Eagle, S
 ![](/images/upload/rodrigo-byrne.jpg)
 
 The latest arrival. Can’t hear this one on streaming, y’all. ;-b
-
-
 
 *D. Mayo-Wells is an ex-pat DC punk living in Providence RI. D. thinks staying open to new music is the fountain of youth, but their knees are not fully onboard. Online at summervillain.bsky.social*
