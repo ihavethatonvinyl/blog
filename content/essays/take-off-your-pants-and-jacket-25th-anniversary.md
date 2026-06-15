@@ -1,13 +1,13 @@
 ---
 title: Take Off Your Pants and Jacket - 25th anniversary
-date: 2026-06-14T17:36:00.000-04:00
+date: 2026-06-15T05:50:00.000-04:00
 summary: I remember raiding my older brother's CD rack when I was ten years old
   and finding a copy of Blink-182's Take Off Your Pants and Jacket. My innocent
   little mind went, "What kind of a name for an album is that?" My older brother
   certainly wouldn't tell me. 
 featuredImage: /images/upload/b182.jpg
 author: Will Sisskind
-draft: true
+draft: false
 ---
 ![](/images/upload/b182.jpg)
 
