@@ -1,11 +1,11 @@
 ---
 title: Q&A WIth Musician Darren Hayman
-date: 2026-06-14T19:57:00.000-04:00
+date: 2026-06-15T05:49:00.000-04:00
 summary: Q&A is a sometimes feature here at IHTOV, where a person (or persons)
   is given a set of questions about their record collection. Today’s guest is
   musician Darren Hayman
 featuredImage: /images/upload/9b01b368-e87e-4266-9fb9-9c44b8fe2e78.jpeg
-draft: true
+draft: false
 ---
 
 
