@@ -1,6 +1,6 @@
 ---
 title: Seven-Inches Are Great Actually. No, Really, I Mean It.
-date: 2026-06-14T18:13:00.000-04:00
+date: 2026-06-15T05:48:00.000-04:00
 summary: "I have a lot of friends who love vinyl, but few who embrace the humble
   7” 45-RPM single. The frequent complaint is brevity: You can’t do anything
   while you’re playing singles, because you have to change or flip the record
@@ -9,7 +9,7 @@ summary: "I have a lot of friends who love vinyl, but few who embrace the humble
   be the perfect amount time to sit and appreciate an appealing or unusual
   sleeve"
 author: D. Mayo-Wells
-draft: true
+draft: false
 ---
 
 
