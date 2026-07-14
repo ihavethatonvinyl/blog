@@ -3,14 +3,10 @@ body {
   line-height: 1.5;
   margin: 1rem;
   max-width: 768px;
-  font-family: "Montserrat", Arial, Helvetica, sans-serif;
-  font-size: 14px;
-  font-weight: 500;
 }
 
 header,
 footer {
-  font-family: "American Typewriter", monospace;
   width: 100vw;
   text-align: center;
 }
@@ -38,35 +34,11 @@ h1 {
   text-align: center;
 }
 
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
-  font-family: "American Typewriter", monospace;
-  font-weight: normal;
-}
-
 main {
   width: 100vw;
   padding: 1vh 1vw;
 }
 
-/* 
-
-#liner-notes, #newreleases {
-  display: inline-block;
-  vertical-align: top;
-  width: 22vw;
-}
-
-#featured {
-  display: inline-block;
-  vertical-align: top;
-  width: 48vw;
-  padding: 0 1vw;
-} */
 
 #featured p>img {
   height: 100%;
@@ -97,9 +69,6 @@ div.featuredImage>img {
   text-align: center;
 }
 
-.featureSummary {
-  font-size: 14px;
-}
 
 #list-page {
   display: block;
