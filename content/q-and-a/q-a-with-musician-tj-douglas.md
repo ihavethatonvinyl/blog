@@ -4,8 +4,13 @@ date: 2026-07-14T20:59:00.000-04:00
 summary: Q&A is a sometimes feature here at IHTOV, where a person (or persons)
   is given a set of questions about their record collection. Today's guest is
   musician TJ Douglas
+featuredImage: /images/upload/tj.avif
 draft: false
 ---
+![](/images/upload/tj.avif)
+
+
+
 **Have you ever bought a record just for the artwork?**
 
 When I was maybe 10 years old, I saw *RAM* at a vinyl street fair. I was a Beatles fanatic but didn't know Paul's solo stuff yet. I don't primarily experience the world visually—I move more through intuition and sound. So I don't have many memories of being drawn to something for purely visual reasons, especially a record. But this memory is an exception. I loved the bright yellow background and the rough-hewn, hand-drawn title and border. The young romantic in me felt seen and inspired by the collage of Paul and Linda's adventurous love, with the journal-like drawings and handwriting around the edges. I haven't thought about this in years, but it makes sense now, given my own aesthetics of intimacy and imperfection.
@@ -46,10 +51,6 @@ Kathy Heideman's *Move With Love*. It's a forgotten record from the '70s that wa
 
 **Winter:** *Sugar Still Melts in the Rain* — Sarah Mary Chadwick
 
-
-
 New York-based singer and songwriter TJ Douglas has been steadily releasing music for the past couple of decades. 2024 saw the release of their most recent album *[Dying](https://tjdouglas.bandcamp.com/)*, and in November 2025 a single, "Parts of You", was released as a companion piece. Now, TJ is back with two new tracks - "Joseph, It's Me" and "Be Longing" - that revisit their 2015 album *Joey* a decade later, with the same band who played on that record, including reuniting with old friend and producer Andrew Lappin (Lucy Dacus, L’Rain, Cassandra Jenkins). 
-
-
 
 [TJ on Bandcamp](https://tjdouglas.bandcamp.com/album/joseph-its-me)
