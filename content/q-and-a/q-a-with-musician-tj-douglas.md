@@ -45,3 +45,11 @@ Kathy Heideman's *Move With Love*. It's a forgotten record from the '70s that wa
 **Autumn:** *Nina Simone and Piano* — Nina Simone
 
 **Winter:** *Sugar Still Melts in the Rain* — Sarah Mary Chadwick
+
+
+
+New York-based singer and songwriter TJ Douglas has been steadily releasing music for the past couple of decades. 2024 saw the release of their most recent album *[Dying](https://tjdouglas.bandcamp.com/)*, and in November 2025 a single, "Parts of You", was released as a companion piece. Now, TJ is back with two new tracks - "Joseph, It's Me" and "Be Longing" - that revisit their 2015 album *Joey* a decade later, with the same band who played on that record, including reuniting with old friend and producer Andrew Lappin (Lucy Dacus, L’Rain, Cassandra Jenkins). 
+
+
+
+[TJ on Bandcamp](https://tjdouglas.bandcamp.com/album/joseph-its-me)
