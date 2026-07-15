@@ -9,7 +9,7 @@ summary: Finally, thankfully, the CKLC DJ said Rush would play the Memorial
   suburbs downtown on that circled calendar date October 14th.
 featuredImage: /images/upload/rush.webp
 author: Chris Bridgen
-draft: true
+draft: false
 ---
 ![](/images/upload/rush.webp)
 

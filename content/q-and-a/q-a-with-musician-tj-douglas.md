@@ -4,7 +4,7 @@ date: 2026-07-14T20:59:00.000-04:00
 summary: Q&A is a sometimes feature here at IHTOV, where a person (or persons)
   is given a set of questions about their record collection. Today's guest is
   musician TJ Douglas
-draft: true
+draft: false
 ---
 **Have you ever bought a record just for the artwork?**
 

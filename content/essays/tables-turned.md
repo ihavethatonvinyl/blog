@@ -8,7 +8,7 @@ summary: "  Two square white plastic tables, side by side, held the turntable,
   our collection of 45’s. "
 featuredImage: /images/upload/kimbcollec.jpg
 author: KImberly Nichols
-draft: true
+draft: false
 ---
 ![](/images/upload/kimbcollec.jpg)
 

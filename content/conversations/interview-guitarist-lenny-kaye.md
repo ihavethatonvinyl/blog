@@ -1,7 +1,7 @@
 ---
 title: "Interview: Guitarist Lenny Kaye"
 date: 2026-07-14T21:24:00.000-04:00
-draft: true
+draft: false
 summary: Lenny Kaye might hold the world record for the longest time between his
   first solo single and the arrival of his first solo album (non-compilation).
   Over 60 years ago he sang “Crazy Like A Fox” as Link Cromwell on a 45 and his

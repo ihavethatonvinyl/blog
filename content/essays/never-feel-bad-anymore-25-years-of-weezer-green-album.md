@@ -10,7 +10,7 @@ summary: "Cracking open the gatefold of 2001’s Weezer (“Green Album”) reve
   1994) had been good to Weezer."
 featuredImage: /images/upload/weezergreen.jpg
 author: Michael DiGrande
-draft: true
+draft: false
 ---
 ![](/images/upload/weezergreen.jpg)
 
