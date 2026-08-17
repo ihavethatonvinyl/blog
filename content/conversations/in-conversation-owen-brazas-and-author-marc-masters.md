@@ -324,3 +324,7 @@ So many people who have made something on cassette and been like, I just don't l
 **Marc Masters:** Yeah, that's funny. More power to them if it makes it sound more like what they want it to sound. As it's not AI, I'm not into AI, but other things, I think, are totally valid as ways to make your music sound different.
 
 **Owen**: Yes. No AI whatsoever.
+
+
+
+*Marc Masters is the author of the books High Bias: The Distorted History of the Cassette Tape (2023) and No Wave (2008). He hosts the Music Book Podcast ([themusicbookpodcast.buzzsprout.com/](http://themusicbookpodcast.buzzsprout.com/)) and writes about music at [goodexperimentalmusic.com](http://goodexperimentalmusic.com).*
