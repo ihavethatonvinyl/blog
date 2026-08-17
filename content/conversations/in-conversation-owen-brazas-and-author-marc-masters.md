@@ -5,10 +5,9 @@ draft: true
 summary: Join us for a conversation with correspondent Owen Brazas and Author
   Marc Masters, as they talk about the rise and fall and rise of cassettes,
   recording and buying music, and so much more
+featuredImage: /images/upload/high-bias_website_1200x600.jpg
 ---
-
-
-
+![](/images/upload/high-bias_website_1200x600.jpg)
 
 **Owen**: So, I'm going to start by saying, cassettes are not my favorite format. It's just something I have never connected with.
 
