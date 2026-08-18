@@ -49,6 +49,6 @@ As we got on the highway, he looked at my armful of “concert stuff”: my boot
 
 The road curved ahead in the rain like a glowing, shiny question mark.
 
-
+*\[a shorter version of this essay appeared in Spin magazine, August 2006]*
 
 *Frank Portman (a/k/a Dr Frank of the Mr T Experience) writes songs and books.  Next thing coming up:  a restored re-issue of the '93 album Our Bodies Our Selves, soon-ish.*
