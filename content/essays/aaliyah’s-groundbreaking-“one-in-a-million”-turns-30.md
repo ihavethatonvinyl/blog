@@ -1,6 +1,6 @@
 ---
 title: Aaliyah’s Groundbreaking “One In a Million” Turns 30
-date: 2026-08-17T14:03:00.000-04:00
+date: 2026-08-18T04:42:00.000-04:00
 summary: The first album I ever purchased was TLC’s CrazySexyCool on cassette in
   what became a core memory. It was at The Wall, one of those physical chain
   music stores found in malls scattered across the country in the 90s.
@@ -10,7 +10,7 @@ summary: The first album I ever purchased was TLC’s CrazySexyCool on cassette 
   followed
 featuredImage: /images/upload/million.jpg
 author: " Chase Harrison"
-draft: true
+draft: false
 ---
 ![](/images/upload/million.jpg)
 
