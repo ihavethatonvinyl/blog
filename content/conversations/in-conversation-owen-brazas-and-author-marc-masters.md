@@ -1,7 +1,7 @@
 ---
 title: "In Conversation: Owen Brazas and Author Marc Masters"
 date: 2026-08-17T13:48:00.000-04:00
-draft: false 
+draft: false
 summary: Join us for a conversation with correspondent Owen Brazas and Author
   Marc Masters, as they talk about the rise and fall and rise of cassettes,
   recording and buying music, and so much more
@@ -71,7 +71,7 @@ It was somebody at the Dodgers, and I remember thinking, you know, if I want to 
 
 **Owen**: I'm the only one doing sound collages in my songs.
 
-**Marc Masters**: Yeah, and the two prime guys get to know each other run into each other that way, but yeah, those are definitely two of the first ones. Tere's the kind of more avant-garde-ish kind of, you know, the male art kind of aspect of tapes that I think of those guys and women as cassette artists, too. I don't know if there's any specific ones that I would think of first. There's this guy, who goes by the name Zandstone, Zan Hoffman, who, in that scene, is known as the guy who made the most. Like, he has walls and walls of cassettes, and he'd ask people to collaborate with him all the time. He'd send them a cassette and say, add something to it, or use the other two tracks on a four-track and put something on it. It was like his palette, like a painter would be painting on canvas every day.
+**Marc Masters**: Yeah, and the two prime guys get to know each other run into each other that way, but yeah, those are definitely two of the first ones. Tere's the kind of more avant-garde-ish kind of, you know, the mail art kind of aspect of tapes that I think of those guys and women as cassette artists, too. I don't know if there's any specific ones that I would think of first. There's this guy, who goes by the name Zandstone, Zan Hoffman, who, in that scene, is known as the guy who made the most. Like, he has walls and walls of cassettes, and he'd ask people to collaborate with him all the time. He'd send them a cassette and say, add something to it, or use the other two tracks on a four-track and put something on it. It was like his palette, like a painter would be painting on canvas every day.
 
 So I think of him a little bit in terms of that. I mean, he's not that super well-known, obviously, but he is kind of one of the purest cassette artists I can think of. It  wasn't just that this is the easy way to do it, or that this is the cheapest way to do it, although those contributed to it, but he found something in it that's like, this is gonna be my medium. You know, it was pretty odd.
 
@@ -324,7 +324,5 @@ So many people who have made something on cassette and been like, I just don't l
 **Marc Masters:** Yeah, that's funny. More power to them if it makes it sound more like what they want it to sound. As it's not AI, I'm not into AI, but other things, I think, are totally valid as ways to make your music sound different.
 
 **Owen**: Yes. No AI whatsoever.
-
-
 
 *Marc Masters is the author of the books High Bias: The Distorted History of the Cassette Tape (2023) and No Wave (2008). He hosts the Music Book Podcast ([themusicbookpodcast.buzzsprout.com/](http://themusicbookpodcast.buzzsprout.com/)) and writes about music at [goodexperimentalmusic.com](http://goodexperimentalmusic.com).*
