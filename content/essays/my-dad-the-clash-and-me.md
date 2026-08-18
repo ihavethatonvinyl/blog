@@ -1,6 +1,6 @@
 ---
 title: My Dad, the Clash, and Me
-date: 2026-08-18T04:42:00.000-04:00
+date: 2026-08-18T04:43:00.000-04:00
 summary: In October of 1979, this guy Mike and I made a pilgrimage to see the
   Clash at Kezar Pavilion in Golden Gate Park. I had just turned fifteen, and I
   had thought of myself as “punk,” sort of, for at least a couple of years,
