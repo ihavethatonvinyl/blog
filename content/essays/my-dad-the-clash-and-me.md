@@ -48,3 +48,7 @@ My dad shook his head. Being on Dr. Demento didn’t cut much ice with him when 
 As we got on the highway, he looked at my armful of “concert stuff”: my bootlegged “Give ’em Enough Rope” shirt and poster, DKs pin, a Maoist flier, Baader-Meinhoff handbill, and *The Revolutionary Worker*. “Communists traditionally have focused their recruitment efforts on young, bright, alienated loners” he said, more to himself than anybody.
 
 The road curved ahead in the rain like a glowing, shiny question mark.
+
+
+
+*Frank Portman (a/k/a Dr Frank of the Mr T Experience) writes songs and books.  Next thing coming up:  a restored re-issue of the '93 album Our Bodies Our Selves, soon-ish.*
