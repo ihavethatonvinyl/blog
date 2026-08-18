@@ -1,12 +1,12 @@
 ---
 title: Will It Go Round in Circles
-date: 2026-08-17T18:33:00.000-04:00
+date: 2026-08-18T04:41:00.000-04:00
 summary: I've been thinking again about the amazing experience of how songs
   exist across time, generations, and life’s changes, in this instance prompted
   by my first vinyl record purchase.
 featuredImage: /images/upload/will-it-45.jpg
 author: "Michael O'Connell "
-draft: true
+draft: false
 ---
 ![](/images/upload/will-it-45.jpg)
 
