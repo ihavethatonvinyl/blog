@@ -34,6 +34,6 @@ While current R&B songstresses Rochelle Jordan and Kelela are clearly inspired b
 
 The sound Aaliyah, Timbaland, Missy Elliott, and the other producers created together is still inescapable and R&B has only just recently started to crawl out of the massive shadow left by Aaliyah’s untimely death in 2001 at the age of 22. It’s a testament to the timelessness of *One in a Million* that after thirty years, R&B in a similar vein has no signs of going away.
 
-*Born in Durham, NC and raised outside of Baltimore, MD, Chase has spent the last 18 years in Philadelphia, PA and Brooklyn, NY. He holds a Master of Advanced Studies in American Media & Popular Culture and currently works as a Content Manager with past experience in the film, food, and beverage spaces. Under the name Cult Posture, he has a monthly residency on[ CAMP RADIO](https://listen.camp/), where his next show will be 2/24 at 8pm EST. You can also find him on[ Instagram](https://www.instagram.com/chshrrsn) or[ Letterboxd](https://letterboxd.com/chshrrsn/).*
+*Born in Durham, NC and raised outside of Baltimore, MD, Chase has spent the last 18 years in Philadelphia, PA and Brooklyn, NY. He holds a Master of Advanced Studies in American Media & Popular Culture and currently works as a Content Manager with past experience in the film, food, and beverage spaces. Under the name Cult Posture, he has a monthly residency on[ CAMP RADIO](https://listen.camp/),. You can also find him on[ Instagram](https://www.instagram.com/chshrrsn) or[ Letterboxd](https://letterboxd.com/chshrrsn/).*
 
 ![]()
