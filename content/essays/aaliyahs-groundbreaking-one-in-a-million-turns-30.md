@@ -8,17 +8,21 @@ summary: The first album I ever purchased was TLC’s CrazySexyCool on cassette 
   later. Largely because of this, 90s R&B became one of my first loves musically
   and, naturally, the discoveries of Brandy, Mya, and, of course, Aaliyah,
   followed
-featuredImage: /images/upload/million.jpg
+featuredImage: /images/upload/aaliyah2.png
 author: " Chase Harrison"
 draft: false
 ---
-![](/images/upload/million.jpg)
+![](/images/upload/aaliyah2.png)
 
 The first album I ever purchased was TLC’s *CrazySexyCool* on cassette in what became a core memory. It was at The Wall, one of those physical chain music stores found in malls scattered across the country in the 90s. *CrazySexyCool* was released in 1994, but I must have bought it a few years later. Largely because of this, 90s R&B became one of my first loves musically and, naturally, the discoveries of Brandy, Mya, and, of course, Aaliyah, followed.
 
 I didn’t know it at the time, but the lush, complex studio production that served as the backbone of many of these albums would begin a lifelong love of producers using the studio as an instrument, from Gamble & Huff with Philly Soul to Brian Wilson and Phil Spector’s Wall of Sound to the 90s and 00s dreamy, guitar-focused auteurs like Kevin Shields of My Bloody Valentine and Jason Pierce of Spiritualized. TLC’s “Waterfalls” production was handled by Organized Noize, who’d later become well known as Outkast’s beatmakers of choice, crafting the instrumentals “Return of the G,” “So Fresh, So Clean,” and many others. If you haven’t listened to “Waterfalls” with good headphones lately, I highly recommend it. It is a densely layered, gorgeous piece of production. The same can be said for all of Aaliyah’s *One In a Million*.
 
 Timbaland handled production on 9 of the album’s 17 tracks and Missy Elliott was a major contributor. Much like the music of the aforementioned “studio-as-an-instrument” producers, Aaliyah’s music sounded like the future and somehow still does. Missy’s since been canonized as a tastemaker and despite Timbo’s questionable recent takes and use of [AI in music](https://www.buzz-music.com/post/major-artists-using-ai), he was undoubtedly ahead of the curve in the 90s and early 00s, with a genre since dubbed as “soul futurism” in retrospectives. Proof comes in the form of the countless hip-hop and R&B artists that are still heavily inspired by this sound including Rihanna, Tinashe, Jai Paul, SZA, Ciara, The XX, Drake, Jazmine Sullivan, and even Aaliyah’s contemporary, Brandy. Aaliyah’s music has also had a major impact on the electronic music boom in the mid-2000s, including Burial, Jacques Greene, Jessy Lanza, Sango, Salem, and Shlohmo. While moody, nocturnal, sensual production was nothing new (see: Sade), Timbaland helped make synthesizers and computer-generated sounds feel alive and human. The snare hits don’t sound artificial, even as the intro to the album heavily features computer beeps, ushering in a newer, cooler, understated era of R&B.
+
+
+
+![](/images/upload/aaliyahblackwhite.jpg)
 
 A lot has been made over the years of the effortless cool that Aaliyah conveyed. The cover art of *One In a Million* encapsulates this in an image. Her voice sounds velvety, especially on tracks like “Girl Like You” as she perfectly counter-balances Treach shouting the hook. The bassline bounces with a liveliness that belies what was used to create it. Treach’s part is one of the few remnants from the New Jack Swing era of 90s R&B. However, like Missy, Aaliyiah was a tastemaker, ahead of her time, with beat selection, tracklist curation, vocal tics, fashion, and music video direction and she propels the track forward. While clearly inspired by Sade – they even shared a birthday – this was an entirely new sound, all her own. She was [on record](https://www.youtube.com/shorts/w656bfQt1BA) calling industrial heavyweights Nine Inch Nails one of her favorites, comparing their electronic instrumentals to her own music. When Pitchfork named the album the [15th best](https://pitchfork.com/features/lists-and-guides/the-best-albums-of-the-1990s/) of the 90s, they wrote, “her breathy but assured alto gave her an aura of mystique, and she possessed a kind of reticence and remove even while singing about her own desire.”
 
