@@ -71,11 +71,11 @@ It was somebody at the Dodgers, and I remember thinking, you know, if I want to 
 
 **Owen**: I'm the only one doing sound collages in my songs.
 
-**Marc Masters**: Yeah, and the two prime guys get to know each other run into each other that way, but yeah, those are definitely two of the first ones. Tere's the kind of more avant-garde-ish kind of, you know, the mail art kind of aspect of tapes that I think of those guys and women as cassette artists, too. I don't know if there's any specific ones that I would think of first. There's this guy, who goes by the name Zandstone, Zan Hoffman, who, in that scene, is known as the guy who made the most. Like, he has walls and walls of cassettes, and he'd ask people to collaborate with him all the time. He'd send them a cassette and say, add something to it, or use the other two tracks on a four-track and put something on it. It was like his palette, like a painter would be painting on canvas every day.
+**Marc Masters**: Yeah, and the two prime guys get to know each other run into each other that way, but yeah, those are definitely two of the first ones. Tere's the kind of more avant-garde-ish kind of, you know, the mail art kind of aspect of tapes that I think of those guys and women as cassette artists, too. I don't know if there's any specific ones that I would think of first. There's this guy, who goes by the name Zanstones, Zan Hoffman, who, in that scene, is known as the guy who made the most. Like, he has walls and walls of cassettes, and he'd ask people to collaborate with him all the time. He'd send them a cassette and say, add something to it, or use the other two tracks on a four-track and put something on it. It was like his palette, like a painter would be painting on canvas every day.
 
 So I think of him a little bit in terms of that. I mean, he's not that super well-known, obviously, but he is kind of one of the purest cassette artists I can think of. It  wasn't just that this is the easy way to do it, or that this is the cheapest way to do it, although those contributed to it, but he found something in it that's like, this is gonna be my medium. You know, it was pretty odd.
 
-**Owen**: Have you seen Seven-O, Daniel Johnson, stuff like that, singer-songwriters, bedroom producer-type people. I feel like that's how I first became aware of cassettes; In the DIY underground.
+**Owen**: Have you seen Sebadoh, Daniel Johnson, stuff like that, singer-songwriters, bedroom producer-type people. I feel like that's how I first became aware of cassettes; In the DIY underground.
 
 But now I feel that it has moved more towards what you're speaking. When I go to shows, if I go to an avant-garde show, a noise show, they don't have records, they have cassettes. Cassettes are the choice of medium that they are presenting their stuff with.
 
@@ -127,7 +127,7 @@ It's kind of the curse and blessing of discogs, and I love that discogs exist so
 
 **Marc Masters**: Oh, those haunting putbacks are the worst. I still have a handful of those that I think about all the time.
 
-**Owen**: It's that and the Wren's *Meadowlands*. I had them both in my hands.
+**Owen**: It's that and The Wren's *Meadowlands*. I had them both in my hands.
 
 **Marc Masters:** Oh, that's a great record, too. Yeah, those are both awesome records. 
 
@@ -143,7 +143,7 @@ It's kind of the curse and blessing of discogs, and I love that discogs exist so
 
 **Marc Masters:** Oh, wow. Yeah.
 
-**Marc Masters**: Lately, I've been really into this jazz guy, Bobby Hutcherson, who played on Eric Dolphy Records and Archie Shep Records, he's a vibrophonist, and his stuff has all gotten reissued, but at outrageous prices, and that somehow has driven up the used prices, too. And we're not talking about a super famous guy. He's really well known in avant-garde jazz circles, but it's like I go into these stores and I see an album of his either reissued for $45 or used for $25, and I'm like, this is gonna sit here?
+**Marc Masters**: Lately, I've been really into this jazz guy, Bobby Hutcherson, who played on Eric Dolphy Records and Archie Shepp Records, he's a vibraphonist, and his stuff has all gotten reissued, but at outrageous prices, and that somehow has driven up the used prices, too. And we're not talking about a super famous guy. He's really well known in avant-garde jazz circles, but it's like I go into these stores and I see an album of his either reissued for $45 or used for $25, and I'm like, this is gonna sit here?
 
 **Owen**: Yeah, absolutely.
 
@@ -239,7 +239,7 @@ Having stuff that the general public just can't go and buy somewhere. You had to
 
 **Owen**: Honestly, that's one of my favorite reunions. Like, their new stuff is so good.
 
-**Marc Masters**: Oh, I think it's awesome. I like all of it, but the first couple, when Lou comes back and they are just as good as their early stuff, I think. I mean, Jay's such an incredible songwriter, he's just got songs pouring out of him all the time, you know?
+**Marc Masters**: Oh, I think it's awesome. I like all of it, but the first couple, when Lou comes back and they are just as good as their early stuff, I think. I mean, J.'s such an incredible songwriter, he's just got songs pouring out of him all the time, you know?
 
 **Marc Masters**: So, do you have a decent amount of cassettes?
 
@@ -251,7 +251,7 @@ Having stuff that the general public just can't go and buy somewhere. You had to
 
 **Marc Masters**: Cool.
 
-**Owen**: High school band demo tapes from, like, my friend's bands, like that, one of the first things, like, I ever did, and then I have a handful of stuff, I lived about 40 miles from Chicago growing up and I would occasionally be able to catch the college radio stations on a clear night. So I'd stay up, and I'd, like, oh, that's cool. Or sometimes, it's the oldies station, getting the Ronettes, or The Shags, or whatever.
+**Owen**: High school band demo tapes from, like, my friend's bands, like that, one of the first things, like, I ever did, and then I have a handful of stuff, I lived about 40 miles from Chicago growing up and I would occasionally be able to catch the college radio stations on a clear night. So I'd stay up, and I'd, like, oh, that's cool. Or sometimes, it's the oldies station, getting the Ronettes, or The Shaggs, or whatever.
 
 **Marc Masters**: Oh, nice.
 
