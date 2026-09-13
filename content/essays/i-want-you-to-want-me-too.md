@@ -7,7 +7,7 @@ summary: "One day when I was still living with him, he came into my room with a
   what he was giving away, my dad said. Or maybe he did and didn't care. "
 featuredImage: /images/upload/greatest-album-covers-65-61a9e450e5812__700-89422156.jpg
 author: Will LaPorte
-draft: true
+draft: false
 ---
 ![](/images/upload/greatest-album-covers-65-61a9e450e5812__700-89422156.jpg)
 
