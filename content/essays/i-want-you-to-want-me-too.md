@@ -1,6 +1,6 @@
 ---
 title: I Want You To Want Me Too
-date: 2026-09-13T15:04:00.000-04:00
+date: 2026-09-14T07:22:00.000-04:00
 summary: "One day when I was still living with him, he came into my room with a
   real beat up copy of Marvin Gaye's I Want You on vinyl. He told me a wide-eyed
   man came into his shop and traded it away for a nip of whiskey. He didn't know
