@@ -1,5 +1,5 @@
 ---
-title: Pitching Your Vinyl Story to IHTOV
+title: Pitching Your Story to IHTOV
 date: 2025-06-25T15:58:00.000Z
 summary: " The possibilities are endless, really. No pitch is too weird or
   offbeat for me. I want variety on the site, not the same old records being
