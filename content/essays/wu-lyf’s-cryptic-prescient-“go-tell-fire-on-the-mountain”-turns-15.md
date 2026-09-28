@@ -1,5 +1,5 @@
 ---
-title: WU LYF’s Cryptic, Prescient “Go Tell Fire on the Mountain” Turns 15
+title: WU LYF’s Cryptic, Prescient “Go Tell Fire to the Mountain” Turns 15
 date: 2026-09-28T07:17:00.000-04:00
 summary: For as long as music’s been recorded, there have been hyped records
   that have failed to meet listener expectations. I generally have an automatic
