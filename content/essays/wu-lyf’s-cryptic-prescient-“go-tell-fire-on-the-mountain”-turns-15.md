@@ -1,6 +1,6 @@
 ---
 title: WU LYF’s Cryptic, Prescient “Go Tell Fire on the Mountain” Turns 15
-date: 2026-09-27T18:15:00.000-04:00
+date: 2026-09-28T07:17:00.000-04:00
 summary: For as long as music’s been recorded, there have been hyped records
   that have failed to meet listener expectations. I generally have an automatic
   cynicism toward artists or albums that I perceive to be overhyped.
@@ -11,7 +11,7 @@ summary: For as long as music’s been recorded, there have been hyped records
   only album – Go Tell Fire on the Mountain.
 featuredImage: /images/upload/wu2.png
 author: Chase Harrison
-draft: true
+draft: false
 ---
 
 
