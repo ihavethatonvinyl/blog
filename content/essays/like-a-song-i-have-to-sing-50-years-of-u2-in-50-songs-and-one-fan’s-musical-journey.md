@@ -34,7 +34,7 @@ My approach to this tribute was similar.  For my song selections, I broke down 
 
 While U2 began in 1976, the first recording on the list is from 1980.  Initially when I began, I wanted to include material that predated U2’s first releases (such as their 1978 television debut performing [“Street Mission”](https://www.youtube.com/watch?v=7OK1PIq4lgo&t=8s)).  However, in order to make the experience of engaging with this music more convenient for fans or those just discovering U2, I kept my selections limited to what was accessible on streaming platforms and have compiled a playlist so people can listen to them for effortless listening.
 
-Listen to the **untitled** playlist here:
+Listen to the U250 playlist here:
 
 * [Apple Music](https://music.apple.com/us/playlist/u2-50/pl.u-WabZZv7svARjGe)
 * [Spotify](https://open.spotify.com/playlist/19BD1SwacRWzphOC9z7LYD?si=tB1CbUqwR0eshlD_kxgdRQ)
