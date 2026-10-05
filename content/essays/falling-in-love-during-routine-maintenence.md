@@ -1,6 +1,6 @@
 ---
 title: "Falling in Love During Routine Maintenence "
-date: 2026-10-05T05:19:00.000-04:00
+date: 2026-10-05T06:06:00.000-04:00
 summary: It’s April 17, 2019. I’m a senior in college counting down the days
   until graduation because after four years, I have finally found my footing.
   I’m driving to campus down a road that’s too cramped to have as many lanes as
@@ -10,7 +10,7 @@ summary: It’s April 17, 2019. I’m a senior in college counting down the days
   Sign the Papers” on Routine Maintenance for the first time and I’m crying.
 featuredImage: /images/upload/aaronwest.jpeg
 author: Sam Ponke
-draft: true
+draft: false
 ---
 ![](/images/upload/aaronwest.jpeg)
 
