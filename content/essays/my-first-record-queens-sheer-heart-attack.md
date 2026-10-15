@@ -1,6 +1,6 @@
 ---
 title: "My First Record: Queen's Sheer Heart Attack"
-date: 2026-10-15T04:49:00.000-04:00
+date: 2026-10-15T07:05:00.000-04:00
 summary: The record I ended up buying was Sheer Heart Attack by Queen, a band
   that Lydon and Strummer and Poly Styrene (who I will wish into existence later
   in this story) would not have liked. They might have liked Queen when they
@@ -13,7 +13,7 @@ summary: The record I ended up buying was Sheer Heart Attack by Queen, a band
   remember where my parents were that day.
 featuredImage: /images/upload/queen.jpg
 author: Matthew Schaefer
-draft: true
+draft: false
 ---
 ![](/images/upload/queen.jpg)
 
