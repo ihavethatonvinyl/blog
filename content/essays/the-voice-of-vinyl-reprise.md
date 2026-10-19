@@ -6,11 +6,11 @@ summary: One cool September night in 2008, my preschooler daughter was cavorting
   the television. She rummaged around back then reappeared clutching my vinyl
   copy of "A Different Kind Of Tension" by the  Buzzcocks. She waved it around
   like a Frisbee. The breath whooshed out of my lungs.  
-featuredImage: /images/upload/sp.jpg
+featuredImage: /images/upload/sp2.jpeg
 author: Kevin Shea
 draft: false
 ---
-![](/images/upload/sp.jpg)
+![](/images/upload/sp2.jpeg)
 
 One cool September night in 2008, my preschooler daughter was cavorting in the living room,  tossing stuff around when she threw her toy bear behind the television. She rummaged around back then reappeared clutching my vinyl copy of "A Different Kind Of Tension" by the  Buzzcocks. She waved it around like a Frisbee. The breath whooshed out of my lungs.  
 
@@ -41,7 +41,5 @@ Time flies, the Earth turns, records spin. In the fall of 2025 my girlfriend and
 Browsing an album bin, I found one that made me gasp. It was an early copy of “Sgt. Pepper’s  Lonely Hearts Club Band”. The cover was worn, a little scruffy, and absolutely beautiful. I slid  the record from its ragged sleeve. The vinyl looked good. No scratches, no smudges. There was a 
 
 little sticker on the ‘A’ side label, claiming the record to be from the collection of one Robert  Ganz of Trenton, New Jersey. It may have been Mr. Ganz’s at one time, but as far as I was concerned, it belonged to me, my brother, and my uncle. There was no way I was leaving  the store without it. I wrapped it up with a little padding to keep it safe on the  drive home. My hands shook when I put the record on the turntable for the first time. I  dropped the needle, heard the hiss and those famous opening notes of “Sgt. Pepper’s Lonely  Hearts Club Band”. I was back in my brother’s room, my uncle’s loft, listening to songs that fell  upon my ears like leaves from a memory tree. When the the reprise version of the title track  started playing, I burst into tears. My brother and uncle were with me, their voices forever  entwined with the scratch and pop of that good fat sound.
-
-
 
 *Kevin Shea (he/him) resides happily in Savage, Maryland with his fiancee and two cats. He is a dad to an amazing daughter, a licensed architect, semi-pro photographer, aspiring writer, and avid cook.*
