@@ -39,21 +39,20 @@ main {
   padding: 1vh 1vw;
 }
 
-
-#featured p>img {
+#featured p > img {
   height: 100%;
   width: 100%;
 }
 
-#featured>h2 {
+#featured > h2 {
   text-align: center;
 }
 
-#featured>hr {
+#featured > hr {
   width: 50%;
 }
 
-header>a>img {
+header > a > img {
   width: 60vw;
   height: auto;
 }
@@ -63,12 +62,11 @@ div.featuredImage {
   text-align: center;
 }
 
-div.featuredImage>img {
+div.featuredImage > img {
   width: 40%;
   height: auto;
   text-align: center;
 }
-
 
 #list-page {
   display: block;
@@ -81,12 +79,16 @@ div.featuredImage>img {
   height: auto;
 }
 
-.entry>h3 {
+#list-page > h3 {
+  font-style: italic;
+}
+
+.entry > h3 {
   padding-bottom: 0;
   margin-bottom: 0;
 }
 
-.entry>h5 {
+.entry > h5 {
   padding-top: 0;
   margin-top: 0;
 }
@@ -97,7 +99,6 @@ div.featuredImage>img {
 }
 
 @media only screen and (max-width: 1200px) {
-
   #liner-notes,
   #newreleases {
     display: none;
@@ -113,13 +114,12 @@ div.featuredImage>img {
     width: 95vw;
   }
 
-  header>nav {
+  header > nav {
     display: inline-block;
   }
 }
 
 @media screen and (min-width: 1200px) {
-
   #liner-notes,
   #newreleases {
     display: inline-block;
@@ -131,7 +131,7 @@ div.featuredImage>img {
     text-align: center;
   }
 
-  div.column-header>img {
+  div.column-header > img {
     max-width: 175px;
     height: auto;
   }
@@ -146,7 +146,7 @@ div.featuredImage>img {
     width: 58vw;
   }
 
-  header>nav {
+  header > nav {
     display: none;
   }
 }

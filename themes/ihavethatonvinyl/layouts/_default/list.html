@@ -5,6 +5,7 @@
   {{ range .Pages }}
   <hr/>
   <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
+  <h3>{{ .PublishDate | time.Format ":date_full" }}</h3>
   {{ .Summary }} {{ end }}
 </div>
 {{ end }}
