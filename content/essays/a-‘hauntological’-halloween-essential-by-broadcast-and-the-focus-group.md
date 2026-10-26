@@ -1,6 +1,6 @@
 ---
-title: A ‘hauntological’ Halloween essential by Broadcast and The Focus Group  
-date: 2026-10-26T04:37:00.000-04:00
+title: A ‘hauntological’ Halloween Essential by Broadcast and The Focus Group  
+date: 2026-10-26T07:07:00.000-04:00
 summary: My stepfather owns Broadcast and The Focus Group’s 2009 album
   Investigate Witch Cults of the Radio Age. A longtime fan of Trish Keenan and
   James Cargill (who made up Broadcast at the time), his affection for its
@@ -8,13 +8,11 @@ summary: My stepfather owns Broadcast and The Focus Group’s 2009 album
   excursion is top-tier. 
 featuredImage: /images/upload/alex.jpeg
 author: Alexander James
-draft: true
+draft: false
 ---
 ![](/images/upload/alex.jpeg)
 
- 
 
-**Investigate Witch Cults of the Radio Age**
 
 My stepfather owns Broadcast and The Focus Group’s 2009 album *Investigate Witch Cults of the Radio Age*. A longtime fan of Trish Keenan and James Cargill (who made up Broadcast at the time), his affection for its strange world long ago became mine.  For me, this ‘hauntological’ Halloween excursion is top-tier. 
 
@@ -33,6 +31,5 @@ Heard together, the fragments create a world that feels coherent without ever be
 It recalls the pastoral strangeness of The Wicker Man, where folk songs and rural rituals acquire an increasingly sinister significance. Flutes, scraps of speech and ghostly electronics suggest a countryside full of half-remembered stories. There is warmth here, too, which makes the unease more persuasive.
 
 Although I associate it most strongly with autumn and the approach of Halloween, it also suits languid mid-summer days, when the landscape feels still and slightly unreal. Listening brings me back to those Wiltshire downs and the histories we imagine beneath them, giving that fascination a sound.
-
 
 *Alexander James is a freelance journalist based in London.*
