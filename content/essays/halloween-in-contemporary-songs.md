@@ -1,13 +1,13 @@
 ---
 title: "Halloween in Contemporary Songs "
-date: 2026-10-29T17:47:00.000-04:00
+date: 2026-10-31T07:22:00.000-04:00
 summary: These principles are especially beautifully explored in songs from
   three separate artists titled “Halloween:” Noah Kahan, Phoebe Bridgers, and
   Novo Amor. They take the concepts of haunting and the iconography of the
   holiday to build personal reflections of times they wish they could change.
 featuredImage: /images/upload/a-ghost-story-banner.jpg
 author: Jamie Lammers
-draft: true
+draft: false
 ---
 ![](/images/upload/a-ghost-story-banner.jpg)
 
