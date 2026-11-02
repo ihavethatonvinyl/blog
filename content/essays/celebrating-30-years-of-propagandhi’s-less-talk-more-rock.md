@@ -11,6 +11,10 @@ draft: false
 ---
 ![](/images/upload/img_8500.jpeg)
 
+*Photograph: Petrina Piro*
+
+
+
 When Chris Hannah, Jord Samolesky, and John K. Samson of Propagandhi set out to record *Less Talk, More Rock* in 1995, they purposefully set out to create a record that would split their fanbase, challenge the culture of the music scene around them, and require *two* full recording sessions.
 
 At the time, Fat Wreck Chords was in its boom years, expanding from an apartment to a downtown San Francisco headquarters, and surfing a wave of mid‑90s punk popularity. It seemed limitless. After 1993’s debut record “How to Clean Everything,” Propagandhi felt themselves adrift and at-odds from the scene’s growing commercial polish. They wanted their second album to reject the misogynistic frat‑friendly humor and homophobia embedded in parts of the skate‑punk world. They wanted a record that would challenge, not flatter, its listeners. 
