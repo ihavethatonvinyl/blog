@@ -9,8 +9,6 @@ draft: false
 ---
 ![](/images/upload/pitchbanner.jpg)
 
-
-
 Here are some things I’m looking for: personal narrative essays about a specific record, about collecting vinyl, about your favorite record store or why you buy variants or how you came to love a certain record. I want stories about your first purchase or your first visit to a record store. I want to hear about your passion for vinyl, for music, for collecting. I want odd stories about novelty records, and lamentations on greatest hits volumes and box sets. 
 
 The possibilities are endless, really. No pitch is too weird or offbeat for me. I want variety on the site, not the same old records being talked over and over. I want to read about how your favorite record skipped when you were little and you still sing it that way. I want to know why you have three copies of the same Bjork album, or about that 45 you treasured when you were a kid. 
@@ -21,11 +19,29 @@ The most important thing I want to stress is you do not have to be a great write
 
 **What I am not looking for**: **anything written with the help of AI (I run everything through a detector), AI images, or any more stories about records that skip or broken turntables.** 
 
-Essays should be between 800-1200 words though I am not married to that length, depending on the subject. Pitch me at pitches@ihavethatonvinly.com with IHTOV PITCH in your header. 
+Here are the basic guidelines:
+
+
+
+Please send in Google Docs or Word.
+
+Songs get quotation marks, albums are italicized
+
+Please do not indent paragraphs
+
+Include a bio with your submission 
+
+Include any image you want me to use as the "cover" to your story
+
+Please do not embed the pictures in your document, send them separately to my email.
+
+ Pitch me at pitches@ihavethatonvinly.com with IHTOV PITCH in your header. 
+
+
+
+Please note I only take reprints that appeared on a blog or personal page.
 
 If you are sending a whole essay, please use Google Docs and do not embed images in the doc. You can email the pictures separately. 
-
-
 
 IHTOV pays $10 per essay/interview.
 
