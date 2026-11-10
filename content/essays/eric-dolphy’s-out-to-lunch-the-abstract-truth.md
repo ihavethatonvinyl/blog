@@ -1,6 +1,6 @@
 ---
 title: Eric Dolphy’s Out To Lunch & The Abstract Truth 
-date: 2026-11-09T20:50:00.000-05:00
+date: 2026-11-10T09:33:00.000-05:00
 summary: I had no idea the record would essentially change my life. That sounds
   like exaggeration, and  maybe it is, but the moment I played Side 1—Freddie
   Hubbard on trumpet, Dolphy on bass  clarinet, Richard Davis walking a jagged
@@ -11,7 +11,7 @@ summary: I had no idea the record would essentially change my life. That sounds
   bedroom.
 featuredImage: /images/upload/dolphy.jpg
 author: Laton Carter
-draft: true
+draft: false
 ---
 ![](/images/upload/dolphy.jpg)
 
