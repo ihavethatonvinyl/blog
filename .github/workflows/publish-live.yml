@@ -9,10 +9,7 @@ on:
   workflow_dispatch: {}
 
 # Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
-permissions:
-  contents: read
-  pages: write
-  id-token: write
+
 
 # Allow only one concurrent deployment, skipping runs queued between the run in-progress and latest queued.
 # However, do NOT cancel in-progress runs as we want to allow these production deployments to complete.
@@ -23,29 +20,46 @@ concurrency:
 jobs:
   # Single deploy job since we're just deploying
   deploy:
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
+    permissions:
+      contents: write
+      pages: write
+      id-token: write
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
-        uses: actions/checkout@v6
-      - name: Setup Pages
-        uses: actions/configure-pages@v6
+      - name: Checkout source
+        uses: actions/checkout@v7
+        with:
+          path: src
+      - name: Checkout built site
+        uses: actions/checkout@v7
+        with:
+          path: dist
+          ref: gh-pages
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v3
         with:
-          hugo-version: '0.161.0'
+          hugo-version: '0.168.0'
           extended: true
       - name: Run Hugo Build
         shell: bash
-        run: hugo build --minify --gc --baseURL "https://ihavethatonvinyl.com"
-      - name: Upload artifact
-        uses: actions/upload-pages-artifact@v5
-        with:
-          path: 'public'
-      - name: Deploy to GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@v5
-        with:
-          timeout: "900000"
+        working-directory: ${GITHUB_WORKSPACE}/src
+        run: hugo build --minify --gc --baseURL "https://ihavethatonvinyl.com" --destination "${GITHUB_WORKSPACE}/dist"
+      - name: Update site
+        shell: bash
+        working-directory: ${GITHUB_WORKSPACE}/dist
+        run: |
+          gh auth setup-git
+          git add -A
+
+          if git commit -m 'deploy site' ; then
+            git push origin gh-pages
+          else
+            echo "Commit didn't succeed, check the error message (there might have been nothing new)"
+          fi
+
+          true
+      # - name: Deploy to GitHub Pages
+      #   id: deployment
+      #   uses: actions/deploy-pages@v5
+      #   with:
+      #     timeout: "900000"
