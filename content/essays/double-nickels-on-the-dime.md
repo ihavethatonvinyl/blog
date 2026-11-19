@@ -1,6 +1,6 @@
 ---
 title: Double Nickels on the Dime
-date: 2026-11-18T19:31:00.000-05:00
+date: 2026-11-19T08:56:00.000-05:00
 summary: I'm not sure what kind of completist I am. In fact, I'm not even sure
   I'm a completist at all. All I know is one day about ten years ago I
   discovered that the CD version of the Minutemen's landmark double album Double
@@ -9,7 +9,7 @@ summary: I'm not sure what kind of completist I am. In fact, I'm not even sure
   could not let that stand.
 featuredImage: /images/upload/cover.png
 author: Russ Chibe
-draft: true
+draft: false
 ---
 ![](/images/upload/cover.png)
 
