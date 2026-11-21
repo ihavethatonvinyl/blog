@@ -1,11 +1,11 @@
 ---
 title: Q&A With Will Schwartz (Male Pattern)
-date: 2026-11-21T01:23:00.000-05:00
+date: 2026-11-21T06:44:00.000-05:00
 summary: Q&A is an occasional feature on IHTOV, where people answer a set of
   questions about their relationship with vinyl and music. Today we welcome Will
   Schwartz, who performs under the name Male Pattern
 featuredImage: /images/upload/img_0847.jpeg
-draft: true
+draft: false
 ---
 ![](/images/upload/img_0847.jpeg)
 
